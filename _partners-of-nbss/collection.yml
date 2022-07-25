@@ -1,0 +1,4 @@
+collections:
+  partners-of-nbss:
+    output: true
+    order: []
