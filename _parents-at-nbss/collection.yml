@@ -2,6 +2,7 @@ collections:
   parents-at-nbss:
     output: true
     order:
+      - 2022 Secondary 1 Registration/Higher Mother Tongue Eligibility.md
       - 2022 Secondary 1 Registration/SBB eligibility.md
       - 2022 Secondary 1 Registration/Music Elective Programme.md
       - 2022 Secondary 1 Registration/Sale of Textbooks and Uniforms.md
