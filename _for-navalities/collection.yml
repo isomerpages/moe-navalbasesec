@@ -1,5 +1,5 @@
 collections:
-  for-navalites:
+  for-navalities:
     output: true
     order:
       - Timetable, Booklist & Uniform/Booklist 2022.md
