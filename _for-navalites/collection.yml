@@ -2,4 +2,5 @@ collections:
   for-navalites:
     output: true
     order:
+      - Poly EAE.md
       - ITE EAE.md
