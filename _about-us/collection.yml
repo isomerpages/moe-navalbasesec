@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Bouquets & Celebration/Bouquets & Celebration.md
       - Bouquets & Celebration/.keep
       - Our Campus.md
