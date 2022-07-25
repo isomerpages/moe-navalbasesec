@@ -8,4 +8,4 @@ description: ""
 <p>View the e-flipbook below to view the different highlights of our campus and immerse yourself in our learning environment.&nbsp;</p>
 <p>(Download a high-resolution version of the guide by clicking on the cloud icon at the top right-hand corner of the e-flipbook.)</p>
 <p>Alternatively, you can watch this series of videos for a closer look!</p>
-<iframe src="https://www.youtube.com/watch?v=-1dlQJO_msg" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
+<iframe src="https://www.youtube.com/embed/-1dlQJO_msg" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" ></iframe>
