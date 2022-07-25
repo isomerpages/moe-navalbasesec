@@ -2,6 +2,7 @@ collections:
   parents-at-nbss:
     output: true
     order:
+      - 2022 Secondary 1 Registration/Enquiries on Appeal and School Transfer.md
       - 2022 Secondary 1 Registration/Transitioning to Secondary School.md
       - 2022 Secondary 1 Registration/2022 Secondary 1 Registration.md
       - 2022 Secondary 1 Registration/.keep
