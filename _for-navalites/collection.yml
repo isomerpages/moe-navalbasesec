@@ -2,6 +2,7 @@ collections:
   for-navalites:
     output: true
     order:
+      - Timetable, Booklist & Uniform/Timetable 2022 (Term 3).md
       - Timetable, Booklist & Uniform/Exam timetable 2022.md
       - Timetable, Booklist & Uniform/.keep
       - Financial Assistance/MOE Financial Assistance Scheme.md
