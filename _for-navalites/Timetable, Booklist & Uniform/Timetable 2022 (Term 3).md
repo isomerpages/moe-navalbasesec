@@ -16,49 +16,49 @@ third_nav_title: Timetable, Booklist & Uniform
 <tr style="text-align: center;">
 <td><a href="/files/1-1.pdf">1-1.pdf</a></td>
 <td><a href="/files/2-1.pdf">2-1.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-1.pdf">3-1.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/4-1.pdf">4-1.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/5-1.pdf">5-1.pdf</a></td>
+<td><a href="/files/3-1.pdf">3-1.pdf</a></td>
+<td><a href="/files/4-1.pdf">4-1.pdf</a></td>
+<td><a href="/files/5-1.pdf">5-1.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/1-2.pdf">1-2.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-2.pdf">2-2.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-2.pdf">3-2.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/4-2%20TT.pdf">4-2.pdf</a></td>
+<td><a href="/files/1-2.pdf">1-2.pdf</a></td>
+<td><a href="/files/2-2.pdf">2-2.pdf</a></td>
+<td><a href="/files/3-2.pdf">3-2.pdf</a></td>
+<td><a href="/files/4-2%20TT.pdf">4-2.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-3.pdf">1-3.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/term%20letter/2-3%201.pdf">2-3 .pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-3.pdf">3-3.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/4-3%20TT.pdf">4-3 pdf</a></td>
+<td><a href="/files/1-3.pdf">1-3.pdf</a></td>
+<td><a href="/files/2-3%201.pdf">2-3 .pdf</a></td>
+<td><a href="/files/3-3.pdf">3-3.pdf</a></td>
+<td><a href="/files/4-3%20TT.pdf">4-3 pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-4.pdf">1-4.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-4.pdf">2-4.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-4.pdf">3-4.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/4-4.pdf">4-4.pdf</a></td>
+<td><a href="/files/1-4.pdf">1-4.pdf</a></td>
+<td><a href="/files/2-4.pdf">2-4.pdf</a></td>
+<td><a href="/files/3-4.pdf">3-4.pdf</a></td>
+<td><a href="/files/4-4.pdf">4-4.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-5.pdf">1-5.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-5.pdf">2-5.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-5.pdf">3-5.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/4-5.pdf">4-5.pdf</a></td>
+<td><a href="/files/1-5.pdf">1-5.pdf</a></td>
+<td><a href="/files/2-5.pdf">2-5.pdf</a></td>
+<td><a href="/files/3-5.pdf">3-5.pdf</a></td>
+<td><a href="/files/4-5.pdf">4-5.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-6.pdf">1-6.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-6.pdf">2-6.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-6.pdf">3-6.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/4-6.pdf">4-6.pdf</a></td>
+<td><a href="/files/1-6.pdf">1-6.pdf</a></td>
+<td><a href="/files/2-6.pdf">2-6.pdf</a></td>
+<td><a href="/files/3-6.pdf">3-6.pdf</a></td>
+<td><a href="/files/4-6.pdf">4-6.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/exam%20tt/1-7.pdf">1-7.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/TT%202022%20Class/2-7.pdf">2-7.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/exam%20tt/3-7.pdf">3-7.pdf</a></td>
+<td><a href="/files/1-7.pdf">1-7.pdf</a></td>
+<td><a href="/files/2-7.pdf">2-7.pdf</a></td>
+<td><a href="/files/3-7.pdf">3-7.pdf</a></td>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-8.pdf">1-8.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-8.pdf">2-8.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-8.pdf">3-8.pdf</a></td>
+<td><a href="/files/1-8.pdf">1-8.pdf</a></td>
+<td><a href="/files/2-8.pdf">2-8.pdf</a></td>
+<td><a href="/files/3-8.pdf">3-8.pdf</a></td>
 </tr>
 </tbody>
 </table>
