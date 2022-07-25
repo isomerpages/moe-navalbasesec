@@ -35,3 +35,30 @@ description: ""
 <p style="text-align: center;">The LLP is anchored on the NBSS SHIP-SHAPE self-development tool, and seeks to instill moral and performance character in our students through their engagement in sports. These are universal traits that are relevant beyond the sporting arena, providing a strong foundation for personal mastery and excellence in all their pursuits.</p>
 <p style="text-align: center;">Watch this series of videos below to learn more about our ALP and LLP!</p>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/Qm-hEMjFoZ8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;"><strong>CO-CURRICULAR ACTIVITIES</strong>&nbsp;</p>
+<p style="text-align: center;">Co-Curricular Activities (CCA) play a key role in the holistic development of our pupils. Well organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood. All CCAs emphasise social interaction but each CCA has its specific objectives.</p>
+<p style="text-align: center;">&nbsp;NBSS offers the following Co-Curricular Activities (CCA):&nbsp;</p>
+<p style="text-align: center;"><u>Uniformed Groups</u></p>
+<p style="text-align: center;">Girl Guides<br />National Cadet Corps<br />National Police Cadet Corps<br />St. John&rsquo;s Brigade</p>
+<p style="text-align: center;">&nbsp;<u>Visual &amp; Performing Arts</u></p>
+<p style="text-align: center;">Art Club<br />Choir<br />Dance<br />English Drama<br />Symphonic Band</p>
+<p style="text-align: center;">&nbsp;<u>Sports</u></p>
+<p style="text-align: center;">Basketball<br />Netball<br />Sepaktakraw<br />Soccer<br />Table Tennis</p>
+<p style="text-align: center;">&nbsp;<u>Clubs &amp; Societies</u></p>
+<p style="text-align: center;">InfoComm Club<br />Service Library Club</p>
+<p style="text-align: center;">&nbsp;Watch this series of videos to find out&nbsp;more about the CCAs you can join in NBSS!</p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLdLBA3wcit5ZZtqRhVJC0gkiQsZlpmTd9" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>&nbsp;</p>
+<p style="text-align: center;"><strong>TALENT DEVELOPMENT IN NBSS</strong>&nbsp;</p>
+<p style="text-align: center;">The NBSS Scholars Programme is an exclusive programme designed to provide an enriched and challenging learning experience for students with talents in specific areas of learning. It provides selected students with the edge to succeed in their areas of talent through specially-crafted programmes designed to challenge them while deepening their passion and interest in their talent areas. Secondary 1 students are invited to join one of the following:&nbsp;</p>
+<p style="text-align: center;"><u>Research Scholars Programme (RSP)</u></p>
+<p style="text-align: center;">The RSP is offered to students who show keen interest in and predisposition towards numeracy, scientific inquiry and problem-solving. Scholars will also get to develop creative academic games and organise competitions in the areas of Mathematics and Science. In addition, they will be involved in research projects with higher institutions and attachment programmes with industrial partners.</p>
+<p style="text-align: center;"><u>English Language Scholars Programme (ELSP)</u></p>
+<p style="text-align: center;">The ELSP focuses on the finer aspects of communication and is offered to students with a flair for the English Language. Besides gaining additional exposure at public speaking competitions, scholars will also be required to produce several pieces of written work at a standard worthy of publication.</p>
+<p style="text-align: center;"><u>Art Talent Development Programme (ATDP)</u></p>
+<p style="text-align: center;">The ATDP is a 4- to 5-year CCA-based programme for students with a keen interest and talent in art. Aside from developing their personal practice and portfolio, students on the ATDP will also participate in key developmental programmes at different stages of their learning. For example, Secondary 2 ATDP students will participate in a 6-week Learn to Curate Programme co-developed with the National Gallery Singapore. The students then apply their learning from the programme by curating the school&rsquo;s annual art exhibition.</p>
+<p style="text-align: center;">Watch this series of videos to find out&nbsp;more about how you can nurture your talents here in NBSS!</p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLdLBA3wcit5Y5vAQumdKCMiz9cV2VAdlF" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>&nbsp;</p>
+<p style="text-align: center;"><strong>THE NBSS EXPERIENCE</strong>&nbsp;</p>
+<p style="text-align: center;">The NBSS Experience is a truly fun and enriching one. Over the four to five years in the school, students can look forward to a whole host of exciting learning activities and experiences. Here, you will learn more about the some of the highlights of the NBSS Experience.</p>
+<p style="text-align: center;">Watch this video to find out more!</p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/gtXpFImSd2E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
