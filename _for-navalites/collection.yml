@@ -2,6 +2,7 @@ collections:
   for-navalites:
     output: true
     order:
+      - Financial Assistance/MOE Financial Assistance Scheme.md
       - Financial Assistance/NEU PC PLUS Programme (IDA).md
       - Financial Assistance/.keep
       - Student Well Being/Counselling.md
