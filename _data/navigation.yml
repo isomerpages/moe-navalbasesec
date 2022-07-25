@@ -15,24 +15,6 @@ links:
         url: /about-us/bouquets-n-celebration
       - title: Our Campus
         url: /about-us/our-campus/our-campus
-  - title: Partners of NBSS
-    url: /partners-of-nbss/sac
-    sublinks:
-      - title: SAC
-        url: /partners-of-nbss/sac
-      - title: NBSS Alumni
-        url: /partners-of-nbss/nbss-alumni
-      - title: RSN
-        url: /partners-of-nbss/rsn
-  - title: Parents @ NBSS
-    url: /parents-at-nbss/announcements
-    sublinks:
-      - title: Announcements
-        url: /parents-at-nbss/announcements
-      - title: Termly letters
-        url: /parents-at-nbss/termly-letters
-      - title: 2022 Secondary 1 Registration
-        url: /parents-at-nbss/2022-secondary-1-registration
   - title: For Navalities
     url: /for-navalities/nbss-pyramid-of-success-pos
     sublinks:
@@ -54,3 +36,21 @@ links:
         url: /for-navalities/poly-eae
       - title: ITE EAE
         url: /for-navalities/ite-eae
+  - title: Parents @ NBSS
+    url: /parents-at-nbss/announcements
+    sublinks:
+      - title: Announcements
+        url: /parents-at-nbss/announcements
+      - title: Termly letters
+        url: /parents-at-nbss/termly-letters
+      - title: 2022 Secondary 1 Registration
+        url: /parents-at-nbss/2022-secondary-1-registration
+  - title: Partners of NBSS
+    url: /partners-of-nbss/sac
+    sublinks:
+      - title: SAC
+        url: /partners-of-nbss/sac
+      - title: NBSS Alumni
+        url: /partners-of-nbss/nbss-alumni
+      - title: RSN
+        url: /partners-of-nbss/rsn
