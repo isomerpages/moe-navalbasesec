@@ -9,7 +9,7 @@ description: ""
 <p><strong><em>Visiting School Leaders from China</em></strong></p>
 <img style="width: 65%;" src="/images/bnc2.jpg" align = "left" />
 <img style="width: 35%;" src="/images/bnc3.jpg" align = "right" />
-<p><strong><em>"Very Inspiring" <br /></em></strong><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
+<p><em>"Very Inspiring" <br /></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
 <p><strong><em>"Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!"&nbsp;</em></strong></p>
 <p><em>"Thanks for the opportunity. My son was truly elated in going on this learning journey (to visit the Republic of Singapore Navy 188 Squadron). He shared that apart from all the fun activities, he realised that there are more career opportunities in Singapore, apart from the standard and well known ones! Thanks for planting the seed of hope in the kids. Also, kudos to your team of teachers. You are blessed!"</em><strong><em><br /></em></strong><em><strong>Parent of child in Sec 1 Talent Development Programme</strong></em></p>
 <p><em>"Very dedicated staff; impressive; going the extra mile; very professional and supportive"</em><strong><em><br /></em></strong><em><strong>Organising Committee Members for the Asian Schools Table Tennis Competition</strong></em></p>
