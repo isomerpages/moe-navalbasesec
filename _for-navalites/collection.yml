@@ -1,4 +1,5 @@
 collections:
   for-navalites:
     output: true
-    order: []
+    order:
+      - ITE EAE.md
