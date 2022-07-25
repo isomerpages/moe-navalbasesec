@@ -2,31 +2,28 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Naval Base Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "901"
+      - Yishun Ring Road
+      - Singapore 768689
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 7.30am - 6.00pm
+        description: ""
+    maps_link: https://goo.gl/maps/BhBeJMfwZSJUr2EW9
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6257 1996
+      - email: nbss@moe.edu.sg
+      - other: "Nearest MRT Station: Khatib"
+    title: Telephone
+  - content:
+      - phone: +65 6755 7706
+      - email: careers@abc.gov.sg
+      - other: "Buses from side gate: 807, 811. Buses from main gate: 39, 85, 85A, 117,
+          851, 851e, 852, 853, 853M, 854, 854e, 855, 857, 857A, 858, 965, 969"
+    title: Fax
 ---
