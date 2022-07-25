@@ -1,6 +1,26 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's message
+        url: /about-us/principals-message
+      - title: Our Heritage
+        url: /about-us/our-heritage
+      - title: Our Identity
+        url: /about-us/our-identity
+      - title: Our Family (Staff)
+        url: /about-us/our-family-staff
+      - title: Bouquets & Celebration
+        url: /about-us/bouquets-n-celebration
+      - title: Our Campus
+        url: /about-us/our-campus/our-campus
+  - title: Partners of NBSS
+    url: /partners-of-nbss/sac
+    sublinks:
+      - title: SAC
+        url: /partners-of-nbss/sac
+      - title: NBSS Alumni
+        url: /partners-of-nbss/nbss-alumni
+      - title: RSN
+        url: /partners-of-nbss/rsn
