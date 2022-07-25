@@ -62,3 +62,10 @@ description: ""
 <p style="text-align: center;">The NBSS Experience is a truly fun and enriching one. Over the four to five years in the school, students can look forward to a whole host of exciting learning activities and experiences. Here, you will learn more about the some of the highlights of the NBSS Experience.</p>
 <p style="text-align: center;">Watch this video to find out more!</p>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/gtXpFImSd2E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;">To find out more about our school, view or download our school e-brochure below!</p>
+<p style="text-align: center;"><a href="/files/Naval%20Base%20Secondary%20School%20e-Brochure.pdf">Here!</a></p>
+<p style="text-align: center;">Thank you for visiting the Naval Base Secondary School e-Open House.</p>
+<p style="text-align: center;">We hope you have enjoyed learning more about us through this website.</p>
+<p style="text-align: center;">We would like to hear about your experience so that we can improve our e-Open House.</p>
+<p style="text-align: center;">Please share with us your feedback by clicking the link below.&nbsp;</p>
+<p style="text-align: center;">&lsquo;<a href="https://form.gov.sg/615cf179f5bcee0013a6e126">Feedback Form</a>&rsquo;&nbsp;</p>
