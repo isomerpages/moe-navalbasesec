@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - Bouquets & Celebration/.keep
+      - Bouquets & Celebration/Bouquets & Celebration.md
       - Bouquets & Celebration/School.md
       - Bouquets & Celebration/Staff.md
       - Bouquets & Celebration/Co–Curricular Achievements.md
-      - Bouquets & Celebration/Bouquets & Celebration.md
-      - Bouquets & Celebration/.keep
       - Our Campus.md
