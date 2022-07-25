@@ -2,7 +2,7 @@ collections:
   parents-at-nbss:
     output: true
     order:
-      - Termly letters.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/PDLP.md
+      - Termly letters.md
