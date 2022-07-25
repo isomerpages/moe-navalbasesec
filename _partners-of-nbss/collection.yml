@@ -1,4 +1,5 @@
 collections:
   partners-of-nbss:
     output: true
-    order: []
+    order:
+      - Republic of Singapore Navy.md
