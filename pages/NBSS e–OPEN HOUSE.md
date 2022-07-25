@@ -13,6 +13,7 @@ description: ""
 <p style="text-align: center;">Explore our campus and immerse yourself in our learning environment by watching the series of videos below!</p>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLdLBA3wcit5ZYsKdLzTOFVgN43Y_jz175" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <p style="text-align: center;">&nbsp;You can also view or download a PDF copy of our campus below!</p>
+<p style="text-align: center;"><a href="/files/NBSS%20Campus%20Guide.pdf">Here!</a></p>
 <p style="text-align: center;"><strong>OUR HERITAGE</strong>&nbsp;</p>
 <p style="text-align: center;">The history of Naval Base Secondary School (NBSS) began in 1957 when the British Navy set aside a piece of land in the British Naval Base at Bah Tan Road to build a school for the children of its employees. The school was then known as Naval Base School and a full school. The first Principal to take the helm was the late Mr Wong Quek Boon. At that time, it was the only full, government, English-medium school in Singapore, with both primary and secondary sections.</p>
 <p style="text-align: center;">In 1965, NBSS produced Singapore&rsquo;s top O-level student, Dr Tan Boon Wan. Other luminary alumni include prominent lawyer, the late Subhas Anandan, and national footballers, Quah Kim Song and Quah Kim Swee. In 1968, the primary section was transferred to Canberra School. The school has occupied its current campus since December 2009.&nbsp;</p>
