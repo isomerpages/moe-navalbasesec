@@ -2,6 +2,8 @@ collections:
   parents-at-nbss:
     output: true
     order:
+      - 2022 Secondary 1 Registration/.keep
+      - 2022 Secondary 1 Registration/2022 Secondary 1 Registration.md
       - 2022 Secondary 1 Registration/E–registration for Naval Base Secondary
         School.md
       - 2022 Secondary 1 Registration/Higher Mother Tongue Eligibility.md
@@ -16,8 +18,6 @@ collections:
       - 2022 Secondary 1 Registration/Secondary 1 Orientation Programme.md
       - 2022 Secondary 1 Registration/Enquiries on Appeal and School Transfer.md
       - 2022 Secondary 1 Registration/Transitioning to Secondary School.md
-      - 2022 Secondary 1 Registration/2022 Secondary 1 Registration.md
-      - 2022 Secondary 1 Registration/.keep
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/PDLP.md
