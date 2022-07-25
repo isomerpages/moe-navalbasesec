@@ -2,5 +2,6 @@ collections:
   for-navalites:
     output: true
     order:
+      - Student Well Being/.keep
       - Poly EAE.md
       - ITE EAE.md
