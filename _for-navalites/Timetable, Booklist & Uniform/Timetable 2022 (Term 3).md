@@ -14,8 +14,8 @@ third_nav_title: Timetable, Booklist & Uniform
 <th style="text-align: center;">Sec 5</th>
 </tr>
 <tr style="text-align: center;">
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/1-1.pdf">1-1.pdf</a></td>
-<td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/2-1.pdf">2-1.pdf</a></td>
+<td><a href="/files/1-1.pdf">1-1.pdf</a></td>
+<td><a href="/files/2-1.pdf">2-1.pdf</a></td>
 <td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/3-1.pdf">3-1.pdf</a></td>
 <td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/4-1.pdf">4-1.pdf</a></td>
 <td><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/TT/t3/5-1.pdf">5-1.pdf</a></td>
