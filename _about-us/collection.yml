@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Bouquets & Celebration.md
       - Our Campus.md
