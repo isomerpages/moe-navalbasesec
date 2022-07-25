@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity.md
       - Our Family (Staff).md
       - Bouquets & Celebration/.keep
       - Bouquets & Celebration/Bouquets & Celebration.md
