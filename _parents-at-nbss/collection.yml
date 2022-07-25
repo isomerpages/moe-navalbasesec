@@ -1,4 +1,5 @@
 collections:
   parents-at-nbss:
     output: true
-    order: []
+    order:
+      - Announcements/.keep
