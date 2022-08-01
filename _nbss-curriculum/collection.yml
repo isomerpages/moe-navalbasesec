@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - Computer Applications (CPA).md
       - Mother Tongue Language.md
       - Music/Music.md
       - Music/General Music Programme (GMP).md
