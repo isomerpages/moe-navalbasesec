@@ -3,6 +3,7 @@ title: Humanities
 permalink: /nbss-curriculum/humanities
 description: ""
 ---
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSinux2Ox1yEaIe6Hh9I78nQKUqO6lHBEu8myKrXgfkbRaBSNuK7Vm19hw1bwIo1bgRKx38R73k0to2/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><strong>Department Vision</strong></p>
 <p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. We believe every student can and wants to learn and achieve excellence, and actively strive to tap and maximise the potential of every student.<br /></p>
 <p><strong>Teaching and Learning Approaches</strong></p>
@@ -40,3 +41,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img src="/images/hu2.png"><br>
+<img src="/images/hu3.png">
