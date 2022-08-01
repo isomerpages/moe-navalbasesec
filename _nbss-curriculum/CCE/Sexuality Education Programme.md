@@ -4,7 +4,6 @@ permalink: /nbss-curriculum/character-and-citizenship-education/sexuality-educat
 description: ""
 third_nav_title: CCE
 ---
-
 <p style="text-align: center;"><strong>Moe</strong><strong>&nbsp;Sexuality Education in Schools</strong>&nbsp;</p>
 <p>1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>2. The goals of Sexuality Education are to:</p>
@@ -428,8 +427,8 @@ third_nav_title: CCE
 <p>&nbsp;</p>
 <p><strong>Information for Parents</strong></p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>11. Parents who wish to opt their children out of the<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/Sexuality%20Education%20Letter%20and%20Opt-Out%20Form.pdf"><u>here</u>&nbsp;</a>. The completed form is to be submitted by 23/05/2022.</p>
-<p>12. Parents who wish to opt their children out of the<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/2022/eTeens%20Letter%20and%20Opt-Out%20Form.pdf">here.</a></u> The completed form is to be submitted by 11/04/2022.</p>
+<p>11. Parents who wish to opt their children out of the<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Sexuality%20Education%20Letter%20and%20Opt-Out%20Form.pdf"><u>here</u>&nbsp;</a>. The completed form is to be submitted by 23/05/2022.</p>
+<p>12. Parents who wish to opt their children out of the<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/eTeens%20Letter%20and%20Opt-Out%20Form.pdf">here.</a></u> The completed form is to be submitted by 11/04/2022.</p>
 <p>13. Parents can contact the school at 62571996 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements</p>
 <p>&nbsp;</p>
