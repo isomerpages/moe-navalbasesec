@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - DSA @ NBSS/Selection Criteria.md
       - DSA @ NBSS/Application Process.md
       - DSA @ NBSS/Expectations of DSA Students.md
       - DSA @ NBSS/Learn More.md
