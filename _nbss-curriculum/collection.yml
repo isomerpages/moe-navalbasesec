@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - ALP/Applied Learning Programme (ALP) In Art.md
       - ALP/.keep
       - LLP – Character Education through Sports.md
       - Full Subject Based Banding.md
