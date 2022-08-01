@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - Mother Tongue Language.md
       - Music/Music.md
       - Music/General Music Programme (GMP).md
       - Music/Normal (Technical) Level Music.md
