@@ -162,3 +162,4 @@ description: ""
 <p>&radic; develop an interest in the subject and instil the joy of learning;</p>
 <p>&radic; learn professional culinary skills and techniques taught by a professional chef; and</p>
 <p>&radic; explore career opportunities in the food industry.&nbsp;</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3L7ACEVdPeB5AnzRWGVmtwbrkUP6GJxY4asniNDFSqaIkHTWdF81_unbMiyhglNkXrmMlAw_9pl7p/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
