@@ -2,7 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
-      - CCE/Example Title.md
+      - CCE/Sexuality Education Programme.md
       - CCE/VIA Programme.md
       - CCE/Student Leaders@NBSS.md
       - CCE/Cyber Wellness.md
