@@ -21,3 +21,4 @@ description: ""
 <p>Students on the ATDP are eligible to apply for the NBSS-Crete Art Scholarship.</p>
 <p><strong>TDP</strong></p>
 <div><iframe src="https://www.youtube.com/embed/G_Y9BMwBg28" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe src="https://www.youtube.com/embed/XRvGy5cLpsQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<img src="/images/td2.png">
