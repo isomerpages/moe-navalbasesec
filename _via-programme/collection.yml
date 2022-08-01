@@ -2,6 +2,6 @@ collections:
   via-programme:
     output: true
     order:
+      - VIA Programme.md
       - Students VIA.md
       - Staff VIA.md
-      - VIA Programme.md
