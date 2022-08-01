@@ -20,5 +20,5 @@ description: ""
 <p>Aside from developing their personal practice and portfolio, students on the ATDP will also participate in key developmental programmes at different stages of their studies. For example, Secondary 2 students will participate in a 6-week curation module at the National Gallery Singapore; at Secondary 3, they will organise the school&rsquo;s annual art exhibition.</p>
 <p>Students on the ATDP are eligible to apply for the NBSS-Crete Art Scholarship.</p>
 <p><strong>TDP</strong></p>
-<div><iframe src="https://www.youtube.com/embed/G_Y9BMwBg28" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe src="https://www.youtube.com/embed/XRvGy5cLpsQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<div><iframe src="https://www.youtube.com/embed/G_Y9BMwBg28" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><iframe src="https://www.youtube.com/embed/XRvGy5cLpsQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div><br>
 <img src="/images/td2.png">
