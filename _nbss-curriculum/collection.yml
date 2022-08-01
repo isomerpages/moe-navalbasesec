@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - CCE/Character and Citizenship Education.md
       - CCE/.keep
       - Design & Technology.md
       - Nutrition and Food Science (NFS).md
