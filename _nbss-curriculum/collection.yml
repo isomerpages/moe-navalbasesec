@@ -1,4 +1,5 @@
 collections:
   nbss-curriculum:
     output: true
-    order: []
+    order:
+      - Science.md
