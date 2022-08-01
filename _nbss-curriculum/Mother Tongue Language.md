@@ -17,3 +17,7 @@ description: ""
 </ul>
 <p><strong>MTL Gallery</strong></p>
 <img src="/images/mtl.jpg">
+<p><strong>NBSS MTL DEPARTMENT</strong></p>
+<p style="text-align: center;"><strong>CELEBRATIONS OF FESTIVALS @NBSS</strong></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNVqWJMgDYyrcnnFTrpVHVKamoppndawz2Dem1feEi-vTUXbYO9ESj96mZc4FmlN7X8UPfcnDhOKL8/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" ></iframe>
+<p><strong>MOTHER TONGUE FORTNIGHT (MALAY UNIT)</strong></p>
