@@ -43,3 +43,23 @@ description: ""
 <img style="width: 42%;" src="/images/mtl10.png" align = "left" />
 <img style="width: 42%;" src="/images/mtl11.jpg" align = "right" /><br><br><br><br><br><br><br><br><br>
 <p><strong>MOTHER TONGUE FORTNIGHT&nbsp;</strong><strong>&ndash;</strong>&nbsp;Lighting up of lamp by school leaders to mark the beginning of the Pongal Harvest Festival and Rangoli making by the secondary 3 students with the help of teachers&nbsp;</p>
+<img style="width: 45%;" src="/images/mtl12.jpg" />
+<p><strong>MOTHER TONGUE FORTNIGHT&nbsp;</strong><strong>&ndash;&nbsp;</strong>Banana Leaf Treats 2020: Secondary 4 and 5 students dressed up in their ethnic costumes serving Indian Food for their friends and teachers.</p>
+<img style="width: 55%;" src="/images/mtl13.jpg" />
+<p><strong>MOTHER TONGUE FORTNIGHT&nbsp;</strong><strong>&ndash;&nbsp;</strong>Secondary 1 students at Rhythm Aesthetics Society learning different types of classical musical instruments&nbsp;</p>
+<img style="width: 55%;" src="/images/mtl14.jpg" />
+<p><strong>MOTHER TONGUE FORTNIGHT&nbsp;</strong><strong>&ndash;&nbsp;</strong>Pongal Pot painting done by our very own secondary 2 students</p>
+<p><strong>MOTHER TONGUE FORTNIGHT (CHINESE UNIT)</strong></p>
+<img style="width: 100%;" src="/images/mtl15.png" />
+<p><strong>SEAL ENGRAVING</strong> Secondary 3 students gained a better understanding of the origin of their surnames and the evolution of the Chinese characters through this activity, thus strengthening their sense of identity.&nbsp;</p>
+<img style="width: 100%;" src="/images/mtl16.png" />
+<p><strong>FOOD, GLORIOUS FOOD!&nbsp;</strong>Secondary 2 students making rice balls, dumplings and mocha to better appreciate the celebration of traditional festivals and the values imbued within.</p>
+<img style="width: 100%;" src="/images/mtl17.png" />
+<p><strong>CREATE YOUR OWN NEWSPAPER COMPETITION</strong>&nbsp;&ndash; Our Chinese students in their element, reaching new heights every year in this competition organized by the Committee to Promote Chinese Language Learning, SPH and Xinmin Secondary School.&nbsp;</p>
+<img style="width: 100%;" src="/images/mtl18.png" />
+<p><strong>CREATE YOUR OWN NEWSPAPER COMPETITION</strong>&nbsp;&ndash; A fantastic opportunity for our students who gained valuable first hand experience interviewing the journalists and production team behind our daily broadsheets, putting into practice their knowledge of the language.&nbsp;</p>
+<img style="width: 100%;" src="/images/mtl19.png" />
+<p><strong>CREATE YOUR OWN NEWSPAPER COMPETITION</strong>&nbsp;&ndash; Blending artistry and language into eye catching pieces that attract readers, a worthwhile skill picked up by the participants in the competition.&nbsp;</p>
+<img style="width: 100%;" src="/images/mtl20.png" />
+<p><strong>CREATE YOUR OWN NEWSPAPER COMPETITION&nbsp;</strong><strong>&ndash;&nbsp;</strong>So much more that goes into producing a newspaper article that seeks to inform, educate, illuminate and satiate the thirst for knowledge and information in this era. Kudos to our Navalites for their inspiring efforts!&nbsp;</p>
+<img style="width: 100%;" src="/images/mtl21.jpg" />
