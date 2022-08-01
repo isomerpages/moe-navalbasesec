@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - ALP/.keep
       - LLP – Character Education through Sports.md
       - Full Subject Based Banding.md
       - DSA @ NBSS/DSA @ NBSS.md
