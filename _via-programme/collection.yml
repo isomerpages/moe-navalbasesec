@@ -1,4 +1,5 @@
 collections:
   via-programme:
     output: true
-    order: []
+    order:
+      - VIA Programme.md
