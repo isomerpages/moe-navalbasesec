@@ -40,3 +40,13 @@ description: ""
 <p><strong>Teaching &amp; Learning - Mathematics</strong></p>
 <p><iframe src="https://www.youtube.com/embed/_v-uEdPzIFM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <p>Using concrete materials to learn about Probability</p>
+<img src="/images/ma2.jpg">
+<p>Students are given opportunities to be exposed to various competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites are exposed to mathematical problems that challenged them to think critically and out of the box to solve real life problems.</p>
+<p>Math and Science Challenge-4th Runner Up Winners</p>
+<img src="/images/ma3.jpg">
+<p>Math and Science Challenge</p>
+<img src="/images/ma4.jpg"><br>
+<img src="/images/ma5.png"><br>
+<img src="/images/ma6.png">
+<p>Brainstorming on solving non-routine question</p>
+<img style="width: 65%;" src="/images/ma7.jpg" />
