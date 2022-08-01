@@ -2,4 +2,5 @@ collections:
   other-information:
     output: true
     order:
+      - National Art Exam Syllabuses.md
       - Other Information.md
