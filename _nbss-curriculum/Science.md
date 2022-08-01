@@ -27,3 +27,76 @@ description: ""
 </table>
 <p><strong>Post Exam Activities 2020</strong></p>
 <p><strong>Overview of Science Curriculum</strong></p>
+<img src="/images/sci3.png">
+<p><strong>(A) Key Programmes<br /></strong><strong>Sec 1 Show &amp; Tell</strong></p>
+<p>Since 2015, Secondary 1 students&nbsp;have been given opportunities to&nbsp;demonstrate their understanding of scientific principles or concepts through simple experiments or model- or toy-making. As independent learners, students acquire knowledge beyond the textbooks and are given opportunities to ask questions and reflection during presentations.</p>
+<img src="/images/sci4.png">
+<p><strong>Sec 2 Inquiry-Based Project</strong></p>
+<p>Since 2013, Secondary Two Express students have been involved in an inquiry-based project with the objective of inculcating in students a spirit of scientific inquiry as they expand their learning beyond classroom. Students learn to apply creative and critical thinking skills and foster collaboration when they work with their team members. They also acquire the essential scientific process skills, including interpreting and analysing experimental data, and making logical conclusions. At the same time, students hone their communication skills when they present their projects to their peers and teachers.</p>
+<img src="/images/sci5.png">
+<p><strong>(B) Competitions<br /></strong><strong>Scientific Inquiry Research Experience @ Republic Polytechnic</strong></p>
+<p>The Scientific Inquiry Research Experience gives Navalites an avenue to conceptualize creative Science projects that aim to find innovative solutions to everyday problems or that use the scientific method to prove or disprove phenomena.</p>
+<p>Navalites get to observe first-hand that Science is a dynamic process where researchers often make new discoveries and re-examine earlier knowledge to try to improve, build upon, or extend on it.</p>
+<p>Through this programme, Navalites&nbsp;develop a variety of skills such as their ability to:</p>
+<p>- gather, process and organize information</p>
+<p>- manipulate materials and scientific instruments</p>
+<p>- analyse data and communicate their findings to others</p>
+<p>Through the process, Navalites develop new ways of thinking about and approaching a problem.</p>
+<div>
+<div class="">
+<table class="iveo_table ives_tab_1 ive_eobj_left">
+<tbody>
+<tr>
+<th style="text-align: center;">Year</th>
+<th style="text-align: center;">Scientific Inquiry Research Experience</th>
+<th style="text-align: center;">Class/Participants</th>
+</tr>
+<tr>
+<td>
+<p>2013</p>
+</td>
+<td>
+<p>The project, &lsquo;Effects of Household Wastewater on Plant Growth&rsquo;won the Outstanding Project Award. This project seeks to investigate the effectiveness of household wastewaters against a commercial fertilizer on plant growth.</p>
+</td>
+<td>
+<p>Integrity 3-1:<br />Gerald Tay and Toh Siew Tin&nbsp;Integrity 3-2:<br />Karina Chua, Tristan Chia and Justyne Siao&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2015</p>
+</td>
+<td>
+<p>The project, &lsquo;Effectiveness of household materials in filtering&nbsp;polluted air&rsquo;, won the Outstanding Project Award. The team worked on finding the best household materials to filter air during a haze.</p>
+</td>
+<td>
+<p>3E1:nCelestine Teo, Eugene Tan<br />2E2: Glenda Lee<br />2E1: Lim Kok Liang, Yeo Zi Wei</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;2016</p>
+</td>
+<td>
+<p>&nbsp;The project,&rsquo;Fertilising Plants using Inedible Shells&rsquo;, was shared with the press and featured on &lsquo;Today&rsquo; newspaper. The students compared the effectiveness of using eight inedible shells as fertilizer in place of commercial fertilisers.</p>
+</td>
+<td>
+<p>2-4: Javier Yit, Lucas Boo Sajja Ramyasr<br />i2-6: Nikki Yeo <br />3-5: Glenda Lee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;2018</p>
+</td>
+<td>
+<p>&nbsp;The project, &lsquo;Plants as solar cells&rsquo;, won the Outstanding Project&nbsp;Award. This group explored using chlorophyll extracted from fresh leaves to replace the silicone light-trapping components of a solar cell in an effort to come up with a more efficient solar cell that can be safely and easily disposed.</p>
+</td>
+<td>
+<p>2-6: Chia Jun Hao, Reyes Justin Noel Dotimas <br />2-7: Arockia Raj Domenic Savio, Prisha Erika Mogan, Dale Michael, Nisay Punzalan&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National Science Challenge</span></strong></p>
+</div>
+</div>
