@@ -24,3 +24,4 @@ third_nav_title: Music
 </ul>
 <p>Students will be given a project to complete by the end of each module. Lessons are held once a week from 2.30 pm to 4.00 pm on Fridays.</p>
 <img src="/images/mus.png">
+<p>Recent success from the MRPP include two students, Eunice Elagan and Seth Pascal Raymundo from the class of 2018, who won the Consolation Award and Commendation Award respectively at the SYF Song Writing Competition 2018.&nbsp;Listen to their songs, which were recorded and produced during their MRPP sessions below:</p>
