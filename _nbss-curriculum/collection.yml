@@ -2,7 +2,6 @@ collections:
   nbss-curriculum:
     output: true
     order:
-      - DSA @ NBSS/Full Subject Based Banding.md
       - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/Why NBSS?.md
       - DSA @ NBSS/Selection Criteria.md
