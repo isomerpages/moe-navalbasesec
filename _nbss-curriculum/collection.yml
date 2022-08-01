@@ -2,4 +2,5 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - Physical Education.md
       - Science.md
