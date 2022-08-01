@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Character and Citizenship Education.md
       - Design & Technology.md
       - Nutrition and Food Science (NFS).md
       - English Language & Literature.md
