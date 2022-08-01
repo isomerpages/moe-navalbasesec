@@ -2,6 +2,7 @@ collections:
   nbss-curriculum:
     output: true
     order:
+      - Music/Music.md
       - Music/General Music Programme (GMP).md
       - Music/Normal (Technical) Level Music.md
       - Music/Ordinary Level Music.md
