@@ -9,3 +9,4 @@ description: ""
 <p>The Upper Secondary syllabus focuses on higher-order thinking skills. Basic programming concepts and skills will be learnt through animation and game design and applying them to solve problems in everyday context. This helps students for further studies in programming, media-related courses, as well as for the work place and future learning.</p>
 <p>Students will also have opportunities to do creative work with animation and game development projects in Secondary 2 and 3 respectively using the Scratch software developed by MIT.&nbsp;</p>
 <p>Since 2016, all Secondary 2 and Secondary 3 students participates in the National Media Computing Competition held by MOE&nbsp;where our student clinched the Silver Award!&nbsp;In 2020, the competition now known as Animation and Game Making Competition saw us clinching a Bronze Award!</p>
+<img src="/images/cpa2.png">
