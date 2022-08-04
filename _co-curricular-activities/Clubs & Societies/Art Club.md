@@ -132,3 +132,8 @@ third_nav_title: Clubs & Societies
 <img src="/images/art7.jpg">
 <p>As the world becomes more visual, there is a continued need for students to develop the skills needed to foster visual literacy; therefore, the goal of their artwork is to amplify the experiences throughout their cca to reflect their growth throughout the program.</p>
 <img style="width: 65%;" src="/images/art8.jpg" />
+<p>3-D (Ceramics) Wing bonding sessions with their peers</p>
+<img src="/images/art9.jpg"><br>
+<img src="/images/art10.jpg">
+<p>3D Art (Ceramics) Wing:<br />Conceptualising and developing personalised ideas from a given theme from initila 2D drawings in their journals to 3D artworks.</p>
+<img style="width: 65%;" src="/images/art11.jpg" />
