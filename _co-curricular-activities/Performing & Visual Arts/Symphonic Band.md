@@ -122,3 +122,12 @@ third_nav_title: Performing & Visual Arts
 </table>
 <p><strong>CCA Highlights</strong></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6spmJFpO15Jq-Ro1fht9L0-wkEYi0U8cxY1kDEUJqR_-YBF25clT6fLDGyDc9QZ6_C2oSA3ZTeFcG/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">National Creative Percussion Competition 2010</label>
+<div>
+<p>Our very own Navalites represented NBSS in the National Creative Percussion Competition 2010. The competition was a joint effort co-organised by thOh Music Educational Services and Ping Yi Secondary School and supported by the National Environmental Agency. The theme for the competition this year was "Beating Pollution with Recycled Beats, Save the Planet, Keep it Neat!"</p>
+<p>In the Senior Category, Earthbeats beat many schools and emerged as 1st runner-up! Well done Navalites!</p>
+<p>To read more about the competition, click&nbsp;<a href="/files/EcoNews%20-%20National%20Creative%20Percussion%202010.pdf">here&nbsp;</a>.</p>
+</div>
+</li>
+</ul>
