@@ -2,7 +2,6 @@ collections:
   nbss-curriculum:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Overview.md
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) In Art.md
@@ -13,13 +12,13 @@ collections:
       - ALP/Other Information.md
       - LLP – Character Education through Sports.md
       - Full Subject Based Banding.md
+      - DSA @ NBSS/.keep
       - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/Why NBSS?.md
       - DSA @ NBSS/Selection Criteria.md
       - DSA @ NBSS/Application Process.md
       - DSA @ NBSS/Expectations of DSA Students.md
       - DSA @ NBSS/Learn More.md
-      - DSA @ NBSS/.keep
       - Talent Development @ NBSS.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
@@ -30,6 +29,7 @@ collections:
       - CCE/Cyber Wellness.md
       - CCE/National Education.md
       - CCE/Education and Career Guidance (ECG).md
+      - Co Curricular Activities/.keep
       - Design & Technology.md
       - Nutrition and Food Science (NFS).md
       - English Language & Literature.md
@@ -37,13 +37,13 @@ collections:
       - Mathematics.md
       - Computer Applications (CPA).md
       - Mother Tongue Language.md
+      - Music/.keep
       - Music/Music.md
       - Music/General Music Programme (GMP).md
       - Music/Normal (Technical) Level Music.md
       - Music/Ordinary Level Music.md
       - Music/Music Recording & Production Programme (MRPP).md
       - Music/Music Related Courses in Post Secondary Education.md
-      - Music/.keep
       - Physical Education/.keep
       - Physical Education/Physical Education.md
       - Physical Education/Information on PE.md
