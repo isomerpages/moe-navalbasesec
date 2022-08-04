@@ -2,7 +2,6 @@ collections:
   nbss-curriculum:
     output: true
     order:
-      - Co–Curricular Activities.md
       - Overview.md
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) In Art.md
@@ -30,6 +29,7 @@ collections:
       - CCE/Cyber Wellness.md
       - CCE/National Education.md
       - CCE/Education and Career Guidance (ECG).md
+      - Co–Curricular Activities.md
       - Design & Technology.md
       - Nutrition and Food Science (NFS).md
       - English Language & Literature.md
