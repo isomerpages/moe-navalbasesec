@@ -162,3 +162,46 @@ third_nav_title: Co Curricular Activities
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th>Clubs &amp; Societies</th>
+<td><strong>Performing &amp; Visual Arts</strong></td>
+<th>Physical Sports</th>
+<th>Uniform Groups</th>
+</tr>
+<tr>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/performing-arts/art-club">Art Club</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/performing-arts/choir">Choir</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/physical-sports/basketball">Basketball</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/uniformed-groups/girl-guides">Girl Guides</a></td>
+</tr>
+<tr>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/clubs-and-societies/infocomm-club">InfoComm Club</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/performing-arts/dance-club">Dance</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/physical-sports/netball-girls">Netball</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/uniformed-groups/national-cadet-corps-ncc">National Cadet Corps</a></td>
+</tr>
+<tr>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/clubs-and-societies/library-club">Service Library Club</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/performing-arts/drama-club-english">English Drama</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/physical-sports/sepak-takraw">Sepak Takraw</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/uniformed-groups/national-police-cadet-corps-npcc">National Police Cadet Corps</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/performing-arts/symphonic-band">Symphonic Band</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/physical-sports/football-boys">Football</a></td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/uniformed-groups/st-john-brigade-sjb">St John Brigade</a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><a href="https://navalbasesec.moe.edu.sg/nbss-curriculum/co-curricular-activities/physical-sports/table-tennis">Table Tennis</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Sec 1 CCA&nbsp;</u></strong></p>
+<p>Sec 1 CCA Option Form Link:&nbsp;<a href="https://forms.moe.edu.sg/forms/moO2nJ">https://forms.moe.edu.sg/forms/moO2nJ</a></p>
+<p>You will need the following information for logging in.</p>
+<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p>
