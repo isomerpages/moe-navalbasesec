@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - School as a Giant Art Gallery.md
       - NBSS Art Exhibition.md
       - Overseas Art Study Trip.md
       - NBSS Goodrich Global Art Scholarships.md
