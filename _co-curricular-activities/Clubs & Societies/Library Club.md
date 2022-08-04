@@ -76,3 +76,15 @@ third_nav_title: Clubs & Societies
 <p><u>NBSS Staff VIA Project</u></p>
 <p>As part of SLC VIA, students embarked on a video making project where they interviewed some NBSS staff to find out about their contributions to the school. Students went through the process of coming up with the interview questions, interview skills and video editing workshop.</p>
 <img src="/images/lib2.png">
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Library Club members place 3rd in regional Prove-It! competition</label>
+<div>
+<p>Four Library Club members (Priyanka Maurya d/o Ramesh C, Ong Xuan Rong and Vivian Hung Meng Yun from Hope 3-1, and Kesshini d/o Ramesh Kumar) competed in the Prove-It! competition organised by National Library Board.</p>
+<p>In the fast-paced competition involving 63 teams from other schools, the Library Club members had to research the answers to thirty questions and use multiple sources to prove their answers within one hour.</p>
+<p>The students held multiple practice sessions to hone their research skills and familiarise themselves with online databases, such as Grolier Online and World Geography Online, as well as the National Library catalogue system for print books. Their hard work and perseverance, as well as their enthusiasm and team spirit helped them to learn this wholly new skill and display their prowess.</p>
+<p>They emerged 3rd place winners in the North Zone Regional Competition, entered the Finals held at the National Library and received Certificates of Merit for their efforts.</p>
+<p>Congratulations, Library Club members!</p>
+<img src="/images/lib3.png">
+</div>
+</li>
+</ul>
