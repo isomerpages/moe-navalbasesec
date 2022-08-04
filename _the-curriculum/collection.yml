@@ -2,9 +2,9 @@ collections:
   the-curriculum:
     output: true
     order:
+      - The Curriculum.md
       - Aims.md
       - Structure.md
       - Content.md
       - Enhanced Art Programme.md
       - Co–Curricular Programme.md
-      - The Curriculum.md
