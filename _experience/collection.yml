@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - Overseas Art Study Trip.md
       - NBSS Goodrich Global Art Scholarships.md
       - "Experience: Nurturing & Vibrant.md"
