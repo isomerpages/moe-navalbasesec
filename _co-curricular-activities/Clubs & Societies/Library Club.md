@@ -72,3 +72,7 @@ third_nav_title: Clubs & Societies
 <p><strong>CCA Highlights</strong></p>
 <p><u>Upcycling Workshop</u></p>
 <p>Our students attended Upcycling Workshop by Terra SG in February and applied what they learnt from the workshop through a Mini Upcycling Competition. Each group came up with an upcycling product and voted for the best upcycling product.</p>
+<img src="/images/lib1.png">
+<p><u>NBSS Staff VIA Project</u></p>
+<p>As part of SLC VIA, students embarked on a video making project where they interviewed some NBSS staff to find out about their contributions to the school. Students went through the process of coming up with the interview questions, interview skills and video editing workshop.</p>
+<img src="/images/lib2.png">
