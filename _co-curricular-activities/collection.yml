@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniform Groups/Girl Guides.md
       - Uniform Groups/National Police Cadet Corps (NPCC).md
       - Uniform Groups/St John Brigade (SJB).md
       - Uniform Groups/National Cadet Corps (NCC).md
