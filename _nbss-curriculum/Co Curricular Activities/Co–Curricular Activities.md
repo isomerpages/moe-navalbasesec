@@ -34,3 +34,131 @@ third_nav_title: Co Curricular Activities
 </tr>
 </tbody>
 </table>
+<img style="width: 10%;" src="/images/download.png" />
+<p><strong><u>Learning Domains</u></strong></p>
+<table>
+<tbody>
+<tr>
+<td width="205">
+<p style="text-align: center;"><strong><u>Exposure</u></strong></p>
+<p>Students are exposed to a variety of knowledge, values and skills.</p>
+<p>e.g. a soccer player is taught how to defend when an opposing team is attacking by watching a demo.</p>
+<p>e.g. a symphonic band member learning how to play a musical instrument.</p>
+</td>
+<td width="205">
+<p style="text-align: center;"><strong><u>Practice</u></strong></p>
+<p>Students are given opportunities to exercise the knowledge, values and skills they have acquired.</p>
+<p>e.g. a soccer player practises and develops himself in the area of defending.</p>
+<p>e.g. a symphonic band member practising playing the musical instrument.</p>
+</td>
+<td width="205">
+<p style="text-align: center;"><strong><u>Performance</u></strong></p>
+<p>Students are given the opportunity to showcase their knowledge, values and skills.</p>
+<p>e.g. a soccer player is given the opportunity to assess his competency and showcase his talent by playing in defensive role in a soccer competition.</p>
+<p>e.g. a symphonic band member playing the instrument for school as part of a band performance.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 10%;" src="/images/download.png" />
+<p><strong><u>Strategies/Programmes</u></strong></p>
+<table style="height: 597px;">
+<tbody>
+<tr style="height: 64px;">
+<td style="height: 64px; width: 109px;">1</td>
+<td style="height: 64px; width: 118px;">
+<p><strong>Uniformed Groups</strong></p>
+</td>
+<td style="height: 64px; width: 132px;">
+<p><strong>Performing &amp; Visual&nbsp; Arts</strong></p>
+</td>
+<td style="height: 64px; width: 119px;">
+<p><strong>Sports &amp; Games</strong></p>
+</td>
+<td style="height: 64px; width: 130px;">
+<p><strong>Clubs &amp; Societies</strong></p>
+</td>
+</tr>
+<tr style="height: 118px;">
+<td style="height: 118px; width: 109px;">
+<p>CCA specific objectives</p>
+</td>
+<td style="height: 118px; width: 118px;">
+<p>Disciplined citizens who are confident leaders</p>
+</td>
+<td style="height: 118px; width: 132px;">Artists who are confident communicators</td>
+<td style="height: 118px; width: 119px;">
+<p>Robust sportsmen who are excellent team players</p>
+</td>
+<td style="height: 118px; width: 130px;">
+<p>Competent individuals who are knowledgeable and skilled</p>
+</td>
+</tr>
+<tr style="height: 132px;">
+<td style="height: 132px; width: 109px;">
+<p>1<sup>st</sup>&nbsp;tier</p>
+<p>Personal Mastery</p>
+</td>
+<td style="height: 132px; width: 118px;">
+<p>- School based activities</p>
+<p>- HQ activities</p>
+</td>
+<td style="height: 132px; width: 132px;">
+<p>- Public Performance</p>
+<p>- Visit to professional performance</p>
+</td>
+<td style="height: 132px; width: 119px;">
+<p>- Expose to other roles related to CCA such as referees and managers</p>
+</td>
+<td style="height: 132px; width: 130px;">
+<p>- Competition</p>
+<p>- Skilled-based workshop</p>
+</td>
+</tr>
+<tr style="height: 183px;">
+<td style="height: 183px; width: 109px;">
+<p>2<sup>nd</sup>&nbsp;tier</p>
+<p>Leadership Development</p>
+</td>
+<td style="height: 183px; width: 118px;">
+<p>- Leadership during CCA</p>
+<p>- Combined UGs leadership camp</p>
+<p>- Specialist programmes</p>
+</td>
+<td style="height: 183px; width: 132px;">
+<p>- Leadership during CCA</p>
+<p>- Special Talent development programme by Arts Branch</p>
+<p>- NCO camp</p>
+</td>
+<td style="height: 183px; width: 119px;">
+<p>- Leadership during CCA</p>
+<p>- Plan and execute events such as inter-class sport competition</p>
+</td>
+<td style="height: 183px; width: 130px;">
+<p>- Leadership during CCA</p>
+<p>- Plan and organise intra-school events</p>
+</td>
+</tr>
+<tr style="height: 100px;">
+<td style="height: 100px; width: 109px;">
+<p>3<sup>rd</sup>&nbsp;tier</p>
+<p>Contribution to Community</p>
+</td>
+<td style="height: 100px; width: 517px;" colspan="4">
+<p style="text-align: center;">- Collaboration with primary schools</p>
+<p style="text-align: center;">- Collaboration with Nee Soon South CC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
+<p><strong class=""><span class="" lang="EN-SG"><u>2022 CCA Schedule<br /></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20schedule%20timing%20venues2022.pdf">CCA schedule timing venues2022.pdf</a><br /></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
+<p><strong>CCA</strong></p>
+<table>
+<tbody>
+<tr>
+<th><iframe src="https://www.youtube.com/embed/mAfczr6UHf0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
+<th><iframe src="https://www.youtube.com/embed/I5RQOHzK-NU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></th>
+</tr>
+</tbody>
+</table>
