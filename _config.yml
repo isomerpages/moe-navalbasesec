@@ -1,12 +1,12 @@
 title: Naval Base Secondary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/white bg.gif
 colors:
-  primary-color: "#2d0172"
-  secondary-color: "#dcdc00"
+  primary-color: "#050090"
+  secondary-color: "#81adc7"
   media-colors:
     - title: media-color-one
-      color: "#000000"
+      color: "#f5e937"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1g87jml2toqvh.amplifyapp.com
 prod: https://master.d1g87jml2toqvh.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/white bg.gif
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
