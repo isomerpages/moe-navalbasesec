@@ -16,7 +16,6 @@ sections:
           description: ""
           url: https://gmail.com
         - title: Events
-          description: ""
-          url: /privacy/
+          description: Events Calendar
+          url: /nbss/calendar
 ---
-
