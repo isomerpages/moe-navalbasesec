@@ -10,7 +10,7 @@ sections:
       background: /images/banner.gif
       key_highlights:
         - title: Announcements
-          description: For year 2022
+          description: For Year 2022
           url: /announcements
         - title: Achievements
           description: For School, Staff and Students
