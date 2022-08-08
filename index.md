@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /announcements
         - title: Achievements
-          description: ""
-          url: https://gmail.com
+          description: For School, Staff and Students
+          url: /about-us/bouquets-n-celebration/school
         - title: Events
           description: Events Calendar
           url: /nbss/calendar
