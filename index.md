@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.gif
+      background: /images/banner2.gif
       key_highlights:
         - title: Announcements
           description: For Year 2022
