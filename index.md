@@ -9,19 +9,13 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Achievements
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Events
+          description: ""
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
