@@ -2,7 +2,7 @@
 layout: homepage
 title: Naval Base Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/white bg.gif
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /privacy/
 ---
+
