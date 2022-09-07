@@ -75,7 +75,7 @@ links:
         url: /for-navalities/poly-eae
       - title: ITE EAE
         url: /for-navalities/ite-eae
-  - title: Parents @ NBSS
+  - title: For parents
     url: /parents-at-nbss/announcements
     sublinks:
       - title: Announcements
@@ -87,9 +87,9 @@ links:
   - title: Partners of NBSS
     url: /partners-of-nbss/sac
     sublinks:
-      - title: SAC
+      - title: School Advisory Committee
         url: /partners-of-nbss/sac
-      - title: NBSS Alumni
+      - title: Our Alumni
         url: /partners-of-nbss/nbss-alumni
-      - title: RSN
+      - title: "RSN: 8th Flotilla"
         url: /partners-of-nbss/rsn
