@@ -15,45 +15,6 @@ links:
         url: /about-us/bouquets-n-celebration
       - title: Our Campus
         url: /about-us/our-campus/our-campus
-  - title: NBSS Curriculum
-    url: /nbss-curriculum/overview
-    sublinks:
-      - title: Overview
-        url: /nbss-curriculum/overview
-      - title: "Applied Learning: Art"
-        url: /nbss-curriculum/applied-learning-programme-alp-in-art
-      - title: "Learning for Life: Sports"
-        url: /nbss-curriculum/llp-character-education-through-sports
-      - title: Full Subject-Based Banding
-        url: /nbss-curriculum/full-subject-based-banding-fsbb
-      - title: DSA @ NBSS
-        url: /nbss-curriculum/dsa-at-nbss
-      - title: Talent Development @ NBSS
-        url: /nbss-curriculum/talent-development-at-nbss
-      - title: CCE
-        url: /nbss-curriculum/character-and-citizenship-education
-      - title: Co-Curricular Activities
-        url: /nbss-curriculum/co-curricular-activities
-      - title: Design & Technology
-        url: /nbss-curriculum/design-n-technology
-      - title: Nutrition and Food Science
-        url: /nbss-curriculum/nutrition-and-food-science-nfs
-      - title: English Language & Literature
-        url: /nbss-curriculum/english-language-n-literature
-      - title: Humanities
-        url: /nbss-curriculum/humanities
-      - title: Mathematics
-        url: /nbss-curriculum/mathematics
-      - title: Computer Applications (CPA)
-        url: /nbss-curriculum/computer-applications-cpa
-      - title: Mother Tongue Language
-        url: /nbss-curriculum/mother-tongue-language
-      - title: Music
-        url: /nbss-curriculum/music
-      - title: Physical Education
-        url: /nbss-curriculum/physical-education
-      - title: Science
-        url: /nbss-curriculum/science
   - title: For Navalities
     url: /for-navalities/nbss-pyramid-of-success-pos
     sublinks:
