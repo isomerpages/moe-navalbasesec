@@ -1,6 +1,6 @@
 ---
 title: Symphonic Band
-permalink: /nbss-curriculum/co-curricular-activities/performing-arts/symphonic-band
+permalink: /nbss-curriculum/co-curricular-activities/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing & Visual Arts
 ---
@@ -35,7 +35,7 @@ third_nav_title: Performing & Visual Arts
 <p>Instructor(s)</p>
 </td>
 <td width="365">
-<p>Mr Eric Chong<br />Mr Lester Lim</p>
+<p>Mr Eric Chong</p>
 </td>
 </tr>
 </tbody>
