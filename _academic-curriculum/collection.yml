@@ -1,5 +1,5 @@
 collections:
-  nbss-curriculum:
+  academic-curriculum:
     output: true
     order:
       - Overview.md
