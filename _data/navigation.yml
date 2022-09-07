@@ -15,8 +15,10 @@ links:
         url: /about-us/bouquets-n-celebration
       - title: Our Campus
         url: /about-us/our-campus/our-campus
-  - title: Teaching & Learning
+  - title: Academic Curriculum
     collection: nbss-curriculum
+  - title: Student Development Curriculum
+    collection: experience
   - title: For Navalites
     url: /for-navalities/nbss-pyramid-of-success-pos
     sublinks:
@@ -56,5 +58,3 @@ links:
         url: /partners-of-nbss/nbss-alumni
       - title: "RSN: 8th Flotilla"
         url: /partners-of-nbss/rsn
-  - title: Student Development
-    collection: experience
