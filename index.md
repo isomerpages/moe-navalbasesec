@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NBSS-2022-16-9a.jpg
+      background: /images/NBSS-2022-16-9b.jpg
       key_highlights:
         - title: Announcements
           description: For Year 2022
