@@ -18,5 +18,4 @@ sections:
         - title: Events
           description: Events Calendar
           url: /nbss/calendar
-      subtitle: "     Leaders of Character, School of Exellence"
 ---
