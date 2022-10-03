@@ -48,8 +48,8 @@ description: ""
 <td>Head of Department, Character Citizenship Education</td>
 </tr>
 <tr>
-<td>&nbsp;Mrs Crescendra Chong</td>
-<td>&nbsp;&nbsp;Head of Department,&nbsp;English Language &amp; English Literature</td>
+<td>Mrs Crescendra Chong</td>
+<td>&nbsp;Head of Department,&nbsp;English Language &amp; English Literature</td>
 </tr>
 <tr>
 <td>Mr Loh Jiunn Shyan</td>
