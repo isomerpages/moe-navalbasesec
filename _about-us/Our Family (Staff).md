@@ -1,6 +1,6 @@
 ---
 title: Our Family (Staff)
-permalink: /about-us/our-family-staff
+permalink: /about-us/our-family-staff/
 description: ""
 ---
 <p><strong>School Steering Committee</strong></p>
@@ -32,8 +32,8 @@ description: ""
 <td>School Staff Developer&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;Mr Andrew Lim Swee Leong</td>
-<td>&nbsp;Year Head (Lower Sec)</td>
+<td>Mr Andrew Lim Swee Leong</td>
+<td>Year Head (Lower Sec)</td>
 </tr>
 <tr>
 <td>Mdm Faridah Abdul Hamid</td>
