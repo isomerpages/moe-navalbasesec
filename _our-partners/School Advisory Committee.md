@@ -1,30 +1,30 @@
 ---
 title: School Advisory Committee
-permalink: /partners-of-nbss/sac
+permalink: /partners-of-nbss/sac/
 description: ""
 ---
-<p>Term of Office: 1 Oct 2020 to 30 Sep 2022</p>
+<p>Term of Office: 1 Oct 2022 to 30 Sep 2024</p>
 <table>
 <tbody>
 <tr>
 <td>Chairman</td>
-<td>Mr C. Manokaran&nbsp;</td>
+<td>Mr Ow Yong Hann Ming</td>
 </tr>
 <tr>
 <td>Vice-Chairman </td>
-<td>Mr Keok Tong San</td>
+<td>Mr Vinoth s/o Balakrishna Pillay</td>
 </tr>
 <tr>
 <td>Member</td>
-<td>Dr Muhammad Iqbal Bin Abdullah</td>
+<td>Mr Linus s/o Jeraled</td>
 </tr>
 <tr>
 <td>Member</td>
-<td>Mr Manimaran Pushpanatan</td>
+<td>Mr Sahul Hameed bin Mohd Abd Kadir</td>
 </tr>
 <tr>
 <td>Member</td>
-<td>Mr&nbsp;Linus S/O Jeraled</td>
+<td>Mr Tan Kim Lee</td>
 </tr>
 <tr>
 <td>Honorary Secretary</td>
