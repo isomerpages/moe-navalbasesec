@@ -7,12 +7,14 @@ third_nav_title: Bouquets & Celebration
 # Navalites in our Community
 **Compliments from the Public**
 <img src="/images/bnc1.jpeg">
-<p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."</p>
-<p>Member of Public (Feb 2022)</p>
-<p><strong><em>Visiting School Leaders from China</em></strong></p>
+<p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."
+	
+Member of Public (Feb 2022)</p>
+#### Appreciation for Our School
+<p>
 <img style="width: 65%;" src="/images/bnc2.jpg" align = "left" /> 
 "Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!" 
-***Visiting School Leaders from China***
+***	Visiting School Leaders from China***
 <p>
 <img style="width: 35%;" src="/images/bnc3.jpg" align = "right" />
 <p><em>"Very Inspiring" <br /></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
