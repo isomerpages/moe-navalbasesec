@@ -9,10 +9,10 @@ description: ""
 <tbody>
 <tr>
 <td><strong>Staff Name</strong></td>
-<td><strong>Appointment&nbsp;</strong></td>
+<td><strong>Designation</strong></td>
 </tr>
 <tr>
-<td>Mdm&nbsp;Linda Yeo Sock Khoon</td>
+<td>Mdm Linda Yeo Sock Khoon</td>
 <td>Principal</td>
 </tr>
 <tr>
