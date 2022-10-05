@@ -12,7 +12,7 @@ Our school community is very active on social media with frequent updates at [ou
 
 # Other Useful Resources
 <p>Please access the following links for other resources:
-
+<p>
 <a href="/for-navalities/timetable-booklist-n-uniform/booklist-2022" target="_blank" rel="noopener"><strong>2022 Booklist</strong></a><br /><a href="/for-navalities/timetable-booklist-n-uniform/school-uniform" target="_blank" rel="noopener"><strong>2022 Uniform Sales</strong></a><br /><strong><a href="/parents-at-nbss/2022-secondary-1-registration" target="">2022 Secondary 1 Registration</a></strong></p>
 # 2021 Electronic Yearbook
 <p>Our 2021 Electronic yearbook is <a href="https://drive.google.com/drive/folders/1Nz8hISJdGzdwJt6gkyXvSQHi2-lThDcB?usp=sharing" target="_blank" rel="noopener">available for download here</a>.
