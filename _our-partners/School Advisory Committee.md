@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td>Honorary Secretary</td>
-<td>Mdm Linda Yeo</td>
+<td>Mdm Linda Yeo Sock Khoon</td>
 </tr>
 <tr>
 <td>Asst Honorary Secretary 1</td>
@@ -36,7 +36,7 @@ description: ""
 </tr>
 <tr>
 <td>Asst Honorary Secretary 2</td>
-<td>Mr Lye Guo Rong Lionel</td>
+<td>Mr Lionel Lye</td>
 </tr>
 <tr>
 <td>Secretariat</td>
