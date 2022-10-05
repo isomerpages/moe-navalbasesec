@@ -10,4 +10,4 @@ Through frequent reminders of our links to the Navy, we hope that Navalites woul
 	
 The school's collaboration with the navy has continued to strengthen through the years. As one of our partners, senior commanders of the 8th Flotilla are regularly invited to school functions, and the RSN conducts career talks and scheduled visits for our students to the Naval Bases.
 	
-Pictured above are the 8th Flotilla's missile corvettes, RSS Victory (88), RSS Valour (89), RSS Vigilance (90), RSS Valiant (91), RSS Vigour (92) and RSS Vengeance (93), which sailed as a Squadron in formation at the South China Sea in 2013.</p>
+*Pictured above are the 8th Flotilla's missile corvettes, RSS Victory (88), RSS Valour (89), RSS Vigilance (90), RSS Valiant (91), RSS Vigour (92) and RSS Vengeance (93), which sailed as a Squadron in formation at the South China Sea in 2013.*</p>
