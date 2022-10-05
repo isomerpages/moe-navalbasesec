@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
       - School Song.md
-      - Our Campus.md
+      - Principal's Message.md
       - Our Family (Staff).md
+      - Our Campus.md
       - Bouquets & Celebration/.keep
       - Bouquets & Celebration/Bouquets & Celebration.md
       - Bouquets & Celebration/School.md
