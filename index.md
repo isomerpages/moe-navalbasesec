@@ -17,5 +17,5 @@ sections:
           url: /about-us/bouquets-n-celebration/school
         - title: Social Media
           description: View Our Latest Happenings!
-          url: /nbss/calendar
+          url: /nbss/socmed
 ---
