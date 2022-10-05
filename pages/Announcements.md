@@ -4,7 +4,7 @@ permalink: /nbss/announcements/
 description: ""
 ---
 # Best Source of Regular Updates: Parents Gateway!
-**<p>We are delighted to enjoy a very high take-up rate on Parents Gateway (PG) by our parents and guardians. Regular updates from the school are shared with current Navalites' parents/guardians via PG [accessible here.](https://pg.moe.edu.sg/)</p>**
+**We are delighted to enjoy a very high take-up rate on Parents Gateway (PG) by our parents and guardians. Regular updates from the school are shared with current Navalites' parents/guardians via PG [accessible here.](https://pg.moe.edu.sg/)**
 
 
 # Social Media
