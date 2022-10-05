@@ -23,10 +23,10 @@ The NBSS Alumni seeks to maintain these relationships and links through regular 
 </ul>
 <p><strong>Some areas you can contribute in:</strong></p>
 <ul>
-<li>Render services in school events/functions such as Cross Country Race, Camps, Games Carnival, National Day, Teacher&rsquo;s Day, Graduation Day, Achievement Day, etc.</li>
+<li>Render services in school events/functions such as Cross Country Race, Camps, Games Carnivals, National Day, Teachers' Day, Graduation Day, Achievement Day, etc.</li>
 <li>Give talks &amp; mentor younger Navalites</li>
-<li>Contribute to the school&rsquo;s environmental themes &ldquo;School in a Garden&nbsp;&rdquo;, &ldquo;&nbsp;School as a Giant Art Gallery&rdquo; and &lsquo;School as a large learning space&rsquo; (Eg: mural painting, gardening, etc.)</li>
-<li>Present or contribute something of significance and practical to the school</li>
+<li>Contribute to the school&rsquo;s environmental themes &ldquo;School in a Garden&nbsp;&rdquo;, &ldquo;&nbsp;School as a Giant Art Gallery&rdquo; and &ldquo;School as a large learning space&rdquo; (Eg: mural painting, gardening, etc.)</li>
+<li>Present or contribute something of significance and practicality to the school</li>
 </ul>
-<p>If you wish to&nbsp;engage with us in any way or just give feedback on how to strengthen our links, please email to:&nbsp;<u>nbss@moe.edu.sg</u><strong><br /></strong></p>
-<p>We look forward to your partnership with us.</p>
+<p>If you wish to engage with us in any way or just provide feedback on how to strengthen our links, please email&nbsp;<u>nbss@moe.edu.sg.</u><strong><br /></strong></p>
+<p>We look forward to your partnership with us. "Stout hearts, brave deeds, great thoughts recall / Proud mem'ries of Naval Base School". Enitamur in Altiora!</p>
