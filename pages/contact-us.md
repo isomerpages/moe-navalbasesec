@@ -26,5 +26,5 @@ contacts:
       - phone: +65 6755 7706
       - email: nbss@moe.edu.sg
       - other: ""
-    title: Fax
+    title: Fax & Email
 ---
