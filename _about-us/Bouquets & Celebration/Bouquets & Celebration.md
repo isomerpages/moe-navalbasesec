@@ -1,18 +1,22 @@
 ---
 title: Bouquets & Celebration
-permalink: /about-us/bouquets-n-celebration
+permalink: /about-us/bouquets-n-celebration/
 description: ""
 third_nav_title: Bouquets & Celebration
 ---
-
+# Navalites in our Community
+**Compliments from the Public**
 <img src="/images/bnc1.jpeg">
-<p>I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT- savvy older generation.</p>
+<p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."</p>
 <p>Member of Public (Feb 2022)</p>
 <p><strong><em>Visiting School Leaders from China</em></strong></p>
-<img style="width: 65%;" src="/images/bnc2.jpg" align = "left" />
+<img style="width: 65%;" src="/images/bnc2.jpg" align = "left" /> 
+"Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!" 
+***Visiting School Leaders from China***
+<p>
 <img style="width: 35%;" src="/images/bnc3.jpg" align = "right" />
 <p><em>"Very Inspiring" <br /></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
-<p><strong><em>"Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!"&nbsp;</em></strong></p>
+
 <p><em>"Thanks for the opportunity. My son was truly elated in going on this learning journey (to visit the Republic of Singapore Navy 188 Squadron). He shared that apart from all the fun activities, he realised that there are more career opportunities in Singapore, apart from the standard and well known ones! Thanks for planting the seed of hope in the kids. Also, kudos to your team of teachers. You are blessed!"</em><strong><em><br /></em></strong><em><strong>Parent of child in Sec 1 Talent Development Programme</strong></em></p>
 <p><em>"Very dedicated staff; impressive; going the extra mile; very professional and supportive"</em><strong><em><br /></em></strong><em><strong>Organising Committee Members for the Asian Schools Table Tennis Competition</strong></em></p>
 <img style="width: 65%;" src="/images/bnc4.jpg" align = "left" />
