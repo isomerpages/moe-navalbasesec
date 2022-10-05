@@ -17,13 +17,14 @@ locations:
 contacts:
   - content:
       - phone: +65 6257 1996
-      - email: nbss@moe.edu.sg
-      - other: "Nearest MRT Station: Khatib"
+      - email: ""
+      - other: "Nearest MRT Station: Khatib / Buses from side gate: 807, 811 / Buses
+          from main gate: 39, 85, 85A, 117, 851, 851e, 852, 853, 853M, 854,
+          854e, 855, 857, 857A, 858, 965, 969"
     title: Telephone
   - content:
       - phone: +65 6755 7706
-      - email: careers@abc.gov.sg
-      - other: "Buses from side gate: 807, 811. Buses from main gate: 39, 85, 85A, 117,
-          851, 851e, 852, 853, 853M, 854, 854e, 855, 857, 857A, 858, 965, 969"
+      - email: nbss@moe.edu.sg
+      - other: ""
     title: Fax
 ---
