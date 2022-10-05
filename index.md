@@ -18,6 +18,5 @@ sections:
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
-      title: WELCOME
-      subtitle: Naval Base Secondary School
+      title: WELCOME!
 ---
