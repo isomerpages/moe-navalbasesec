@@ -19,6 +19,9 @@ links:
     collection: academic-curriculum
   - title: Student Development Curriculum
     collection: experience
+  - title: For Prospective Students
+    url: /admissions
+    sublinks: []
   - title: For Navalites
     url: /for-navalities/nbss-pyramid-of-success-pos
     sublinks:
