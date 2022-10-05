@@ -15,7 +15,7 @@ sections:
         - title: Achievements
           description: For School, Staff and Students
           url: /about-us/bouquets-n-celebration/school
-        - title: Events
-          description: Events Calendar
+        - title: Social Media
+          description: See Our Latest Happenings!
           url: /nbss/calendar
 ---
