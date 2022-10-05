@@ -14,7 +14,7 @@ sections:
           url: /nbss/announcements
         - title: Achievements
           description: For School, Staff and Students
-          url: /about-us/bouquets-n-celebration/school
+          url: /about-us/bouquets-n-celebration
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
