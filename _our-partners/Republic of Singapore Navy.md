@@ -3,6 +3,7 @@ title: Republic of Singapore Navy
 permalink: /partners-of-nbss/rsn/
 description: ""
 ---
+# 8th Flotilla, Republic of Singapore Navy
 <img src="/images/rsn.jpg">
 <p>Naval Base Secondary School was proud to be given the opportunity to establish links with the Republic of Singapore Navy (RSN) in 1999. In an effort to instil pride in our roots and history, the names of the Missile Corvettes in the 8th Flotilla of the RSN - Victory, Valiant, Vigour, Valour and Vigilance were adopted.</p>
 	
