@@ -16,6 +16,6 @@ sections:
           description: For School, Staff and Students
           url: /about-us/bouquets-n-celebration/school
         - title: Social Media
-          description: See Our Latest Happenings!
+          description: View Our Latest Happenings!
           url: /nbss/calendar
 ---
