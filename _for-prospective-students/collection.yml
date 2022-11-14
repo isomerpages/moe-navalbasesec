@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - NBSS e–OPEN HOUSE.md
+      - DSA @ NBSS/Why NBSS?.md
       - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/.keep
       - DSA in Art.md
