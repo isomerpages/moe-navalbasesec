@@ -1,15 +1,49 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logohome.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Academic Curriculum
+    collection: academic-curriculum
+  - title: Student Development Curriculum
+    collection: student-development-curriculum
+  - title: For Prospective Students
+    url: /admissions
+    sublinks:
+      - title: NBSS e–OPEN HOUSE
+        url: /nbss-e-open-house/
+      - title: DSA @ NBSS
+        url: /nbss-curriculum/dsa-at-nbss/
+      - title: DSA in Art
+        url: /nbss-curriculum/dsa-at-nbss/
+      - title: Social Media
+        url: /for-prospective-students/socialmedia/
+  - title: For Navalites
+    url: /for-navalities/nbss-pyramid-of-success-pos
+    sublinks:
+      - title: NBSS Pyramid of Success (PoS)
+        url: /for-navalities/nbss-pyramid-of-success-pos
+      - title: SHIPSHAPE
+        url: /for-navalities/shipshape-in-target-setting-n-monitoring
+      - title: Home-Based Learning
+        url: /for-navalities/home-based-learning
+      - title: 2021 Electronic Yearbook
+        url: /for-navalities/2021-electronic-yearbook
+      - title: Timetable, Booklist & Uniform
+        url: /for-navalities/timetable-booklist-n-uniform/booklist-2022
+      - title: Financial Assistance
+        url: /for-navalities/financial-assistance/moe-financial-assistance-scheme
+      - title: Student Well-being
+        url: /for-navalities/student-well-being/counselling
+      - title: Poly EAE
+        url: /for-navalities/poly-eae
+      - title: ITE EAE
+        url: /for-navalites/iteeae
+  - title: For Parents
+    url: /parents-at-nbss/announcements
+    sublinks:
+      - title: Announcements
+        url: /nbss/announcements/
+      - title: Termly letters
+        url: /parents-at-nbss/termly-letters
+      - title: 2022 Secondary 1 Registration
+        url: /parents-at-nbss/2022-secondary-1-registration

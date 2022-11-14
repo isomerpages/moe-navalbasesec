@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Heritage.md
+      - Our Identity.md
+      - Our School Song.md
+      - Our Campus.md
+      - Our Achievements.md
+      - Social Media.md
+      - Our Family (Staff).md
+      - Our Valued Partners/.keep
+      - Our Valued Partners/Our Valued Partners.md
+      - Our Valued Partners/NBSS Alumni.md
+      - Our Valued Partners/Republic of Singapore Navy.md
+      - Our Valued Partners/School Advisory Committee.md
