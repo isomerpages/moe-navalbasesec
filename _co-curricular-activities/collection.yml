@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Physical Sports/Football (Boys).md
       - Physical Sports/Table Tennis.md
       - Physical Sports/.keep
       - Performing & Visual Arts/Choir.md
