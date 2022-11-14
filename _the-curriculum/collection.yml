@@ -2,7 +2,6 @@ collections:
   the-curriculum:
     output: true
     order:
-      - Structure.md
       - Content.md
       - Enhanced Art Programme.md
       - Co–Curricular Programme.md
