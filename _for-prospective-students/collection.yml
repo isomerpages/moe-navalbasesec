@@ -2,6 +2,7 @@ collections:
   for-prospective-students:
     output: true
     order:
+      - 2022 Secondary 1 Registration/Higher Mother Tongue Eligibility.md
       - 2022 Secondary 1 Registration/E–registration for Naval Base Secondary
         School.md
       - 2022 Secondary 1 Registration/2022 Secondary 1 Registration.md
