@@ -171,33 +171,33 @@ third_nav_title: Co Curricular Activities (CCA)
 <th>Uniform Groups</th>
 </tr>
 <tr>
-<td>Art Club</a></td>
-<td>Choir</a></td>
-<td>Basketball</a></td>
-<td>Girl Guides</a></td>
+<td>Art Club</td>
+<td>Choir</td>
+<td>Basketball</td>
+<td>Girl Guides</td>
 </tr>
 <tr>
-<td>InfoComm Club</a></td>
-<td>Dance</a></td>
-<td>Netball</a></td>
-<td>National Cadet Corps</a></td>
+<td>InfoComm Club</td>
+<td>Dance</td>
+<td>Netball</td>
+<td>National Cadet Corps</td>
 </tr>
 <tr>
-<td>Service Learning Club</a></td>
-<td>English Drama</a></td>
-<td>Sepak Takraw</a></td>
-<td>National Police Cadet Corps</a></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>Symphonic Band</a></td>
-<td>Football</a></td>
-<td>St John Brigade</a></td>
+<td>Service Learning Club</td>
+<td>English Drama</td>
+<td>Sepak Takraw</td>
+<td>National Police Cadet Corps</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
+<td>Symphonic Band</td>
+<td>Football</td>
+<td>St John Brigade</td>
+</tr>
+<tr>
 <td>&nbsp;</td>
-<td>Table Tennis</a></td>
+<td>&nbsp;</td>
+<td>Table Tennis</td>
 </tr>
 </tbody>
 </table>
