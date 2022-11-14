@@ -1,4 +1,5 @@
 collections:
   for-prospective-students:
     output: true
-    order: []
+    order:
+      - NBSS e–OPEN HOUSE.md
