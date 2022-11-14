@@ -55,5 +55,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>For more information on Full SBB, visit [the MOE microsite on FSBB.](www.moe.gov.sg/microsites/psle-fsbb)</p>
+
+For more information on Full SBB, visit [the MOE microsite on FSBB.](www.moe.gov.sg/microsites/psle-fsbb)
 <p>For more information on how our school will be implementing Full SBB, you can contact us at&nbsp;<a href="mailto:nbss@moe.edu.sg">nbss@moe.edu.sg</a></p>
