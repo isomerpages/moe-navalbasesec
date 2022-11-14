@@ -18,4 +18,5 @@ sections:
           description: View Our Latest Happenings!
           url: /nbss/socmed
       title: WELCOME!
+      background: /images/NBSS Hero Banner.png
 ---
