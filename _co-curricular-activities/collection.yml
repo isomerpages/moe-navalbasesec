@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/National Police Cadet Corps (NPCC).md
       - Uniformed Groups/St John Brigade (SJB).md
       - Physical Sports/Basketball.md
       - Physical Sports/Netball (Girls).md
