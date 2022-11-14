@@ -4,9 +4,7 @@ permalink: /nbss-curriculum/music/ordinary-level-music/eligibility-and-selection
 description: ""
 third_nav_title: Music
 ---
-
-
-<p><strong><u>Application for GCE O-Level Music Course (2021&ndash;2022)</u></strong></p>
+<p><strong><u>Application for GCE O-Level Music Course (2023)</u></strong></p>
 <p>The application is open to students currently studying in the Secondary 2 Express, Secondary 2 Normal (Academic), or Secondary 3 Normal (Academic) streams.</p>
 <p><strong>All applicants are required to complete&nbsp;<u>all components</u>&nbsp;of the selection exercise, regardless of their attainment of certifications by external examination boards</strong>.</p>
 <p><u>Selection Exercise</u></p>
@@ -25,3 +23,8 @@ third_nav_title: Music
 </ul>
 <p>More detailed guidelines regarding the video recording(s) and Listening Test will be provided by the music teacher to the potential applicant during the briefing for the O-Level Music course in Term 3.</p>
 <p><strong>Applicants&nbsp;<u>must</u>&nbsp;meet the requirements of&nbsp;<u>both Components 1 and 2</u>&nbsp;to qualify for the course.</strong></p>
+<p><strong><u>Conduct of Lessons</u></strong></p>
+<p>Lessons will be held once a week, for approximately 3 hours, at an O-Level Music Centre that is near the school. Successful applicants will receive a notification letter to select the O-Level Music Centre in End-September.</p>
+<p>Successful applicants are advised to continue engaging in the practice of their instrument(s) outside curriculum hours to ensure that there is consistent progress and proficiency.</p>
+<p>For further clarifications, please contact the following officers:</p>
+<p>Ms Wong Yang Hui or Ms Phua Qi Qi<br />Tel: 62571996</p>
