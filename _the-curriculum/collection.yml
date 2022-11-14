@@ -2,7 +2,6 @@ collections:
   the-curriculum:
     output: true
     order:
-      - The Curriculum.md
       - Aims.md
       - Structure.md
       - Content.md
