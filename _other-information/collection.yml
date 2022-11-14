@@ -1,5 +1,4 @@
 collections:
   other-information:
     output: true
-    order:
-      - Art related Courses in Post Secondary Education.md
+    order: []
