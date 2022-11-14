@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OPEN HOUSE!!!
+        - title: Join us at our Open House!
           description: Sat 26 Nov 2022
           url: /nbss-e-open-house/
         - title: Achievements
