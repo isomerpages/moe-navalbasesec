@@ -1,5 +1,4 @@
 collections:
   the-curriculum:
     output: true
-    order:
-      - Co–Curricular Programme.md
+    order: []
