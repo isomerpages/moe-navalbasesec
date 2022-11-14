@@ -2,7 +2,6 @@ collections:
   for-prospective-students:
     output: true
     order:
-      - Social Media.md
       - NBSS e–OPEN HOUSE.md
       - DSA @ NBSS/.keep
       - DSA @ NBSS/DSA @ NBSS.md
@@ -12,3 +11,4 @@ collections:
       - DSA @ NBSS/Expectations of DSA Students.md
       - DSA @ NBSS/Learn More.md
       - DSA in Art.md
+      - Social Media.md
