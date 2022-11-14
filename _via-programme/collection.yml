@@ -2,5 +2,4 @@ collections:
   via-programme:
     output: true
     order:
-      - Students VIA.md
       - Staff VIA.md
