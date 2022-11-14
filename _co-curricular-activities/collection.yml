@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/St John Brigade (SJB).md
       - Physical Sports/Basketball.md
       - Physical Sports/Netball (Girls).md
       - Physical Sports/Sepak Takraw.md
