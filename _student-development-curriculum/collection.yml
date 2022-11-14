@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - VIA Programme.md
       - "Experience: Nurturing & Vibrant.md"
       - School as a Giant Art Gallery.md
       - NBSS Art Exhibition.md
