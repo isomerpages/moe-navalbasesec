@@ -1,5 +1,7 @@
 logo: /images/logohome.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Academic Curriculum
     collection: academic-curriculum
   - title: Student Development Curriculum
@@ -45,5 +47,3 @@ links:
         url: /parents-at-nbss/termly-letters
       - title: 2022 Secondary 1 Registration
         url: /parents-at-nbss/2022-secondary-1-registration
-  - title: About Us
-    collection: about-us
