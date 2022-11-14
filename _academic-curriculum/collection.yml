@@ -3,6 +3,13 @@ collections:
     output: true
     order:
       - Overview.md
+      - Full Subject Based Banding.md
+      - Talent Development @ NBSS.md
+      - English Language & Literature.md
+      - Mother Tongue Language.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) In Art.md
       - ALP/NBSS Aesthetics Development Framework.md
@@ -11,7 +18,19 @@ collections:
       - "ALP/Experience: Nurturing & Vibrant.md"
       - ALP/Other Information.md
       - LLP – Character Education through Sports.md
-      - Full Subject Based Banding.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Information on PE.md
+      - Design & Technology.md
+      - Nutrition and Food Science (NFS).md
+      - Computer Applications (CPA).md
+      - Music/.keep
+      - Music/Music.md
+      - Music/General Music Programme (GMP).md
+      - Music/Normal (Technical) Level Music.md
+      - Music/Ordinary Level Music.md
+      - Music/Music Recording & Production Programme (MRPP).md
+      - Music/Music Related Courses in Post Secondary Education.md
       - DSA @ NBSS/.keep
       - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/Why NBSS?.md
@@ -19,7 +38,6 @@ collections:
       - DSA @ NBSS/Application Process.md
       - DSA @ NBSS/Expectations of DSA Students.md
       - DSA @ NBSS/Learn More.md
-      - Talent Development @ NBSS.md
       - CCE/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/NBSS CCE Framework.md
@@ -30,21 +48,3 @@ collections:
       - CCE/National Education.md
       - CCE/Education and Career Guidance (ECG).md
       - Co–Curricular Activities.md
-      - Design & Technology.md
-      - Nutrition and Food Science (NFS).md
-      - English Language & Literature.md
-      - Humanities.md
-      - Mathematics.md
-      - Computer Applications (CPA).md
-      - Mother Tongue Language.md
-      - Music/.keep
-      - Music/Music.md
-      - Music/General Music Programme (GMP).md
-      - Music/Normal (Technical) Level Music.md
-      - Music/Ordinary Level Music.md
-      - Music/Music Recording & Production Programme (MRPP).md
-      - Music/Music Related Courses in Post Secondary Education.md
-      - Physical Education/.keep
-      - Physical Education/Physical Education.md
-      - Physical Education/Information on PE.md
-      - Science.md
