@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - NBSS e–OPEN HOUSE.md
-      - DSA @ NBSS/Learn More.md
-      - DSA @ NBSS/Expectations of DSA Students.md
-      - DSA @ NBSS/Application Process.md
-      - DSA @ NBSS/Selection Criteria.md
-      - DSA @ NBSS/Why NBSS?.md
-      - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/.keep
+      - DSA @ NBSS/DSA @ NBSS.md
+      - DSA @ NBSS/Why NBSS?.md
+      - DSA @ NBSS/Selection Criteria.md
+      - DSA @ NBSS/Application Process.md
+      - DSA @ NBSS/Expectations of DSA Students.md
+      - DSA @ NBSS/Learn More.md
       - DSA in Art.md
