@@ -4,10 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtdXY7QPuFY9mJpUW_XJna_6KJ4ZY02KGgARQF54UByeienHaUz3k2dQjZ91iiwjALnpQh0Y4WsKW8/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <p><strong><u>NBSS CCA</u></strong></p>
 <p>CCAs are an integral part of our students&rsquo; holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students&rsquo; sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
@@ -157,7 +153,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </table>
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
 <p><strong class=""><span class="" lang="EN-SG"><u>2022 CCA Schedule<br /></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20schedule%20timing%20venues2022.pdf">CCA schedule timing venues2022.pdf</a><br /></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
-<p><strong>CCA</strong></p>
+<p><strong>CCAs Available at NBSS</strong></p>
 <table>
 <tbody>
 <tr>
@@ -175,33 +171,33 @@ third_nav_title: Co Curricular Activities (CCA)
 <th>Uniform Groups</th>
 </tr>
 <tr>
-<td><a href="/nbss-curriculum/co-curricular-activities/performing-arts/art-club">Art Club</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/performing-arts/choir">Choir</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/physical-sports/basketball">Basketball</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/uniformed-groups/girl-guides">Girl Guides</a></td>
+<td>Art Club</a></td>
+<td>Choir</a></td>
+<td>Basketball</a></td>
+<td>Girl Guides</a></td>
 </tr>
 <tr>
-<td><a href="/nbss-curriculum/co-curricular-activities/clubs-and-societies/infocomm-club">InfoComm Club</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/performing-arts/dance-club">Dance</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/physical-sports/netball-girls">Netball</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/uniformed-groups/national-cadet-corps-ncc">National Cadet Corps</a></td>
+<td>InfoComm Club</a></td>
+<td>Dance</a></td>
+<td>Netball</a></td>
+<td>National Cadet Corps</a></td>
 </tr>
 <tr>
-<td><a href="/nbss-curriculum/co-curricular-activities/clubs-and-societies/library-club">Service Library Club</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/performing-arts/drama-club-english">English Drama</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/physical-sports/sepak-takraw">Sepak Takraw</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/uniformed-groups/national-police-cadet-corps-npcc">National Police Cadet Corps</a></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td><a href="/nbss-curriculum/co-curricular-activities/performing-arts/symphonic-band">Symphonic Band</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/physical-sports/football-boys">Football</a></td>
-<td><a href="/nbss-curriculum/co-curricular-activities/uniformed-groups/st-john-brigade-sjb">St John Brigade</a></td>
+<td>Service Learning Club</a></td>
+<td>English Drama</a></td>
+<td>Sepak Takraw</a></td>
+<td>National Police Cadet Corps</a></td>
 </tr>
 <tr>
 <td>&nbsp;</td>
+<td>Symphonic Band</a></td>
+<td>Football</a></td>
+<td>St John Brigade</a></td>
+</tr>
+<tr>
 <td>&nbsp;</td>
-<td><a href="/nbss-curriculum/co-curricular-activities/physical-sports/table-tennis">Table Tennis</a></td>
+<td>&nbsp;</td>
+<td>Table Tennis</a></td>
 </tr>
 </tbody>
 </table>
