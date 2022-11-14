@@ -13,7 +13,7 @@ sections:
           url: /nbss-e-open-house/
         - title: Achievements
           description: For School, Staff and Students
-          url: /about-us/bouquets-n-celebration
+          url: /about-us/Achievements/permalink/
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
