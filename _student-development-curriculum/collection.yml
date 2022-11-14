@@ -2,7 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
-      - Student Council.md
+      - Student Leadership.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - "Co Curricular Activities (CCA)/Sports: Basketball.md"
