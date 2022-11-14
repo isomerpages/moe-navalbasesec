@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Valued Partners/Republic of Singapore Navy.md
       - Our Valued Partners/School Advisory Committee.md
       - Our Valued Partners/.keep
       - NBSS Alumni.md
