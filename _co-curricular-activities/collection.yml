@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Physical Sports/Basketball.md
       - Physical Sports/Netball (Girls).md
       - Physical Sports/Sepak Takraw.md
       - Physical Sports/Football (Boys).md
