@@ -1,6 +1,6 @@
 ---
 title: Ordinary Level Music
-permalink: /nbss-curriculum/music/ordinary-level-music
+permalink: /nbss-curriculum/music/ordinary-level-music/
 description: ""
 third_nav_title: Music
 ---
@@ -59,4 +59,4 @@ third_nav_title: Music
 </tbody>
 </table>
 <p>For information on the current syllabus, visit the Singapore Examinations and Assessment Board at&nbsp;<a href="https://tinyurl.com/OLevelMusic2020">https://tinyurl.com/OLevelMusic2020</a>.</p>
-<p><strong>Note: NBSS does not offer the O-level Music course in the school. Students who are interested to offer the course will attend lessons at a nearby O-level Music Centre (see &ldquo;<a href="/nbss-curriculum/music/ordinary-level-music/other-information">Other Information</a>&rdquo;). </strong></p>
+<p><strong>Note: NBSS does not offer the O-level Music course in the school. Students who are interested to offer the course will attend lessons at a nearby O-level Music Centre. </strong></p>
