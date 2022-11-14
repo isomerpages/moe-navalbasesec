@@ -1,9 +1,8 @@
 ---
 title: Full Subject Based Banding
-permalink: /nbss-curriculum/full-subject-based-banding
+permalink: /nbss-curriculum/full-subject-based-banding/
 description: ""
 ---
-
 <h4><strong>Full Subject-Based Banding (Full SBB)</strong></h4>
 <p><strong>Full Subject-Based Banding<br /></strong>Naval Base Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.</p>
 <p><strong>Purpose of Full SBB<br /></strong>Full SBB is part of MOE&rsquo;s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.</p>
@@ -56,5 +55,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>For more information on Full SBB, visit&nbsp;<a href="www.moe.gov.sg/microsites/psle-fsbb" target="_blank" rel="noopener">www.moe.gov.sg/microsites/psle-fsbb</a><u>.</u></p>
+<p>For more information on Full SBB, visit [the MOE microsite on FSBB.](www.moe.gov.sg/microsites/psle-fsbb)</p>
 <p>For more information on how our school will be implementing Full SBB, you can contact us at&nbsp;<a href="mailto:nbss@moe.edu.sg">nbss@moe.edu.sg</a></p>
