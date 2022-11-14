@@ -17,5 +17,5 @@ sections:
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
-      background: /images/NBSS Hero Banner.png
+      background: /images/NBSS Hero Banner1.png
 ---
