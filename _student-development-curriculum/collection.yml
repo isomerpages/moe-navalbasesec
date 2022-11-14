@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Sepak Takraw.md
       - Netball (Girls).md
       - Basketball.md
       - St John Brigade (SJB).md
