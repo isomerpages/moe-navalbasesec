@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Girl Guides.md
       - Co Curricular Activities (CCA)/National Police Cadet Corps (NPCC).md
       - Co Curricular Activities (CCA)/National Cadet Corps (NCC).md
       - Co Curricular Activities (CCA)/St John Brigade (SJB).md
