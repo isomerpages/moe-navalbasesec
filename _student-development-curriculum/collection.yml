@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Character & Citizenship Edu/NBSS CCE Framework.md
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/.keep
       - LLP – Character Education through Sports.md
