@@ -2,6 +2,7 @@ collections:
   for-prospective-students:
     output: true
     order:
+      - 2022 Secondary 1 Registration/Secondary 1 Orientation Programme.md
       - 2022 Secondary 1 Registration/First Day of School.md
       - 2022 Secondary 1 Registration/Navalite Handbook.md
       - 2022 Secondary 1 Registration/School Smart Cards for Concessionary
