@@ -1,5 +1,5 @@
 collections:
-  experience:
+  student-development-curriculum:
     output: true
     order:
       - "Experience: Nurturing & Vibrant.md"
