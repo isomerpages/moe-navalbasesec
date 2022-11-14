@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/Art Club.md
       - Clubs & Societies/InfoComm Club.md
       - Clubs & Societies/Library Club.md
       - Clubs & Societies/.keep
