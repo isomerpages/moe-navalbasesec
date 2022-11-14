@@ -153,7 +153,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </table>
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
 <p><strong class=""><span class="" lang="EN-SG"><u>2022 CCA Schedule<br /></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20schedule%20timing%20venues2022.pdf">CCA schedule timing venues2022.pdf</a><br /></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
-<p><strong>CCAs Available at NBSS</strong></p>
+<p><strong>CCAs Available at NBSS: Do check out the CCAs' pages via the menu on the left!</strong></p>
 <table>
 <tbody>
 <tr>
