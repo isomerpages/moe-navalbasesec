@@ -1,0 +1,4 @@
+collections:
+  for-prospective-students:
+    output: true
+    order: []
