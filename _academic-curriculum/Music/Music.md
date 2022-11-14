@@ -4,7 +4,6 @@ permalink: /nbss-curriculum/music/
 description: ""
 third_nav_title: Music
 ---
-
 <p><strong>Music</strong></p>
 <p>The school&rsquo;s music programme helps develop students&rsquo; musical knowledge as well as an understanding and appreciation of music in a manner both meaningful and relevant to students.</p>
 <p>Through music learning, students also develop extra-musical skills and 21<sup>st</sup>&nbsp;century competencies, such as critical thinking, psychomotor skills, social awareness, and moral and cultural values, all of which contribute to their holistic development.</p>
