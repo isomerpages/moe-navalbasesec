@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Staff VIA.md
       - Students VIA.md
       - VIA Programme.md
       - "Experience: Nurturing & Vibrant.md"
