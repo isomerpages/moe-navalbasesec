@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - Values in Action (VIA)/Staff VIA.md
       - Values in Action (VIA)/Students VIA.md
       - Values in Action (VIA)/VIA Programme.md
       - Values in Action (VIA)/.keep
