@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Physical Sports/.keep
       - Performing & Visual Arts/Choir.md
       - Performing & Visual Arts/Dance Club.md
       - Performing & Visual Arts/Drama Club (English).md
