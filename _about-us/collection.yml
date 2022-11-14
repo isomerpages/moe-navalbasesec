@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School as a Giant Art Gallery.md
       - Our Valued Partners/NBSS Alumni.md
       - Our Valued Partners/Republic of Singapore Navy.md
       - Our Valued Partners/School Advisory Committee.md
