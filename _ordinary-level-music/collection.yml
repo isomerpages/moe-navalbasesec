@@ -2,5 +2,4 @@ collections:
   ordinary-level-music:
     output: true
     order:
-      - Application Process and Key Dates.md
       - Other Information.md
