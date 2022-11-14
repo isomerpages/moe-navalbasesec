@@ -1,5 +1,4 @@
 collections:
   via-programme:
     output: true
-    order:
-      - Staff VIA.md
+    order: []
