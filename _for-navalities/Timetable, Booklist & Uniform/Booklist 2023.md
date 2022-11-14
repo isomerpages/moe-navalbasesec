@@ -16,5 +16,5 @@ third_nav_title: Timetable, Booklist & Uniform
 *   The website will be open from 3 November 2022 to 13 Dec 2022.
 	
 **Booklists**
-	
-Booklists for 2023 Secondary 1 Navalites will be made available in due course. 
+
+Booklists for 2023 Secondary 1 Navalites will be made available in due course.
