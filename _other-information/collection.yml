@@ -2,5 +2,4 @@ collections:
   other-information:
     output: true
     order:
-      - National Art Exam Syllabuses.md
       - Art related Courses in Post Secondary Education.md
