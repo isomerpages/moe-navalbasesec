@@ -2,6 +2,5 @@ collections:
   ordinary-level-music:
     output: true
     order:
-      - Eligibility and Selection Criteria.md
       - Application Process and Key Dates.md
       - Other Information.md
