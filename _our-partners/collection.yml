@@ -2,5 +2,4 @@ collections:
   our-partners:
     output: true
     order:
-      - NBSS Alumni.md
       - Republic of Singapore Navy.md
