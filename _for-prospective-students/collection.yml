@@ -2,4 +2,5 @@ collections:
   for-prospective-students:
     output: true
     order:
+      - DSA (Art).md
       - NBSS e–OPEN HOUSE.md
