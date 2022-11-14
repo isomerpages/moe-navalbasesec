@@ -3,7 +3,4 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Announcements/.keep
-      - Announcements/Announcements.md
-      - Announcements/PDLP.md
       - Termly letters.md
