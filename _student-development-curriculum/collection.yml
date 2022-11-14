@@ -2,10 +2,10 @@ collections:
   student-development-curriculum:
     output: true
     order:
-      - Values in Action (VIA)/Staff VIA.md
-      - Values in Action (VIA)/Students VIA.md
-      - Values in Action (VIA)/VIA Programme.md
       - Values in Action (VIA)/.keep
+      - Values in Action (VIA)/VIA Programme.md
+      - Values in Action (VIA)/Students VIA.md
+      - Values in Action (VIA)/Staff VIA.md
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - Co Curricular Activities (CCA)/Girl Guides.md
       - Co Curricular Activities (CCA)/National Police Cadet Corps (NPCC).md
