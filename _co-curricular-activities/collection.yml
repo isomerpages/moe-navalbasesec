@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing & Visual Arts/Symphonic Band.md
       - Performing & Visual Arts/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/InfoComm Club.md
