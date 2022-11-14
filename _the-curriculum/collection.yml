@@ -2,6 +2,5 @@ collections:
   the-curriculum:
     output: true
     order:
-      - Content.md
       - Enhanced Art Programme.md
       - Co–Curricular Programme.md
