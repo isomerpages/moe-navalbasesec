@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - St John Brigade (SJB).md
       - National Police Cadet Corps (NPCC).md
       - National Cadet Corps (NCC).md
       - Girl Guides.md
