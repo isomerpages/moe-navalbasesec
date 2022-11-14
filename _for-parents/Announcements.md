@@ -20,3 +20,8 @@ Our school community is very active on social media with frequent updates at [ou
 
 # 2021 Electronic Yearbook
 <p>Our 2021 Electronic Yearbook is <a href="https://drive.google.com/drive/folders/1Nz8hISJdGzdwJt6gkyXvSQHi2-lThDcB?usp=sharing" target="_blank" rel="noopener">available for download here</a>.
+	
+# The Apple iPad: Navalites' Personal Learning Device
+	
+<p><strong>Supporting Information on PDLP</strong><br />As a Phase 1 school for the National Digital Literacy Programme, all Navalites enjoy access to their own iPads, funded by a combination of Edusave, subsidies (where applicable) and cash top-ups (where necessary). Please see below for more information on our Navalites Personal Learning Devices: the Apple iPad. <p></p>
+<a href="/files/PDLP%20Slides%20For%20Website.pdf">PDLP Slides For Website.pdf</a><br /><a href="/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook I on Learning with a PLD.pdf</a><br /><a href="/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook II on Learning with a PLD.pdf</a><br /><a href="/files/Frequently%20Asked%20Questions%20PDLP%202022.pdf">Frequently Asked Questions PDLP 2022.pdf</a></p>
