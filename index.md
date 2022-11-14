@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
-          description: For Year 2022
-          url: /nbss/announcements
+        - title: OPEN HOUSE!!!
+          description: Sat 26 Nov 2022
+          url: /nbss-e-open-house/
         - title: Achievements
           description: For School, Staff and Students
           url: /about-us/bouquets-n-celebration
