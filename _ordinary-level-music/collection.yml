@@ -1,5 +1,4 @@
 collections:
   ordinary-level-music:
     output: true
-    order:
-      - Other Information.md
+    order: []
