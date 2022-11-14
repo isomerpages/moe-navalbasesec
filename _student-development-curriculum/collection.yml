@@ -2,6 +2,7 @@ collections:
   student-development-curriculum:
     output: true
     order:
+      - National Cadet Corps (NCC).md
       - Girl Guides.md
       - Co–Curricular Activities.md
       - Applied Learning in Art (ALP)/.keep
