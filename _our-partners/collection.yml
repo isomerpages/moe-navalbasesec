@@ -2,6 +2,5 @@ collections:
   our-partners:
     output: true
     order:
-      - School Advisory Committee.md
       - NBSS Alumni.md
       - Republic of Singapore Navy.md
