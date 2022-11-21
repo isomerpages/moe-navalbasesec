@@ -1,9 +1,10 @@
 ---
 title: Booklist 2023
-permalink: /for-navalities/timetable-booklist-n-uniform/booklist-2022/
+permalink: /for-navalities/timetable-booklist-n-uniform/
 description: ""
 third_nav_title: Timetable, Booklist & Uniform
 ---
+
 # Book Sales for 2023
 	       
 **Books & Stationery Purchase:**
