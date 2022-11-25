@@ -12,6 +12,10 @@ description: ""
 <p>Our Science curriculum takes into consideration the different learning experiences for our students. Teachers are guided by the core ideas and essential question when they plan and deliver their lessons. We adopt the 5E Instructional Model to plan an inquiry-oriented student-centric lesson. Teachers are equipped with a repertoire of teaching strategies to cater to the different learning profile of the students. Examples of the teaching pedagogies used include teacher-directed learning, Socratic questioning, Making Thinking Visible routines, collaborative learning, flipped classroom, peer teaching, oral presentation, Cornell note-taking, mind mapping and the use of games for learning.</p>
 <p>Our department also believes in using varied mode of assessments, ranging from oral presentations to projects to practical and written papers, to provide a holistic assessment of our students. Formative assessment in the form of quizzes and model making are also used to provide information of the extent of learning, understanding of concepts and mastery of skills.</p>
 
+![](/images/Sci/IMG_2208.jpg)
+![](/images/IMG_1080.jpg)
+
+
 <p><strong>Teaching &amp; Learning - Science&nbsp;</strong></p>
 <table>
 <tbody>
@@ -29,10 +33,9 @@ description: ""
  **‘Signature STEM ExCEL Programme’**
 	         
 Our STEM ExCEL Programme is an enrichment programme that aims to strengthen the interest and capabilities of our students in STEM. We want our students to be curious about the world around them, to think creatively and critically in solving problems and to be concerned citizens who make positive difference to the life of others.
-	![](/images/Sci/STEM%20ExCEL_main%20logo.png)
-	![](/images/Sci/STEM%20ExCEL_pillars.png)
-         
+![](/images/Sci/STEM%20ExCEL_pillars.png)
 
+	      
 **Secondary 1 - STEM Exploration**
 	
 In their 1st year, students are exposed to different fields in STEM through a variety of activities as shown below. These activities also allow students to gain better understanding of the applications of the three science disciplines and enhance their awareness of STEM careers.	
