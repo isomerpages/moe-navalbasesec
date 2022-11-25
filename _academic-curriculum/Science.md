@@ -30,7 +30,7 @@ description: ""
 </tbody>
 </table>
 
- **‘Signature STEM ExCEL Programme’**
+ **Signature STEM ExCEL Programme**
 	         
 Our STEM ExCEL Programme is an enrichment programme that aims to strengthen the interest and capabilities of our students in STEM. We want our students to be curious about the world around them, to think creatively and critically in solving problems and to be concerned citizens who make positive difference to the life of others.
 ![](/images/Sci/STEM%20ExCEL_pillars.png)
