@@ -48,7 +48,8 @@ In their 1st year, students are exposed to different fields in STEM through a va
 (e)	Student-Initiated Learning – STEM-infused Science Module (from 2023 onwards)
 	
 (f)	Competitions for selected students (Science Buskers Festivals)
-	
+
+![](/images/Sci/IMG_6925_(1)_(1).jpg)
         
 **Secondary 2 – STEM Connection**
 	
