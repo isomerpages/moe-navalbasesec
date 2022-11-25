@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /nbss-curriculum/science
+permalink: /nbss-curriculum/science/
 description: ""
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWKZpAKGYbhMqo6bRmMpCPamVY5tL6pgqTekQzBWRGIrtH2Nm6mLljOLihqM2s6WDgQ84u6KLkkWYU/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
@@ -9,9 +9,14 @@ description: ""
 <img style="width: 100%;" src="/images/sci1.jpg" />
 <p><strong>Curriculum, Pedagogy and Assessment</strong></p>
 <p>Our Science curriculum framework was derived from Ministry of Education&rsquo;s Policy Framework for the teaching and learning of Science which seeks to inculcate and nurture the spirit of inquiry and curiosity. This framework guides us in designing and crafting our lesson packages and enrichment program to provide an authentic learning experience for our students as well as develop the desired thinking dispositions in them and during the process bring about Joy of Learning for Science.</p>
-<p>Our Science programme takes into consideration the different learning experiences for our students. Teachers are guided by the core ideas and essential question when they plan and deliver their lessons. We adopt the 5E Instructional Model to plan an inquiry-oriented student-centric lesson. Teachers are equipped with a repertoire of teaching strategies to cater to the different learning profile of the students. Examples of the teaching pedagogies used include teacher-directed learning, Socratic questioning, Making Thinking Visible routines, collaborative learning, flipped classroom, peer teaching, oral presentation, Cornell note-taking, mind mapping and the use of games for learning.</p>
+<p>Our Science curriculum takes into consideration the different learning experiences for our students. Teachers are guided by the core ideas and essential question when they plan and deliver their lessons. We adopt the 5E Instructional Model to plan an inquiry-oriented student-centric lesson. Teachers are equipped with a repertoire of teaching strategies to cater to the different learning profile of the students. Examples of the teaching pedagogies used include teacher-directed learning, Socratic questioning, Making Thinking Visible routines, collaborative learning, flipped classroom, peer teaching, oral presentation, Cornell note-taking, mind mapping and the use of games for learning.</p>
 <p>Our department also believes in using varied mode of assessments, ranging from oral presentations to projects to practical and written papers, to provide a holistic assessment of our students. Formative assessment in the form of quizzes and model making are also used to provide information of the extent of learning, understanding of concepts and mastery of skills.</p>
-<img src="/images/sci2.png">
+
+![](/images/Sci/IMG_5586.jpg)
+![](/images/Sci/IMG_1155.jpg)
+
+
+
 <p><strong>Teaching &amp; Learning - Science&nbsp;</strong></p>
 <table>
 <tbody>
@@ -25,133 +30,102 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>Post Exam Activities 2020</strong></p>
-<p><strong>Overview of Science Curriculum</strong></p>
-<img src="/images/sci3.png">
-<p><strong>(A) Key Programmes<br /></strong><strong>Sec 1 Show &amp; Tell</strong></p>
-<p>Since 2015, Secondary 1 students&nbsp;have been given opportunities to&nbsp;demonstrate their understanding of scientific principles or concepts through simple experiments or model- or toy-making. As independent learners, students acquire knowledge beyond the textbooks and are given opportunities to ask questions and reflection during presentations.</p>
-<img src="/images/sci4.png">
-<p><strong>Sec 2 Inquiry-Based Project</strong></p>
-<p>Since 2013, Secondary Two Express students have been involved in an inquiry-based project with the objective of inculcating in students a spirit of scientific inquiry as they expand their learning beyond classroom. Students learn to apply creative and critical thinking skills and foster collaboration when they work with their team members. They also acquire the essential scientific process skills, including interpreting and analysing experimental data, and making logical conclusions. At the same time, students hone their communication skills when they present their projects to their peers and teachers.</p>
-<img src="/images/sci5.png">
-<p><strong>(B) Competitions<br /></strong><strong>Scientific Inquiry Research Experience @ Republic Polytechnic</strong></p>
-<p>The Scientific Inquiry Research Experience gives Navalites an avenue to conceptualize creative Science projects that aim to find innovative solutions to everyday problems or that use the scientific method to prove or disprove phenomena.</p>
-<p>Navalites get to observe first-hand that Science is a dynamic process where researchers often make new discoveries and re-examine earlier knowledge to try to improve, build upon, or extend on it.</p>
-<p>Through this programme, Navalites&nbsp;develop a variety of skills such as their ability to:</p>
-<p>- gather, process and organize information</p>
-<p>- manipulate materials and scientific instruments</p>
-<p>- analyse data and communicate their findings to others</p>
-<p>Through the process, Navalites develop new ways of thinking about and approaching a problem.</p>
-<div>
-<div class="">
-<table class="iveo_table ives_tab_1 ive_eobj_left">
-<tbody>
-<tr>
-<th style="text-align: center;">Year</th>
-<th style="text-align: center;">Scientific Inquiry Research Experience</th>
-<th style="text-align: center;">Class/Participants</th>
-</tr>
-<tr>
-<td>
-<p>2013</p>
-</td>
-<td>
-<p>The project, &lsquo;Effects of Household Wastewater on Plant Growth&rsquo;won the Outstanding Project Award. This project seeks to investigate the effectiveness of household wastewaters against a commercial fertilizer on plant growth.<img src="/images/sci6.jpg">
-</p>
-</td>
-<td>
-<p>Integrity 3-1:<br />Gerald Tay and Toh Siew Tin&nbsp;Integrity 3-2:<br />Karina Chua, Tristan Chia and Justyne Siao&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2015</p>
-</td>
-<td>
-<p>The project, &lsquo;Effectiveness of household materials in filtering&nbsp;polluted air&rsquo;, won the Outstanding Project Award. The team worked on finding the best household materials to filter air during a haze.<img src="/images/sci7.jpg"></p>
-</td>
-<td>
-<p>3E1:nCelestine Teo, Eugene Tan<br />2E2: Glenda Lee<br />2E1: Lim Kok Liang, Yeo Zi Wei</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2016</p>
-</td>
-<td>
-<p>&nbsp;The project,&rsquo;Fertilising Plants using Inedible Shells&rsquo;, was shared with the press and featured on &lsquo;Today&rsquo; newspaper. The students compared the effectiveness of using eight inedible shells as fertilizer in place of commercial fertilisers.<img src="/images/sci8.jpg"></p>
-</td>
-<td>
-<p>2-4: Javier Yit, Lucas Boo Sajja Ramyasr<br />i2-6: Nikki Yeo <br />3-5: Glenda Lee</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2018</p>
-</td>
-<td>
-<p>&nbsp;The project, &lsquo;Plants as solar cells&rsquo;, won the Outstanding Project&nbsp;Award. This group explored using chlorophyll extracted from fresh leaves to replace the silicone light-trapping components of a solar cell in an effort to come up with a more efficient solar cell that can be safely and easily disposed.<img src="/images/sci9.jpg"></p>
-</td>
-<td>
-<p>2-6: Chia Jun Hao, Reyes Justin Noel Dotimas <br />2-7: Arockia Raj Domenic Savio, Prisha Erika Mogan, Dale Michael, Nisay Punzalan&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>National Science Challenge</span></strong></p>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Year</th>
-<th style="text-align: center;">National Science Challenge</th>
-<th style="text-align: center;">Class/Participants</th>
-</tr>
-<tr>
-<td>
-<p>2018</p>
-</td>
-<td>
-<p>This competition is a televised game show that is broadcasted on MediaCorp's Channel 5, and aimed to give Secondary 3 students a chance to put their science knowledge and skills to the test.&nbsp;</p>
-</td>
-<td>
-<p>3-6: Andrianna Pang<br />Chen Shiman<br />Chong Phan Tue Chi<br />Linus Nguyen Thai Le</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2019</p>
-</td>
-<td>
-<p>The students were exposed to 60 multiple choice questions&nbsp;comprising of the three science disciplines which were an eye opener to them.</p>
-</td>
-<td>
-<p>3-5:&nbsp;Elliston Goh&nbsp;<br />Kathirvel Vanathi Harini<br />Jady Ng<br />Joshua Nicholas</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Math &amp; Science Challenge</strong></p>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Year</th>
-<th style="text-align: center;">Math &amp; Science Challenge</th>
-<th style="text-align: center;">Class/Participants</th>
-</tr>
-<tr>
-<td>
-<p>2019</p>
-</td>
-<td>
-<p>On the 13th of July, two teams from class 3-5 participated in the&nbsp;Math and Science Challenge organised by Jurong Pioneer Junior College. The challenge required them to bring forth their knowledge in the subjects of Math, Physics, Chemistry and Biology. During the science challenge, they had to collaborate in teams and listen to each other&rsquo;s views as they were stretched to think out of the box to solve the questions. Although the questions were unfamiliar to them, they had to adapt by tapping on each other&rsquo;s strengths.&nbsp;</p>
-<p>One team emerged 4th runner-up! It was definitely an enriching experience for all of them</p>
-<img src="/images/sci10.jpg">
-</td>
-<td>
-<p>3-5: Elliston Goh<br />Reyes Justin<br />Claire Javier<br />Casana Francine</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<p><strong>National Crystal Growing&nbsp;<br /></strong><br />NBSS Chemistry Department has embarked on crystal growing since 2011, when our students first emerged Top for overall schools in the YJC Crystal Growing Competition<br /><br />In 2012, our boys team achieved overall championship at the National Crystal Growing Competition organised by National University Of Singapore (NUS). Three of our students were given an honorary mention for the International crystal growing competition in 2014. Three teams of our students participated in the same competition organised by NUS this year. The journey has greatly enriched our students with good experimental skills and instilled in them traits like discipline and perseverance. Our teachers too have gained much expertise in crystal growing.&nbsp;<br /><br />Since 2014, we have established a yearly structured Crystal Growing Enrichment Programme for our Secondary Three Normal Academic students. This programme has aroused many of our students&rsquo; interest and allowed them to enjoy the fun side of Chemistry. As we explore the sustainability of this programme, we hope to continue working with our students to discover not just crystal growing techniques, but scientific thinking skills via research work.</p>
+
+ **Signature STEM ExCEL Programme**
+	         
+Our STEM ExCEL Programme is an enrichment programme that aims to strengthen the interest and capabilities of our students in STEM. We want our students to be curious about the world around them, to think creatively and critically in solving problems and to be concerned citizens who make positive difference to the life of others.
+![](/images/Sci/STEM%20ExCEL_pillars.png)
+
+	      
+**Secondary 1 - STEM Exploration**
+	
+In their 1st year, students are exposed to different fields in STEM through a variety of activities as shown below. These activities also allow students to gain better understanding of the applications of the three science disciplines and enhance their awareness of STEM careers.	
+	        
+(a)    Show & Tell	 
+	
+(b)    Choice of learning journey to Science Centre (DNA & Life/ DNA in Forensic Science/Flight Crash Course/Molecular Gastronomy) (from 2023 onwards)
+	
+(c)	STEM learning experience during lessons (from 2023 onwards)
+	
+(d)	UNTAME Event @ Science Centre
+	
+(e)	Student-Initiated Learning – STEM-infused Science Module (from 2023 onwards)
+	
+(f)	Competitions for selected students (Science Buskers Festivals)
+
+![](/images/Sci/IMG_6925_(1)_(1).jpg)
+
+![](/images/Sci/IMG_6933_(1)_(1).jpg)
+        
+**Secondary 2 – STEM Connection**
+	
+In their 2nd year, students will have enhanced learning experience through relating STEM to science, technology, society, and environment as shown below. In their learning experience, they will apply scientific concept and design thinking principles to solve various tasks
+	
+(a)	Learning Journey to Sungei Buloh and Sustainable Singapore Gallery (from 2023 onwards)
+	
+(b)	Growing sustainable edibles (from 2023 onwards)
+	
+(c)	STEM learning experience during lessons (from 2023 onwards)
+	
+(d)	Student-Initiated Learning – STEM-infused Science Module (from 2023 onwards)
+	
+(e)	Competitions for selected students (Science Buskers Festivals & International C.B. Paul Science Quiz)  
+![Paul Science](/images/Sci/Paul%20Science.jpg)	
+         
+**Secondary 3 – STEM Empowerment**	
+	
+In their 3rd year, students will be empowered through their participation in advanced STEM workshops, learning journeys and competitions. These workshops and competitions aim to 
+
+* 	        
+inculcate key science process skills such as scientific literacy, data representation, knowledge presentation, and
+* 	        
+engage students in purposeful conversations on STEM and innovate meaningful solutions to STEM challenges
+	
+        
+The workshops and competitions include:	
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:632247010; mso-list-type:hybrid; mso-list-template-ids:1246769378 1750861156 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:-; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:.75in; text-indent:-.25in; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.25in; text-indent:-.25in; font-family:"Courier New";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:1.75in; text-indent:-.25in; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.25in; text-indent:-.25in; font-family:Symbol;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:2.75in; text-indent:-.25in; font-family:"Courier New";} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.25in; text-indent:-.25in; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:3.75in; text-indent:-.25in; font-family:Symbol;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:4.25in; text-indent:-.25in; font-family:"Courier New";} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; margin-left:4.75in; text-indent:-.25in; font-family:Wingdings;} @list l1 {mso-list-id:1921213550; mso-list-type:hybrid; mso-list-template-ids:-719269574 333206860 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;} @list l1:level1 {mso-level-number-format:alpha-lower; mso-level-text:"\\(%1\\)"; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level2 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level3 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} @list l1:level4 {mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level5 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level6 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} @list l1:level7 {mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level8 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l1:level9 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
+
+(a)    Big Science Challenge
+
+(b)    Visit to Blood bank (from 2023 onwards)
+
+(c)     Amgen Lab workshop (from 2023 onwards)
+
+(d)    Choice of competitions/challenge
+
+\-          SISTEMIC – (from 2023 onwards)
+
+\-          National STEM Championship (from 2023 onwards)
+
+\-          NUS Chem-dot-Comm Challenge
+
+\-          Singapore National Crystal Growing challenge
+
+\-          The Genetic Modification Advisory Committee                           (GMAC) challenge
+	
+\-          Science Buskers Festivals (from 2023 onwards)
+
+(e)    Student-Initiated Learning – STEM-infused Science Module (from 2023 onwards)
+
+![Group 1 - Lok Yi , Anya, York Yin, Yun Xuan](/images/Sci/Group%201%20-%20Lok%20Yi%20,%20Anya,%20York%20Yin,%20Yun%20Xuan.jpg)
+[Group 1 - Lok Yi , Anya, York Yin, Yun Xuan
+
+![Group 2 - Valerie, Li Ting, Yongde, Zi Le](/images/Sci/Group%202%20-%20Valerie,%20Li%20Ting,%20Yongde,%20Zi%20Le.jpg)
+Group 2 - Valerie, Li Ting, Yongde, Zi Le
+
+![](/images/Sci/Picture1.jpg)
+
+![](/images/Sci/Picture2.jpg)
+
+**Secondary 4/5 – STEM for Life**
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:Latha; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; mso-style-type:export-only; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:.5in; mso-add-space:auto; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:72510249; mso-list-type:hybrid; mso-list-template-ids:-653516010 -429888498 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;} @list l0:level1 {mso-level-number-format:alpha-lower; mso-level-text:"\\(%1\\)"; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level2 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level3 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} @list l0:level4 {mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level5 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level6 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} @list l0:level7 {mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level8 {mso-level-number-format:alpha-lower; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in;} @list l0:level9 {mso-level-number-format:roman-lower; mso-level-tab-stop:none; mso-level-number-position:right; text-indent:-9.0pt;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
+
+In their graduating year, students will have the opportunities to continue to visit museum, laboratory in higher institutions and workshops to be engaged in meaningful learning and exploration to delve deeper into the world of STEM. They include:
+
+(a)    NUS Demo Lab
+
+(b)    NUS Anatomy Museum (from 2023)
+
+(c)     NJC Expedition Series (from 2023)
+
+In addition, they will consolidate their 4/5 years of STEM-infused science experience in their portfolio which will be useful in their admission to their choice of post-secondary institutions.
