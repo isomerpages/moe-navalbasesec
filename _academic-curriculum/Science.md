@@ -103,6 +103,8 @@ The workshops and competitions include:
 ![Group 1 - Lok Yi , Anya, York Yin, Yun Xuan](/images/Sci/Group%201%20-%20Lok%20Yi%20,%20Anya,%20York%20Yin,%20Yun%20Xuan.jpg)
 [Group 1 - Lok Yi , Anya, York Yin, Yun Xuan
 
+![Group 2 - Valerie, Li Ting, Yongde, Zi Le](/images/Sci/Group%202%20-%20Valerie,%20Li%20Ting,%20Yongde,%20Zi%20Le.jpg)
+Group 2 - Valerie, Li Ting, Yongde, Zi Le
 
 
 **Secondary 4/5 – STEM for Life**
