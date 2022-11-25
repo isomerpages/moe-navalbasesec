@@ -53,6 +53,8 @@ In their 1st year, students are exposed to different fields in STEM through a va
 (f)	Competitions for selected students (Science Buskers Festivals)
 
 ![](/images/Sci/IMG_6925_(1)_(1).jpg)
+
+![](/images/Sci/IMG_6933_(1)_(1).jpg)
         
 **Secondary 2 – STEM Connection**
 	
