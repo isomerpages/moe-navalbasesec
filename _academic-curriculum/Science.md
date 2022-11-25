@@ -63,7 +63,7 @@ In their 2nd year, students will have enhanced learning experience through relat
 (d)	Student-Initiated Learning – STEM-infused Science Module (from 2023 onwards)
 	
 (e)	Competitions for selected students (Science Buskers Festivals & International C.B. Paul Science Quiz)  
-	
+![Paul Science](/images/Sci/Paul%20Science.jpg)	
          
 **Secondary 3 – STEM Empowerment**	
 	
