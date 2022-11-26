@@ -41,9 +41,9 @@ Our STEM ExCEL Programme is an enrichment programme that aims to strengthen the 
 	
 In their 1st year, students are exposed to different fields in STEM through a variety of activities as shown below. These activities also allow students to gain better understanding of the applications of the three science disciplines and enhance their awareness of STEM careers.	
 	        
-(a)    Show & Tell	 
+(a) Show & Tell	 
 	
-(b)    Choice of learning journey to Science Centre (DNA & Life/ DNA in Forensic Science/Flight Crash Course/Molecular Gastronomy) (from 2023 onwards)
+(b) Choice of learning journey to Science Centre (DNA & Life/ DNA in Forensic Science/Flight Crash Course/Molecular Gastronomy) (from 2023 onwards)
 	
 (c)	STEM learning experience during lessons (from 2023 onwards)
 	
