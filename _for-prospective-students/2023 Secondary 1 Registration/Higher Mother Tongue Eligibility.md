@@ -2,8 +2,9 @@
 title: Higher Mother Tongue Eligibility
 permalink: /parents-at-nbss/2022-secondary-1-registration/higher-mother-tongue-eligibility/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p>Secondary One Express students who fall under the following categories based on their PSLE results are eligible for Higher Mother Tongue (HMT):</p>
 <table width="0">

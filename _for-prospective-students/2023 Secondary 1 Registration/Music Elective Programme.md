@@ -2,8 +2,9 @@
 title: Music Elective Programme
 permalink: /parents-at-nbss/2022-secondary-1-registration/music-elective-programme/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p><strong>Application for Music Elective Programme </strong></p>
 <p>Secondary 1 students who exhibit interest and passion for Music are eligible to apply to be emplaced on the Music Elective Programme (MEP) in an MEP centre. Please refer to the announcement on Parents&rsquo; Gateway for more information on the programme and application process.</p>

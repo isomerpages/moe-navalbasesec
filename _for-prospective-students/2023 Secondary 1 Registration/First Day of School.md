@@ -2,8 +2,9 @@
 title: First Day of School
 permalink: /parents-at-nbss/2022-secondary-1-registration/first-day-of-school/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p><strong>Appearance</strong></p>
 <p>Students are to report to school well-groomed and well attired.&nbsp;Students are to wear their school uniform in a proper manner whenever they come to school or attend school-related activities. Female students whose hair reaches past the top of the collar must be neatly tied up and any hair accessories should be either black or blue. Only one identical pair of ear studs are allowed. Male students must keep their hair short and neat and should not cover the ears or touch the eyebrows when pulled down.&nbsp;Extreme or fanciful hairstyles and coloured hair will not be allowed.</p>

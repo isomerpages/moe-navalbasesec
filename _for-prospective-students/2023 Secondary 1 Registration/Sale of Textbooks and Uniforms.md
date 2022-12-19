@@ -2,8 +2,9 @@
 title: Sale of Textbooks and Uniforms
 permalink: /parents-at-nbss/2022-secondary-1-registration/sale-of-textbooks-and-uniforms/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p><strong><u>Books &amp; Stationery</u></strong></p>
 <p>1. Due to the current safe management measures, walk-in purchases will not be available.<strong>All</strong>&nbsp;purchases of textbooks and stationery through Pacific Bookstore, the school-appointed vendor, will be made online at&nbsp;<a href="http://www.pacificbookstores.com/">www.pacificbookstores.com</a>. Please create an account before proceeding with your orders.</p>

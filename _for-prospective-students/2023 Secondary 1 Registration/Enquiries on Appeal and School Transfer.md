@@ -2,8 +2,9 @@
 title: Enquiries on Appeal and School Transfer
 permalink: /parents-at-nbss/2022-secondary-1-registration/enquiries-on-appeal-and-school-transfer/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p>After the release of posting results from MOE, students who wish to appeal for a transfer can do so as follows:</p>
 <p><strong><u>Medical Appeal Exercise (MAE) &ndash; to transfer out of Naval Base Secondary School</u></strong></p>

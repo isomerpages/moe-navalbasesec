@@ -2,8 +2,9 @@
 title: Financial Assistance
 permalink: /parents-at-nbss/2022-secondary-1-registration/financial-assistance/
 description: ""
-third_nav_title: 2022 Secondary 1 Registration
+third_nav_title: 2023 Secondary 1 Registration
 ---
+
 
 <p>The Ministry of Education provides financial assistance to needy Singaporean students to pay for essential school expenses such as school fees, standard miscellaneous fees, textbooks and school attire.</p>
 <p>The eligibility criteria for MOE FAS are:</p>
