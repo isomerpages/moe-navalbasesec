@@ -4,53 +4,16 @@ permalink: /parents-at-nbss/2023-secondary-1-registration/
 description: ""
 third_nav_title: 2023 Secondary 1 Registration
 ---
+<h3><strong>Naval Base Secondary School welcomes our 2023 Secondary One students and parents!</strong></h3>
 
+<p><h5> Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.</p>
 
+##### Please take note of the following:
+1. Your child is not required to physically report to NBSS until 3 January 2023 (Tuesday), when school officially begins. 
+2. To complete the registration, please go to our E-registration Portal (https://nbss.edmension.com) from 21 December 2022, 2pm onwards. Details available there include the following:
+* Sale of textbooks and uniform
+* Eligibility for Subject Based Banding (SBB), Higher Mother Tongue, Music Elective Programme
+* MOE Financial Assistance Scheme (FAS)
+* Enquiries on Appeal and Transfer
 
-<h4><strong>Naval Base Secondary School welcomes our 2022 Secondary One students and parents!</strong></h4>
-<p>Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.</p>
-<p><strong>The following information has been put together to support you and your child in your voyage in NBSS.</strong></p>
-<table width="0">
-<tbody>
-<tr>
-<td width="624">
-<p>1. <strong><a href="/parents-at-nbss/2022-secondary-1-registration/e-registration-for-naval-base-secondary-school">E-registration via PG</a>&nbsp;</strong></p>
-</td>
-</tr>
-<tr>
-<td width="624">
-<p>2. <strong>Academic Enquiries</strong></p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/higher-mother-tongue-eligibility">Higher MT eligibility</a>&nbsp;</p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/sbb-eligibility">SBB eligibility</a>&nbsp;</p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/music-elective-programme">Music Elective Programme&nbsp;at MEP centre</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="624">
-<p>3. <strong><a href="/parents-at-nbss/2022-secondary-1-registration/sale-of-textbooks-and-uniforms">Sale of Textbooks and Uniforms</a></strong></p>
-</td>
-</tr>
-<tr>
-<td width="624">
-<p>4. <strong>Important information for students and parents</strong></p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/financial-assistance">Financial Assistance</a></p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/school-smart-cards-for-concessionary-travel">School Smart Cards for Concessionary Travel</a></p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/navalite-handbook">Navalite Handbook</a>&nbsp;</p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/first-day-of-school">First Day of School</a>&nbsp;</p>
-<p>- <a href="/parents-at-nbss/2022-secondary-1-registration/secondary-1-orientation-programme">Sec 1 Orientation Programme</a></p>
-<p>- <a href="/parents-at-nbss/announcements">Parents Gateway User Guide</a></p>
-<p>- <a href="/NDLP-For%20Parents%202022.pdf">National Digital Literacy Programme</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="624">
-<p>5. <strong><a href="/parents-at-nbss/2022-secondary-1-registration/enquiries-on-appeal-and-school-transfer">Enquiries on Appeal and School Transfer</a></strong></p>
-</td>
-</tr>
-<tr>
-<td width="624">
-<p>6. <a href="/parents-at-nbss/2022-secondary-1-registration/transitioning-to-secondary-school"><strong>Transitioning to Secondary School</strong></a></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><h5> Thank you, and we look forward to meeting you as our newest members of our Navalite family!
