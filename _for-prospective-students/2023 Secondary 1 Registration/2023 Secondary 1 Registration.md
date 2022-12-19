@@ -4,16 +4,16 @@ permalink: /parents-at-nbss/2023-secondary-1-registration/
 description: ""
 third_nav_title: 2023 Secondary 1 Registration
 ---
-<h3><strong>Naval Base Secondary School welcomes our 2023 Secondary One students and parents!</strong></h3>
+# Naval Base Secondary School welcomes our 2023 Secondary One students and parents!
 
-<p><h5> Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.</p>
+#### Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.
 
 ##### Please take note of the following:
-1. Your child is not required to physically report to NBSS until 3 January 2023 (Tuesday), when school officially begins. 
-2. To complete the registration, please go to our E-registration Portal (https://nbss.edmension.com) from 21 December 2022, 2pm onwards. Details available there include the following:
+1. Your child is not required to physically report to NBSS until **3 January 2023 (Tuesday)**, when school officially begins. 
+2. To complete the registration, please go to our E-registration Portal (https://nbss.edmension.com) from **21 December 2022, 2pm** onwards. Details available there include the following:
 * Sale of textbooks and uniform
 * Eligibility for Subject Based Banding (SBB), Higher Mother Tongue, Music Elective Programme
 * MOE Financial Assistance Scheme (FAS)
 * Enquiries on Appeal and Transfer
 
-<p><h5> Thank you, and we look forward to meeting you as our newest members of our Navalite family!
+#### Thank you, and we look forward to meeting you as our newest members of our Navalite family!
