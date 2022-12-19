@@ -8,8 +8,11 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Join us at our Open House!
-          description: Sat 26 Nov 2022
+        - title: 2023 Sec 1 Registration
+          description: Welcome, Navalites!
+          url: /parents-at-nbss/2023-secondary-1-registration
+        - title: Missed Our Open House?
+          description: e-Details available here!
           url: /nbss-e-open-house/
         - title: Achievements
           description: For School, Staff and Students
