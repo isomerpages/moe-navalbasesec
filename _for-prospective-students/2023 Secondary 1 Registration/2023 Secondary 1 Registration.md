@@ -10,7 +10,7 @@ third_nav_title: 2023 Secondary 1 Registration
 
 ##### Please take note of the following:
 1. Your child is not required to physically report to NBSS until **3 January 2023 (Tuesday)**, when school officially begins. 
-2. To complete the registration, please go to our E-registration Portal (https://nbss.edmension.com) from **23 December 2022, 4pm** onwards. Details available there include the following:
+2. To complete the registration, please go to our E-registration Portal (https://nbss.edmension.com) from **21 December 2022, 4pm** onwards. Details available there include the following:
 * Sale of textbooks and uniform
 * Eligibility for Subject Based Banding (SBB), Higher Mother Tongue, Music Elective Programme
 * MOE Financial Assistance Scheme (FAS)
