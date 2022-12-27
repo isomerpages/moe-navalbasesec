@@ -37,7 +37,7 @@ description: ""
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Mr Saiful&nbsp;Bahri Bin Idris</td>
+<td>-</td>
 <td>Head of Department,&nbsp;Aesthetics,&nbsp;Craft &amp; Technology</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ description: ""
 <td>Lead Teacher,&nbsp;English Language</td>
 </tr>
 <tr>
-<td>Mr Imran Sabdullah</td>
+<td>-</td>
 <td>Assistant Year Head (Upper Sec)</td>
 </tr>
 <tr>
