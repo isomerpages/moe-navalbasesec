@@ -37,7 +37,7 @@ description: ""
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Mr Saiful&nbsp;Bahri Bin Idris</td>
+<td>-</td>
 <td>Head of Department,&nbsp;Aesthetics,&nbsp;Craft &amp; Technology</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ description: ""
 <td>Lead Teacher,&nbsp;English Language</td>
 </tr>
 <tr>
-<td>Mr Imran Sabdullah</td>
+<td>-</td>
 <td>Assistant Year Head (Upper Sec)</td>
 </tr>
 <tr>
@@ -135,168 +135,99 @@ description: ""
 </tbody>
 </table>
 </div>
-<p><strong>Form Teachership 2022<br /></strong></p>
+<p><strong>Form Teachership 2023<br /></strong></p>
 <table width="0">
 <tbody>
 <tr>
-<td width="86"><strong>Class</strong></td>
-<td width="172"><strong>Form Teacher</strong></td>
-<td width="183"><strong>Form Teacher</strong></td>
-</tr>
-<tr>
-<td width="86">1-1</td>
-<td width="172">Mr Fan Yiming</td>
-<td width="183">Ms Poovili</td>
-</tr>
-<tr>
-<td width="86">1-2</td>
-<td width="172">Ms Chang Zhen Yu</td>
-<td width="183">Mr Gan Zi En</td>
-</tr>
-<tr>
-<td width="86">1-3</td>
-<td width="172">Mr Andrew Cheng</td>
-<td width="183">Mr Nathanael Victor Prasanam</td>
-</tr>
-<tr>
-<td width="86">1-4</td>
-<td width="172">Mr Herwanto</td>
-<td width="183">Ms Jaspreet Kaur</td>
-</tr>
-<tr>
-<td width="86">1-5</td>
-<td width="172">Ms Beryl Lim</td>
-<td width="183">Ms Chang Ya-wen</td>
-</tr>
-<tr>
-<td width="86">1-6</td>
-<td width="172">Ms Phua Qi Qi</td>
-<td width="183">Ms Afnie Safrianie</td>
-</tr>
-<tr>
-<td width="86">1-7</td>
-<td width="172">Ms Wendy Chiau</td>
-<td width="183">Ms Oh Wei Shi<s></s></td>
-</tr>
-<tr>
-<td width="86">1-8</td>
-<td width="172">Mrs Supra</td>
-<td width="183">Ms Kellie Kok</td>
-</tr>
-<tr>
-<td width="86">2-1</td>
-<td width="172">Mr Arthur Cheong</td>
-<td width="183">Mr Velukutty Ravindranath</td>
-</tr>
-<tr>
-<td width="86">2-2</td>
-<td width="172">Mr Alvin Tay</td>
-<td width="183">Mr Daniel Ingham<s></s></td>
-</tr>
-<tr>
-<td width="86">2-3</td>
-<td width="172">Ms Shirley Tan<s></s></td>
-<td width="183">Ms Shanthi</td>
-</tr>
-<tr>
-<td width="86">2-4</td>
-<td width="172">Mr See Kok Han</td>
-<td width="183">Ms Kasthuri</td>
-</tr>
-<tr>
-<td width="86">2-5</td>
-<td width="172">Mrs Koh Koon Wah</td>
-<td width="183">Ms Irwani Dewi<s></s></td>
-</tr>
-<tr>
-<td width="86">2-6</td>
-<td width="172">Ms Wong Yang Hui</td>
-<td width="183">Ms Vivien Cheng</td>
-</tr>
-<tr>
-<td width="86">2-7</td>
-<td width="172">Ms Sharinah</td>
-<td width="183">Ms Margaret Lim</td>
-</tr>
-<tr>
-<td width="86">2-8</td>
-<td width="172">Ms Joanna Chang</td>
-<td width="183">Ms Nur Aishah</td>
-</tr>
-<tr>
-<td width="86">3-1</td>
-<td width="172">Mr Kelvin Cheng</td>
-<td width="183">Ms Shahirah</td>
-</tr>
-<tr>
-<td width="86">3-2</td>
-<td width="172">Mdm Rosnita</td>
-<td width="183">Ms Susheela Vijayarhagavan</td>
-</tr>
-<tr>
-<td width="86">3-3</td>
-<td width="172">Ms Koh Hong Eng</td>
-<td width="183">Ms Amanina<s></s></td>
-</tr>
-<tr>
-<td width="86">3-4</td>
-<td width="172">Mdm Norlita (ST)</td>
-<td width="183">Ms Ong Seow Wei</td>
-</tr>
-<tr>
-<td width="86">3-5 </td>
-<td width="172">Mr Addison Wong</td>
-<td width="183">Ms Rashidah Ibrahim</td>
-</tr>
-<tr>
-<td width="86">3-6</td>
-<td width="172">Mr Shawn Neo</td>
-<td width="183">Mr Alfiyan Buhari</td>
-</tr>
-<tr>
-<td width="86">3-7</td>
-<td width="172">Ms Celine Chan</td>
-<td width="183">Ms Emily Low</td>
-</tr>
-<tr>
-<td width="86">3-8</td>
-<td width="172">Ms Janessa Chang</td>
-<td width="183">Ms Chen Xingli</td>
-</tr>
-<tr>
-<td width="86">4-1</td>
-<td width="172">Mr Simon Teo</td>
-<td width="183">Ms Farhanah</td>
-</tr>
-<tr>
-<td width="86">4-2</td>
-<td width="172">Mdm Chen Xin</td>
-<td width="183">Ms Nurashikeen</td>
-</tr>
-<tr>
-<td width="86">4-3</td>
-<td width="172">Mr Ong Wei Han</td>
-<td width="183">Ms Lim Li Qing</td>
-</tr>
-<tr>
-<td width="86">4-4</td>
-<td width="172">Mrs Irene Ong</td>
-<td width="183">Ms Marinah Hasnan</td>
-</tr>
-<tr>
-<td width="86">4-5</td>
-<td width="172">Mr Thomas Lim</td>
-<td width="183">Ms Amanda Chong</td>
-</tr>
-<tr>
-<td width="86">4-6</td>
-<td width="172">Mrs Anis Osman</td>
-<td width="183">Ms Seetoh Wai Yin</td>
-</tr>
-<tr>
-<td width="86">5-1</td>
-<td width="172">Ms Khoo Lee Kuan</td>
 
+<table border="0" cellpadding="0" cellspacing="0" width="539" style="border-collapse:
+ collapse;width:405pt"><colgroup><col width="60" style="mso-width-source:userset;mso-width-alt:2194;width:45pt"> <col width="237" style="mso-width-source:userset;mso-width-alt:8667;width:178pt"> <col width="242" style="mso-width-source:userset;mso-width-alt:8850;width:182pt"></colgroup><tbody><tr height="22" style="height:16.5pt"><td height="22" class="xl67" dir="LTR" width="60" style="height:16.5pt;width:45pt">Class</td><td class="xl67" dir="LTR" width="237" style="border-left:none;width:178pt">FT1</td><td class="xl67" dir="LTR" width="242" style="border-left:none;width:182pt">FT2</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">1E1</td><td class="xl71" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Nurashikeen Bte Maidin (SH)</td><td class="xl73" dir="LTR" width="242" style="border-left:none;width:182pt"> Ms Vivien Cheng</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">1E2</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt"> Mr See Kok Han</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt"> Ms Sharinah Bte Mohamed Agbar Ali</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">1E3</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Ong Wei Han</td><td class="xl73" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Irwani Dewi Bte Indra Gunawan</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">1E4</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Rashidah Ibrahim (SH)</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mr Gan Zi En</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">1E5</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Ms Huang Peishi (ST)</td><td class="xl73" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mrs Shanthi Thamizhvnan</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">1E6</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mrs Irene Ong (ST)</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mr Simon Teo Ann Peng</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">1E7</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Chong Lee Feng Amanda (SH)</td><td class="xl73" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Nur Aishah Binte Ja’afar</td></tr><tr height="23" style="mso-height-source:userset;height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">2-1</td><td class="xl80" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mr Yusman</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Poovili Panisilvam</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;width:45pt">2-2</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Chang Zhen Yu</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Nurul Ridha Farhanah</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">2-3</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Nathanael Victor Prasanam</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Chen Xingli</td></tr><tr height="22" style="mso-height-source:userset;height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">2-4</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Jaspreet Kaur</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Chang Jia Qi Joanna (S1)</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">2-5</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mrs Beryl Lim<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Chang Ya-wen</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">2-6</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Phua Qi Qi</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Nur Afnie Safrianie</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">2-7</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Ms Wendy Chiau</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Oh Wei Shi</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">2-8</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Kellie Kok</td><td class="xl81" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Josephine Mary d/o Saminathan</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;width:45pt">3-1</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Daniel Troy Ingham</td><td class="xl79" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">&nbsp;</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">3-2</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mr Arthur Cheong Fook Oon</td><td class="xl80" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Jasmine Chua Jie Min</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">3-3</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Kasthuri Silria Sullivan</td><td class="xl80" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mr Zhang Jingda</td></tr><tr height="25" style="mso-height-source:userset;height:18.75pt"><td height="25" class="xl74" dir="LTR" width="60" style="height:18.75pt;border-top:
+  none;width:45pt">3-4</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Shirley Tan Mei Siah</td><td class="xl80" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mr Chandrasekaran s/o Sockalingam</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  none;width:45pt">3-5</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mrs Koh Koon Wah (ST)</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Mr Emil Lua</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">3-6</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mr Thomas Lim Kian Huat</td><td class="xl77" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">&nbsp;</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">3-7</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Wong Yang Hui</td><td class="xl79" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">&nbsp;</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">3-8</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Maybelline Tay Ching Yee (SH)</td><td class="xl77" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Julie Chua</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl82" dir="LTR" width="60" style="height:17.25pt;width:45pt">4-1</td><td class="xl84" dir="LTR" width="237" style="border-left:none;width:178pt">Ms Shahirah Abdol Rahman</td><td class="xl85" dir="LTR" width="242" style="border-left:none;width:182pt">Mr Velukutty Ravindranath</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;width:45pt">4-2</td><td class="xl76" dir="LTR" width="237" style="border-left:none;width:178pt">Mdm Rosnita Juri</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mdm Susheela Vijayarhagavan</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">4-3</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Nur Amanina Md Zain</td><td class="xl73" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Koh Hong Eng</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">4-4</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mdm Norlita Marsuki (ST)</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Ong Seow Wei</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl86" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">4-5</td><td class="xl88" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mr Addison Wong Hong Sheng</td><td class="xl88" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Marinah Hassan (SH)</td></tr><tr height="23" style="mso-height-source:userset;height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;width:45pt">4-6</td><td class="xl76" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Shawn Neo Zhe Ming (SH)</td><td class="xl76" dir="LTR" width="242" style="border-left:none;width:182pt">Mr Alfiyan Ahmad Buhari (SH)</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">4-7</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Celine Chan Siying</td><td class="xl73" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Mr Fan Yiming</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">4-8</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Mrs Siti Osman (ST)</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">Ms Janessa Chang</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
+  none;width:45pt">5-1</td><td class="xl73" dir="LTR" width="237" style="border-top:none;border-left:none;
+  width:178pt">Ms Chen Xin (ST)</td><td class="xl89" width="242" style="border-top:none;border-left:none;width:182pt">&nbsp;</td></tr></tbody></table>
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </tr>
 </tbody>
 </table>
