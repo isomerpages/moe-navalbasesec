@@ -3,7 +3,6 @@ title: 2022 Electronic Yearbook
 permalink: /for-navalities/2021-electronic-yearbook/
 description: ""
 ---
-
 ##### **2022 Electronic Yearbook**
 
 
@@ -19,7 +18,7 @@ Thank you for your kind support in 2022 and we look forward to another fruitful 
 
 ###### 2021 Electronic Yearbook
 
-We are pleased to announce that our 2021 Electronic yearbook is available for [download](https://drive.google.com/file/d/1pTVt3NTkNFTpK7hEWye2_q_e11e-i_pL/view?usp=share_link)
+Our 2021 Electronic yearbook is still available here for [download](https://drive.google.com/file/d/1pTVt3NTkNFTpK7hEWye2_q_e11e-i_pL/view?usp=share_link)
 
 
 
