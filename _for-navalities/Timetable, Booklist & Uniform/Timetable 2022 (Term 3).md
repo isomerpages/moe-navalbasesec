@@ -14,7 +14,7 @@ third_nav_title: Timetable, Booklist & Uniform
 <th style="text-align: center;">Sec 5</th>
 </tr>
 <tr style="text-align: center;">
-<td><a href="/files/1-1.pdf">1 Anchor</a></td>
+<td><a href="/files/1 Anchor">1 Anchor</a></td>
 <td><a href="/files/2-1.pdf">2-1.pdf</a></td>
 <td><a href="/files/3-1.pdf">3-1.pdf</a></td>
 <td><a href="/files/4-1.pdf">4-1.pdf</a></td>
@@ -62,7 +62,3 @@ third_nav_title: Timetable, Booklist & Uniform
 </tr>
 </tbody>
 </table>
-
-
-
-
