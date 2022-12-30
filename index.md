@@ -11,9 +11,9 @@ sections:
         - title: 2023 Sec 1 Registration
           description: Welcome, Navalites!
           url: /parents-at-nbss/2023-secondary-1-registration
-        - title: Missed Our Open House?
-          description: e-Details available here!
-          url: /nbss-e-open-house/
+        - title: e-Yearbook 2023
+          description: Fresh off the (e)Press!
+          url: /for-navalities/2022-electronic-yearbook/
         - title: Achievements
           description: For School, Staff and Students
           url: /about-us/Achievements/permalink/
