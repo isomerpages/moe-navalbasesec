@@ -13,4 +13,4 @@ third_nav_title: Timetable, Booklist & Uniform
 | [1 Expedition](/files/TT/1%20Expedition.pdf)    | [2-5](/files/TT/2-5.pdf)    | [3-5](/files/TT/3-5.pdf)     | [4-5](/files/TT/4-5.pdf)    |     |
 | [1 Flagship](/files/TT/1%20Flagship.pdf)    | [2-6](/files/TT/2-6.pdf)    | [3-6](/files/TT/3-6.pdf)    | [4-6](/files/TT/4-6.pdf)     |     |
 | [1 Garrison](/files/TT/1%20Garrison.pdf)   | [2-7](/files/TT/2-7.pdf)   | [3-7](/files/TT/3-7.pdf)     | [4-7](/files/TT/4-7.pdf)     |     |
-|     |     | Text     | Text     | Text     |
+|     |  [2-8](/files/TT/2-8.pdf)   | [3-8](/files/TT/3-8.pdf)    | [4-8](/files/TT/4-8.pdf)     |   |
