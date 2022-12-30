@@ -10,7 +10,7 @@ third_nav_title: Timetable, Booklist & Uniform
 | [1 Beacon](/files/TT/1%20Beacon.pdf) | [2-2](/files/TT/2-2.pdf)    | [3-2](/files/TT/3-2.pdf)     | [4-2](/files/TT/4-2.pdf)     |     |
 | [1 Compass](/files/TT/1%20Compass.pdf)  | [2-3](/files/TT/2-3.pdf)    | [3-3](/files/TT/3-3.pdf)    | [4-3](/files/TT/4-3.pdf)     |      |
 | [1 Danforth](/files/TT/1%20Danforth.pdf)     | [2-4](/files/TT/2-4.pdf)    | [3-4](/files/TT/3-4.pdf)    | [4-4](/files/TT/4-4.pdf)    |     |
-| [1 Expedition](/files/TT/1%20Expedition.pdf)    | [2-5](/files/TT/2-5.pdf)    | Text     | Text     | Text     |
+| [1 Expedition](/files/TT/1%20Expedition.pdf)    | [2-5](/files/TT/2-5.pdf)    | [3-5](/files/TT/3-5.pdf)     | [4-5](/files/TT/4-5.pdf)    |     |
 | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     | Text     |
