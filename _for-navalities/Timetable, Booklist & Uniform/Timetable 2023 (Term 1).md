@@ -4,8 +4,6 @@ permalink: /for-navalities/timetable-booklist-n-uniform/timetable-2022-term-3/
 description: ""
 third_nav_title: Timetable, Booklist & Uniform
 ---
-
-
 | **SEC 1** | **SEC 2** | **SEC 3** | **SEC 4/5** |
 | -------- | -------- | -------- |-------- |
 | [1 ANCHOR](/files/TT/1%20ANCHOR.pdf)       | [2-1](/files/TT/2-1.pdf)      | [3-1](/files/TT/3-1.pdf)      |[4-1](/files/TT/4-1.pdf)       
@@ -17,8 +15,3 @@ third_nav_title: Timetable, Booklist & Uniform
 | [1 GARRISON](/files/TT/1%20GARRISON.pdf)     |[2-7](/files/TT/2-7.pdf)    | [3-7](/files/TT/3-7.pdf)   |[4-7](/files/TT/4-7.pdf)  |
 |      |[2-8](/files/TT/2-8.pdf)    | [3-8](/files/TT/3-8.pdf)  |[4-8](/files/TT/4-8.pdf)  |
 |      |   |  |[5-1](/files/TT/5-1.pdf)  |
-
-
-
-
-
