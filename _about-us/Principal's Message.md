@@ -8,7 +8,8 @@ description: ""
 <img style="width: 65%;" src="/images/princi.png" align = "right" />
 <p>    
 Naval Base Secondary School is a school of rich heritage for 66 years. From our humble beginnings as a school for Naval Base employees in 1957, we have evolved and developed through the years to be a learning community for students from different races and nationalities.</p>
-
+        
+Our motto, Enitamur In Altiora, is to be our best and to inspire others. We hold the unwavering conviction that every child is both a learner and a leader. Our emphasis is to develop each student to succeed in their learning and leadership, so that they do not achieve success only for themselves, but also for the benefit of others in their school and society. Everyone will be a leader in some way at some point in life, be it in the family, in the workplace or in one's social circles. Hence, our school places strong emphasis on character and leadership development, and encourages all students to seize the many opportunities provided for them.
         
 Our young adults face numerous destabilizing challenges and uncertainties in their lives and in their future. But our goal is not for our students merely to survive and cope with difficulties. Our goal is to build students of substance and resilience to thrive and help others.  We strive to inculcate our school values, _Excellence, Care, Courage, Integrity, and Teamwork,_ that will strengthen their character, develop a growth mindset, do good to others, and seize the right opportunities to make positive contributions to their community and the world.
 
@@ -18,5 +19,3 @@ Likewise, the professional development of our teachers is vitally important. As 
 
 Mdm Linda Yeo  
 Principal
-
-
