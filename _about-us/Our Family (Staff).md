@@ -90,7 +90,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Alvin Tay</td>
-<td>Subject Head, Student Management and Covering Assistant Year Head (Lower Sec)</td>
+<td>Subject Head, Student Management and Assistant Year Head (Lower Sec)</td>
 </tr>
 <tr>
 <td>Ms Maybelline Tay</td>
