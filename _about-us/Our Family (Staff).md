@@ -85,11 +85,11 @@ description: ""
 <td>Lead Teacher,&nbsp;English Language</td>
 </tr>
 <tr>
-<td>-</td>
+<td>Mr Tharmendra Jeyaraman</td>
 <td>Assistant Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Tharmendra Jeyaraman</td>
+<td>Mr Alvin Tay</td>
 <td>Assistant Year Head (Lower Sec)</td>
 </tr>
 <tr>
