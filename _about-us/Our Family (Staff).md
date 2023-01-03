@@ -54,7 +54,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Kenneth Sung</td>
-<td>Head of Department, Humanities&nbsp;</a>&nbsp;</td>
+<td>Head of Department, Humanities&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Chia Xiaoyun</td>
@@ -66,11 +66,11 @@ description: ""
 </tr>
 <tr>
 <td>Mdm Lila Salleh</td>
-<td>Head of Department, Mother Tongue Languages</a></td>
+<td>Head of Department, Mother Tongue Languages</td>
 </tr>
 <tr>
 <td>Mr Ravi Chandran</td>
-<td>Head of Department, PE & CCA</a>&nbsp;</td>
+<td>Head of Department, PE & CCA</td>
 </tr>
 <tr>
 <td>Ms Lisa Boon</td>
@@ -85,12 +85,12 @@ description: ""
 <td>Lead Teacher,&nbsp;English Language</td>
 </tr>
 <tr>
-<td>-</td>
+<td>Mr Tharmendra Jeyaraman</td>
 <td>Assistant Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Tharmendra Jeyaraman</td>
-<td>Assistant Year Head (Lower Sec)</td>
+<td>Mr Alvin Tay</td>
+<td>Subject Head, Student Management and Assistant Year Head (Lower Sec)</td>
 </tr>
 <tr>
 <td>Ms Maybelline Tay</td>
@@ -103,10 +103,6 @@ description: ""
 <tr>
 <td>Ms Joanna Chang</td>
 <td>Subject Head, Student Well-Being</td>
-</tr>
-<tr>
-<td>Mr Alvin Tay</td>
-<td>Subject Head, Student Management&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Lim Li Qing</td>
