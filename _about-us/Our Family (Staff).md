@@ -90,7 +90,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Alvin Tay</td>
-<td>Assistant Year Head (Lower Sec)</td>
+<td>Subject Head, Student Management and Covering Assistant Year Head (Lower Sec)</td>
 </tr>
 <tr>
 <td>Ms Maybelline Tay</td>
@@ -103,10 +103,6 @@ description: ""
 <tr>
 <td>Ms Joanna Chang</td>
 <td>Subject Head, Student Well-Being</td>
-</tr>
-<tr>
-<td>Mr Alvin Tay</td>
-<td>Subject Head, Student Management&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Lim Li Qing</td>
