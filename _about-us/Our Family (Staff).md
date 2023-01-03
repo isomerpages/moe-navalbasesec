@@ -54,7 +54,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Kenneth Sung</td>
-<td>Head of Department, Humanities&nbsp;</a>&nbsp;</td>
+<td>Head of Department, Humanities&nbsp;</td>
 </tr>
 <tr>
 <td>Ms Chia Xiaoyun</td>
@@ -66,11 +66,11 @@ description: ""
 </tr>
 <tr>
 <td>Mdm Lila Salleh</td>
-<td>Head of Department, Mother Tongue Languages</a></td>
+<td>Head of Department, Mother Tongue Languages</td>
 </tr>
 <tr>
 <td>Mr Ravi Chandran</td>
-<td>Head of Department, PE & CCA</a>&nbsp;</td>
+<td>Head of Department, PE & CCA</td>
 </tr>
 <tr>
 <td>Ms Lisa Boon</td>
