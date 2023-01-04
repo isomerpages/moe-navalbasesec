@@ -4,10 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/st-john-br
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
 <table width="0">
 <tbody>
 <tr style="text-align: center;">
@@ -15,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="441">
-<p>SJB Room</p>
+<p>SJB Room, Classroom – 2-8 </p>
 </td>
 </tr>
 <tr style="text-align: center;">
@@ -31,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="441">
-<p>Mr See Kok Han (I/C)<br />Ms Tan Mei Siah Shirley<br />Ms Shanthi</p>
+<p>Mr See Kok Han (I/C)<br />Ms Tan Mei Siah Shirley<br />Ms Shanthi<br />Ms Jasmine Chua</p>
 </td>
 </tr>
 <tr>
