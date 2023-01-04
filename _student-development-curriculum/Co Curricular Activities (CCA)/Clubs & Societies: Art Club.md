@@ -30,7 +30,7 @@ Classroom – 2-1 / 2.com
 </td>
 <td width="420">
 <p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman
-<br />Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay</p>
+<br />Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay (Advisor)<br />Ms Nur Aishah<br />Mr Philip Foo  </p>
 </td>
 </tr>
 
