@@ -29,7 +29,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="365">
-<p>Mrs Beryl Lim<br />Ms Kasthuri<br />Ms Chang Ya Wen<br />Ms Wendy Chiau</p>
+<p>Mrs Beryl Lim (I/C)<br />Ms Kasthuri (2 I/C)<br />Ms Phua Qi Qi (2 I/C)<br />Ms Ong Seow Wei</p>
 </td>
 </tr>
 <tr>
