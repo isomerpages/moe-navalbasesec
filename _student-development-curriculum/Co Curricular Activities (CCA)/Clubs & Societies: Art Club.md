@@ -29,18 +29,10 @@ Classroom – 2-1 / 2.com
 <p>Overall Teachers-in-Charge</p>
 </td>
 <td width="420">
-<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman</p>
+<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman
+<br />Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay</p>
 </td>
 </tr>
-<tr>
-<td width="180">
-<p>2D Art &amp; Design Wing</p>
-</td>
-<td width="420">
-<p>Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay</p>
-</td>
-</tr>
-<tr>
 
 </td>
 </tr>
