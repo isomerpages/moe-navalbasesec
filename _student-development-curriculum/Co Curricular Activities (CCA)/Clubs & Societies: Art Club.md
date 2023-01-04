@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -13,7 +11,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="420">
-<p>NBSS Art Studios, Whitebox, 2.COM &amp; FCE Hub</p>
+<p> Art Studios, Whitebox, 2.com, FCE Hub FCE Hub,
+Classroom – 2-1 / 2.com
+</p>
 </td>
 </tr>
 <tr>
