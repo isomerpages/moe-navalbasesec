@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/physical-sports/football-bo
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -14,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td style="text-align: center;" width="443">
-<p>School Field</p>
+<p>School Field, Classrooms- 1-A & 3-3</p>
 </td>
 </tr>
 <tr>
@@ -22,7 +19,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training day/ time</p>
 </td>
 <td style="text-align: center;" width="443">
-<p>Monday: 3.00pm to 5.30pm (Sec 3&amp;4)<br />Tuesday: 3.00pm to 5.30pm (Sec 1&amp;2)<br />Thursday: 3.00pm to 5.30pm (Sec 3&amp;4)</p>
+<p>Monday: 3.00pm to 5.30pm <br />Tuesday: 3.00pm to 5.30pm <br />Thursday: 3.00pm to 5.30pm </p>
 </td>
 </tr>
 <tr>
