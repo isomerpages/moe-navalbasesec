@@ -41,19 +41,11 @@ Classroom – 2-1 / 2.com
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>3-D (Ceramics) Wing</p>
-</td>
-<td width="420">
-<p>Ms Margaret Lim</p>
+
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>Floral Art Wing</p>
-</td>
-<td width="420">
-<p>Mrs C Kallaiselvy Supra</p>
+
 </td>
 </tr>
 <tr>
