@@ -37,10 +37,6 @@ description: ""
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>-</td>
-<td>Head of Department,&nbsp;Aesthetics,&nbsp;Craft &amp; Technology</td>
-</tr>
-<tr>
 <td>Ms Sabrina Chan</td>
 <td>Head of Department, Character & Citizenship Education</td>
 </tr>
@@ -62,7 +58,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms Rosabel Mah</td>
-<td>Head of Department, Mathematics</a></td>
+<td>Head of Department, Mathematics</td>
 </tr>
 <tr>
 <td>Mdm Lila Salleh</td>
@@ -81,7 +77,7 @@ description: ""
 <td>Lead Teacher, PE</td>
 </tr>
 <tr>
-<td>Mrs Rathna Raghesh</a></td>
+<td>Mrs Rathna Raghesh</td>
 <td>Lead Teacher,&nbsp;English Language</td>
 </tr>
 <tr>
@@ -94,7 +90,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms Maybelline Tay</td>
-<td>Subject Head, Student Leadership</td>
+<td>Subject Head, Aesthetics, Craft & Technology</td>
 </tr>
 <tr>
 <td>Ms Amanda Chong</td>
@@ -105,11 +101,7 @@ description: ""
 <td>Subject Head, Student Well-Being</td>
 </tr>
 <tr>
-<td>Ms Lim Li Qing</td>
-<td>Level Head, English Language</td>
-</tr>
-<tr>
-<td>Ms Rashidah Binte Ibrahim</td>
+<td>Mdm Rashidah Binte Ibrahim</td>
 <td>Subject Head,&nbsp;Nutrition &amp; Food Science</td>
 </tr>
 <tr>
