@@ -26,10 +26,10 @@ Classroom – 2-1 / 2.com
 </tr>
 <tr>
 <td width="180">
-<p>Overall Teachers-in-Charge</p>
+<p>Teachers-in-Charge</p>
 </td>
 <td width="420">
-<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman
+<p>Mdm Norlita Marsuki (I/C)<br />Mrs Siti Anis Osman (I/C)
 <br />Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay (Advisor)<br />Ms Nur Aishah<br />Mr Philip Foo  </p>
 </td>
 </tr>
@@ -41,11 +41,7 @@ Classroom – 2-1 / 2.com
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>Art Talent Development Programme (ATDP)</p>
-</td>
-<td width="420">
-<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman<br />Ms Nur Aishah Jaafar</p>
+
 </td>
 </tr>
 </tbody>
