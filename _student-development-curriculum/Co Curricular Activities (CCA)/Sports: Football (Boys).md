@@ -27,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td style="text-align: center;" width="443">
-<p>Mr Imran (IC)<br />Mr Andrew Cheng<br />Mr Fan Yi Ming<br />Ms Kellie Kok</p>
+<p>Ms Kellie Kok (IC)<br />Mr Fan Yi Ming (2 I/C)<br />Mr Chandrasekaran<br />Mr Emil Lua</p>
 </td>
 </tr>
 </tbody>
