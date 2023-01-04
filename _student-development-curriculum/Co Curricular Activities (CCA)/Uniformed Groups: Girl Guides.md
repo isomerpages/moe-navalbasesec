@@ -4,10 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/girl-guide
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -15,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td style="text-align: center;" width="421">
-<p>Classrooms &amp; Plaza</p>
+<p>Classroom- 3B</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td style="text-align: center;" width="421">
-<p>Ms Poovili (I/C)<br />Ms Oh Wei Shi<br />Ms Jaspreet<br />Ms Low Qian Ling</p>
+<p>Ms Poovili (I/C)<br />Ms Oh Wei Shi<br />Ms Jaspreet</p>
 </td>
 </tr>
 </tbody>
