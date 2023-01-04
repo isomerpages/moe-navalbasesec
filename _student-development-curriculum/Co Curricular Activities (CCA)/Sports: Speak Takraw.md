@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/physical-sports/sepak-takra
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -30,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="441">
-<p>Mr Ong Wei Han(I/C)<br />Mdm Rosnita Juri</p>
+<p>Mr Yusman B Ithnin (I/C)<br />Mdm Rosnita Juri</p>
 </td>
 </tr>
 <tr>
