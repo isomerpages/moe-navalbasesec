@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/clubs-and-societies/infocom
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -13,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Computer Lab 3 and 4 (3.com &amp; 4.com)</p>
+<p>Computer Lab (3.com &amp; 4.com)</p>
 </td>
 </tr>
 <tr>
@@ -21,7 +19,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training day/ time</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Thursday: 3pm to 5.30 pm</p>
+<p>Tuesday: 3pm to 5.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Mr Shawn Neo (I/C)<br />Mr Ravindran<br />Ms Huang Peishi</p>
+<p>Ms Janessa Chang (I/C)<br />Mr Shawn Neo <br />Mr Ravindran</p>
 </td>
 </tr>
 </tbody>
