@@ -4,10 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/national-p
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -15,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Classrooms &amp; Plaza</p>
+<p>Classrooms – 3-2, 3-4, 3-7, 3-8, 4P</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Mr Teo Ann Peng Simon (I/C)<br />Ms Cheng Vivien(2I/C)<br />Ms See Toh Wai Yin<br />Ms Chen Xingli<br />Mr Gan Zi En</p>
+<p>Mr Teo Ann Peng Simon (I/C)<br />Ms Cheng Vivien(2 I/C)<br />Ms See Toh Wai Yin<br />Mr Gan Zi En</p>
 </td>
 </tr>
 </tbody>
