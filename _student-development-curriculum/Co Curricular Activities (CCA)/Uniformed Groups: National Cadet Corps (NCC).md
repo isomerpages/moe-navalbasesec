@@ -4,10 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/national-c
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -15,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="456">
-<p>Classrooms &amp; Plaza</p>
+<p>Classrooms – 4-5, 4-6, 4-7, 4-8</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="456">
-<p>Mr Alvin Tay (CO)<br />Mr Arthur Cheong (2IC)<br />Ms Shahirah<br />Mr Mohammad Alfiyan<br />Mr Thomas Lim</p>
+<p>Mr Alvin Tay (CO)<br />Mr Arthur Cheong (2 I/C)<br />Ms Shahirah<br />Mr Mohammad Alfiyan<br />Mr Thomas Lim</p>
 </td>
 </tr>
 </tbody>

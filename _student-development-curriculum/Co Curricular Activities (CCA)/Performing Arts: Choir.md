@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
 <table>
 <tbody>
 <tr>
@@ -22,7 +19,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training day/ time</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Friday: 1pm - 4pm</p>
+<p>Tuesday 3pm – 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Ms Wong Yang Hui (I/C)<br />Ms Joanna Chang<br />Ms Phua Qi Qi</p>
+<p>Ms Wong Yang Hui (I/C)<br />Ms Joanna Chang<br />Ms Chang Ya Wen</p>
 </td>
 </tr>
 </tbody>

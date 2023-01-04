@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/drama-club-
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -13,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="441">
-<p>Classroom&nbsp;</p>
+<p>Classroom&nbsp;- 1D</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="441">
-<p><strong>Ms Sharinah (I/C)<br /></strong>Ms Irwani Dewi Indra Gunawan<br />Mr Nathanael Victor</p>
+<p>Ms Sharinah (I/C)<br />Mr Nathanael Victor</p>
 </td>
 </tr>
 <tr>

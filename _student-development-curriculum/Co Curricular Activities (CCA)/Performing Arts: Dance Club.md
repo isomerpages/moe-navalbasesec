@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/dance-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -29,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="441">
-<p>Mr Tharmendra (I/C)<br />Mr Addison Wong (2I/C)<br />Ms Nurul Ridha Farhanah<br />Ms Ong Seow Wei&nbsp;</p>
+<p>Mr Tharmendra (I/C)<br />Mr Addison Wong (2I/C)<br />Ms Nurul Ridha Farhanah<br />Ms Irwani</p>
 </td>
 </tr>
 <tr>

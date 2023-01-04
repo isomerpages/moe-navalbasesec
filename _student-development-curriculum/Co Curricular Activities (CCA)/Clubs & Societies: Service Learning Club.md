@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/clubs-and-societies/library
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
 <table>
 <tbody>
 <tr>
@@ -14,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Venue</p>
 </td>
 <td width="441">
-<p>Media Resource Library</p>
+<p>Classroom 1E</p>
 </td>
 </tr>
 <tr>
@@ -22,7 +19,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Session day/ time</p>
 </td>
 <td width="441">
-<p>Thursday: 3.00pm to 5.30pm</p>
+<p>Tuesday: 3.00pm to 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td width="441">
-<p><strong>Ms Nurashikeen (I/C)<br /></strong>Ms Afnie<br />Ms Susheela</p>
+<p>Ms Nurashikeen (I/C)<br />Ms Huang Peishi<br />Ms Josephine Mary</p>
 </td>
 </tr>
 </tbody>

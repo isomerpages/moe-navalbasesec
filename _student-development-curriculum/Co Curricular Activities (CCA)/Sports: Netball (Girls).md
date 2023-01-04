@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/physical-sports/netball-gir
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -30,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Ms Chang Zhen Yu (I/C)<br />Ms Nur Amanina&nbsp;</p>
+<p>Ms Chang Zhen Yu (I/C)<br />Ms Susheela<br /> Ms Julie Chua</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +40,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<p><strong>Student Executive Committee (2019 - 2020)</strong></p>
+<p><strong>Student Executive Committee </strong></p>
 <table width="0">
 <tbody>
 <tr>

@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/symphonic-b
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table>
 <tbody>
 <tr>
@@ -13,7 +11,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="365">
-<p>Band Room</p>
+<p>Band Room, classrooms- 
+3-1, 3-5, 3-6, 3-7, 3-8, 4-1, 4-2, 4-3, 4-4
+</p>
 </td>
 </tr>
 <tr>
@@ -21,7 +21,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training day/ time</p>
 </td>
 <td width="365">
-<p>Monday 3pm to 5pm<br />Tuesday 3pm to 5.30pm<br />Thursday 3pm to 5.30pm</p>
+<p>Monday 3pm to 5.30pm<br />Tuesday 3pm to 5.45pm<br />Thursday 3pm to 5.45pm</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="365">
-<p>Mrs Beryl Lim<br />Ms Kasthuri<br />Ms Chang Ya Wen<br />Ms Wendy Chiau</p>
+<p>Mrs Beryl Lim (I/C)<br />Ms Kasthuri (2 I/C)<br />Ms Phua Qi Qi (2 I/C)<br />Ms Ong Seow Wei</p>
 </td>
 </tr>
 <tr>

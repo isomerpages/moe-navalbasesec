@@ -4,8 +4,6 @@ permalink: /nbss-curriculum/co-curricular-activities/performing-arts/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table width="0">
 <tbody>
 <tr>
@@ -13,7 +11,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Training Venue</p>
 </td>
 <td width="420">
-<p>NBSS Art Studios, Whitebox, 2.COM &amp; FCE Hub</p>
+<p> Art Studios, Whitebox, 2.com, FCE Hub FCE Hub,
+Classroom – 2-1 / 2.com
+</p>
 </td>
 </tr>
 <tr>
@@ -26,42 +26,22 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td width="180">
-<p>Overall Teachers-in-Charge</p>
+<p>Teachers-in-Charge</p>
 </td>
 <td width="420">
-<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman</p>
+<p>Mdm Norlita Marsuki (I/C)<br />Mrs Siti Anis Osman (I/C)
+<br />Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay (Advisor)<br />Ms Nur Aishah<br />Mr Philip Foo  </p>
+</td>
+</tr>
+
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>2D Art &amp; Design Wing</p>
-</td>
-<td width="420">
-<p>Mdm Siti Hajar Zakaria<br />Ms Maybelline Tay</p>
+
 </td>
 </tr>
 <tr>
-<td width="180">
-<p>3-D (Ceramics) Wing</p>
-</td>
-<td width="420">
-<p>Ms Margaret Lim</p>
-</td>
-</tr>
-<tr>
-<td width="180">
-<p>Floral Art Wing</p>
-</td>
-<td width="420">
-<p>Mrs C Kallaiselvy Supra</p>
-</td>
-</tr>
-<tr>
-<td width="180">
-<p>Art Talent Development Programme (ATDP)</p>
-</td>
-<td width="420">
-<p>Mdm Norlita Marsuki<br />Mrs Siti Anis Osman<br />Ms Nur Aishah Jaafar</p>
+
 </td>
 </tr>
 </tbody>
