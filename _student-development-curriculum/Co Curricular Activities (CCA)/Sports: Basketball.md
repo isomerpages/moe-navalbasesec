@@ -27,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Ms Celine Chan (Girls&rsquo; I/C)<br />Ms Cheng Xingli <br />Mr Herwanto (Boys&rsquo; I/C)<br />Mr Daniel Troy Ingham<br />Mr Zhang Jingda</p>
+<p>Ms Celine Chan (Girls&rsquo; I/C)<br />Ms Chen Xingli <br />Mr Herwanto (Boys&rsquo; I/C)<br />Mr Daniel Troy Ingham<br />Mr Zhang Jingda</p>
 </td>
 </tr>
 <tr>
