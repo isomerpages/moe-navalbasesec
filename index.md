@@ -8,10 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: 2023 Sec 1 Registration
-          description: Welcome, Navalites!
-          url: /parents-at-nbss/2023-secondary-1-registration
-        - title: e-Yearbook 2023
+        - title: e-Yearbook 2022
           description: Fresh off the (e)Press!
           url: /for-navalities/2022-electronic-yearbook/
         - title: Achievements
