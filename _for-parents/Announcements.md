@@ -13,13 +13,11 @@ Our school community is very active on social media with frequent updates at [ou
 ## Other Useful Resources
 <p>Please access the following links for other resources:
 </p><p>
-<a rel="noopener" target="_blank" href="/for-navalities/timetable-booklist-n-uniform/booklist-2022"><strong>2022 Booklist</strong></a><br><a rel="noopener" target="_blank" href="/for-navalities/timetable-booklist-n-uniform/school-uniform"><strong>2022 Uniform Sales</strong></a><br><strong><a target="" href="/parents-at-nbss/2022-secondary-1-registration">2022 Secondary 1 Registration</a></strong></p>
+<a target="" href="/parents-at-nbss/2022-secondary-1-registration">2022 Secondary 1 Registration</a></strong></p>
 <p><strong>Getting started with Parents Gateway<br></strong><a href="https://navalbasesec.moe.edu.sg/qql/slot/u538/PG%20User%20Guide%20for%20Parents%20-%20Aug%202020.pptx">PG User Guide for Parents - Aug 2020.pptx</a>&nbsp;<br><a rel="noopener" target="_blank" href="https://www.youtube.com/embed/tW9jwyuovOo">Parents Gateway Onboarding video for Parents</a></p>
 <p><strong>Post-Secondary Education and Career Options<br></strong>Here's a useful parents guide to help you advise your child/ward in making the right choices after graduation. <br><a target="" href="https://www.moe.gov.sg/microsites/whats-next/#p=1">https://www.moe.gov.sg/microsites/whats-next/#p=1</a><br><a target="" href="https://www.moe.gov.sg/microsites/next-step-forward/">https://www.moe.gov.sg/microsites/next-step-forward/</a><br><a target="" href="https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1">https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1</a></p>
 
 
-## 2021 Electronic Yearbook
-<p>Our 2021 Electronic Yearbook is <a rel="noopener" target="_blank" href="https://drive.google.com/drive/folders/1Nz8hISJdGzdwJt6gkyXvSQHi2-lThDcB?usp=sharing">available for download here</a>.
 	
 ## The Apple iPad: Navalites' Personal Learning Device
 	
