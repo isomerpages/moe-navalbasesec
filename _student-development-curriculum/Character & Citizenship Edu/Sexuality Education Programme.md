@@ -65,7 +65,7 @@ Click- [2023 lesson on SEd for Nbss.pdf](/files/2023%20lesson%20on%20SEd%20for%2
 </ul>
 </td>
 <td style="text-align: center;" width="160">
-<p>Term 2 Week 6</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ Click- [2023 lesson on SEd for Nbss.pdf](/files/2023%20lesson%20on%20SEd%20for%2
 </ul>
 </td>
 <td style="text-align: center;" width="160">
-<p>Term 2 Week 6</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -91,4 +91,3 @@ Click- [2023 lesson on SEd for Nbss.pdf](/files/2023%20lesson%20on%20SEd%20for%2
 <p>13. Parents can contact the school at 62571996 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements</p>
 <p>&nbsp;</p>
-
