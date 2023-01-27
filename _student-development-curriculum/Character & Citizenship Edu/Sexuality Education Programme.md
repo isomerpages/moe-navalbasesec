@@ -432,3 +432,5 @@ third_nav_title: Character & Citizenship Edu
 <p>13. Parents can contact the school at 62571996 for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements</p>
 <p>&nbsp;</p>
+
+![](/images/Sed/Pages%20from%202023%20Info%20on%20SEd%20for%20schs%20website%20NBSS_Page_01.jpg)
