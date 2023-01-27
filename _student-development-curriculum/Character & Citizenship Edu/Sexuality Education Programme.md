@@ -34,8 +34,6 @@ third_nav_title: Character & Citizenship Edu
 	
 	
 	
-[2023 lesson on SEd for Nbss.pdf](/files/2023%20lesson%20on%20SEd%20for%20Nbss.pdf)	
-	
 	
 		
 <p><u><strong><em>Teens</em></strong><strong>&nbsp;Programme</strong>:</u></p>
