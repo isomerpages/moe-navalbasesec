@@ -93,3 +93,18 @@ Click this --> <a href="/files/Sed/SEd%20lessons%20for%202023.pdf">SEd lessons f
 <p>11. Parents who wish to opt their children out of the<strong> Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Sed/Annex%20A.pdf"><u>here</u>&nbsp;</a>. The completed form is to be submitted by 20/02/2023.</p>
 <p>12. Parents who wish to opt their children out of the<strong><em>eTeens</em></strong><strong>&nbsp;programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<u><a href="/files/Sed/Annex%20B.pdf">here.</a></u> The completed form is to be submitted by 26/05/2023.</p>
 <p>13. Parents can contact the school at 62571996 or nbss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme</p>
+
+****Still unsure what's the next step for you?****
+	
+The school's ECG Counsellor, Ms Jerlyn Poh, works closely with the respective institutions' ECG teams to guide students to make informed decisions about their education and career plans.
+
+You may contact the school's ECG Counsellor via the following modes:
+	
+Email: jerlyn_poh_yoke_hui@schools.gov.sg
+	
+Telegram: https://t.me/ecgc_jp
+
+Appointment Link: https://go.gov.sg/nbssmsjerlyn 
+
+
+ 
