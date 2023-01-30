@@ -31,7 +31,7 @@ third_nav_title: Character & Citizenship Edu
 <p><strong>At Naval Base Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;<u>2023</u>
 	
 	
- [SEd lessons for 2023.pdf](/files/Sed/SEd%20lessons%20for%202023.pdf)	
+ [SEd lessons for 2023](/files/Sed/SEd%20lessons%20for%202023.pdf)	
 	
 	
 	
