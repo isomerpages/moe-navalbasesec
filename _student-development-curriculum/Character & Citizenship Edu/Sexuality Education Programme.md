@@ -95,15 +95,15 @@ Click this --> <a href="/files/Sed/SEd%20lessons%20for%202023.pdf">SEd lessons f
 <p>13. Parents can contact the school at 62571996 or nbss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme</p>
 	
 	
-##### <p>Still unsure what's the next step for you?</p>
+ <p>**Still unsure what's the next step for you?**</p>
 	
 <p>The school's ECG Counsellor, Ms Jerlyn Poh, works closely with the respective institutions' ECG teams to guide students to make informed decisions about their education and career plans.</p>
 	
 	
 <p>You may contact the school's ECG Counsellor via the following modes:</p>
 	
-Email: jerlyn_poh_yoke_hui@schools.gov.sg
+<p>Email: jerlyn_poh_yoke_hui@schools.gov.sg</p>
 	
-Telegram: https://t.me/ecgc_jp
+<p>Telegram: https://t.me/ecgc_jp</p>
 	
-Appointment Link: https://go.gov.sg/nbssmsjerlyn
+<p>Appointment Link: https://go.gov.sg/nbssmsjerlyn</p>
