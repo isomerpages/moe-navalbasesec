@@ -53,7 +53,7 @@ description: ""
 <td>Head of Department, Humanities&nbsp;</td>
 </tr>
 <tr>
-<td>Ms Chia Xiaoyun</td>
+<td>Mrs Chen Xiaoyun</td>
 <td>Head of Department, ICT</td>
 </tr>
 <tr>
