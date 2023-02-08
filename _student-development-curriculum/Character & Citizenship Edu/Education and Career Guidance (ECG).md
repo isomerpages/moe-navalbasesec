@@ -4,9 +4,6 @@ permalink: /nbss-curriculum/character-and-citizenship-education/ecg/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
-
-
 <p>Education and Career Guidance (ECG) serves as a vehicle for students to develop their social and emotional competencies in all the 5 domains of SEL For example, as&nbsp;students go through lessons and activities to determine their personal strengths, interests and values, they develop greater self awareness&nbsp;and more accurate self-perception.</p>
 <p>Using the ECG development and delivery model as a guide, our school has developed an ECG programme that is customised to meet our students&rsquo; needs. For example, the learning journeys that we planned are target specific with consideration to the subjects taken by our Sec 3 classes. Leveraging on our strong partnership network, we have been able to organise cohort-level activities and target-specific level activities successfully.</p>
 <p><strong>Naval Base Secondary School &ndash; 4 Year ECG Programme</strong></p>
@@ -125,3 +122,15 @@ third_nav_title: Character & Citizenship Edu
 </tbody>
 </table>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnbwp7Dx8GAIusmpSqx2h0I1oxeGWOQpjjxr0PXNpalXl_AjWQ_S908skTSCV8BLYeh6tdD_4tXRsY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+**Still unsure what's the next step for you?**
+
+The school's ECG Counsellor, Ms Jerlyn Poh, works closely with the respective institutions' ECG teams to guide students to make informed decisions about their education and career plans.
+
+You may contact the school's ECG Counsellor via the following modes:
+
+Email: jerlyn_poh_yoke_hui@schools.gov.sg
+
+Telegram: https://t.me/ecgc_jp
+
+Appointment Link: https://go.gov.sg/nbssmsjerlyn 
