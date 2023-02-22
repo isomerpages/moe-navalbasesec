@@ -1,5 +1,5 @@
 collections:
-  for-navalities:
+  navalities:
     output: true
     order:
       - NBSS Pyramid of Success (PoS).md
