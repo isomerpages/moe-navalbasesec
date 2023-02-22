@@ -3,7 +3,19 @@ title: NBSS e–OPEN HOUSE
 permalink: /nbss-e-open-house/
 description: ""
 ---
-<p style="text-align: center;"><b>Welcome to the Naval Base Secondary School e-Open House webpage! Before you proceed to check out our e-resources, do check out our LIVE Open House on *Sat 26 November 2022, 9am - 1pm*! And while you're at it, no harm checking out our Facebook and Instagram pages too, under "navalbasesec"</b></p>
+### Welcome to the Naval Base Secondary School e-Open House webpage! 
+
+We hold Open Houses at the end of November every year, where prospective students and parents get to be immersed in the Naval Base Experience. While we await this year's instalment, do check out our social media pages: 
+
+### Check out our Facebook and Instagram pages
+Catch a glimpse of the exciting daily lives that our Navalite community enjoys, and be part of our thousands-strong online community!
+
+[Our Facebook page](https://www.facebook.com/navalbasesec)
+
+[Our Instagram page](https://www.instagram.com/navalbasesec/)
+
+
+### One-Stop Page: All You Want to Know about NBSS!
 
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/-mollim_J-Y?autoplay=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 
@@ -65,7 +77,7 @@ description: ""
 <p style="text-align: center;">Watch this video to find out more!</p>
 <p><iframe title="YouTube video player" src="https://www.youtube.com/embed/gtXpFImSd2E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
 <p style="text-align: center;">To find out more about our school, view or download our school e-brochure below!</p>
-<p style="text-align: center;"><a href="/files/Naval%20Base%20Secondary%20School%20e-Brochure.pdf">Here!</a></p>
-<p style="text-align: center;">Thank you for visiting the Naval Base Secondary School e-Open House.</p>
+<p style="text-align: center;"><a href="/files/Naval%20Base%20Secondary%20School%20e-Brochure.pdf">Naval Base Secondary School e-brochure</a></p>
+<p style="text-align: center;">Thank you for visiting the Naval Base Secondary School e-Open House page!</p>
 <p style="text-align: center;">We hope you have enjoyed learning more about us through this website. We would like to hear about your experience so that we can improve our e-Open House. Please share with us your feedback by clicking the link below.&nbsp;</p>
-<p style="text-align: center;">&lsquo;<a href="https://form.gov.sg/615cf179f5bcee0013a6e126">Feedback Form</a>&rsquo;&nbsp;</p>
+<p style="text-align: center;"><a href="https://form.gov.sg/615cf179f5bcee0013a6e126">Feedback Form</a>&nbsp;</p>
