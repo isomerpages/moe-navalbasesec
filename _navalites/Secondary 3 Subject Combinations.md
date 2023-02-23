@@ -21,3 +21,6 @@ The subject combinations offered to students will be based on their overall acad
 
 Express
 ![](/images/Picture5.jpg)
+
+Normal Academic
+![](/images/Picture6.png)
