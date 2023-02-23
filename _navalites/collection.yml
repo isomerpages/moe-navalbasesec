@@ -1,5 +1,5 @@
 collections:
-  navalities:
+  navalites:
     output: true
     order:
       - Secondary 3 Subject Combinations.md
