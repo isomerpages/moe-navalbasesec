@@ -28,3 +28,4 @@ Normal Academic
 Normal Technical
 ![](/images/Picture7.png)
 
+For Reference (2022 Secondary 2 Parents Briefing)
