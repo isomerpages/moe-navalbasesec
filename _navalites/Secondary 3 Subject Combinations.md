@@ -30,4 +30,4 @@ Normal Technical
 
 For Reference (2022 Secondary 2 Parents Briefing)
 
-[YH and ECG Briefing Slides](/files/Su%20combi/YH%20and%20ECG%20Briefing%20Slides.pdf)
+<a href="[YH and ECG Briefing Slides](/files/Su%20combi/YH%20and%20ECG%20Briefing%20Slides.pdf)">YH and ECG Briefing Slides</a>
