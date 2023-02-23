@@ -24,3 +24,7 @@ Express
 
 Normal Academic
 ![](/images/Picture6.png)
+
+Normal Technical
+![](/images/Picture7.png)
+
