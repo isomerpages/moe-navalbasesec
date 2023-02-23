@@ -2,6 +2,7 @@ collections:
   navalities:
     output: true
     order:
+      - Secondary 3 Subject Combinations.md
       - NBSS Pyramid of Success (PoS).md
       - SHIPSHAPE in Target Setting & Monitoring.md
       - Home–Based Learning.md
