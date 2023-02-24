@@ -32,3 +32,10 @@ For Reference (2022 Secondary 2 Parents Briefing)
 
 <a href="[YH and ECG Briefing Slides](/files/Su%20combi/YH%20and%20ECG%20Briefing%20Slides.pdf)">YH and ECG Briefing Slides</a>
 
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| [EXP Subject combination book](/files/Su%20combi/EXP%20Subject%20combination%20book.pdf)   | Text     | Text     |
+| Text     | Text     | Text     |
