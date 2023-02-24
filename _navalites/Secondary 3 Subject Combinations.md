@@ -35,7 +35,7 @@ For Reference (2022 Secondary 2 Parents Briefing)
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Express | Normal Academic | Normal Tech |
 | -------- | -------- | -------- |
 | [EXP Subject combination book](/files/Su%20combi/EXP%20Subject%20combination%20book.pdf)   | Text     | Text     |
 | Text     | Text     | Text     |
