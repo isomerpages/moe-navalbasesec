@@ -1,5 +1,5 @@
 collections:
-  student-development-curriculum:
+  student-development:
     output: true
     order:
       - Student Leadership.md

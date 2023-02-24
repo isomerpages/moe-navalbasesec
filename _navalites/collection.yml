@@ -1,21 +1,22 @@
 collections:
-  for-navalities:
+  navalites:
     output: true
     order:
       - NBSS Pyramid of Success (PoS).md
       - SHIPSHAPE in Target Setting & Monitoring.md
       - Home–Based Learning.md
       - 2022 Electronic Yearbook.md
+      - Timetable, Booklist & Uniform/.keep
       - Timetable, Booklist & Uniform/Booklist 2023.md
       - Timetable, Booklist & Uniform/School Uniform.md
       - Timetable, Booklist & Uniform/Timetable 2023 (Term 1).md
       - Timetable, Booklist & Uniform/Exam timetable 2023.md
-      - Timetable, Booklist & Uniform/.keep
+      - Financial Assistance/.keep
       - Financial Assistance/MOE Financial Assistance Scheme.md
       - Financial Assistance/NEU PC PLUS Programme (IDA).md
-      - Financial Assistance/.keep
+      - Student Well Being/.keep
       - Student Well Being/Counselling.md
       - Student Well Being/Guidance.md
-      - Student Well Being/.keep
+      - Secondary 3 Subject Combinations.md
       - Poly EAE.md
       - ITE EAE.md

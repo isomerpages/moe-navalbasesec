@@ -2,11 +2,11 @@ logo: /images/logohome.png
 links:
   - title: About Us
     collection: about-us
-  - title: Academic Curriculum
+  - title: Academic
     collection: academic-curriculum
-  - title: Student Development Curriculum
-    collection: student-development-curriculum
-  - title: For Prospective Students
+  - title: Student Development
+    collection: student-development
+  - title: Prospective Students
     url: /nbss-e-open-house/
     sublinks:
       - title: NBSS e–OPEN HOUSE
@@ -19,7 +19,7 @@ links:
         url: /for-prospective-students/socialmedia/
       - title: 2023 Sec 1 Registration
         url: /parents-at-nbss/2023-secondary-1-registration
-  - title: For Navalites
+  - title: Navalites
     url: /for-navalities/nbss-pyramid-of-success-pos
     sublinks:
       - title: NBSS Pyramid of Success (PoS)
@@ -36,11 +36,13 @@ links:
         url: /for-navalities/financial-assistance/moe-financial-assistance-scheme
       - title: Student Well-being
         url: /for-navalities/student-well-being/counselling
+      - title: Sec 3 Subject Combinations
+        url: /for-navalites/sec3subjcomb
       - title: Poly EAE
         url: /for-navalities/poly-eae
       - title: ITE EAE
         url: /for-navalites/iteeae
-  - title: For Parents
+  - title: Parents
     url: /nbss/announcements/
     sublinks:
       - title: Announcements

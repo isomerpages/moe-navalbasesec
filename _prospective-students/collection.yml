@@ -1,5 +1,5 @@
 collections:
-  for-prospective-students:
+  prospective-students:
     output: true
     order:
       - NBSS e–OPEN HOUSE.md
