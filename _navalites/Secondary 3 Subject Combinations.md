@@ -22,7 +22,7 @@ The subject combinations offered to students will be based on their overall acad
 ![](/images/Picture5.jpg)
 
 
-**Secondary 3 Normal Academic**
+**Secondary 3 Normal Academic** <a href="[](/files/Su%20combi/Sec3NA.pdf)">Download</a>
 
 ![](/images/Picture6.png)
 
