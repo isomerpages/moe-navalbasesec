@@ -27,7 +27,7 @@ The subject combinations offered to students will be based on their overall acad
 ![](/images/Picture6.png)
 
 
-**Secondary 3 Normal Technical**
+**Secondary 3 Normal Technical** <a href="[](/files/Su%20combi/Sec3NT.pdf)">Download</a>
 
 ![](/images/Picture7.png)
 
