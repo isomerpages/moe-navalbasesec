@@ -12,27 +12,29 @@ In working closely with our Navalites to make the best-informed decision for the
 #### Allocation of Subjects
 The subject combinations offered to students will be based on their overall academic performance, availability of school resources and vacancies in each option. 
 
-#### Subject Combinations
 ![](/images/Picture1a.jpg)
 
-         
-2024 Tentative Secondary 3 Subject Combinations (for 2023 Secondary 2 students)  
+#### 2024 Tentative Secondary 3 Subject Combinations (for 2023 Secondary 2 students) 
 **(subject to actual demand, resourcing and timetable planning)**
 
-Express
+**Secondary 3 Express**
+
 ![](/images/Picture5.jpg)
 
-Normal Academic
+
+**Secondary 3 Normal Academic**
+
 ![](/images/Picture6.png)
 
-Normal Technical
+
+**Secondary 3 Normal Technical**
+
 ![](/images/Picture7.png)
+
 
 For Reference (2022 Secondary 2 Parents Briefing)
 
 <a href="/files/Su%20combi/YH%20and%20ECG%20Briefing%20Slides.pdf">YH and ECG Briefing Slides</a>
-
-
 
 
 | Express | Normal Academic | Normal Tech |
