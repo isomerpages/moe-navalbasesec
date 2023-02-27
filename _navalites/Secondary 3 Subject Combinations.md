@@ -17,7 +17,7 @@ The subject combinations offered to students will be based on their overall acad
 #### 2024 Tentative Secondary 3 Subject Combinations (for 2023 Secondary 2 students) 
 **(subject to actual demand, resourcing and timetable planning)**
 
-**Secondary 3 Express** <a href="[](/files/Su%20combi/Sec3EX.pdf)">Download</a>
+**Secondary 3 Express** <a href="/files/Su%20combi/Sec3EX.pdf">Download</a>
 
 ![](/images/Picture5.jpg)
 
