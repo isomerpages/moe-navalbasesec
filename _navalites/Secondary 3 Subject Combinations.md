@@ -12,7 +12,7 @@ In working closely with our Navalites to make the best-informed decision for the
 #### Allocation of Subjects
 The subject combinations offered to students will be based on their overall academic performance, availability of school resources and vacancies in each option. 
 
-![](/images/Picture1a.jpg)
+![](/images/2023%20SSC%20Subject%20Combi%20Update_Apr%2023.jpg)
 
 #### 2024 Tentative Secondary 3 Subject Combinations (for 2023 Secondary 2 students) 
 **(subject to actual demand, resourcing and timetable planning)**
