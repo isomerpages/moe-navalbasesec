@@ -11,7 +11,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Venue</p>
 </td>
 <td width="441">
-<p>Classroom 1E</p>
+<p>Classroom 4O</p>
 </td>
 </tr>
 <tr>
