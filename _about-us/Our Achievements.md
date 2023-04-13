@@ -6,7 +6,7 @@ description: ""
 # Navalites in our Community
 **Compliments from the Public**
 
-<img style="width: 55%;" src="/images/bnc1.jpeg" align="left">
+<img style="width: 50%;" src="/images/bnc1.jpeg" align="left">
 <p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."
 	
 Member of Public (Feb 2022)</p>
