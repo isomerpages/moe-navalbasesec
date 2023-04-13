@@ -3,40 +3,39 @@ title: Our Achievements
 permalink: /about-us/Achievements/permalink/
 description: ""
 ---
-
-
 # Navalites in our Community
 **Compliments from the Public**
-<img src="/images/bnc1.jpeg">
+
+<img style="width: 55%;" src="/images/bnc1.jpeg" align="left">
 <p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."
 	
 Member of Public (Feb 2022)</p>
 #### Appreciation for Our School
 <p>
-<img style="width: 65%;" src="/images/bnc2.jpg" align = "left" /> 
+<img style="width: 65%;" src="/images/bnc2.jpg" align="left"> 
 "Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!" 
 ***	Visiting School Leaders from China***
-<p>
-<img style="width: 35%;" src="/images/bnc3.jpg" align = "right" />
-<p><em>"Very Inspiring" <br /></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
+</p><p>
+<img style="width: 35%;" src="/images/bnc3.jpg" align="right">
+</p><p><em>"Very Inspiring" <br></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
 
-<p><em>"Thanks for the opportunity. My son was truly elated in going on this learning journey (to visit the Republic of Singapore Navy 188 Squadron). He shared that apart from all the fun activities, he realised that there are more career opportunities in Singapore, apart from the standard and well known ones! Thanks for planting the seed of hope in the kids. Also, kudos to your team of teachers. You are blessed!"</em><strong><em><br /></em></strong><em><strong>Parent of child in Sec 1 Talent Development Programme</strong></em></p>
-<p><em>"Very dedicated staff; impressive; going the extra mile; very professional and supportive"</em><strong><em><br /></em></strong><em><strong>Organising Committee Members for the Asian Schools Table Tennis Competition</strong></em></p>
-<img style="width: 65%;" src="/images/bnc4.jpg" align = "left" />
-<p><em>"Wonderful environment for all. A truly warm and caring school. NBSS - so vibrant, so positive... people so passionate. I wish I was a Singaporean and a student at NBSS"</em><strong><em> <br /></em></strong><strong><em>Visiting Principals from India</em></strong></p>
-<p><em>&ldquo;Thank you very much again for your warm welcome &amp; hospitality to the staff and student of HK PO LEUNG KUK Tong Nai Kan Junior Secondary School - very much appreciated indeed ..Sir, we are extremely impress by your School's staff and pupils - their energies, creativity and passion - indeed it is a very inviting School. Most of all, delighted to enjoy the ceramic art works - glad the pupils of PO LEUNG KUK JSS has a chance to try out their hands in making some art work!&rdquo;</em><strong><em><br /></em></strong><strong><em>Ms Connie Siu</em></strong><strong>,&nbsp;</strong>Vice Principal, Po Leung Kuk Tong Nai Kan Junior Secondary School Hong Kong</p>
-<p><em>&ldquo;Congratulations NBSS ! The school has created a marvellous aura of love for art and</em><em>nature.&rdquo;<br /></em><strong><em>Mrs Lim Thian Loke,&nbsp;</em></strong>Zonal Director Schools North, Schools Division, MOE&nbsp;</p>
-<p><em>&ldquo;I am very impressed! Keep up your Good Work.&rdquo;</em><strong><em><br /></em></strong><strong><em>Er Dr Lee Bee Wah,&nbsp;</em></strong>Adviser to Nee Soon South Grassroot Organisations</p>
-<p><em>&ldquo;Nothing gives me more pleasure than to say I am from Naval Base School.</em><strong><em><br /></em></strong><strong><em>Mr Subhas Anandan,&nbsp;</em></strong>NBSS Alumnus (Class of 1963), Distinguished Criminal Lawyer</p>
-<p><em>&ldquo;Am proud to be once Navalite. Continue to uphold the Legacy.&rdquo;</em><strong><em><br /></em></strong><strong>Mr Chan Chong Beng,&nbsp;</strong>NBSS Alumnus (Class of 1969),&nbsp;CEO, Goodrich Global Pte Ltd</p>
+<p><em>"Thanks for the opportunity. My son was truly elated in going on this learning journey (to visit the Republic of Singapore Navy 188 Squadron). He shared that apart from all the fun activities, he realised that there are more career opportunities in Singapore, apart from the standard and well known ones! Thanks for planting the seed of hope in the kids. Also, kudos to your team of teachers. You are blessed!"</em><strong><em><br></em></strong><em><strong>Parent of child in Sec 1 Talent Development Programme</strong></em></p>
+<p><em>"Very dedicated staff; impressive; going the extra mile; very professional and supportive"</em><strong><em><br></em></strong><em><strong>Organising Committee Members for the Asian Schools Table Tennis Competition</strong></em></p>
+<img style="width: 65%;" src="/images/bnc4.jpg" align="left">
+<p><em>"Wonderful environment for all. A truly warm and caring school. NBSS - so vibrant, so positive... people so passionate. I wish I was a Singaporean and a student at NBSS"</em><strong><em> <br></em></strong><strong><em>Visiting Principals from India</em></strong></p>
+<p><em>“Thank you very much again for your warm welcome &amp; hospitality to the staff and student of HK PO LEUNG KUK Tong Nai Kan Junior Secondary School - very much appreciated indeed ..Sir, we are extremely impress by your School's staff and pupils - their energies, creativity and passion - indeed it is a very inviting School. Most of all, delighted to enjoy the ceramic art works - glad the pupils of PO LEUNG KUK JSS has a chance to try out their hands in making some art work!”</em><strong><em><br></em></strong><strong><em>Ms Connie Siu</em></strong><strong>,&nbsp;</strong>Vice Principal, Po Leung Kuk Tong Nai Kan Junior Secondary School Hong Kong</p>
+<p><em>“Congratulations NBSS ! The school has created a marvellous aura of love for art and</em><em>nature.”<br></em><strong><em>Mrs Lim Thian Loke,&nbsp;</em></strong>Zonal Director Schools North, Schools Division, MOE&nbsp;</p>
+<p><em>“I am very impressed! Keep up your Good Work.”</em><strong><em><br></em></strong><strong><em>Er Dr Lee Bee Wah,&nbsp;</em></strong>Adviser to Nee Soon South Grassroot Organisations</p>
+<p><em>“Nothing gives me more pleasure than to say I am from Naval Base School.</em><strong><em><br></em></strong><strong><em>Mr Subhas Anandan,&nbsp;</em></strong>NBSS Alumnus (Class of 1963), Distinguished Criminal Lawyer</p>
+<p><em>“Am proud to be once Navalite. Continue to uphold the Legacy.”</em><strong><em><br></em></strong><strong>Mr Chan Chong Beng,&nbsp;</strong>NBSS Alumnus (Class of 1969),&nbsp;CEO, Goodrich Global Pte Ltd</p>
 
 <p></p>
 <p></p><p></p>
 
-</p>
+<p></p>
 # Staff Achievements
 <p>
-<p style="text-align: center;"><strong>National Day Commendation Medal</strong></p>
+</p><p style="text-align: center;"><strong>National Day Commendation Medal</strong></p>
 <table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="text-align: center;">
@@ -255,7 +254,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>National Cadet Corps</p>
 </td>
 <td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br />2017 Outstanding Cadet Award - Darren Seah<br />2016 Outstanding Cadet Award - Tay Chi Ken</p>
+<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br>2017 Outstanding Cadet Award - Darren Seah<br>2016 Outstanding Cadet Award - Tay Chi Ken</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +262,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>National Police Cadet Corps</p>
 </td>
 <td>
-<p>GOLD (2018, 2017, 2016, 2012)<br />SILVER (2015, 2014, 2013)<br />2017 SPF-NPCC Award - Glen and Luke<br />2016 SPF-NPCC Award - Ong Jian Kai &amp; Yeo Zi Wei<br />2015 SPF-NPCC Award - Shannon</p>
+<p>GOLD (2018, 2017, 2016, 2012)<br>SILVER (2015, 2014, 2013)<br>2017 SPF-NPCC Award - Glen and Luke<br>2016 SPF-NPCC Award - Ong Jian Kai &amp; Yeo Zi Wei<br>2015 SPF-NPCC Award - Shannon</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +270,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>St. John Ambulance Brigade</p>
 </td>
 <td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)&nbsp;<br />2016 First Aid Competition (Adult Cadet Category) - Champion &amp;<br />Best in Home Nursing&nbsp;<br />First Aid Competition (Nursing Cadet Category) - 1st Runner-up &amp;<br />Best in Home Nursing 2015 First Aid Competition (Adult Cadet Category) - 1st Runner-up&nbsp;<br />First Aid Competition (Nursing Cadet Category) - Champion&nbsp;</p>
+<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)&nbsp;<br>2016 First Aid Competition (Adult Cadet Category) - Champion &amp;<br>Best in Home Nursing&nbsp;<br>First Aid Competition (Nursing Cadet Category) - 1st Runner-up &amp;<br>Best in Home Nursing 2015 First Aid Competition (Adult Cadet Category) - 1st Runner-up&nbsp;<br>First Aid Competition (Nursing Cadet Category) - Champion&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +278,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Girl Guides</p>
 </td>
 <td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br />2017 Baden-Powell Award - Rou Xuan<br />2016 Baden-Powell Award - Angela Joy</p>
+<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br>2017 Baden-Powell Award - Rou Xuan<br>2016 Baden-Powell Award - Angela Joy</p>
 </td>
 </tr>
 <tr>
@@ -292,8 +291,8 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Basketball</p>
 </td>
 <td>
-<p>B Boys North Zone 2nd-Tier Tournament - 1st Runner-Up (2015)<br />Boys T Nets Level 3 - Champions (2013)</p>
-<p>B Girls North Zone 2nd-Tier Tournament - 1st Runner-Up (2015), 2nd Runner-Up (2016)<br />B Girls T Nets Level 2 - Champions (2014)<br />B Girls Zhenghua Cup - Champions (2013)<br />B Girls North Zone 1st Runner-up (2010)</p>
+<p>B Boys North Zone 2nd-Tier Tournament - 1st Runner-Up (2015)<br>Boys T Nets Level 3 - Champions (2013)</p>
+<p>B Girls North Zone 2nd-Tier Tournament - 1st Runner-Up (2015), 2nd Runner-Up (2016)<br>B Girls T Nets Level 2 - Champions (2014)<br>B Girls Zhenghua Cup - Champions (2013)<br>B Girls North Zone 1st Runner-up (2010)</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +300,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Sepak Takraw</p>
 </td>
 <td>
-<p>C Boys North Zone Champions, National Top 8 (2015)&nbsp;<br />C Boys North Zone Champions, National 2nd Runner-Up (2014)&nbsp;<br />C Boys North Zone 1st Runner-Up (2018, 2017)<br />C Boys North Zone 3rd Runner-up and National Top 8 (2012)&nbsp;<br /><br />B Boys&nbsp;North Zone 1st Runner-up and National Top 8 (2011)&nbsp;<br />B Boys North Zone 3rd Runner-up (2016, 2014)&nbsp;<br />B Boys North Zone 4th Runner-up and National Top 16 (2015)&nbsp;</p>
+<p>C Boys North Zone Champions, National Top 8 (2015)&nbsp;<br>C Boys North Zone Champions, National 2nd Runner-Up (2014)&nbsp;<br>C Boys North Zone 1st Runner-Up (2018, 2017)<br>C Boys North Zone 3rd Runner-up and National Top 8 (2012)&nbsp;<br><br>B Boys&nbsp;North Zone 1st Runner-up and National Top 8 (2011)&nbsp;<br>B Boys North Zone 3rd Runner-up (2016, 2014)&nbsp;<br>B Boys North Zone 4th Runner-up and National Top 16 (2015)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +308,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Soccer</p>
 </td>
 <td>
-<p>C Boys North Zone 3rd Runner-Up (2015)<br />B Boys North Zone 3rd Runner-Up (2015)<br />Winner Plus Challenge Team Unity (2010)</p>
+<p>C Boys North Zone 3rd Runner-Up (2015)<br>B Boys North Zone 3rd Runner-Up (2015)<br>Winner Plus Challenge Team Unity (2010)</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +316,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>&nbsp;Table Tennis</p>
 </td>
 <td>
-<p>C Girls North Zone 3rd Runner-up (2017)<br />B Boys North Zone Top 5 (2015)</p>
+<p>C Girls North Zone 3rd Runner-up (2017)<br>B Boys North Zone Top 5 (2015)</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +329,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Choir</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)<br />Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
 </td>
 </tr>
 <tr>
@@ -338,15 +337,15 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Concert Band</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br />Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Dance<br />(Indian)</p>
+<p>Dance<br>(Indian)</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015, 2013)<br />Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015, 2013)<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017)</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +353,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Dance (International)</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2017, 2015)&nbsp;<br />Super 24 Hip Hop Competition - (2016 - Top 9), (2015 - Top 6)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2017, 2015)&nbsp;<br>Super 24 Hip Hop Competition - (2016 - Top 9), (2015 - Top 6)</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +361,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Drama</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br />Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +374,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>&nbsp;Art Club</p>
 </td>
 <td>
-<p>Singapore Youth Festival (SYF) - Certificate of Recognition (2016 - 4, 2014 - 1 Special Mention) <br />Singapore Youth Festival (SYF) - Certificate of Participation (2016 - 2, 2014 - 3)</p>
+<p>Singapore Youth Festival (SYF) - Certificate of Recognition (2016 - 4, 2014 - 1 Special Mention) <br>Singapore Youth Festival (SYF) - Certificate of Participation (2016 - 2, 2014 - 3)</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +382,7 @@ Our CCAs have also done us proud over the years with their achievements.
 <p>Floral Art Club</p>
 </td>
 <td>
-<p>International Youth Floral Art Competition 2016 - 1 Gold, 3 Silver<br />Floral Harmony @ Nanyang Competition - 2015 - 1 Gold, 1 Silver and 1 Merit<br />2014 - 1 Bronze, 2 Merit<br />Singapore Garden Festival Orchid Landscape 2011 (3rd and Honourable Mention by Prime Minister at National Day Rally 2010)&nbsp;<br />Singapore Garden Festival Orchid Landscape 2010 (2nd Runner-up and Most Colourful Display Award)&nbsp;<br />Nanyang Inter-School Inter-School Floral Art Competition 2010 (1 Merit Prize (Team) and 1 Merit Prize (Individual)&nbsp;</p>
+<p>International Youth Floral Art Competition 2016 - 1 Gold, 3 Silver<br>Floral Harmony @ Nanyang Competition - 2015 - 1 Gold, 1 Silver and 1 Merit<br>2014 - 1 Bronze, 2 Merit<br>Singapore Garden Festival Orchid Landscape 2011 (3rd and Honourable Mention by Prime Minister at National Day Rally 2010)&nbsp;<br>Singapore Garden Festival Orchid Landscape 2010 (2nd Runner-up and Most Colourful Display Award)&nbsp;<br>Nanyang Inter-School Inter-School Floral Art Competition 2010 (1 Merit Prize (Team) and 1 Merit Prize (Individual)&nbsp;</p>
 </td>
 </tr>
 <tr>
