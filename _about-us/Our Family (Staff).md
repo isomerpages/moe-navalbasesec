@@ -38,11 +38,11 @@ description: ""
 </tr>
 <tr>
 <td>Ms Sabrina Chan</td>
-<td>Head of Department, Character & Citizenship Education</td>
+<td>Head of Department, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
 <td>Mrs Crescendra Chong</td>
-<td>Head of Department,&nbsp;English Language & Literature</td>
+<td>Head of Department,&nbsp;English Language &amp; Literature</td>
 </tr>
 <tr>
 <td>Mr Loh Jiunn Shyan</td>
@@ -66,7 +66,7 @@ description: ""
 </tr>
 <tr>
 <td>Mr Ravi Chandran</td>
-<td>Head of Department, PE & CCA</td>
+<td>Head of Department, PE &amp; CCA</td>
 </tr>
 <tr>
 <td>Ms Lisa Boon</td>
@@ -90,7 +90,7 @@ description: ""
 </tr>
 <tr>
 <td>Ms Maybelline Tay</td>
-<td>Subject Head, Aesthetics, Craft & Technology</td>
+<td>Subject Head, Aesthetics, Craft &amp; Technology</td>
 </tr>
 <tr>
 <td>Ms Amanda Chong</td>
@@ -123,12 +123,12 @@ description: ""
 </tbody>
 </table>
 </div>
-<p><strong>Form Teachership 2023<br /></strong></p>
+<p><strong>Form Teachership 2023<br></strong></p>
 <table width="0">
 <tbody>
 <tr>
 
-<table border="0" cellpadding="0" cellspacing="0" width="539" style="border-collapse:
+</tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="539" style="border-collapse:
  collapse;width:405pt"><colgroup><col width="60" style="mso-width-source:userset;mso-width-alt:2194;width:90pt"> <col width="237" style="mso-width-source:userset;mso-width-alt:8667;width:178pt"> <col width="242" style="mso-width-source:userset;mso-width-alt:8850;width:182pt"></colgroup><tbody><tr height="22" style="height:16.5pt"><td height="22" class="xl67" dir="LTR" width="60" style="height:16.5pt;width:45pt">Class</td><td class="xl67" dir="LTR" width="237" style="border-left:none;width:178pt">FT1</td><td class="xl67" dir="LTR" width="242" style="border-left:none;width:182pt">FT2</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;border-top:
   none;width:45pt">1 Anchor</td><td class="xl71" dir="LTR" width="237" style="border-top:none;border-left:none;
   width:178pt">Ms Nurashikeen Bte Maidin (SH)</td><td class="xl73" dir="LTR" width="242" style="border-left:none;width:182pt"> Ms Vivien Cheng</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
@@ -216,9 +216,9 @@ description: ""
 	
 	
 	
-</tr>
-</tbody>
-</table>
+
+
+
 <p><strong>&nbsp;Operations and Administrative Staff</strong></p>
 <div>
 <table>
@@ -232,7 +232,7 @@ description: ""
 <td>Operations Manager&nbsp;</td>
 </tr>
 <tr>
-<td>Ms Huang Huiping</td>
+<td>Mr Bryan Tan</td>
 <td>Administration Manager</td>
 </tr>
 <tr>
@@ -244,4 +244,4 @@ description: ""
 <td>Administrative Executive&nbsp;</td>
 </tr>
 </tbody>
-</table>
+</table></div>
