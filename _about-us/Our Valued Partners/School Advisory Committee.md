@@ -4,8 +4,6 @@ permalink: /partners-of-nbss/sac/
 description: ""
 third_nav_title: Our Valued Partners
 ---
-
-
 <p>Term of Office: 1 Oct 2022 to 30 Sep 2024</p>
 <table>
 <tbody>
@@ -43,7 +41,7 @@ third_nav_title: Our Valued Partners
 </tr>
 <tr>
 <td>Secretariat</td>
-<td>Ms Huang Huiping</td>
+<td>Mr Bryan Tan</td>
 </tr>
 </tbody>
 </table>
