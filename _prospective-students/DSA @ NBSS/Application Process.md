@@ -7,6 +7,4 @@ third_nav_title: DSA @ NBSS
 <p><strong>Centralised DSA-Sec Application Process</strong></p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. 
 	
-For more details, please refer to the MOE website: 
-
-[http://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)</p>
+For more details, [please refer to the MOE website.](http://www.moe.gov.sg/dsa-sec). </p>
