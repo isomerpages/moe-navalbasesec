@@ -3,403 +3,123 @@ title: Our Achievements
 permalink: /about-us/Achievements/permalink/
 description: ""
 ---
-# Navalites in our Community
-**Compliments from the Public**
+# Bouquets &amp; Awards
+#### Navalites in our Community: Compliments from the Public
 
-<img style="width: 50%;" src="/images/bnc1.jpeg" align="left">
-<p>"I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation."
-	
-Member of Public (Feb 2022)</p>
-#### Appreciation for Our School
-<p>
-<img style="width: 65%;" src="/images/bnc2.jpg" align="left"> 
-"Good school, Excellent teachers, Perfect Principal; Very creative and hopeful!" 
-***	Visiting School Leaders from China***
-</p><p>
-<img style="width: 35%;" src="/images/bnc3.jpg" align="right">
-</p><p><em>"Very Inspiring" <br></em><em><strong>Mr Low Sze Wee</strong>,&nbsp;</em>Director, Curatorial, Collections and Education, National Gallery Singapore.</p>
+###### August 2022
 
-<p><em>"Thanks for the opportunity. My son was truly elated in going on this learning journey (to visit the Republic of Singapore Navy 188 Squadron). He shared that apart from all the fun activities, he realised that there are more career opportunities in Singapore, apart from the standard and well known ones! Thanks for planting the seed of hope in the kids. Also, kudos to your team of teachers. You are blessed!"</em><strong><em><br></em></strong><em><strong>Parent of child in Sec 1 Talent Development Programme</strong></em></p>
-<p><em>"Very dedicated staff; impressive; going the extra mile; very professional and supportive"</em><strong><em><br></em></strong><em><strong>Organising Committee Members for the Asian Schools Table Tennis Competition</strong></em></p>
-<img style="width: 65%;" src="/images/bnc4.jpg" align="left">
-<p><em>"Wonderful environment for all. A truly warm and caring school. NBSS - so vibrant, so positive... people so passionate. I wish I was a Singaporean and a student at NBSS"</em><strong><em> <br></em></strong><strong><em>Visiting Principals from India</em></strong></p>
-<p><em>“Thank you very much again for your warm welcome &amp; hospitality to the staff and student of HK PO LEUNG KUK Tong Nai Kan Junior Secondary School - very much appreciated indeed ..Sir, we are extremely impress by your School's staff and pupils - their energies, creativity and passion - indeed it is a very inviting School. Most of all, delighted to enjoy the ceramic art works - glad the pupils of PO LEUNG KUK JSS has a chance to try out their hands in making some art work!”</em><strong><em><br></em></strong><strong><em>Ms Connie Siu</em></strong><strong>,&nbsp;</strong>Vice Principal, Po Leung Kuk Tong Nai Kan Junior Secondary School Hong Kong</p>
-<p><em>“Congratulations NBSS ! The school has created a marvellous aura of love for art and</em><em>nature.”<br></em><strong><em>Mrs Lim Thian Loke,&nbsp;</em></strong>Zonal Director Schools North, Schools Division, MOE&nbsp;</p>
-<p><em>“I am very impressed! Keep up your Good Work.”</em><strong><em><br></em></strong><strong><em>Er Dr Lee Bee Wah,&nbsp;</em></strong>Adviser to Nee Soon South Grassroot Organisations</p>
-<p><em>“Nothing gives me more pleasure than to say I am from Naval Base School.</em><strong><em><br></em></strong><strong><em>Mr Subhas Anandan,&nbsp;</em></strong>NBSS Alumnus (Class of 1963), Distinguished Criminal Lawyer</p>
-<p><em>“Am proud to be once Navalite. Continue to uphold the Legacy.”</em><strong><em><br></em></strong><strong>Mr Chan Chong Beng,&nbsp;</strong>NBSS Alumnus (Class of 1969),&nbsp;CEO, Goodrich Global Pte Ltd</p>
+I am writing in to you as I would like to commend one of your student, Alfiyah, from Class 3-5. 😊
 
-<p></p>
-<p></p><p></p>
+I attended the National Day Parade two days back with my family. As we arrived earlier, we had to sit in the hot afternoon sun for about 1.5 hours. My 3.5yo toddler was getting increasingly grumpy as he was sweaty and heat rash appeared on his neck. I used the foldable fan to fan him and continuously used wet tissue to wipe his neck but he was still upset as the rashes was itchy and painful. Thereafter, I realised that Alfiyah, who was seated behind us, was actually helping to fan him too! I do not know how long she actually did so before I found out but thereafter, after thanking her and chatting with her family, she did that for easily 30-45 mins and I was very touched. In the hot sun, she was also sweating profusely but she chose to fan my son, a stranger, and not herself. It may be a small act of kindness but to me, that meant a lot. It was truly our Singapore spirit!
 
-<p></p>
-# Staff Achievements
-<p>
-</p><p style="text-align: center;"><strong>National Day Commendation Medal</strong></p>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr style="text-align: center;">
-<td width="198">
-<p><strong>2020</strong></p>
-</td>
-<td width="198">
-<p><strong>2021</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr Saiful Idris&nbsp;</p>
-</td>
-<td width="198">
-<p style="text-align: center;">Mr Lim Seow Kuan</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;"><strong>National Day Long Service Medal</strong></p>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr style="text-align: center;">
-<td width="198">
-<p><strong>2020</strong></p>
-</td>
-<td width="198">
-<p><strong>2021</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr Loh Jiunn Shyan</p>
-<p>Ms Koh Hong Eng</p>
-</td>
-<td width="198">
-<p style="text-align: center;">Mdm Rathna d/o Suppiah</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;"><strong>MOE Service Excellence Award (MSEA)</strong></p>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="2" width="580">
-<p><strong>2021</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="294">
-<p><strong>Silver</strong></p>
-</td>
-<td style="text-align: center;" width="286">
-<p><strong>Gold</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="294">
-<p>Ms Marinah Hasnan</p>
-<p>Ms Huang Huiping</p>
-<p>Mr Arthur Cheong</p>
-<p>Mr Bernie Chia</p>
-<p>Ms Shirley Tan</p>
-<p>Ms Shanthi</p>
-<p>Ms Norazlina</p>
-<p>Ms Vivien Cheng</p>
-<p>Ms Chang Ya-Wen</p>
-<p>Ms Shahirah</p>
-<p>Ms Poovili</p>
-<p>Ms Beryl Wong</p>
-<p>Ms Chen Xin</p>
-<p>Mr Herwanto</p>
-<p>Mr Shawn Neo</p>
-<p>Ms Nadhirah</p>
-<p>Ms Debbie Yue</p>
-<p>Ms Zubaidah</p>
-<p>Ms Nurlisah</p>
-</td>
-<td style="text-align: center;" width="286">
-<p>Mr Amron</p>
-<p>Ms Angjarladavy</p>
-<p>Mr Balasundaram</p>
-<p>Ms Sabrina Chan</p>
-<p>Ms Celine Chan</p>
-<p>Ms Chia Xiaoyun</p>
-<p>Mr Saiful Idris</p>
-<p>Mrs Crescendra Chong</p>
-<p>Mr Eugene Lee</p>
-<p>Mr Sean Lim</p>
-<p>Mdm Faridah Hamid</p>
-<p>Mr Frank Foo</p>
-<p>Ms Khoo Lee Kuan</p>
-<p>Mrs Koh Koon Wah</p>
-<p>Mdm Lila Bte Salleh</p>
-<p>Mr Thomas Lim</p>
-<p>Mr Liow Kwee Siang</p>
-<p>Ms Mardiana</p>
-<p>Mr Mohd Alfiyan</p>
-<p>Ms Natalie Ko</p>
-<p>Ms Norizah Bte Selamat</p>
-<p>Ms Nur Amanina</p>
-<p>Ms Nurashikeen</p>
-<p>Ms Rashidah</p>
-<p>Ms Rosnita</p>
-<p>Ms Gina Seo</p>
-<p>Mrs Mary Tan</p>
-<p>Mr Addison Wong</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;" colspan="3" width="623">
-<p><strong>2020</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p><strong>Silver</strong></p>
-</td>
-<td style="text-align: center;" width="228">
-<p><strong>Gold</strong></p>
-</td>
-<td style="text-align: center;" width="198">
-<p><strong>Platinum</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr Amron</p>
-<p>Ms Angjarladavy</p>
-<p>Mr Balasundaram</p>
-<p>Ms Sabrina Chan</p>
-<p>Ms Celine Chan</p>
-<p>Ms Chang Zhen Yu</p>
-<p>Mr Kelvin Cheng</p>
-<p>Ms Chia Xiaoyun</p>
-<p>Mr Saiful Idris</p>
-<p>Mrs Crescendra Chong</p>
-<p>Mr Eugene Lee</p>
-<p>Mdm Faridah Hamid</p>
-<p>Mr Frank Foo</p>
-<p>Mr Casimir Kang</p>
-<p>Ms Khoo Lee Kuan</p>
-<p>Mrs Koh Koon Wah</p>
-<p>Mdm Lila Bte Salleh</p>
-<p>Mr Thomas Lim</p>
-<p>Ms Jasmine Lim</p>
-<p>Mr Liow Kwee Siang</p>
-<p>Ms Mardiana</p>
-<p>Mr Mohd Alfiyan</p>
-<p>Ms Natalie Ko</p>
-<p>Ms Norizah Bte Selamat</p>
-<p>Ms Nur Amanina</p>
-<p>Ms Nurashikeen</p>
-<p>Ms Rashidah</p>
-<p>Ms Rosnita</p>
-<p>Ms See-Toh Wai Yin</p>
-<p>Ms Gina Seo</p>
-<p>Ms Siti Anis Bte Amat</p>
-<p>Mrs Mary Tan</p>
-<p>Mr Simon Teo</p>
-<p>Mr Steven Teo</p>
-<p>Mr Addison Wong</p>
-</td>
-<td style="text-align: center;" width="228">
-<p>Mr Ravi Chandran</p>
-<p>Ms Lucy Png</p>
-<p>Ms Lim Li Qing</p>
-<p>Ms Jasmine Teo</p>
-<p>Mr Li Junyang</p>
-<p>Mr Haliluddin Bin Salleh</p>
-</td>
-<td style="text-align: center;" width="198">
-<p>Mr Loh Jiunn Shyan</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;"><strong> NIE Caring Teacher Award</strong></p>
-<table style="margin-left: auto; margin-right: auto;">
-<tbody>
-<tr>
-<td style="text-align: center;" width="198">
-<p><strong>2020</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">
-<p>Mr See Kok Han</p>
-<p>Ms Lim Li Qing</p>
-<p>Mdm Rosnita Bte Juri</p>
-<p>Ms Jasmine Lim</p>
-<p>Mr Simon Teo&nbsp;&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+As educators, we enter the teaching fraternity with hopes of inspiring and moulding our future generation; I myself always teach my students about kindness and empathy too. Naval Base Secondary, under all of your guidance, has clearly done a wonderful job instilling such important values in your students and I cannot be prouder as a fellow educator. As a mother, I am grateful to Alfiyah for her kindess and empathy on National Day and it will be something I will remember for a long time to come. 😊
 
-# Co-Curricular Achievements
-Our CCAs have also done us proud over the years with their achievements. 
+Do feel free to contact me if you require any more information and I hope this commendation will be passed on to Alfiyah as well as her teachers who have done a wonderful job teaching her class. 
 
-<table>
-<tbody>
-<tr>
-<td colspan="2">
-<p><strong>Uniformed Groups</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>National Cadet Corps</p>
-</td>
-<td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br>2017 Outstanding Cadet Award - Darren Seah<br>2016 Outstanding Cadet Award - Tay Chi Ken</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>National Police Cadet Corps</p>
-</td>
-<td>
-<p>GOLD (2018, 2017, 2016, 2012)<br>SILVER (2015, 2014, 2013)<br>2017 SPF-NPCC Award - Glen and Luke<br>2016 SPF-NPCC Award - Ong Jian Kai &amp; Yeo Zi Wei<br>2015 SPF-NPCC Award - Shannon</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>St. John Ambulance Brigade</p>
-</td>
-<td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)&nbsp;<br>2016 First Aid Competition (Adult Cadet Category) - Champion &amp;<br>Best in Home Nursing&nbsp;<br>First Aid Competition (Nursing Cadet Category) - 1st Runner-up &amp;<br>Best in Home Nursing 2015 First Aid Competition (Adult Cadet Category) - 1st Runner-up&nbsp;<br>First Aid Competition (Nursing Cadet Category) - Champion&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Girl Guides</p>
-</td>
-<td>
-<p>GOLD (2018, 2017, 2016, 2015, 2014, 2013, 2012)<br>2017 Baden-Powell Award - Rou Xuan<br>2016 Baden-Powell Award - Angela Joy</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><strong>Physical Sports</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Basketball</p>
-</td>
-<td>
-<p>B Boys North Zone 2nd-Tier Tournament - 1st Runner-Up (2015)<br>Boys T Nets Level 3 - Champions (2013)</p>
-<p>B Girls North Zone 2nd-Tier Tournament - 1st Runner-Up (2015), 2nd Runner-Up (2016)<br>B Girls T Nets Level 2 - Champions (2014)<br>B Girls Zhenghua Cup - Champions (2013)<br>B Girls North Zone 1st Runner-up (2010)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sepak Takraw</p>
-</td>
-<td>
-<p>C Boys North Zone Champions, National Top 8 (2015)&nbsp;<br>C Boys North Zone Champions, National 2nd Runner-Up (2014)&nbsp;<br>C Boys North Zone 1st Runner-Up (2018, 2017)<br>C Boys North Zone 3rd Runner-up and National Top 8 (2012)&nbsp;<br><br>B Boys&nbsp;North Zone 1st Runner-up and National Top 8 (2011)&nbsp;<br>B Boys North Zone 3rd Runner-up (2016, 2014)&nbsp;<br>B Boys North Zone 4th Runner-up and National Top 16 (2015)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Soccer</p>
-</td>
-<td>
-<p>C Boys North Zone 3rd Runner-Up (2015)<br>B Boys North Zone 3rd Runner-Up (2015)<br>Winner Plus Challenge Team Unity (2010)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>&nbsp;Table Tennis</p>
-</td>
-<td>
-<p>C Girls North Zone 3rd Runner-up (2017)<br>B Boys North Zone Top 5 (2015)</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><strong>Performing Arts</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Choir</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Concert Band</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Dance<br>(Indian)</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015, 2013)<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Dance (International)</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2017, 2015)&nbsp;<br>Super 24 Hip Hop Competition - (2016 - Top 9), (2015 - Top 6)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Drama</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Distinction (2015)&nbsp;<br>Singapore Youth Festival (SYF) - Certificate of Accomplishment (2017, 2013)</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><strong>Clubs and Societies</strong></p>
-</td>
-</tr>
-<tr>
-<td>
-<p>&nbsp;Art Club</p>
-</td>
-<td>
-<p>Singapore Youth Festival (SYF) - Certificate of Recognition (2016 - 4, 2014 - 1 Special Mention) <br>Singapore Youth Festival (SYF) - Certificate of Participation (2016 - 2, 2014 - 3)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Floral Art Club</p>
-</td>
-<td>
-<p>International Youth Floral Art Competition 2016 - 1 Gold, 3 Silver<br>Floral Harmony @ Nanyang Competition - 2015 - 1 Gold, 1 Silver and 1 Merit<br>2014 - 1 Bronze, 2 Merit<br>Singapore Garden Festival Orchid Landscape 2011 (3rd and Honourable Mention by Prime Minister at National Day Rally 2010)&nbsp;<br>Singapore Garden Festival Orchid Landscape 2010 (2nd Runner-up and Most Colourful Display Award)&nbsp;<br>Nanyang Inter-School Inter-School Floral Art Competition 2010 (1 Merit Prize (Team) and 1 Merit Prize (Individual)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>InfoComm Club</p>
-</td>
-<td>
-<p>Games of Drones 2017 - 2nd Runner-Up</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Service Library Club</p>
-</td>
-<td>
-<p>3rd in Regional Prove-It! competition organised by National Library Board</p>
-</td>
-</tr>
-</tbody>
-</table>
+###### July 2022
+In collaboration with our partners from Yishun South Neighbourhood Police Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe Lim Xinyu was produced for display across a few MRT pillars in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians about road safety, and the importance of looking out for one another. 
+
+![](/images/xin%20yu%20pillar.jpeg)
+
+
+###### February 2022
+I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation.
+
+<img style="width: 100%;" src="/images/bnc1.jpeg" align="left">
+
+###### September 2021
+
+I was at Yishun Public Library on Monday, 20 Sep 2021. While browsing through the Children's Section, a few magazines dropped onto the floor as the plastic rack broke. I was holding on to many books in one hand so it was rather challenging for me to pick the magazines up to put them in place. Just as I was struggling, Zi Qian, a student from 4-6, came over to help. She was studying in a little corner near me when she saw what happened. Although I didn't ask for help, she willingly came forward to extend her assistance. I'm truly grateful for her kind gesture, and I'm so heartened to see such youths in our society! I'm proud of Zi Qian, and many Navalites who have shown us what true character is really about!
+
+###### March 2021
+
+I am writing in as a parent of children studying in Peiying Primary School. As you are aware, the school is neighbouring to Naval Base Secondary School and they share the roads and many crossings through the neighbourhood. 
+
+My purpose of writing in is to commend on the security personnel at your school, I was not able to get his name but I believe there's only one. He has been ever present whenever I send / fetch my children to and from school. He has always greeted us with warm greetings even though we are not with NBSS. He has always ensure anyone passing the front and back gates of the school have a safe passage and walk away with a happy greeting no matter the time of the day. 
+
+There was an instance where there were children from PYPS trying to cross the road after school but due to heavy traffic they could not, he took the responsibility to step out and stop the cars to allow the children to cross, this really puts my heart at ease knowing that if at times I'm unable to fetch my children and they were to go home on their own, there is someone there to keep a lookout for them at these dangerous crossings. 
+
+It is definitely a bonus for the school to have a heart warming, caring and responsible security guard at your gates and I am happy to be seeing him around~
+
+Thank you for taking time in reading my feedback.
+
+#### Our Navalites' Achievements
+
+##### Academic Achievements
+
+* **February 2023:** The Queen's Commonwealth Essay Competition 2022
+	* Senior Category (Gold): Vernice Koh; Senior Category (Silver): DS Dhanvin, Sam Alexander; Senior Category (Bronze): Erin Nazira, Tan Ci Hui
+	* Junior Category (Gold): Poh Yu Xin, Lyne; Junior Category (Silver): Jaivarthini Vigneshwaran; Junior Category (Bronze): Tan Wee Qin, Melissa
+* **November 2022:** Amber Pan Xian Ern's artwork was commissioned by the Dyslexia Association of Singapore, for presentation to our Director-General of Education, Ms Liew Wei Li
+* **October 2022:** Swift Explorer Finals Presentation at Apple Flagship Store, Marina Bay Sands (Bediones Rochelle Chloe Belisario and Shirin Zara Ruchti)
+* **May 2022:** Khaing Min Htet Aung was awarded Second Prize at the Grand Finals of the Chong Pang's Next Top Speaker competition
+* **April 2022:** Khaing Min Htet Aung was awarded Second Prize at the ACJC Orator's Trophy competition
+* **March 2022:** Lai Xin Xuan Geraine won fourth prize in the Crime Prevention Advisory Poster Design Competition organised by the Woodlands Police Division
+* **March 2022:** Five artworks by Navalites were selected for display on the hoarding boards that surround Chong Pang Community Centre, as it undergoes a five-year redevelopment. The Navalites are: Bediones Rochelle Chloe Belisario, Indraneel Shivram, Li Bingyu, Ng Tricia Eyonna and Shukira Arisha Binte Shukor
+* **October 2021:** A photo story by Onquit Jake Davis Areglo won the "Best Story" prize in the "Our Schools, Our Stories" Photo &amp; Video Contest, and went on exhibition across various spaces islandwide
+* **October 2021:** Destinee Chee Tong En's artwork "Brand New Beginnings" received a Special Mention at the Live On Festival (LOF) 2021 Design Competition
+
+
+##### Co-Curricular Achievements
+
+**2023 Singapore Youth Festival Arts Presentation**
+
+*Certificate of Distinction*
+* Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group
+* Indian Dance
+
+*Certificate of Accomplishment*
+* Choir (also featured in [Minister Chan Chun Sing's social media post here](https://fb.watch/k7aAvvIOAc/))
+* Modern Dance
+* Symphonic Band
+
+*Pending Announcement*
+* Drama
+
+**2022 Uniformed Groups**
+* NCC: Gold Medal
+* NPCC: Gold Medal
+* St John Brigade: Gold Medal (Chief Commissioner's Badge awarded to Lim Yong Ting, Low Xin Yu Jolie &amp; Tan Leena)
+* Girl Guides: Patrol Leader Suresh Umameshwari and Company Leader Vinodeaswar Harshitha were accorded the prestigious Baden-Powell Award, the highest given by the Chief Commissioner to a Girl Guide
+
+**2022 Sports &amp; Games**
+* Sepak Takraw: C Division 1st Runners-Up (National Championship)
+* Individual accolade: Muhammad Alif Bin Abdullah was accorded the Best Sportsboy Award for Sepak Takraw at the Singapore Schools Sports Council Colours Award
+
+**2022 Clubs &amp; Societies**
+* Art Club: Selection for SYF2022 Art Exhibition: "Repeated Openings" by Wee Wenrou Castillo, and "The Destruction of Creation" by Cheng Wei En Moses &amp; Indraneel Shivram
+
+
+#### Staff Achievements
+
+**2022 National Day Commendation Medal**
+* Mr Lim Seow Kuan (Vice-Principal)
+* Mdm Faridah Bte Abdul Hamid (Year Head)
+
+**2022 National Day Long Service Award**
+* Mrs Siti Osman (Senior Teacher, Art)
+* Mr Velukutty Ravindranath (Teacher, Tamil Language)
+
+**2022 Associate of Academy of Singapore Teachers**
+* Ms Tay Chee Joo Edna (Lead Teacher, PE)
+* Ms Huang Peishi (Senior Teacher, Geography)
+
+**2022 MOE Service Excellence Award (Platinum)**
+* Mr Foo Yeow Huat Frank (ICT Manager)
+
+**2022 MOE Service Excellence Award (Gold)**
+* Ms Huang Huiping (Administration Manager)
+* Ms Siti Nadhirah Binti Suardi (Administration Executive)
+* Ms Nurlisah Binte Rahmat (School Admin Team)
+
+**2022 MOE Service Excellence Award (Silver)**
+* Ms Nurazni Binte Mohd Kassim (Student Welfare Officer)
+* Ms Liew Su Ling (SEN Officer)
+
+**2022 Singapore Hokkien Huay Kuan LEAP Award**
+* Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)
+
+#### Organisational Achievements
+
+**2022 Singapore Environment Council School Green Awards**
+*  Naval Base Secondary School was accorded the Yellow Flame Award, the category just below the pinnacle Vanda Miss Joaquim Award
