@@ -6,7 +6,7 @@ description: ""
 # Bouquets &amp; Awards
 #### Navalites in our Community: Compliments from the Public
 
-###### August 2022
+**August 2022**
 
 I am writing in to you as I would like to commend one of your student, Alfiyah, from Class 3-5. 😊
 
@@ -16,22 +16,24 @@ As educators, we enter the teaching fraternity with hopes of inspiring and mould
 
 Do feel free to contact me if you require any more information and I hope this commendation will be passed on to Alfiyah as well as her teachers who have done a wonderful job teaching her class. 
 
-###### July 2022
-In collaboration with our partners from Yishun South Neighbourhood Police Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe Lim Xinyu was produced for display across a few MRT pillars in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians about road safety, and the importance of looking out for one another. 
+**July 2022**
+
+In collaboration with our partners from Yishun South Neighbourhood Police Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe Lim Xinyu *(pictured below)* was produced for display across a few MRT pillars in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians about road safety, and the importance of looking out for one another. 
 
 ![](/images/xin%20yu%20pillar.jpeg)
 
 
-###### February 2022
-I had the fortune to have a very pleasant encounter with 3 NBSS students who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation.
+**February 2022**
 
-<img style="width: 100%;" src="/images/bnc1.jpeg" align="left">
+I had the fortune to have a very pleasant encounter with 3 NBSS students *(pictured below)* who did their school proud with their exemplary behaviour. I was having problems navigating the self-service machine when they enthusiastically helped me. Not only were they helpful, they were very courteous. They are good ambassadors of the school. I believe that affirmation from the school would encourage these girls to continue to be kind and helpful to the less IT-savvy older generation.
 
-###### September 2021
+![](/images/bnc1.jpeg)
+
+**September 2021**
 
 I was at Yishun Public Library on Monday, 20 Sep 2021. While browsing through the Children's Section, a few magazines dropped onto the floor as the plastic rack broke. I was holding on to many books in one hand so it was rather challenging for me to pick the magazines up to put them in place. Just as I was struggling, Zi Qian, a student from 4-6, came over to help. She was studying in a little corner near me when she saw what happened. Although I didn't ask for help, she willingly came forward to extend her assistance. I'm truly grateful for her kind gesture, and I'm so heartened to see such youths in our society! I'm proud of Zi Qian, and many Navalites who have shown us what true character is really about!
 
-###### March 2021
+**March 2021**
 
 I am writing in as a parent of children studying in Peiying Primary School. As you are aware, the school is neighbouring to Naval Base Secondary School and they share the roads and many crossings through the neighbourhood. 
 
@@ -47,6 +49,8 @@ Thank you for taking time in reading my feedback.
 
 ##### Academic Achievements
 
+
+* **March 2023:** An NBSS delegation took part in the National Youth Environmental Conference organised by Nan Hua High School. Lee Hui Xuan was awarded "Best Design" for the segment "Delegates in Action"
 * **February 2023:** The Queen's Commonwealth Essay Competition 2022
 	* Senior Category (Gold): Vernice Koh; Senior Category (Silver): DS Dhanvin, Sam Alexander; Senior Category (Bronze): Erin Nazira, Tan Ci Hui
 	* Junior Category (Gold): Poh Yu Xin, Lyne; Junior Category (Silver): Jaivarthini Vigneshwaran; Junior Category (Bronze): Tan Wee Qin, Melissa
