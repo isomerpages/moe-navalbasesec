@@ -20,5 +20,5 @@ third_nav_title: DSA @ NBSS
 <li><strong>Sports – Table Tennis</strong></li>
 </ul>
 <p>Primary 6 students with a keen interest and talent in the above areas may apply to be admitted to the school through the DSA-Sec Exercise.&nbsp;</p>
-<p>To learn more about the school, our ALP in Art and other school programmes,&nbsp;click&nbsp;<strong><a href="/files/DSANBSS.pdf">here</a></strong>&nbsp;to download&nbsp;our DSA@NBSS pdf document and explore the school virtually!&nbsp;</p>
+<p>To learn more about the school, our ALP in Art and other school programmes, check out the menu on top (mobile devices) or on your left (computers). Alternatively, click <strong><a href="/files/DSANBSS.pdf">here</a></strong>&nbsp;to download&nbsp;our DSA@NBSS pdf document and explore our school virtually!&nbsp;</p>
 <img src="/images/dsa2.png">
