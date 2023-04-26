@@ -8,11 +8,11 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: e-Yearbook 2022
-          description: Fresh off the (e)Press!
-          url: /for-navalities/2022-electronic-yearbook/
+        - title: DSA 2023
+          description: More Info Here!
+          url: /nbss-curriculum/dsa-at-nbss/
         - title: Achievements
-          description: For School, Staff and Students
+          description: Our Pride & Joy
           url: /about-us/Achievements/permalink/
         - title: Social Media
           description: View Our Latest Happenings!
