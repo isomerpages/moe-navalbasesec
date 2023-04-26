@@ -12,7 +12,7 @@ sections:
           description: More Info Here!
           url: /nbss-curriculum/dsa-at-nbss/
         - title: Achievements
-          description: For School, Staff and Students
+          description: Our Pride & Joy
           url: /about-us/Achievements/permalink/
         - title: Social Media
           description: View Our Latest Happenings!
