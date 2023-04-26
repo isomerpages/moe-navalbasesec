@@ -22,3 +22,6 @@ third_nav_title: DSA @ NBSS
 <p>Primary 6 students with a keen interest and talent in the above areas may apply to be admitted to the school through the DSA-Sec Exercise.&nbsp;</p>
 <p>To learn more about the school, our ALP in Art and other school programmes, check out the menu on top (mobile devices) or on your left (computers). Alternatively, click <strong><a href="/files/DSANBSS.pdf">here</a></strong>&nbsp;to download&nbsp;our DSA@NBSS pdf document and explore our school virtually!&nbsp;</p>
 <img src="/images/dsa2.png">
+<p>You can also view the video below to learn more about our school! </p>
+<h4><strong>DSA@NBSS Video</strong></h4>
+<div><iframe title="YouTube video player" src="https://www.youtube.com/embed/dz-6f1xY22E" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
