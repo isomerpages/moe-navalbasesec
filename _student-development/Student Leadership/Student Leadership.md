@@ -30,6 +30,6 @@ Backed by over 25 years of research and data of over three million leaders,  the
 
 #### Head on to the following pages to find out more!
 
-[Student Leadership Opportunities]()
+[Student Leadership Opportunities](/student-development/stlopp/)
 
 [Student Leadership Training &amp; Development]()
