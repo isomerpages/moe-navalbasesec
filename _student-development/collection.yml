@@ -2,7 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - Student Leadership.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Student Leadership Opportunities.md
+      - Student Leadership/Student Leadership Training & Development.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - "Co Curricular Activities (CCA)/Sports: Basketball.md"
