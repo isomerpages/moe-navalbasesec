@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership/Student Leadership Training & Development.md
       - Student Leadership/Student Leadership.md
       - Student Leadership/Student Leadership Opportunities.md
       - Student Leadership/.keep
