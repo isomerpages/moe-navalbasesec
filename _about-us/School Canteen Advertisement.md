@@ -27,8 +27,8 @@ description: ""
 * Contact Person: 
 
 **How to get there?**
-* Nearest MRT: 
-* Bus number: 
+* Nearest MRT: Khatib
+* Bus number: 807
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
