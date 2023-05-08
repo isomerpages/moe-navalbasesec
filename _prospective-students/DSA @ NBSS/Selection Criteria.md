@@ -4,31 +4,26 @@ permalink: /nbss-curriculum/dsa-at-nbss/selection-criteria/
 description: ""
 third_nav_title: DSA @ NBSS
 ---
+The generic criteria for DSA selection are as follows:
 
+* Interest and passion
+	* Applicants should demonstrate a keen interest in and passion for their respective talent areas. A clear and genuine aspiration in a field related to their talent area is an advantage.
+* Talent and aptitude
+	* Applicants should demonstrate evidence of talent and/or aptitude in their talent area.
+* Conduct and attitude for learning
+	* Applicants should demonstrate a positive attitude for learning and demeanour. Applicants should be able to demonstrate evidence of good conduct in school.
+	
+Over the course of the exercise, the following will be taken into consideration in the evaluation of the DSA applications:
+* Evidence of participation and/or achievement in competitions, exhibitions, VIA projects, etc. relevant to applicant’s talent area
+* Evidence of learning attitude and/or disposition
+* Letters of recommendation / references (if any)
+* Interview performance
+* Aptitude test / audition performance
+* For Visual Art, online portfolio of artworks
 
-<p>The generic criteria for selection are as follows:</p>
-<ul>
-<li>Interest and passion</li>
-</ul>
-<p>Applicants should demonstrate a keen interest in and passion for their respective talent areas. A clear and genuine aspiration in a field related to their talent area is an advantage.</p>
-<ul>
-<li>Talent and aptitude&nbsp;</li>
-</ul>
-<p>Applicants should demonstrate evidence of talent and/or aptitude in their talent area.&nbsp;</p>
-<ul>
-<li>Conduct and attitude for learning</li>
-</ul>
-<p>Applicants should demonstrate a positive attitude for learning and demeanour. Applicants should be able to demonstrate evidence of good conduct in school.</p>
-<p>Over the course of the exercise, the following will be taken into consideration in the evaluation of the DSA applications:</p>
-<ul>
-<li>Evidence of participation and/or achievement in competitions, exhibitions, VIA projects, etc. relevant to applicant&rsquo;s talent area</li>
-<li>Evidence of learning attitude and/or disposition</li>
-<li>Letters of recommendation / references (if any)</li>
-<li>Interview performance</li>
-<li>Aptitude test / audition performance</li>
-<li>For Visual Art, online portfolio of artworks&nbsp;</li>
-</ul>
-<p>The detailed requirements and criteria for the respective areas of talent are given below:</p>
+Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer. 
+
+The detailed requirements and criteria for the respective areas of talent are given below:
 <table>
 <tbody>
 <tr>
@@ -52,13 +47,13 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Choir</p>
+<p>Performing Arts – Choir</p>
 </td>
 <td width="514">
 <p>Applicants are required to attend an interview and audition. During the audition, applicants will be asked to:</p>
 <ul>
 <li>Sing a chosen song in any vocal genre (e.g. choral, pop, etc.). The duration of the performance should be no more than 2 minutes.</li>
-<li>Solfege singing &ndash; singing along to melodies played on the piano.</li>
+<li>Solfege singing – singing along to melodies played on the piano.</li>
 </ul>
 <p>Applicants will be evaluated on their performance during the interview as well as their:</p>
 <ul>
@@ -70,7 +65,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Dance</p>
+<p>Performing Arts – Dance</p>
 </td>
 <td width="514">
 <p>Applicants are required to attend an interview and audition. During the audition, applicants will be asked to:</p>
@@ -89,7 +84,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Concert Band</p>
+<p>Performing Arts – Concert Band</p>
 </td>
 <td width="514">
 <p>Applicants are required to attend an interview and audition. During the audition, applicants are required to bring their own band instrument (except percussion instruments, which will be provided by NBSS) and will be asked to:</p>
@@ -106,7 +101,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Sports &ndash; Table Tennis</p>
+<p>Sports – Table Tennis</p>
 </td>
 <td width="514">
 <p>Applicants are required to attend an interview and aptitude test. During the aptitude test, applicants are required to bring their own table-tennis paddle and will be asked to:</p>
