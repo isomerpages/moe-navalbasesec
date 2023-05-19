@@ -19,5 +19,5 @@ third_nav_title: Physical Education
 <img src="/images/pe2.png">
 
 
-For more updates, please click this link  https://tinyurl.com/NBSS-PE-DEPT  to access our interactive PE website. Our website is a one-stop information portal for all matters related to Physical Education, our key Sporting Events, as well as information on Physical Health and Fitness. 
+For more updates, please click this [link](https://tinyurl.com/NBSS-PE-DEPT ) to access our interactive PE website. Our website is a one-stop information portal for all matters related to Physical Education, our key Sporting Events, as well as information on Physical Health and Fitness. 
 Click on to read more!
