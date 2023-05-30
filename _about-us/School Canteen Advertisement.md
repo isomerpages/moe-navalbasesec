@@ -8,7 +8,7 @@ description: ""
        
 | Type of Stall | Closing Date | Requirements |
 
-| NIL| -------- | -------- |
+| Halal Noodles | 19 June 2023 | Please see below |
 
 **Application Procedure**
 
