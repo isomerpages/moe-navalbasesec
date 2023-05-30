@@ -33,15 +33,15 @@ As one of the five boards in the school’s Student Leadership Model, the Eco-Bo
     
 *   Rally peers for environment causes, and  
     
-*   Engage partners for environmental causes. 
-    
+*   Engage partners for environmental causes.
+
 To develop our student leaders in environment-related competencies, necessary training and exposure opportunities are provided to strengthen their capacity to influence change. This includes various training opportunities held by relevant ministries and agencies, as well as competitions and workshop organised by other schools. The Eco-Councilors are also tasked to initiate projects and lead efforts in NBSS to raise awareness among the school’s population as well as contribute actively to the country’s environmental goals. Some of the developmental opportunities for the students in 2023 include: 
 
-1.  Project E.C.O Workshops by NEA to guide students in planning, organising, implementing and monitoring environment projects.  
-2.  National Youth Upcycling Movement (Workshops and Competition) to equip students with knowledge on organising environmental campaigns
-3.  National Youth Environment Conference (Model United Nations format) for students to interact with like-minded students from other schools to discuss environmental issues
-4.  Green Seeker programmes organised by Gardens by the Bay to equip students with knowledge on sustainable living 
-5.  Plastic League organised by NEA for the students to have the chance to organise school-wide environment campaigns 
+* Project E.C.O Workshops by NEA to guide students in planning, organising, implementing and monitoring environment projects.  
+* National Youth Upcycling Movement (Workshops and Competition) to equip students with knowledge on organising environmental campaigns
+* National Youth Environment Conference (Model United Nations format) for students to interact with like-minded students from other schools to discuss environmental issues
+* Green Seeker programmes organised by Gardens by the Bay to equip students with knowledge on sustainable living 
+* Plastic League organised by NEA for the students to have the chance to organise school-wide environment campaigns
 
 Opportunities are also available within the school as the Eco-Councilors are regularly tasked with sharing with the school on environment-related news, suggestions and call for actions. This takes the form of school-wide assembly sharing, planning for in-class activities on special occasions and plans to make school programmes more “green” with ideas for sustainable practices.  
 
@@ -49,11 +49,13 @@ Eco-Councilors are our student leaders who leads the school in environment cause
 
 As such, students are our key focus as we seek to influence change by providing our eco-councilors and eco-ambassadors the necessary know how to effect changes among the wider student population.
 
-### Key Programme: Interdisciplinary Project Work (IPW) for All Sec 2 Navalites
+### Key Programme: Interdisciplinary Project Work (IPW) -- For Every Secondary 2 Cohort
 
 Interdisciplinary Project Work (IPW) is a key programme among the Secondary 2 students as a means of driving environmental education in our school. IPW aims to develop critical thinking, problem-solving, and collaboration skills among secondary school students. The project involves students working together on a project that addresses an environmental issue in our school. By bringing together different disciplines, the students learn to approach problems from multiple perspectives. IPW, a yearly programme which is carried out over a period of several months, during when students conduct research, plan, execute their project and present their findings to their peers and teachers. They are also given the opportunities to present their prototypes and campaigns as part of recess exhibitions in our school.
 
 ![](/images/envedu6.png)
+
+![](/images/envedu7.png)
 
 ### Our Key Programmes (2023)
 
@@ -85,3 +87,8 @@ In connection with International Biodiversity Week, we invited a speaker from NP
 
 ![](/images/envedu5.png)
 
+##### National Youth Environment Conference (Model United Nations at Nan Hua High School) 
+
+Selected Eco\-Councillors participated in the National Youth Environment Conference (NYEC) held at Nan Hua High School. The NYEC takes on the Model United Nations Conference format which allows students to put themselves in the shoes of world leaders and tackle current environmental issues together. It provides a great opportunity for students to better understand the environmental issues at international level and the complexities of these issues, while also developing their communication and collaborative skills as they worked with delegates from other schools to reach consensus for the issues being discussed.
+
+![](/images/envedu8.png)
