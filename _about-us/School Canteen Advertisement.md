@@ -22,9 +22,9 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 901 Yishun Ring Road S(768689)
-* Contact No: 
-* Email: 
-* Contact Person: 
+* Contact No: 6257 1996
+* Email: Tan_Gack_Chong@schools.gov.sg
+* Contact Person: Mr Bryan Tan (Admin Manager)
 
 **How to get there?**
 * Nearest MRT: Khatib
