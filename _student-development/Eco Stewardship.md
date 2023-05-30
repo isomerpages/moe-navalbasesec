@@ -49,5 +49,39 @@ Eco-Councilors are our student leaders who leads the school in environment cause
 
 As such, students are our key focus as we seek to influence change by providing our eco-councilors and eco-ambassadors the necessary know how to effect changes among the wider student population.
 
-### Our Key Programmes
+### Key Programme: Interdisciplinary Project Work (IPW) for All Sec 2 Navalites
+
+Interdisciplinary Project Work (IPW) is a key programme among the Secondary 2 students as a means of driving environmental education in our school. IPW aims to develop critical thinking, problem-solving, and collaboration skills among secondary school students. The project involves students working together on a project that addresses an environmental issue in our school. By bringing together different disciplines, the students learn to approach problems from multiple perspectives. IPW, a yearly programme which is carried out over a period of several months, during when students conduct research, plan, execute their project and present their findings to their peers and teachers. They are also given the opportunities to present their prototypes and campaigns as part of recess exhibitions in our school.
+
+![](/images/envedu6.png)
+
+### Our Key Programmes (2023)
+
+With the help of our Eco-Board Councilors and Eco Ambassadors, the school organises environmental events to enrich Navalites’ learning experiences.  
+
+##### Earth Week
+
+Earth Day is an annual global event to promote environmental awareness and encourage action to protect the planet. Our school celebrates it by organizing a range of activities that promote environmental awareness and action. These activities include assembly talks, in class activities and Earth Hour where the lights and fans are switched off for an hour. In class, the eco\-ambassadors are given the task to carry out talks on the use of plastics, and ways to reduce plastic use. They were also encouraged to wear green colored shirts to commemorate the day. Beyond that, they also guide their classmates on how to calculate their plastic footprint. This serves to raise awareness on the amount of plastic usage among the students.
+
+![](/images/envedu2.png)
+
+##### Plastic League Recycling Competition  
+
+Our school takes part in the Plastic Recycling League – a recycling competition organised by SembEnviro. Each class was tasked to create a recycling corner in their classrooms, and our students have been taught on the appropriate materials which can be recycled.
+
+![](/images/envedu3.png)
+
+##### International Biodiversity Week 
+
+International Biodiversity Week is an annual event celebrated worldwide to raise awareness of the importance of biodiversity conservation and its threats. In celebrating this week, our school participates in Bio Blitz, an educational programme conducted by the National Parks Board. This programme involves a series of hands-on activities that allow students to explore and document the flora and fauna in their school environment. 
+
+We conducted this programme for all Secondary 2 students, and representatives from the school’s Parent Support Group were also invited to join us in learning about and appreciating the biodiversity in our school.
+
+![](/images/envedu4.png)
+
+##### Wildlife Smuggling Sharing by NParks 
+
+In connection with International Biodiversity Week, we invited a speaker from NParks to share with Navalites about the issue of wildlife smuggling in Singapore. This is an important and interesting issue that the country has been clamping down on for a while and broadens Navalites’ understanding of wildlife issues in Singapore. The sharing also provides insights on possible career opportunities in the related fields and was well-received by the students and teachers.
+
+![](/images/envedu5.png)
 
