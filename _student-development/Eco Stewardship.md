@@ -83,7 +83,7 @@ With the help of our Eco-Board Councilors and Eco Ambassadors, the school organi
 
 ##### Earth Week
 
-Earth Day is an annual global event to promote environmental awareness and encourage action to protect the planet. Our school celebrates it by organizing a range of activities that promote environmental awareness and action. These activities include assembly talks, in class activities and Earth Hour where the lights and fans are switched off for an hour. In class, the eco\-ambassadors are given the task to carry out talks on the use of plastics, and ways to reduce plastic use. They were also encouraged to wear green colored shirts to commemorate the day. Beyond that, they also guide their classmates on how to calculate their plastic footprint. This serves to raise awareness on the amount of plastic usage among the students.
+Earth Day is an annual global event to promote environmental awareness and encourage action to protect the planet. Our school celebrates it by organising a range of activities that promote environmental awareness and action. These activities include assembly talks, in-class activities and Earth Hour, where the lights and fans are switched off for an hour. In class, the Eco-ambassadors are given the task to carry out talks on the use of plastics, and ways to reduce plastic use. They were also encouraged to wear green-coloured shirts to commemorate the day. Beyond that, they also guide their classmates on how to calculate their plastic footprint. This serves to raise awareness on the amount of plastic usage among the students.
 
 ![](/images/envedu2.png)
 
