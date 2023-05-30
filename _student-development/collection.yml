@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Eco Stewardship at NBSS.md
       - Student Leadership/.keep
       - Student Leadership/Student Leadership.md
       - Student Leadership/Student Leadership Opportunities.md
