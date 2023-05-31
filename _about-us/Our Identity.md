@@ -59,10 +59,15 @@ Teamwork is about a team achieving excellence together. Teamwork requires indivi
 ### Our School Crest
 ![](/images/crest.gif)
 
-<p>The<strong>&nbsp;lion&nbsp;</strong>embodies Singapore:To take pride in our national identity, have a sense of belonging to Singapore and be committed to nation building. The lion also symbolises bravery (strength in character) &amp; courage (strength of the mind).</p>
-<p>The&nbsp;<strong>open book</strong>&nbsp;symbolises the importance of a good education and in constant pursuit of knowledge to achieve success in life.</p>
-<p>The&nbsp;<strong>four yellow lines</strong>&nbsp;represent the four ethnic groups in Singapore; Chinese, Malays, Indians and Others, working and living together in harmony. The&nbsp;<strong>blue background</strong>&nbsp;shows our commitment to integrate new citizens as we value Singapore’s socio-cultural diversity, promote social cohesion and harmony.</p>
-<p>The&nbsp;<strong>three rings</strong>&nbsp;are inspired by the Olympics. The three rings represent excellence in both performance and moral character, which translates to academic excellence and in the school’s distinct programmes; such as the Sports and the Arts.
-	
+The **lion** embodies Singapore:To take pride in our national identity, have a sense of belonging to Singapore and be committed to nation building. The lion also symbolises bravery (strength in character) and courage (strength of the mind).
+
+The **open book** symbolises the importance of a good education and in constant pursuit of knowledge to achieve success in life.
+
+The **four yellow lines** represent the four ethnic groups in Singapore; Chinese, Malays, Indians and Others, working and living together in harmony. 
+
+The **blue background** shows our commitment to integrate new citizens as we value Singapore’s socio-cultural diversity, promote social cohesion and harmony.
+
+The **three rings** are inspired by the Olympics. The three rings represent excellence in both performance and moral character, which translates to academic excellence and in the school’s distinct programmes; such as the Sports and the Arts.
+
 ### Our School Song
-In 1965, then-Principal Mr Mosbergen was inspired to compose the lyrics and music of the <a href="/other/school-song" target="_blank" rel="noopener">school song </a>when he saw how the school did not have a song or cheer to celebrate their championship in three out of four divisions in a cross-country race. The school song is still being sung by Navalites today and a copy is safekept at the MOE Heritage Centre.</p>
+In 1965, then-Principal Mr Mosbergen was inspired to compose the [lyrics and music of the school song](https://www.navalbasesec.moe.edu.sg/other/school-song/) when he saw how the school did not have a song or cheer to celebrate their championship in three out of four divisions in a cross-country race. The school song is still being sung by Navalites today and a copy is safekept at the MOE Heritage Centre.
