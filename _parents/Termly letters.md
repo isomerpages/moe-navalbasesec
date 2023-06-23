@@ -3,10 +3,12 @@ title: Termly letters
 permalink: /parents-at-nbss/termly-letters/
 description: ""
 ---
-[NBSS Termly Letter 2023_Term 1 (Sec 1).pdf](/files/Term%20letter/NBSS%20Termly%20Letter%202023_Term%201%20(Sec%201).pdf)
+[Term3- Sec 1](/files/nbss%20termly%20letter%202023_term%203%20-%20sec%201.pdf)
 
-[NBSS Termly Letter 2023_Term 1 (Sec 2).pdf](/files/Term%20letter/NBSS%20Termly%20Letter%202023_Term%201%20(Sec%202).pdf)
+[Term 3- Sec 2](/files/nbss%20termly%20letter%202023_term%203%20-%20sec%202.pdf)
 
-[NBSS Termly Letter 2023_Term 1 (Sec 3).pdf](/files/Term%20letter/NBSS%20Termly%20Letter%202023_Term%201%20(Sec%203).pdf)
+[Term 3- Sec 3](/files/nbss%20termly%20letter%202023_term%203%20-%20sec%203.pdf)
 
-[NBSS Termly Letter 2023_Term 1 (Sec 4 & 5).pdf](/files/Term%20letter/NBSS%20Termly%20Letter%202023_Term%201%20(Sec%204%20&%205).pdf)
+[Term 3- Sec 4/5](/files/nbss%20termly%20letter%202023_term%203%20-%20sec%204%20and%205.pdf)
+
+
