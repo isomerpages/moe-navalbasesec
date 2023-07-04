@@ -98,4 +98,11 @@ MTL Department organises traditional festivals from different cultures. This pro
 
 **HARI RAYA CELEBRATION**
 ![](/images/Cl/picture9.jpg)
+Students confidently showcase the beauty of Malay traditional costumes on stage and learn about the significance of Hari Raya celebrations. 
 
+**PONGAL CELEBRATION**
+![](/images/Cl/picture10.jpg)
+During the celebration of the Indian traditional Pongal festival, students actively participate by engaging in activities that include learning Pongal recipes and creating Rangoli art. Through these hands-on experiences, students not only gain practical knowledge of traditional cooking techniques but also explore their creativity by designing vibrant Rangoli patterns. 
+
+**LUNAR NEW YEAR CELEBRATION**
+![](/images/Cl/picture11.jpg)
