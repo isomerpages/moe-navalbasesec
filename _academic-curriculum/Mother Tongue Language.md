@@ -55,3 +55,14 @@ The Banana Leaf Experience is a highlight of the Mother Tongue Fortnight program
 **CHINESE LANGUAGE**
 ![](/images/Cl/picture4.jpg)
 ![](/images/Cl/picture5.jpg)
+o	Seal cutting
+
+o	Traditional Chinese character mask drawing
+
+o	Traditional games
+
+o	Traditional Chinese food making
+
+o	Gourd painting
+
+The Chinese seal carving and Gourd painting workshops enable students to learn traditional Chinese arts and crafts. By carving their own seals and creating intricate designs on Gourd, students explore the richness of Chinese cultural heritage. These hands-on experiences foster a deeper appreciation for the artistic traditions and customs associated with the Chinese language.
