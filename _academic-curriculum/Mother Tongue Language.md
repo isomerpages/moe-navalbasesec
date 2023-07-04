@@ -126,3 +126,10 @@ Our collaboration with CPCLL brings signature programmes like the National Schoo
 o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）
 
 o	Cstreet Dance Sharing (爱上华文街舞)
+
+**EXCHANGE PROGRAMME WITH OVERSEAS SCHOOLS**
+The Mother Tongue Language department collaborates with overseas schools to conduct exchange programs, enabling our students to form friendships with students from other countries. These programs facilitate meaningful interactions, promoting mutual understanding of cultures and traditions. Through these exchanges, students broaden their horizons beyond Singapore and gain valuable insights into diverse perspectives.
+![](/images/Cl/picture15.jpg)
+o	CL students interacting with students from Changsha, China
+
+o	ML students interacting with students from Indonesia
