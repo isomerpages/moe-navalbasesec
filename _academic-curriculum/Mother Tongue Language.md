@@ -40,3 +40,14 @@ o	Traditional games
 
 The Batik painting workshops allowed our students to gain a deeper understanding and appreciation for the artistic traditions and cultural heritage of the Malay community.
 
+###### TAMIL LANGUAGE
+![](/images/Cl/picture3.jpg)
+o	Learning about Indian traditional food Pongal Making
+
+o	Learning how to play Indian traditional drum from a musician
+
+o	Kolam art 
+
+o	Banana leaf experience
+
+The Banana Leaf Experience is a highlight of the Mother Tongue Fortnight programme, offering students the opportunity to enjoy a scrumptious Indian vegetarian meal with their friends. Served on banana leaves, this experience allows students to understand the cultural significance and reasons behind this traditional practice. 
