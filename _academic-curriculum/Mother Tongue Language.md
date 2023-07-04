@@ -106,3 +106,19 @@ During the celebration of the Indian traditional Pongal festival, students activ
 
 **LUNAR NEW YEAR CELEBRATION**
 ![](/images/Cl/picture11.jpg)
+"Lohei," or "捞鱼生," which means "toss up a good fortune". During Chinese new year, our students come together to participate in the lively activity of lohei. This involves tossing and mixing various ingredients together while expressing well wishes and blessings for the upcoming year. By actively participating in Lohei, students embrace the festive spirit and celebrate the Lunar New Year with enthusiasm and positivity.
+
+**OTHER MTL  PROGRAMME**
+
+**AUTHOR-IN-RESIDENCE PROGRAMME** 
+Renowned local writers were invited to come to Naval Base Secondary  School to promote a love for literature among our students, inspiring them through their personal experiences and literary works. This initiative cultivates a passion for reading, writing, encouraging students to appreciate and engage with the power of literature.
+
+**MALAY LANGUAGE**
+![](/images/Cl/picture12.jpg)
+Local writer
+
+**CHINESE UNIT**
+![](/images/Cl/picture13.jpg)
+
+
+
