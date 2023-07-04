@@ -81,4 +81,11 @@ o	Authentic Malay traditional cuisine experience
 
 **TAMIL UNIT**
 ![](/images/Cl/picture7.jpg)
+o	Learning journey to Indian Heritage Centre 
 
+o	Learning journey to Little India
+
+o	Traditional musical experience 
+
+**CHINESE LANGUAGE**
+![](/images/Cl/picture8.jpg)
