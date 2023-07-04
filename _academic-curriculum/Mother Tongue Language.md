@@ -25,8 +25,6 @@ Our programmes and activities include:
 ![](/images/Cl/picture1.jpg)
 NBSS MTL DEPARTMENT
 
-
-
-
-
+###### MOTHER TONGUE FORTNIGHT 
+The annual Mother Tongue Fortnight is a programme designed to create an immersive environment for students to learn and appreciate their Mother Tongue Language. The program offers a wide range of activities that aim to engage students and deepen their understanding and appreciation of their respective MTLs and cultures
 
