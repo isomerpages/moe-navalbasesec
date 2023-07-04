@@ -73,3 +73,12 @@ The learning journeys to heritage sites, such as Little India, Kampong Glam, and
 **MALAY LANGUAGE**
 
 ![](/images/Cl/picture6.jpg)
+o	Learning journey to Malay heritage centre
+
+o	Genta Rasa performance @Mediacorp
+
+o	Authentic Malay traditional cuisine experience 
+
+**TAMIL UNIT**
+![](/images/Cl/picture7.jpg)
+
