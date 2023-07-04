@@ -30,7 +30,7 @@ NBSS MTL DEPARTMENT
 
 The annual Mother Tongue Fortnight is a programme designed to create an immersive environment for students to learn and appreciate their Mother Tongue Language. The program offers a wide range of activities that aim to engage students and deepen their understanding and appreciation of their respective MTLs and cultures
 
-###### MALAY LANGUAGE
+**MALAY LANGUAGE**
 ![](/images/Cl/picture2.jpg)
 o	Batik painting 
 
@@ -42,7 +42,7 @@ o	Traditional games
 
 The Batik painting workshops allowed our students to gain a deeper understanding and appreciation for the artistic traditions and cultural heritage of the Malay community.
 
-###### TAMIL LANGUAGE
+**TAMIL LANGUAGE**
 ![](/images/Cl/picture3.jpg)
 o	Learning about Indian traditional food Pongal Making
 
