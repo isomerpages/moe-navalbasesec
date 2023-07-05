@@ -70,6 +70,7 @@ o	Gourd painting
 The Chinese seal carving and Gourd painting workshops enable students to learn traditional Chinese arts and crafts. By carving their own seals and creating intricate designs on Gourd, students explore the richness of Chinese cultural heritage. These hands-on experiences foster a deeper appreciation for the artistic traditions and customs associated with the Chinese language.
 
 **MTL LEARNING JOURNEYS**
+
 The learning journeys to heritage sites, such as Little India, Kampong Glam, and Chinatown, provide our students with immersive experiences allowing our students to have the opportunity to witness firsthand the vibrant traditions, customs, and historical significance embedded within their respective cultures. These journeys foster a stronger connection and appreciation for their heritage, enabling students to embrace their cultural identity with pride.
 
 **MALAY LANGUAGE**
