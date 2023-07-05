@@ -97,6 +97,7 @@ o	River Hongbao 2023（春到河畔2023）
 o	Chinese musical at Drama Centre, 《都是当兵惹的祸》The Soldier &amp; His Virtuous Wife
 
 **CELEBRATION OF FESTIVALS**
+
 MTL Department organises traditional festivals from different cultures. This provides students with an immersive experience in the joyful festive atmosphere. These celebrations not only allow students to immerse themselves in the festivities but also provide an opportunity for them to understand and appreciate the meanings and values behind each festival. By gaining a deeper understanding of the cultural significance of these celebrations, students develop a stronger attachment to their own culture and traditions, fostering a sense of pride and appreciation for their heritage.
 
 **HARI RAYA CELEBRATION**
