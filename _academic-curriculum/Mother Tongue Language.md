@@ -115,6 +115,7 @@ During the celebration of the Indian traditional Pongal festival, students activ
 **OTHER MTL  PROGRAMME**
 
 **AUTHOR-IN-RESIDENCE PROGRAMME** 
+
 Renowned local writers were invited to come to Naval Base Secondary  School to promote a love for literature among our students, inspiring them through their personal experiences and literary works. This initiative cultivates a passion for reading, writing, encouraging students to appreciate and engage with the power of literature.
 
 **MALAY LANGUAGE**
