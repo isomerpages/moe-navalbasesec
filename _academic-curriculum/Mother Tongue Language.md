@@ -126,6 +126,7 @@ Local writer
 ![](/images/Cl/picture13.jpg)
 
 **LANGUAGE &amp; CULTURAL PROGRAMMES**
+
 Our collaboration with CPCLL brings signature programmes like the National Schools Xinyao Festival and Cstreet dance sharing, engaging students and fostering appreciation for their Mother Tongue through music and dance.
 ![](/images/Cl/picture14.jpg)
 o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）
