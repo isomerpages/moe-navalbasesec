@@ -12,14 +12,10 @@ The Mother Tongue department encourages students in the active learning of their
 
 **Our programmes and activities include:**
 
-●	MTL Fortnight and Language &amp; Cultural Camp
-
-●	Cultural Performance Exposure 
-
-●	Author in residence programme
-
-●	Celebration of Festivals
-
+●	MTL Fortnight and Language &amp; Cultural Camp<br>
+●	Cultural Performance Exposure <br>
+●	Author in residence programme <br>
+●	Celebration of Festivals <br>
 ●	Exchange programme with overseas schools
 
 **MTL Gallery**
