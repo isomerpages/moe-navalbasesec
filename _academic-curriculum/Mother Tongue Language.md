@@ -62,24 +62,19 @@ The learning journeys to heritage sites, such as Little India, Kampong Glam, and
 **MALAY LANGUAGE**
 
 ![](/images/Cl/picture6.jpg)
-o	Learning journey to Malay heritage centre
-
-o	Genta Rasa performance @Mediacorp
-
+o	Learning journey to Malay heritage centre<br>
+o	Genta Rasa performance @Mediacorp<br>
 o	Authentic Malay traditional cuisine experience 
 
 **TAMIL UNIT**
 ![](/images/Cl/picture7.jpg)
-o	Learning journey to Indian Heritage Centre 
-
-o	Learning journey to Little India
-
+o	Learning journey to Indian Heritage Centre <br>
+o	Learning journey to Little India <br>
 o	Traditional musical experience 
 
 **CHINESE LANGUAGE**
 ![](/images/Cl/picture8.jpg)
-o	River Hongbao 2023（春到河畔2023）
-
+o	River Hongbao 2023（春到河畔2023<br>
 o	Chinese musical at Drama Centre, 《都是当兵惹的祸》The Soldier &amp; His Virtuous Wife
 
 **CELEBRATION OF FESTIVALS**
@@ -115,14 +110,12 @@ Local writer
 
 Our collaboration with CPCLL brings signature programmes like the National Schools Xinyao Festival and Cstreet dance sharing, engaging students and fostering appreciation for their Mother Tongue through music and dance.
 ![](/images/Cl/picture14.jpg)
-o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）
-
+o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）<br>
 o	Cstreet Dance Sharing (爱上华文街舞)
 
 **EXCHANGE PROGRAMME WITH OVERSEAS SCHOOLS**
 
 The Mother Tongue Language department collaborates with overseas schools to conduct exchange programs, enabling our students to form friendships with students from other countries. These programs facilitate meaningful interactions, promoting mutual understanding of cultures and traditions. Through these exchanges, students broaden their horizons beyond Singapore and gain valuable insights into diverse perspectives.
 ![](/images/Cl/picture15.jpg)
-o	CL students interacting with students from Changsha, China
-
+o	CL students interacting with students from Changsha, China<br>
 o	ML students interacting with students from Indonesia
