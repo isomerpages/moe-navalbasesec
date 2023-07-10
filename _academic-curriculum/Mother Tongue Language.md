@@ -28,12 +28,9 @@ The annual Mother Tongue Fortnight is a programme designed to create an immersiv
 
 **MALAY LANGUAGE**
 ![](/images/Cl/picture2.jpg)
-o	Batik painting 
-
-o	Kompang workshop
-
-o	Nasi Ambeng experience
-
+o	Batik painting<br>
+o	Kompang workshop<br>
+o	Nasi Ambeng experience<br>
 o	Traditional games
 
 The Batik painting workshops allowed our students to gain a deeper understanding and appreciation for the artistic traditions and cultural heritage of the Malay community.
