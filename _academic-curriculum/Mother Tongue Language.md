@@ -12,14 +12,10 @@ The Mother Tongue department encourages students in the active learning of their
 
 **Our programmes and activities include:**
 
-●	MTL Fortnight and Language &amp; Cultural Camp
-
-●	Cultural Performance Exposure 
-
-●	Author in residence programme
-
-●	Celebration of Festivals
-
+●	MTL Fortnight and Language &amp; Cultural Camp<br>
+●	Cultural Performance Exposure <br>
+●	Author in residence programme <br>
+●	Celebration of Festivals <br>
 ●	Exchange programme with overseas schools
 
 **MTL Gallery**
@@ -32,24 +28,18 @@ The annual Mother Tongue Fortnight is a programme designed to create an immersiv
 
 **MALAY LANGUAGE**
 ![](/images/Cl/picture2.jpg)
-o	Batik painting 
-
-o	Kompang workshop
-
-o	Nasi Ambeng experience
-
+o	Batik painting<br>
+o	Kompang workshop<br>
+o	Nasi Ambeng experience<br>
 o	Traditional games
 
 The Batik painting workshops allowed our students to gain a deeper understanding and appreciation for the artistic traditions and cultural heritage of the Malay community.
 
 **TAMIL LANGUAGE**
 ![](/images/Cl/picture3.jpg)
-o	Learning about Indian traditional food Pongal Making
-
-o	Learning how to play Indian traditional drum from a musician
-
-o	Kolam art 
-
+o	Learning about Indian traditional food Pongal Making<br>
+o	Learning how to play Indian traditional drum from a musician<br>
+o	Kolam art<br>
 o	Banana leaf experience
 
 The Banana Leaf Experience is a highlight of the Mother Tongue Fortnight programme, offering students the opportunity to enjoy a scrumptious Indian vegetarian meal with their friends. Served on banana leaves, this experience allows students to understand the cultural significance and reasons behind this traditional practice.
@@ -57,14 +47,10 @@ The Banana Leaf Experience is a highlight of the Mother Tongue Fortnight program
 **CHINESE LANGUAGE**
 ![](/images/Cl/picture4.jpg)
 ![](/images/Cl/picture5.jpg)
-o	Seal cutting
-
-o	Traditional Chinese character mask drawing
-
-o	Traditional games
-
-o	Traditional Chinese food making
-
+o	Seal cutting<br>
+o	Traditional Chinese character mask drawing<br>
+o	Traditional games<br>
+o	Traditional Chinese food making<br>
 o	Gourd painting
 
 The Chinese seal carving and Gourd painting workshops enable students to learn traditional Chinese arts and crafts. By carving their own seals and creating intricate designs on Gourd, students explore the richness of Chinese cultural heritage. These hands-on experiences foster a deeper appreciation for the artistic traditions and customs associated with the Chinese language.
@@ -76,24 +62,19 @@ The learning journeys to heritage sites, such as Little India, Kampong Glam, and
 **MALAY LANGUAGE**
 
 ![](/images/Cl/picture6.jpg)
-o	Learning journey to Malay heritage centre
-
-o	Genta Rasa performance @Mediacorp
-
+o	Learning journey to Malay heritage centre<br>
+o	Genta Rasa performance @Mediacorp<br>
 o	Authentic Malay traditional cuisine experience 
 
 **TAMIL UNIT**
 ![](/images/Cl/picture7.jpg)
-o	Learning journey to Indian Heritage Centre 
-
-o	Learning journey to Little India
-
+o	Learning journey to Indian Heritage Centre <br>
+o	Learning journey to Little India <br>
 o	Traditional musical experience 
 
 **CHINESE LANGUAGE**
 ![](/images/Cl/picture8.jpg)
-o	River Hongbao 2023（春到河畔2023）
-
+o	River Hongbao 2023（春到河畔2023<br>
 o	Chinese musical at Drama Centre, 《都是当兵惹的祸》The Soldier &amp; His Virtuous Wife
 
 **CELEBRATION OF FESTIVALS**
@@ -129,14 +110,12 @@ Local writer
 
 Our collaboration with CPCLL brings signature programmes like the National Schools Xinyao Festival and Cstreet dance sharing, engaging students and fostering appreciation for their Mother Tongue through music and dance.
 ![](/images/Cl/picture14.jpg)
-o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）
-
+o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新谣音乐节）<br>
 o	Cstreet Dance Sharing (爱上华文街舞)
 
 **EXCHANGE PROGRAMME WITH OVERSEAS SCHOOLS**
 
 The Mother Tongue Language department collaborates with overseas schools to conduct exchange programs, enabling our students to form friendships with students from other countries. These programs facilitate meaningful interactions, promoting mutual understanding of cultures and traditions. Through these exchanges, students broaden their horizons beyond Singapore and gain valuable insights into diverse perspectives.
 ![](/images/Cl/picture15.jpg)
-o	CL students interacting with students from Changsha, China
-
+o	CL students interacting with students from Changsha, China<br>
 o	ML students interacting with students from Indonesia
