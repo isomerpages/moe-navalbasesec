@@ -4,14 +4,12 @@ permalink: /experience-nurturing-n-vibrant/overseas-art-study-trip/
 description: ""
 third_nav_title: "Applied Learning (ALP): Art"
 ---
-
-
 <p>Since 2003, the school has been organising overseas study trips as part of our efforts to provide vibrant and enriched art learning to our students. The trips have proven to be great sources of inspiration and motivation for the students, thus further fuelling their interest and passion in art. Students need to apply to participate in the study trip. Students will be selected based on their art academic results, contributions to the school (in art or other areas) and attendance, conduct and behaviour during art lessons and in general.</p>
 <img src="/images/over1.jpg">
 <p>The objectives of the study trip are as follows:</p>
 <ul>
-<li>recognise and affirm students&rsquo; talents and achievements in art;</li>
-<li>raise students&rsquo; confidence in and through their art practice;&nbsp;</li>
+<li>recognise and affirm students’ talents and achievements in art;</li>
+<li>raise students’ confidence in and through their art practice;&nbsp;</li>
 <li>provide students with a rich vocabulary of experiences to inform their art practice and learning; and</li>
 <li>expose students to current art educational and vocational practices outside of Singapore.&nbsp;</li>
 </ul>
@@ -140,7 +138,7 @@ third_nav_title: "Applied Learning (ALP): Art"
 </tr>
 <tr>
 <td width="121">
-<p>2016</p>
+<p>2016-2019</p>
 </td>
 <td width="447">
 <p>Beijing (China)</p>
