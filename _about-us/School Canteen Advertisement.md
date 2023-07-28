@@ -8,7 +8,9 @@ description: ""
        
 | Type of Stall | Closing Date | Requirements |
 
-| Halal Noodles | 19 June 2023 | Please see below |
+| Halal Noodles & Chicken Rice | 11 August 2023 | Please see below |
+
+| Halal Western Food | 11 August 2023 | Please see below |
 
 **Application Procedure**
 
@@ -23,8 +25,8 @@ description: ""
 
 * Address: 901 Yishun Ring Road S(768689)
 * Contact No: 6257 1996
-* Email: Tan_Gack_Chong@schools.gov.sg
-* Contact Person: Mr Bryan Tan (Admin Manager)
+* Email: nurlisah_rahmat@schools.gov.sg
+* Contact Person: Ms Nurlisah Rahmat
 
 **How to get there?**
 * Nearest MRT: Khatib
