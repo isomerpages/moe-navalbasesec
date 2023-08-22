@@ -34,6 +34,7 @@ The subject combinations offered to students will be based on their overall acad
 
 **Secondary 3 Normal Technical** <a href="/files/Su%20combi/Sec3NT.pdf">Download</a>
 
+2023 Subject Combi Elective Booklet (Normal Technical) [Download](/files/2023%20subject%20combi%20elective%20booklet%20(normal%20technical).pdf)
 ![](/images/Picture7.png)
 
 
