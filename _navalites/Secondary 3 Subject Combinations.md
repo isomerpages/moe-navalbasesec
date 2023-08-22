@@ -20,7 +20,7 @@ The subject combinations offered to students will be based on their overall acad
 **(subject to actual demand, resourcing and timetable planning)**
 
 **Secondary 3 Express** <a href="/files/Su%20combi/Sec3EX.pdf">Download</a>    
-**2023 Subject Combi Elective Booklet** **(Express)** [Download]
+**2023 Subject Combi Elective Booklet** **(Express)** [Download](/files/2023%20subject%20combi%20elective%20booklet%20(express).pdf)
 
 ![](/images/Picture5.jpg)
 
