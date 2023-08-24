@@ -114,7 +114,7 @@ description: ""
 <tr>
 <td width="954">
 <p><strong>Republic Polytechnic</strong>&nbsp;EAE Info:</p>
-<p><a href="https://www.rp.edu.sg/eae/portfolio-development">Portfolio Development (rp.edu.sg)</a></p>
+<p><a href="https://www.rp.edu.sg/eae">https://www.rp.edu.sg/eae</a></p>
 <p><a href="https://www.rp.edu.sg/eae/early-admissions-exercise">Register</a>&nbsp;for EAE Webinar:<a href="https://us02web.zoom.us/webinar/register/WN_lM2utQ29RlGHndEA7fX-Gw">Webinar Registration - Zoom</a></p>
 <p>Find out about their courses here:</p>
 <p><a href="https://www.rp.edu.sg/eae/courses">Explore Our Courses (rp.edu.sg)</a>&nbsp;</p>
