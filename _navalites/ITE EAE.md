@@ -63,7 +63,7 @@ description: ""
 </tr>
 <tr>
 <td width="622">
-<p>Students who need support in their applications can approach our ECG counsellor. She is available on Tuesdays and Thursdays at the ECG Corner in the Library from 8am to 5 pm.&nbsp;Students can book an appointment via&nbsp;<a href="https://go.gov.sg/nbssmsjerlyn">https://go.gov.sg/nbssmsjerlyn</a></p>
+<p>Students who need support in their applications can approach our ECG counsellor. She is available on Tuesdays and Wednesday at the ECG Room located at Classroom 3D from 8.30am to 5.30 pm.&nbsp;Students can book an appointment via&nbsp;<a href="https://go.gov.sg/nbssmsjerlyn">https://go.gov.sg/nbssmsjerlyn</a></p>
 <p>&nbsp;Alternatively, they may also approach their Form Teachers, HOD of Character and Citizenship Education, Senior School Counsellor and their respective Year Heads.&nbsp;</p>
 </td>
 </tr>
