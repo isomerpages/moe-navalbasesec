@@ -105,7 +105,7 @@ description: ""
 </tr>
 <tr>
 <td colspan="2" width="629">
-<p>ITE EAE Application website (opens from Thursday 26/05/2022 to Wednesday 01/06/2022)</p>
+<p>ITE EAE Application website (opens from Wednesday 24/05/2023 to Tuesday 30/05/2023)</p>
 </td>
 </tr>
 <tr>
