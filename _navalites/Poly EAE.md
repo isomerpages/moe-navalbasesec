@@ -45,12 +45,12 @@ description: ""
 <p>Withdrawal Stage</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>13 Sep (Tue) to 14 Oct (Fri) 2359h</p>
+<p>12 Sep (Tue) to 13 Oct (Fri) 2359h</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The Poly EAE for O-Level students, for admission to the polytechnics in Academic Year 2023, will commence on 23 June 2022 to 29 Jun 2022. Polytechnics will have the discretion to determine their modes of assessment, such as portfolios, interviews and aptitude tests, where relevant and appropriate. Polytechnics may also consider participation in relevant co-curricular activities (CCAs), Advanced Elective Modules (AEMs), Applied Learning Programmes (ALP) and Applied Subjects, as well as participation in activities such as work attachments and sustained involvement in projects that are related to the course students are applying for.</p>
+<p>The Poly EAE for O-Level students, for admission to the polytechnics in Academic Year 2024, will commence on 5 June 2023 to 2 Jul 2023. Polytechnics will have the discretion to determine their modes of assessment, such as portfolios, interviews and aptitude tests, where relevant and appropriate. Polytechnics may also consider participation in relevant co-curricular activities (CCAs), Applied Learning Modules (APLM) and Applied Subjects, as well as participation in activities such as work attachments and sustained involvement in projects that are related to the course students are applying for.</p>
 <p>Depending on the latest developments in the COVID-19 situation,&nbsp;the polytechnics may conduct EAE interviews via face-to-face meetings or virtually. Nevertheless, we will provide support for our students in preparation of either formats of interviews.</p>
 <p>By working closely with our education partners, we have consolidated the following online support structures.</p>
 <table>
