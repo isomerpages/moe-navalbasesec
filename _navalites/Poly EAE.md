@@ -1,11 +1,11 @@
 ---
 title: Poly EAE
-permalink: /for-navalities/poly-eae
+permalink: /for-navalities/poly-eae/
 description: ""
 ---
 <p><strong>Polytechnic EAE</strong>&nbsp;</p>
 <p>The Polytechnic Early Admission Exercise (Poly EAE) is an aptitude-based admission exercise that provides a pathway for graduating O-Level students to apply for and receive conditional offers for admission to the polytechnics. Beyond academic grades, EAE applicants are considered on the basis of demonstrated aptitude and interest towards a specific course. It is strongly recommended for students who are clear about what they want to pursue in our Post-Secondary Educational Institutes (PSEIs).</p>
-<p><strong>2022 EAE Timeline</strong></p>
+<p><strong>2023 EAE Timeline</strong></p>
 <table width="53%">
 <tbody>
 <tr>
@@ -21,7 +21,7 @@ description: ""
 <p>Application Stage</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>23 Jun (Thu) to 29 Jun (Wed)</p>
+<p>22 Jun (Thu) to 28 Jun (Wed)</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>Selection Stage</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>4 Jul (Mon) to 30 Aug (Tue)</p>
+<p>3 Jul (Mon) to 29 Aug (Tue)</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ description: ""
 <p>Offer &amp; Acceptance Stage</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>7 Sep (Tue) 1400h to 12 Sep (Mon) 2359h</p>
+<p>6 Sep (Tue) 1400h to 11 Sep (Mon) 2359h</p>
 </td>
 </tr>
 <tr>
