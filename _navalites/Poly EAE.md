@@ -108,7 +108,7 @@ description: ""
 <p><strong>Nanyang Polytechnic</strong>&nbsp;EAE Info for O-Level Students:</p>
 <p><a href="https://www.nyp.edu.sg/eae.html">https://www.nyp.edu.sg/eae.html</a></p>
 <p>Find out about their courses here:</p>
-<p><a href="https://www.nyp.edu.sg/eae/about-eae.html">https://www.nyp.edu.sg/eae/about-eae.html</a></p>
+<p><a href="https://www.np.edu.sg/schools-courses/full-time-courses">https://www.nyp.edu.sg/eae/about-eae.html</a></p>
 </td>
 </tr>
 <tr>
@@ -138,3 +138,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+
