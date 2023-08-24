@@ -3,11 +3,10 @@ title: ITE EAE
 permalink: /for-navalites/iteeae/
 description: ""
 ---
-
-<p><strong>Institute of Technical Education (ITE) &ndash; Early Admission Exercise (EAE)</strong>&nbsp;</p>
+<p><strong>Institute of Technical Education (ITE) – Early Admission Exercise (EAE)</strong>&nbsp;</p>
 <p>ITE EAE provides a pathway for graduating N-Level and O-Level students to apply for and receive conditional offers for admission to ITE. Beyond academic grades, EAE applicants are considered on the basis of demonstrated aptitude and interest towards a specific course. It is strongly recommended for students who are clear about what they want to pursue in our Post-Secondary Educational Institutes (PSEIs).</p>
-<p><strong>EAE Timeline (Update for 2022)</strong></p>
-<p>The ITE EAE for N-Level and O-Level students, for admission to ITE in Academic Year 2023, will commence on&nbsp;<strong>26 May 2022 to 1 Jun 2022</strong>.</p>
+<p><strong>EAE Timeline (Update for 2023)</strong></p>
+<p>The ITE EAE for N-Level and O-Level students, for admission to ITE in Academic Year 2024, will commence on&nbsp;<strong>24 May 2023 to 30 May 2023</strong>.</p>
 <p>Here are some important dates to note:</p>
 <table width="53%">
 <tbody>
@@ -24,7 +23,7 @@ description: ""
 <p>Application Phase</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>26 May (Thu) to 1 Jun (Wed)</p>
+<p>24 May (Wed) to 30 May (Tue)</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +31,7 @@ description: ""
 <p>Interview Phase</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>21 Jun (Tue) to 28 Jun (Thu)</p>
+<p>20 Jun (Tue) to 27 Jun (Thu)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +39,7 @@ description: ""
 <p>Offer &amp; Acceptance Phase</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>22 Aug (Mon) to 26 Aug (Fri)</p>
+<p>21 Aug (Mon) to 25 Aug (Fri)</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +47,7 @@ description: ""
 <p>Withdrawal Phase</p>
 </td>
 <td style="text-align: center;" width="54%">
-<p>29 Aug (Mon) to 2 Sep (Fri)</p>
+<p>28 Aug (Mon) to 4 Sep (Mon) at 12pm</p>
 </td>
 </tr>
 </tbody>
