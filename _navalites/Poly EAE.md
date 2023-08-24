@@ -98,7 +98,7 @@ description: ""
 <tr>
 <td width="954">
 <p><strong>Ngee Ann</strong>&nbsp;Polytechnic EAE Info for O-Level Students:</p>
-<p><a href="https://www.np.edu.sg/eae/Pages/Olevel.aspx">About EAE for O-Level students (np.edu.sg)</a></p>
+<p><a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/o-level-students">About EAE for O-Level students (np.edu.sg)</a></p>
 <p>Find out about their courses here:</p>
 <p><a href="https://www.np.edu.sg/schools-courses/full-time-courses">Full-Time Courses (np.edu.sg)</a></p>
 </td>
