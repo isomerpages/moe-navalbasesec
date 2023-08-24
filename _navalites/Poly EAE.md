@@ -87,7 +87,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p style="text-align: center;"><strong>Educational Partners Resources&nbsp;</strong><strong>Polytechnic EAE Info Microsite</strong></p>
+<p style="text-align: center;"><strong></strong><strong> Various Polytechnic EAE Info Microsite</strong></p>
 <table>
 <tbody>
 <tr>
