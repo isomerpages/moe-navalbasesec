@@ -7,5 +7,5 @@ description: ""
 
 Device Management Application (DMA) guides for parents
 
-DMA resources and videos for parents 
+DMA resources and videos for parents-
 [DMA Options Info](https://go.gov.sg/dmaparentguide-mg)
