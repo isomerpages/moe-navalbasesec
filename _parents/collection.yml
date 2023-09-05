@@ -2,6 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - PERSONAL LEARNING DEVICES (PLD).md
       - Announcements.md
       - Termly letters.md
+      - PERSONAL LEARNING DEVICES (PLD).md
