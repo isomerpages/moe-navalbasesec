@@ -1,6 +1,6 @@
 ---
 title: Exam timetable 2023
-permalink: /for-navalities/timetable-booklist-n-uniform/exam-timetable-2022/
+permalink: /for-navalites/timetable-booklist-n-uniform/exam-timetable/
 description: ""
 third_nav_title: Timetable, Booklist & Uniform
 ---

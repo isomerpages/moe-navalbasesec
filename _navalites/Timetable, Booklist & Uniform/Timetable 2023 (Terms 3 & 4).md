@@ -1,6 +1,6 @@
 ---
-title: Timetable 2023 (Term 3)
-permalink: /for-navalities/timetable-booklist-n-uniform/timetable-2022-term-3/
+title: Timetable 2023 (Terms 3 & 4)
+permalink: /for-navalites/timetable-booklist-n-uniform/timetable/
 description: ""
 third_nav_title: Timetable, Booklist & Uniform
 ---
