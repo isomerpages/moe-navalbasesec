@@ -19,7 +19,7 @@ The subject combinations offered to students will be based on their overall acad
 #### 2024 Secondary 3 Subject Combinations (for 2023 Secondary 2 students) 
 **(subject to actual demand, resourcing and timetable planning)**
 
-**Secondary 3 Express Parents Briefing Slides** <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefin%20(EX).pdf">Download</a>  
+**Secondary 3 Express Parents Briefing Slides** [Download](/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf)  
 **Secondary 3 Express Combination** <a href="/files/Su%20combi/Sec3EX.pdf">Download</a>    
 **2023 Subject Combi Elective Booklet** **(Express)** [Download](/files/2023%20subject%20combi%20elective%20booklet%20(express).pdf)
 ![](/images/Picture5.jpg)
