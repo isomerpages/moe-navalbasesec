@@ -20,6 +20,7 @@ The subject combinations offered to students will be based on their overall acad
 **(subject to actual demand, resourcing and timetable planning)**
 
 **Secondary 3 Express Parents Briefing Slides** [Download](/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf) 
+
 **Secondary 3 Express Combination** <a href="/files/Su%20combi/Sec3EX.pdf">Download</a>    
 **2023 Subject Combi Elective Booklet** **(Express)** [Download](/files/2023%20subject%20combi%20elective%20booklet%20(express).pdf)
 ![](/images/Picture5.jpg)
@@ -33,6 +34,7 @@ The subject combinations offered to students will be based on their overall acad
 
 
 **Secondary 3 Normal Technical Parents Briefing Slides** [Download](/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf)  
+
 **Secondary 3 Normal Technical Combination** <a href="/files/Su%20combi/Sec3NT.pdf">Download</a>  
 **2023 Subject Combi Elective Booklet (Normal Technical)** [Download](/files/2023%20subject%20combi%20elective%20booklet%20(normal%20technical).pdf)
 ![](/images/Picture7.png)
