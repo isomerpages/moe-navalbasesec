@@ -8,7 +8,7 @@ third_nav_title: Timetable, Booklist & Uniform
 
 [Sec 1 Eoy final](/files/sec%201%20eoy%20final%20.pdf)
 
-[Sec 2 eoy final](/files/sec%202%20eoy%20final%20edited.pdf)
+[Sec 2 Eoy final](/files/sec%202%20eoy%20final%20edited.pdf)
 
 
 [sec 3 Eoy final](/files/sec%203%20eoy%20final%20edited.pdf)
