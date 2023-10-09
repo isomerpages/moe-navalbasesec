@@ -11,4 +11,4 @@ third_nav_title: Timetable, Booklist & Uniform
 
 
 
-[sec 1 to 3 -16 to 18 oct](/files/sec%201%20to%203%20-16%20%20to%2018%20oct.pdf)
+[Sec 1 to 3 -16 to 18 oct](/files/sec%201%20to%203%20-16%20%20to%2018%20oct.pdf)
