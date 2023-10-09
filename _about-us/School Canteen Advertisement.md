@@ -8,9 +8,9 @@ description: ""
        
 | Type of Stall | Closing Date | Requirements |
 
-| Halal Noodles & Chicken Rice | 11 August 2023 | Please see below |
+| Halal Mixed Rice/ Halal Noodles/ Western food/ Indian Muslim food  | 10 November 2023 |2 vacancies available. Please see below |
 
-| Halal Western Food | 11 August 2023 | Please see below |
+|  |  |  |
 
 **Application Procedure**
 
