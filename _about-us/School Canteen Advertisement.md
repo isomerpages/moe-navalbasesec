@@ -6,11 +6,13 @@ description: ""
 #### School Canteen Advertisement
 
        
-| Type of Stall | Closing Date | Requirements |
 
-| Halal Mixed Rice/ Halal Noodles/ Western food/ Indian Muslim food  | 10 November 2023 |2 vacancies available. Please see below |
+**Type of Stall**- Halal Mixed Rice/ Halal Noodles/ Western food/ Indian Muslim food. -2 vacancies available.
 
-|  |  |  |
+**Closing Date**- 10 November 2023 
+
+ **Requirements**-  Please see below 
+
 
 **Application Procedure**
 
