@@ -7,7 +7,7 @@ description: ""
 
        
 
-**Type of Stall**- Halal Mixed Rice/ Halal Noodles/ Western food/ Indian Muslim food. -2 vacancies available.
+**Type of Stall**- Halal Mixed Rice/ Halal Noodles/ Western food/ Indian Muslim food. - 2 vacancies available.
 
 **Closing Date**- 10 November 2023 
 
