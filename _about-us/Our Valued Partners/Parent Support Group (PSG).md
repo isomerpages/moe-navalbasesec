@@ -15,10 +15,19 @@ At NBSS, our PSG Executive Committee (Exco) comprises a group of enthusiastic an
 
 Here are the highlights of the PSG’s involvement and contributions in:
 
-2023
+[2023](https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing)
 
 2024
 
 Please click [ https://forms.gle/unzSKSmGALp63d11A ] to join our parent support group!
 
+The MOE PSG Portal
+
+The MOE PSG team continues to partner and support our parents. Below are some initiatives and resources to support our PSG community: 
+
+•	[PSG Online Repository ](https://go.gov.sg/psg-mental-wellbeing-website) – A one-stop site where you can find useful resources to engage your parents, including the sharing by Dr Ong Lue Ping on ‘Supporting Your Child’s Mental Well-being’.
+
+•	[Mental Well-Being Resource Guide](https://go.gov.sg/psg-mental-wellbeing-guide) – A resource with guidelines and tips on how PSGs can be Resource and Peer Supporters to their parent community.
+
+•[PSG Handy Guide](https://go.gov.sg/psghandyguide)	PSG Handy Guide – Compilation of experiences and learning points from 25 frontrunner schools on reaching out to parents on supporting student mental well-being.
 
