@@ -21,7 +21,7 @@ Here are the highlights of the PSG’s involvement and contributions in:
 
 Please click [[Here](https://forms.gle/unzSKSmGALp63d11A )] to join our parent support group!
 
-The MOE PSG Portal
+**The MOE PSG Portal**
 
 The MOE PSG team continues to partner and support our parents. Below are some initiatives and resources to support our PSG community: 
 
