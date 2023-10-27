@@ -12,13 +12,13 @@ You can purchase your uniform through the following channels:
 2.  Purchase in school only **_if_** you have a book collection appointment; OR
 3.  Purchase at the vendor’s retail shop at Sembawang Shopping Centre:
 
-> **Chop Kong Chong**
-> 
-> Retail Outlet:
-> <p>Sembawang Shopping Centre 
-><p> #02-13, 604 Sembawang Road 
-> <p>Singapore 758459
+&gt; **Chop Kong Chong**
+&gt; 
+&gt; Retail Outlet:
+&gt; <p>Sembawang Shopping Centre 
+&gt;</p><p> #02-13, 604 Sembawang Road 
+&gt; </p><p>Singapore 758459
 
 **FAS Students:**
 
-If you have submitted your FAS application for 2023, please wait for the school to notify you on the outcome by end November. Collection of books & uniform for FAS students will be scheduled in December.
+If you have submitted your FAS application for 2024, please wait for the school to notify you on the outcome by end November. Collection of books &amp; uniform for FAS students will be scheduled in December.</p>
