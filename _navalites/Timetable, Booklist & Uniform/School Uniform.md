@@ -18,6 +18,7 @@ You can purchase your uniform through the following channels:
  <p>Sembawang Shopping Centre 
 </p><p> #02-13, 604 Sembawang Road 
 </p><p>Singapore 758459
+	
 
 	
 **FAS Students:**
