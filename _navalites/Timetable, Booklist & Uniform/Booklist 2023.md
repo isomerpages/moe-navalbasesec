@@ -17,4 +17,3 @@ third_nav_title: Timetable, Booklist & Uniform
 **Booklists**
 
 *Booklists for 2024 Secondary 1 Navalites will be made available in due course.
-
