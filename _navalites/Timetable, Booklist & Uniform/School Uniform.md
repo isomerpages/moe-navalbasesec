@@ -13,10 +13,11 @@ You can purchase your uniform through the following channels:
 3.  Purchase at the vendor’s retail shop at Sembawang Shopping Centre:
 
  **Chop Kong Chong**
+ 
  Retail Outlet:
  <p>Sembawang Shopping Centre 
-&gt;</p><p> #02-13, 604 Sembawang Road 
-&gt; </p><p>Singapore 758459
+</p><p> #02-13, 604 Sembawang Road 
+</p><p>Singapore 758459
 
 	
 **FAS Students:**
