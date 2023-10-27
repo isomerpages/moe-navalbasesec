@@ -19,6 +19,9 @@ You can purchase your uniform through the following channels:
 &gt;</p><p> #02-13, 604 Sembawang Road 
 &gt; </p><p>Singapore 758459
 
+	
 **FAS Students:**
 
 If you have submitted your FAS application for 2024, please wait for the school to notify you on the outcome by end November. Collection of books &amp; uniform for FAS students will be scheduled in December.</p>
+
+[Selling dates](/files/2024%20bl/selling%20date.pdf)
