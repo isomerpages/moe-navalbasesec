@@ -26,7 +26,6 @@ third_nav_title: Timetable, Booklist & Uniform
 
 [Sec 3 stationery list](/files/2024%20bl/sec%203%20stationery%20list.pdf)
 
-[Sec 3 stationery list](/files/2024%20bl/sec%203%20stationery%20list.pdf)
 
 [Sec 4 booklist](/files/2024%20bl/sec%204%20booklist.pdf)
 
