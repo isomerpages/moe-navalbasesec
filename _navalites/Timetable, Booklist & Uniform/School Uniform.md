@@ -13,6 +13,7 @@ You can purchase your uniform through the following channels:
 3.  Purchase at the vendor’s retail shop at Sembawang Shopping Centre:
 
 &gt; **Chop Kong Chong**
+
 &gt; 
 &gt; Retail Outlet:
 &gt; <p>Sembawang Shopping Centre 
