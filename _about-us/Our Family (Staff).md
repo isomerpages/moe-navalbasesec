@@ -232,7 +232,7 @@ description: ""
 <td>Operations Manager&nbsp;</td>
 </tr>
 <tr>
-<td>Mr Bryan Tan</td>
+<td>-</td>
 <td>Administration Manager</td>
 </tr>
 <tr>
