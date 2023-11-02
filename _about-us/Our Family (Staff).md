@@ -37,7 +37,7 @@ description: ""
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Ms Sabrina Chan</td>
+<td>-</td>
 <td>Head of Department, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ description: ""
 <td>Subject Head, CCA</td>
 </tr>
 <tr>
-<td>Ms Joanna Chang</td>
+<td>-</td>
 <td>Subject Head, Student Well-Being</td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ description: ""
   none;width:45pt">2-3</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Nathanael Victor Prasanam</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Chen Xingli</td></tr><tr height="22" style="mso-height-source:userset;height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
   none;width:45pt">2-4</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
   width:178pt">Ms Jaspreet Kaur</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
-  width:182pt">Ms Chang Jia Qi Joanna (S1)</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
+  width:182pt">-</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl74" dir="LTR" width="60" style="height:17.25pt;border-top:
   none;width:45pt">2-5</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mrs Beryl Lim<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Chang Ya-wen</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
   none;width:45pt">2-6</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
   width:178pt">Ms Phua Qi Qi</td><td class="xl76" dir="LTR" width="242" style="border-top:none;border-left:none;
@@ -163,7 +163,7 @@ description: ""
   none;width:45pt">2-7</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Ms Wendy Chiau</td><td class="xl71" dir="LTR" width="242" style="border-left:none;width:182pt">Ms Oh Wei Shi</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
   none;width:45pt">2-8</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
   width:178pt">Ms Kellie Kok</td><td class="xl81" dir="LTR" width="242" style="border-top:none;border-left:none;
-  width:182pt">Ms Josephine Mary d/o Saminathan</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;width:45pt">3-1</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Daniel Troy Ingham</td><td class="xl79" dir="LTR" width="242" style="border-top:none;border-left:none;
+  width:182pt">-</td></tr><tr height="23" style="height:17.25pt"><td height="23" class="xl69" dir="LTR" width="60" style="height:17.25pt;width:45pt">3-1</td><td class="xl71" dir="LTR" width="237" style="border-left:none;width:178pt">Mr Daniel Troy Ingham</td><td class="xl79" dir="LTR" width="242" style="border-top:none;border-left:none;
   width:182pt">&nbsp;</td></tr><tr height="22" style="height:16.5pt"><td height="22" class="xl74" dir="LTR" width="60" style="height:16.5pt;border-top:
   none;width:45pt">3-2</td><td class="xl76" dir="LTR" width="237" style="border-top:none;border-left:none;
   width:178pt">Mr Arthur Cheong Fook Oon</td><td class="xl80" dir="LTR" width="242" style="border-top:none;border-left:none;
@@ -232,7 +232,7 @@ description: ""
 <td>Operations Manager&nbsp;</td>
 </tr>
 <tr>
-<td>Mr Bryan Tan</td>
+<td>-</td>
 <td>Administration Manager</td>
 </tr>
 <tr>
