@@ -37,7 +37,7 @@ description: ""
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>Ms Sabrina Chan</td>
+<td>-</td>
 <td>Head of Department, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
