@@ -13,7 +13,7 @@ variant: markdown
 <p>If you do not have PG,&nbsp;you can download it on your mobile phone from the Apple App/Google Play Store. For FAQs, refer to <a href="https://pg.moe.edu.sg/faq">https://pg.moe.edu.sg/faq</a>.</p>
 
 ##### Please take note of the following:
-1. Your child is not required to physically report to NBSS until **2 January 2023 (Tuesday)**, when school officially begins. 
+1. Your child is not required to physically report to NBSS until **2 January 2024 (Tuesday)**, when school officially begins. 
 2. To complete the registration, please go to our E-registration Portal at <a href="https://nbss.edmension.com">https://nbss.edmension.com</a>
 from **the day posting results are announced, 4pm** onwards. Details available there include the following:
 * Sale of textbooks and uniform
