@@ -1,10 +1,11 @@
 ---
-title: 2023 Secondary 1 Registration
-permalink: /parents-at-nbss/2023-secondary-1-registration/
+title: 2024 Secondary 1 Registration
+permalink: /for-prospective-students/2024-secondary-1-registration/
 description: ""
-third_nav_title: 2023 Secondary 1 Registration
+third_nav_title: 2024 Secondary 1 Registration
+variant: markdown
 ---
-# Naval Base Secondary School welcomes our 2023 Secondary One students and parents!
+# Naval Base Secondary School welcomes our 2024 Secondary One students and parents!
 
 #### Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.
 
@@ -12,9 +13,9 @@ third_nav_title: 2023 Secondary 1 Registration
 <p>If you do not have PG,&nbsp;you can download it on your mobile phone from the Apple App/Google Play Store. For FAQs, refer to <a href="https://pg.moe.edu.sg/faq">https://pg.moe.edu.sg/faq</a>.</p>
 
 ##### Please take note of the following:
-1. Your child is not required to physically report to NBSS until **3 January 2023 (Tuesday)**, when school officially begins. 
+1. Your child is not required to physically report to NBSS until **2 January 2024 (Tuesday)**, when school officially begins. 
 2. To complete the registration, please go to our E-registration Portal at <a href="https://nbss.edmension.com">https://nbss.edmension.com</a>
-from **21 December 2022, 4pm** onwards. Details available there include the following:
+from **the day posting results are announced, 4pm** onwards. Details available there include the following:
 * Sale of textbooks and uniform
 * Eligibility for Subject Based Banding (SBB), Higher Mother Tongue, Music Elective Programme
 * MOE Financial Assistance Scheme (FAS)
