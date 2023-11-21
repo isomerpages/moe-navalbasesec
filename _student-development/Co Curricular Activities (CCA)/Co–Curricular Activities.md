@@ -3,10 +3,12 @@ title: Co–Curricular Activities
 permalink: /nbss-curriculum/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtdXY7QPuFY9mJpUW_XJna_6KJ4ZY02KGgARQF54UByeienHaUz3k2dQjZ91iiwjALnpQh0Y4WsKW8/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYGoccvBLz7UQ92f6PI1oHbOLOewH-rWlZtJZDilOM2ojudc4ZPCyQBvXWGKM1gQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 <p><strong><u>NBSS CCA</u></strong></p>
-<p>CCAs are an integral part of our students&rsquo; holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students&rsquo; sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
+<p>CCAs are an integral part of our students’ holistic education. Through CCA, students discover their interests and talents while developing values and competencies that will prepare them for a rapidly changing world. CCA also promotes friendships among students from diverse backgrounds as they learn, play and grow together. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.</p>
 <p><strong>CCA Objectives:&nbsp;</strong></p>
 <ul>
 <li><strong><u>Breadth of experiences:</u></strong>Students in each CCA being introduced and exposed to a variety of programmes and activities.</li>
@@ -21,20 +23,20 @@ third_nav_title: Co Curricular Activities (CCA)
 <tr>
 <td width="254">
 <p style="text-align: center;"><u>Knowledge</u></p>
-<p>&bull; Self-Awareness<br>&bull; Knowledge of Specific Area</p>
+<p>• Self-Awareness<br>• Knowledge of Specific Area</p>
 </td>
 <td width="180">
 <p style="text-align: center;"><u>Skills</u></p>
-<p>&bull; Practical<br>&bull; Soft &ndash; SEL &amp; 21CC</p>
+<p>• Practical<br>• Soft – SEL &amp; 21CC</p>
 </td>
 <td width="164">
 <p style="text-align: center;"><u>Attitudes</u></p>
-<p>&bull; Values using PoS</p>
+<p>• Values using PoS</p>
 </td>
 </tr>
 </tbody>
 </table>
-<img style="width: 10%;" src="/images/download.png" />
+<img style="width: 10%;" src="/images/download.png">
 <p><strong><u>Learning Domains</u></strong></p>
 <table>
 <tbody>
@@ -60,7 +62,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<img style="width: 10%;" src="/images/download.png" />
+<img style="width: 10%;" src="/images/download.png">
 <p><strong><u>Strategies/Programmes</u></strong></p>
 <table style="height: 597px;">
 <tbody>
@@ -152,7 +154,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
-<p><strong class=""><span class="" lang="EN-SG"><u>2023 CCA Schedule<br /></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20timing%20and%20venue%202023.pdf">CCA schedule timing venues 2023.pdf</a><br /></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
+<p><strong class=""><span class="" lang="EN-SG"><u>2023 CCA Schedule<br></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20timing%20and%20venue%202023.pdf">CCA schedule timing venues 2023.pdf</a><br></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
 <p><strong>CCAs Available at NBSS: Do check out the CCAs' pages via the menu on the left!</strong></p>
 <table>
 <tbody>
@@ -204,4 +206,4 @@ third_nav_title: Co Curricular Activities (CCA)
 <p><strong><u>Sec 1 CCA</u></strong></p>
 <p>Sec 1 CCA Option Form Link:&nbsp;<a href="https://forms.moe.edu.sg/forms/moO2nJ">https://forms.moe.edu.sg/forms/moO2nJ</a></p>
 <p>You will need the following information for logging in.</p>
-<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p>
+<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p>
