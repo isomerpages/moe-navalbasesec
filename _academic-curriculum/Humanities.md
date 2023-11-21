@@ -1,13 +1,15 @@
 ---
 title: Humanities
-permalink: /nbss-curriculum/humanities
+permalink: /nbss-curriculum/humanities/
 description: ""
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSinux2Ox1yEaIe6Hh9I78nQKUqO6lHBEu8myKrXgfkbRaBSNuK7Vm19hw1bwIo1bgRKx38R73k0to2/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRzu6VDquApIu3aWX7fDyd9d9egqxkk4F85o8dlUCY7waHNl3oih_MjWU-exg-uA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 <p><strong>Department Vision</strong></p>
-<p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. We believe every student can and wants to learn and achieve excellence, and actively strive to tap and maximise the potential of every student.<br /></p>
+<p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. We believe every student can and wants to learn and achieve excellence, and actively strive to tap and maximise the potential of every student.<br></p>
 <p><strong>Teaching and Learning Approaches</strong></p>
-<p>Our key teaching and learning approach is adopted in line with the aim to help students become inquiry-oriented learners. As such the department adopts an inquiry-based approach towards teaching and learning to enable students to reach for deeper and enduring understanding of concepts through their own discovery and reasoning. This is in line with Ministry of Education&rsquo;s advocated approach towards the teaching of Humanities in Singapore.</p>
+<p>Our key teaching and learning approach is adopted in line with the aim to help students become inquiry-oriented learners. As such the department adopts an inquiry-based approach towards teaching and learning to enable students to reach for deeper and enduring understanding of concepts through their own discovery and reasoning. This is in line with Ministry of Education’s advocated approach towards the teaching of Humanities in Singapore.</p>
 <img src="/images/hu1.png">
 <p>Supporting the inquiry-based approach are two key pedagogical strategies. One of the key pedagogical strategy in helping students become inquiry-oriented learners is through questioning. Issues studied and examined in Humanities are usually complex involving multiple perspectives. As such, the department embark on using Socratic Questioning to guide students towards thinking about different facets of issues that they are exploring. Socratic questioning involves asking students questions belonging to the following categories:</p>
 <ol>
@@ -23,11 +25,11 @@ description: ""
 <p><strong>Learning Beyond the Classrooms</strong></p>
 <p>To provide authentic learning experiences for students, we also strive to provide opportunities for students to engage in learning beyond the classrooms by embarking on visits and learning journeys to sites of learning. These include the Geographical and Historical Investigations as well as learning journeys for students to understand issues related to Singapore. Some of the visits and learning journeys include the following:</p>
 <ol>
-<li>Secondary 1 &ndash; Learning Journey to Singapore River</li>
+<li>Secondary 1 – Learning Journey to Singapore River</li>
 <li>Secondary 2 - Learning Journeys to National Museum of Singapore</li>
 <li>Upper Secondary</li>
 <li>Visits to witness live debates at Singapore Parliament House</li>
-<li>Visits to production factories to learn about MNCs&rsquo; operations and Globalisation</li>
+<li>Visits to production factories to learn about MNCs’ operations and Globalisation</li>
 <li>Learning journey to Science Centre for Field Study of Tectonic Hazards</li>
 <li>Learning journeys to Chinatown and Gardens by the Bay for Field Study of Tourism at these sites</li>
 </ol>
@@ -35,7 +37,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td><iframe src="https://www.youtube.com/embed/WseBrGV7txQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br /><br /></td>
+<td><iframe src="https://www.youtube.com/embed/WseBrGV7txQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br><br><br></td>
 <td><iframe src="https://www.youtube.com/embed/K_73-DqCj0M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 <td><iframe src="https://www.youtube.com/embed/PPswoG5BqdQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
 </tr>
