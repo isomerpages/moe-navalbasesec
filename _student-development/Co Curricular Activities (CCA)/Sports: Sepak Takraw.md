@@ -3,7 +3,7 @@ title: "Sports: Sepak Takraw"
 permalink: /nbss-curriculum/co-curricular-activities/physical-sports/sepak-takraw/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table width="0">
 <tbody>
