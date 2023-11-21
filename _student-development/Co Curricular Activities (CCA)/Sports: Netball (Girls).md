@@ -128,4 +128,3 @@ variant: markdown
 </div>
 <p><strong>CCA Highlights</strong></p>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRY9XkSLMleBAMiXqSWJ1dSvqklEYHGGa8wOF7r_HidFyJoFtbEZ1KkdnryHAAKA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
