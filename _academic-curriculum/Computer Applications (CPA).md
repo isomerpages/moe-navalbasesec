@@ -13,4 +13,3 @@ variant: markdown
 	
 ![cpa](/images/cpa_3.JPG)
 
-<img src="/images/dnt2.png">
