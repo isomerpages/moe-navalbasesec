@@ -12,3 +12,5 @@ variant: markdown
 <p>Since 2016, all Secondary 2 and Secondary 3 CPA students participate in the National Media Computing Competition held by MOE. In 2020, now known as Animation and Game Making Competition, saw us clinching a Bronze Award, and in 2021 the Gold Award! In 2023, the school is proud to announce that Harith Irfan Bin Hasli was awarded Silver, in the Animation category.</p>
 	
 ![cpa](/images/cpa_3.JPG)
+
+<img src="/images/dnt2.png">
