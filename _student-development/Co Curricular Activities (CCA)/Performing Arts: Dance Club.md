@@ -3,6 +3,7 @@ title: "Performing Arts: Dance Club"
 permalink: /nbss-curriculum/co-curricular-activities/performing-arts/dance-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <table width="0">
 <tbody>
@@ -27,7 +28,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-charge</p>
 </td>
 <td width="441">
-<p>Mr Tharmendra (I/C)<br />Mr Addison Wong (2I/C)<br />Ms Nurul Ridha Farhanah<br />Ms Irwani</p>
+<p>Mr Tharmendra (I/C)<br>Mr Addison Wong (2I/C)<br>Ms Nurul Ridha Farhanah<br>Ms Irwani</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +36,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Instructor/s</p>
 </td>
 <td width="441">
-<p>Mr Faliq Rais<br />Mrs Jegatheesan</p>
+<p>Mr Faliq Rais<br>Mrs Jegatheesan</p>
 </td>
 </tr>
 </tbody>
@@ -43,7 +44,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>The objective of Dance Club is to nurture a group of enthusiastic dancers who will be exposed to different dance forms through collaboration with external agencies and community organizations. The two main genres of dance practised are Hip Hop and Indian Dance. However, students are also exposed to various other genres such as multi-ethnic dance, street jazz and contemporary dance.&nbsp;</p>
 <p>The dance club provides many opportunities for our dancers to participate in public arts events and performances. Members are also trained to take part in various competitions. The club also focuses on promoting cross-cultural understanding, developing the character of its members through values education and improving leadership qualities, through the various activities.</p>
 <p>2021 has been a very special and memorable year as it was the much awaited SYF presentation year for secondary schools. Despite the uncertainties and the late start, the students worked relentlessly to do give their personal best. All the hard work paid off when the Indian Dance clinched the Certificate of Distinction and the International Dance clinched the Certificate of Accomplishment.</p>
-<p>Beyond school, it was a proud moment when 10 students from Base Crew represented the school in this year&rsquo;s national day parade and danced to the 2021 NDP theme song entitled The Road Ahead. The dance also partly featured the students&rsquo; own choreography.</p>
+<p>Beyond school, it was a proud moment when 10 students from Base Crew represented the school in this year’s national day parade and danced to the 2021 NDP theme song entitled The Road Ahead. The dance also partly featured the students’ own choreography.</p>
 <p><strong>Student Executive Committee (2020 - 2021)</strong></p>
 <table width="0">
 <tbody>
@@ -82,11 +83,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <p><strong>CCA Highlights</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV4TLBcYHtEqI0jbfdE5LLzIbqGpnoBJ0FoPMFPhCtbxX3gXDg6wR7QpUMeQ-UVom3MQ165SN2FDJZ/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQm-k2e1fYwGnont0zZ5UwgwSlV-zjYv2k1TlhOgSddSSpMK52oiS4JkajFGJXHug/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox" /> <label for="accordion1">Hazwani selected for Dance Talent Development Programme (DTDP)</label>
+<li><input id="accordion1" type="checkbox"> <label for="accordion1"> Hazwani selected for Dance Talent Development Programme (DTDP)</label>
 <div>
-<img style="width: 40%;" src="/images/haz.jpg" align = "right" />
+<img style="width: 40%;" src="/images/haz.jpg" align="right">
 <p><strong>What did you learn during Phase 1 of the Dance Talent Development Programme (DTDP)?</strong></p>
 <p>I learnt a variety of dance such as Chinese, Malay and Indian dance, Contemporary dance and also Ballet during Phase 1 of the DTDP. I have never heard of contemporary dance before the programme and I had to learn the basics of it, which was not easy. I have learnt the different meanings behind different kinds of movements and also the art of integrating martial arts like silat into dance. It was a great experience learning about histories of different types of dance and execution of dance moves.</p>
 <p><strong>What are some interesting experiences you gained from phase 1of the DTDP?</strong></p>

@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: DSA 2023
-          description: More Info Here!
-          url: /nbss-curriculum/dsa-at-nbss/
+        - title: Open House 2023
+          description: Sat 25 Nov, 9am-1pm
+          url: https://www.facebook.com/events/1374090676822881
         - title: Achievements
           description: Our Pride & Joy
           url: /about-us/Achievements/permalink/
