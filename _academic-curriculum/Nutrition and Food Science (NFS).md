@@ -1,7 +1,8 @@
 ---
 title: Nutrition and Food Science (NFS)
-permalink: /nbss-curriculum/nutrition-and-food-science-nfs
+permalink: /nbss-curriculum/nutrition-and-food-science-nfs/
 description: ""
+variant: markdown
 ---
 <p style="text-align: center;"><strong>Food &amp; Consumer Education</strong></p>
 <p style="text-align: center;"><strong>Curriculum Overview</strong></p>
@@ -36,10 +37,10 @@ description: ""
 <li><strong>Familiarization of the food lab</strong></li>
 <li><strong>Culinary skills</strong></li>
 </ul>
-<p>&radic; Roux sauce-making</p>
-<p>&radic; Shortcrust pastry (Rubbing-in method and rolling)</p>
-<p>&radic; Shaping, mashing and breading technique</p>
-<p>&radic; Knife skills: dicing, slicing, chopping</p>
+<p>√ Roux sauce-making</p>
+<p>√ Shortcrust pastry (Rubbing-in method and rolling)</p>
+<p>√ Shaping, mashing and breading technique</p>
+<p>√ Knife skills: dicing, slicing, chopping</p>
 </td>
 </tr>
 <tr>
@@ -51,23 +52,23 @@ description: ""
 <li><strong>Theoretical knowledge</strong>&nbsp;on methods of cooking, food &amp; kitchen safety, food &amp; culture, being an informed consumer and smart shopping</li>
 <li><strong>Coursework skills</strong></li>
 </ul>
-<p>&radic; Research</p>
-<p>&radic; Decision Making</p>
-<p>&radic; Planning</p>
-<p>&radic; Execution</p>
+<p>√ Research</p>
+<p>√ Decision Making</p>
+<p>√ Planning</p>
+<p>√ Execution</p>
 <ul>
 <li>organisation and management</li>
 <li>manipulation</li>
 <li>product and presentation</li>
 </ul>
-<p>&radic; Evaluation</p>
+<p>√ Evaluation</p>
 <ul>
 <li><strong>Investigative task</strong></li>
 <li><strong>Culinary skills</strong></li>
 </ul>
-<p>&radic; Rough puff pastry (Folding and rolling) Blended sauce-making</p>
-<p>&radic; Shortcrust pastry (rubbing-in method and rolling) Pancake (batter-making)</p>
-<p>&radic; Knife skills: dicing, slicing, chopping</p>
+<p>√ Rough puff pastry (Folding and rolling) Blended sauce-making</p>
+<p>√ Shortcrust pastry (rubbing-in method and rolling) Pancake (batter-making)</p>
+<p>√ Knife skills: dicing, slicing, chopping</p>
 </td>
 </tr>
 </tbody>
@@ -137,29 +138,30 @@ description: ""
 <tr>
 <td width="241">
 <p><strong>O Level</strong></p>
-<p>&radic; Research<br />&radic; Decision Making<br />&radic; Investigation<br />&radic; Planning<br />&radic; Execution</p>
+<p>√ Research<br>√ Decision Making<br>√ Investigation<br>√ Planning<br>√ Execution</p>
 <ul>
 <li>organisation and management</li>
 <li>manipulation</li>
 <li>product and presentation</li>
 </ul>
-<p>&radic; Evaluation</p>
+<p>√ Evaluation</p>
 </td>
 <td width="241">
 <p><strong>N(A) Level</strong></p>
-<p>&radic; Research<br />&radic; Decision Making<br />&radic; Exploratory Study<br />&radic; Planning<br />&radic; Execution</p>
+<p>√ Research<br>√ Decision Making<br>√ Exploratory Study<br>√ Planning<br>√ Execution</p>
 <ul>
 <li>organisation and management</li>
 <li>manipulation</li>
 <li>product and presentation</li>
 </ul>
-<p>&radic; Evaluation</p>
+<p>√ Evaluation</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Students are given opportunities to participate in various culinary workshops. The workshops enable the students to:</p>
-<p>&radic; develop an interest in the subject and instil the joy of learning;</p>
-<p>&radic; learn professional culinary skills and techniques taught by a professional chef; and</p>
-<p>&radic; explore career opportunities in the food industry.&nbsp;</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3L7ACEVdPeB5AnzRWGVmtwbrkUP6GJxY4asniNDFSqaIkHTWdF81_unbMiyhglNkXrmMlAw_9pl7p/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>√ develop an interest in the subject and instil the joy of learning;</p>
+<p>√ learn professional culinary skills and techniques taught by a professional chef; and</p>
+<p>√ explore career opportunities in the food industry.&nbsp;</p>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLGI14giCOK5Utu45-kqOYKXldPlN1Q22AFvL6s47TgBC1_Tku7B7pPsleMSj99Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
