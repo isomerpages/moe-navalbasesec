@@ -3,10 +3,11 @@ title: Education and Career Guidance (ECG)
 permalink: /nbss-curriculum/character-and-citizenship-education/ecg/
 description: ""
 third_nav_title: Character & Citizenship Edu
+variant: markdown
 ---
 <p>Education and Career Guidance (ECG) serves as a vehicle for students to develop their social and emotional competencies in all the 5 domains of SEL For example, as&nbsp;students go through lessons and activities to determine their personal strengths, interests and values, they develop greater self awareness&nbsp;and more accurate self-perception.</p>
-<p>Using the ECG development and delivery model as a guide, our school has developed an ECG programme that is customised to meet our students&rsquo; needs. For example, the learning journeys that we planned are target specific with consideration to the subjects taken by our Sec 3 classes. Leveraging on our strong partnership network, we have been able to organise cohort-level activities and target-specific level activities successfully.</p>
-<p><strong>Naval Base Secondary School &ndash; 4 Year ECG Programme</strong></p>
+<p>Using the ECG development and delivery model as a guide, our school has developed an ECG programme that is customised to meet our students’ needs. For example, the learning journeys that we planned are target specific with consideration to the subjects taken by our Sec 3 classes. Leveraging on our strong partnership network, we have been able to organise cohort-level activities and target-specific level activities successfully.</p>
+<p><strong>Naval Base Secondary School – 4 Year ECG Programme</strong></p>
 <table>
 <tbody>
 <tr>
@@ -30,7 +31,7 @@ third_nav_title: Character & Citizenship Edu
 </td>
 <td colspan="4" width="612">
 <p>1.&nbsp;Enable the individual to explore viable education and career options through the provision of accurate and comprehensive information</p>
-<p>2. Nurture one&rsquo;s self awareness, self directedness and life skills to set wise goals, to continually learn, and add value to their future workplace</p>
+<p>2. Nurture one’s self awareness, self directedness and life skills to set wise goals, to continually learn, and add value to their future workplace</p>
 <p>3.&nbsp;Inculcate an appreciation for the value of all occupations and how they contribute to the well-functioning of society</p>
 <p>4.&nbsp;Equip our students with skills and means to positively engage their parents and other career influencers</p>
 </td>
@@ -51,23 +52,23 @@ third_nav_title: Character & Citizenship Edu
 <p><strong>Knowledge </strong><strong>(T&amp;L Guide </strong><strong>Annex B)</strong></p>
 </td>
 <td style="text-align: center;" width="147">
-<p>-Aspiring towards one&rsquo;s best self</p>
+<p>-Aspiring towards one’s best self</p>
 <p>- Sense of purpose</p>
 <p>- Believing in oneself</p>
 </td>
 <td style="text-align: center;" width="154">
-<p>-Aspiring towards one&rsquo;s best self</p>
+<p>-Aspiring towards one’s best self</p>
 <p>- Sense of purpose</p>
 <p>- Believing in oneself</p>
 </td>
 <td style="text-align: center;" width="163">
 <p>- Being confident</p>
-<p>- Development of one&rsquo;s best self</p>
+<p>- Development of one’s best self</p>
 <p>- Growth mindset</p>
 </td>
 <td style="text-align: center;" width="149">
 <p>- Being confident</p>
-<p>- Development of one&rsquo;s best self</p>
+<p>- Development of one’s best self</p>
 <p>- Growth mindset</p>
 </td>
 </tr>
@@ -121,7 +122,7 @@ third_nav_title: Character & Citizenship Edu
 </tr>
 </tbody>
 </table>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnbwp7Dx8GAIusmpSqx2h0I1oxeGWOQpjjxr0PXNpalXl_AjWQ_S908skTSCV8BLYeh6tdD_4tXRsY/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTeamu0-WrgBgNj8ocqjDTwADIIzkmsFz-lroqtAxGFkzB37mzr3B8TKUfJwUa0Uw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Still unsure what's the next step for you?**
 
@@ -133,4 +134,4 @@ Email: jerlyn_poh_yoke_hui@schools.gov.sg
 
 Telegram: https://t.me/ecgc_jp
 
-Appointment Link: https://go.gov.sg/nbssmsjerlyn 
+Appointment Link: https://go.gov.sg/nbssmsjerlyn
