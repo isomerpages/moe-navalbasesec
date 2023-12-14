@@ -3,6 +3,7 @@ title: "Clubs & Societies: InfoComm Club"
 permalink: /nbss-curriculum/co-curricular-activities/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <table width="0">
 <tbody>
@@ -27,12 +28,12 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Ms Janessa Chang (I/C)<br />Mr Shawn Neo <br />Mr Ravindran</p>
+<p>Ms Janessa Chang (I/C)<br>Mr Shawn Neo <br>Mr Ravindran</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>In NBSS Infocomm Club, we strive to equip our students with info-communication skills in order to facilitate digital media production(s). Here, we focus on developing students&rsquo; skills in photography, videography, basic photo and video editing, basic programming and the management of the school&rsquo;s public announcement system.</p>
+<p>In NBSS Infocomm Club, we strive to equip our students with info-communication skills in order to facilitate digital media production(s). Here, we focus on developing students’ skills in photography, videography, basic photo and video editing, basic programming and the management of the school’s public announcement system.</p>
 <p>Through active participation in school events, our students get to apply their photography, videography and editing skills. During CCA sessions, students learn programming through Swift Playground and Python, photo editing through Lightroom, and video editing through Da Vinci Resolve and iMovies. Our students also undergo PA training in teams, learning to navigate various audio-visual systems and supporting school events behind-the-scenes, ensuring the smooth-running of events.</p>
 <p>The club also aims to cultivate leadership capabilities and forge strong friendships and a sense of camaraderie among members. The executive committee members are tasked to lead, plan training programmes and organise activities for the other members, ranging from weekly school assemblies, team-bonding sessions to farewell ceremonies.</p>
 <p><u>Infocomm Club Framework</u></p>
@@ -64,7 +65,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Vice-chairperson/s</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Onquit Jake Davis Areglo<br />Vani Heera D/O Manoharan</p>
+<p>Onquit Jake Davis Areglo<br>Vani Heera D/O Manoharan</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +89,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Group ICs:</p>
 </td>
 <td style="text-align: center;" width="427">
-<p>Kang Yu Xian<br />Dumaquit Danzen Ver Enriquez<br />Ryan Wee Le Wen</p>
+<p>Kang Yu Xian<br>Dumaquit Danzen Ver Enriquez<br>Ryan Wee Le Wen</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>CCA Highlights</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnjjsIUzSzbWq2kWr0LpjN5z2CoQWZpYtQ1sYffTPKhyofqnwy778YVVF6jclm6ac-Gj8RHdaFfCSI/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKkjt5jiFeHN37LppSvmq2YofUPpsm8wcIxsWrAf1QIsz37Kb3P666bwLKCq_r_g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+

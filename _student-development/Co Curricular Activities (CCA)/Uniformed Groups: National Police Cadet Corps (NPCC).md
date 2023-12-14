@@ -3,6 +3,7 @@ title: "Uniformed Groups: National Police Cadet Corps (NPCC)"
 permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <table width="0">
 <tbody>
@@ -27,7 +28,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Mr Teo Ann Peng Simon (I/C)<br />Ms Cheng Vivien(2 I/C)<br />Ms See Toh Wai Yin<br />Mr Gan Zi En</p>
+<p>Mr Teo Ann Peng Simon (I/C)<br>Ms Cheng Vivien(2 I/C)<br>Ms See Toh Wai Yin<br>Mr Gan Zi En</p>
 </td>
 </tr>
 </tbody>
@@ -52,7 +53,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Vice-Chairpersons</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Kieran Chew Ming En<br />Toh Hui Ching</p>
+<p>Kieran Chew Ming En<br>Toh Hui Ching</p>
 </td>
 </tr>
 <tr>
@@ -90,4 +91,5 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <p><strong>CCA Highlights</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7xhD2ouilCyUSalUoNP1FZyh3j8trgVuwgm_Fxh91Z_MGHgsgyFj3ddqXlImi64PQXunQLFOoCkCd/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFKX8MclNiWxG6oAZakg84FcQOJHLQVMCnqgSVnU9zQMBLp9mY0rUb3rWN3RGIww/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
