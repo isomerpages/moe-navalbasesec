@@ -26,7 +26,7 @@ variant: markdown
 </tr>
 
 <tr>
-<td>Mr&nbsp;Eugene Lee</td>
+<td>Mr&nbsp;Loo Wen Bin</td>
 <td>School Staff Developer&nbsp;</td>
 </tr>
 <tr>
