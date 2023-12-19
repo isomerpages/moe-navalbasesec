@@ -2,6 +2,7 @@
 title: Our Family (Staff)
 permalink: /about-us/our-family-staff/
 description: ""
+variant: markdown
 ---
 # School Steering Committee
 <div>
@@ -20,7 +21,7 @@ description: ""
 <td>Vice-Principal&nbsp;</td>
 </tr>
 <tr>
-<td>Mr Lionel Lye</td>
+<td>Mr Muhammad Shahari B Abu Bakar </td>
 <td>Vice-Principal</td>
 </tr>
 
