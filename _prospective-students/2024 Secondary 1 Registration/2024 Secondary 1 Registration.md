@@ -14,7 +14,7 @@ variant: markdown
 
 ##### Please take note of the following:
 1. Your child is not required to physically report to NBSS until **2 January 2024 (Tuesday)**, when school officially begins. 
-2. To complete the registration, please go to our E-registration Portal at <a href="https://nbss.edmension.com">https://nbss.edmension.com</a>
+2. To complete the registration, please go to our E-registration Portal at <a href="https://enroll.edmension.com">https://enroll.edmension.com</a>
 from **20 Dec 2023, 4pm** onwards. Details available there include the following:
 * Sale of textbooks and uniform
 * Eligibility for Subject Based Banding (SBB), Higher Mother Tongue, Music Elective Programme
