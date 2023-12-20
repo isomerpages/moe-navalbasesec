@@ -34,7 +34,7 @@ Device Management Application (DMA) resources and videos for parents-
 - Memory : 4GB
 - Storage : 64GB (Upgrade to 256GB Storage)
 
-**Add-on/Accessories Item(1 year warranty)**
+**Add-on/Accessories Item (1 year warranty)**
 - Apple Pencil (USB-C)
 - Logitech SlimFolio Keyboard Case
 
