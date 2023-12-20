@@ -4,6 +4,16 @@ permalink: /parents/permalink/
 description: ""
 variant: markdown
 ---
+As part of the National Digital Literacy Programme (NDLP), the implementation includes the introduction of the Personalized Digital Learning Programme (PDLP) for all secondary school students. This initiative ensures that each secondary school student possesses a Personal Learning Device (PLD). These PLDs create an immersive learning environment, enabling students to cultivate the dispositions, knowledge, and skills necessary to excel in the digital landscape.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/atVkNBXMVnY?si=Z7VH-X4L15fP08_Y" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6oIAtbruVf4?si=Mt1m8CPqcl0ZGEM8" height="315" width="560"></iframe>
+
+
+
+
+
 **DMA Resources for Parents**
 
 Device Management Application (DMA) guides for parents
