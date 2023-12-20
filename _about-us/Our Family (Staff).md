@@ -26,7 +26,7 @@ variant: markdown
 </tr>
 
 <tr>
-<td>Mr&nbsp;Loo Wen Bin</td>
+<td>-</td>
 <td>School Staff Developer&nbsp;</td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: markdown
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>-</td>
+<td>Mr Loo Wen Bin</td>
 <td>Head of Department, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
@@ -98,10 +98,6 @@ variant: markdown
 <td>Subject Head, CCA</td>
 </tr>
 <tr>
-<td>-</td>
-<td>Subject Head, Student Well-Being</td>
-</tr>
-<tr>
 <td>Mdm Rashidah Binte Ibrahim</td>
 <td>Subject Head,&nbsp;Nutrition &amp; Food Science</td>
 </tr>
@@ -116,6 +112,22 @@ variant: markdown
 <tr>
 <td>Ms Marinah Hasnan&nbsp;</td>
 <td>Subject Head, Mathematics</td>
+</tr>
+	<tr>
+<td>Ms Nur Amanina Md Zain &nbsp;</td>
+<td>Subject Head, Character &amp; Citizenship Education</td>
+</tr>
+	<tr>
+<td>Ms Beryl Lim&nbsp;</td>
+<td>Subject Head, Character &amp; Citizenship Education</td>
+</tr>
+<tr>
+<td>Ms Shirley Tan&nbsp;</td>
+<td>Subject Head, ICT</td>
+</tr>
+	<tr>
+<td>Mr Shawn Neo&nbsp;</td>
+<td>Subject Head, Student Leadership</td>
 </tr>
 <tr>
 <td>Ms Lucy Png</td>
