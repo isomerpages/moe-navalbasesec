@@ -27,7 +27,36 @@ Parents/Guardians can refer to the following materials listed below for addition
 Device Management Application (DMA) resources and videos for parents-
 [DMA Options Info](https://go.gov.sg/dmaparentguide-mg)
 
-## The Apple iPad: Navalites' Personal Learning Device
-	
-<strong>Supporting Information on PDLP</strong><br>As a Phase 1 school for the National Digital Literacy Programme, all Navalites enjoy access to their own iPads, funded by a combination of Edusave, subsidies (where applicable) and cash top-ups (where necessary). Please see below for more information on our Navalites Personal Learning Devices: the Apple iPad. 
-<a><br></a><a href="/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook I on Learning with a PLD.pdf</a><br><a href="/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook II on Learning with a PLD.pdf</a><br><a href="/files/Frequently%20Asked%20Questions%20PDLP%202022.pdf">Frequently Asked Questions PDLP 2022.pdf</a>
+##### **Device information**
+**iPad Spec (3 years apple care warranty and 3 years Insurance warranty)**
+- Model: Apple iPad 10.9 10th Gen
+- Processor: A14 Bionic Processor
+- Memory : 4GB
+- Storage : 64GB (Upgrade to 256GB Storage)
+
+**Add-on/Accessories Item(1 year warranty)**
+- Apple Pencil (USB-C)
+- Logitech SlimFolio Keyboard Case
+
+**Insurance coverage**
+- Fire
+- Lightning
+- Power Surges
+- Accidental e.g water spillage, drop, screen crack etc
+- Theft due to forcible entry
+- Robbery
+
+ ***Accidental loss will not be covered by insurance.**
+ 
+ **Claimable**-
+2 repairs or 1 replacement (3 year insurance)
+
+**What if my child's iPad is lost?**
+
+For lost due to the above reasons (Insurance coverage), a police report will have to be made. Submit the police report to the IT room, the school will submit a claim on behalf of the student from the Insurance company (subject to insurance company's approval)
+
+***Accidental loss will not be covered by insurance. 
+If an iPad is lost, DMA and find my iPad App are not able to track.**
+
+
+ 
