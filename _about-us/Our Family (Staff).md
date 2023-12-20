@@ -98,10 +98,6 @@ variant: markdown
 <td>Subject Head, CCA</td>
 </tr>
 <tr>
-<td>-</td>
-<td>Subject Head, Student Well-Being</td>
-</tr>
-<tr>
 <td>Mdm Rashidah Binte Ibrahim</td>
 <td>Subject Head,&nbsp;Nutrition &amp; Food Science</td>
 </tr>
