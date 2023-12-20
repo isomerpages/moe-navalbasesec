@@ -126,12 +126,12 @@ variant: markdown
 <td>Subject Head, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
-<td>Ms Marinah Hasnan&nbsp;</td>
-<td>Subject Head, Mathematics</td>
+<td>Ms Shirley Tan&nbsp;</td>
+<td>Subject Head, ICT</td>
 </tr>
 	<tr>
-<td>Ms Marinah Hasnan&nbsp;</td>
-<td>Subject Head, Mathematics</td>
+<td>Mr Shawn Neo&nbsp;</td>
+<td>Subject Head, Student Leadership</td>
 </tr>
 <tr>
 <td>Ms Lucy Png</td>
