@@ -2,6 +2,7 @@
 title: Our Family (Staff)
 permalink: /about-us/our-family-staff/
 description: ""
+variant: markdown
 ---
 # School Steering Committee
 <div>
@@ -20,12 +21,12 @@ description: ""
 <td>Vice-Principal&nbsp;</td>
 </tr>
 <tr>
-<td>Mr Lionel Lye</td>
+<td>Mr Muhammad Shahari B Abu Bakar </td>
 <td>Vice-Principal</td>
 </tr>
 
 <tr>
-<td>Mr&nbsp;Eugene Lee</td>
+<td>Mr&nbsp;Loo Wen Bin</td>
 <td>School Staff Developer&nbsp;</td>
 </tr>
 <tr>
@@ -236,12 +237,12 @@ description: ""
 <td>Administration Manager</td>
 </tr>
 <tr>
-<td>Ms Mardiana Mohd Sharif&nbsp;</td>
+<td>Ms Siti Nadhirah&nbsp;</td>
 <td>Administrative Executive&nbsp;</td>
 </tr>
 <tr>
-<td>Ms Siti Nadhirah&nbsp;</td>
-<td>Administrative Executive&nbsp;</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table></div>
