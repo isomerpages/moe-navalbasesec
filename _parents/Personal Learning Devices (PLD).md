@@ -66,7 +66,3 @@ If an iPad is lost, DMA and find my iPad App are not able to track.**
 For the keyboard(1 year warranty): personally send it to the Asiapac service center .
 
 ***Physical damage for apple pencil and keyboard will not be covered by warranty**
-
-
-
- 
