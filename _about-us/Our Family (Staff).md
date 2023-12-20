@@ -117,6 +117,22 @@ variant: markdown
 <td>Ms Marinah Hasnan&nbsp;</td>
 <td>Subject Head, Mathematics</td>
 </tr>
+	<tr>
+<td>Ms Nur Amanina Md Zain &nbsp;</td>
+<td>Subject Head, Character &amp; Citizenship Education</td>
+</tr>
+	<tr>
+<td>Ms Beryl Lim&nbsp;</td>
+<td>Subject Head, Character &amp; Citizenship Education</td>
+</tr>
+<tr>
+<td>Ms Marinah Hasnan&nbsp;</td>
+<td>Subject Head, Mathematics</td>
+</tr>
+	<tr>
+<td>Ms Marinah Hasnan&nbsp;</td>
+<td>Subject Head, Mathematics</td>
+</tr>
 <tr>
 <td>Ms Lucy Png</td>
 <td>Senior School Counsellor</td>
