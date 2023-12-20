@@ -24,9 +24,7 @@ Parents/Guardians can refer to the following materials listed below for addition
 
 **DMA Resources for Parents**
 
-Device Management Application (DMA) guides for parents
-
-DMA resources and videos for parents-
+Device Management Application (DMA) resources and videos for parents-
 [DMA Options Info](https://go.gov.sg/dmaparentguide-mg)
 
 ## The Apple iPad: Navalites' Personal Learning Device
