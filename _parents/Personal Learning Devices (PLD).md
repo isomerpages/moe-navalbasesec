@@ -51,12 +51,22 @@ Device Management Application (DMA) resources and videos for parents-
  **Claimable**-
 2 repairs or 1 replacement (3 year insurance)
 
-**What if my child's iPad is lost?**
+##### **What if my child's iPad is lost?**
 
 For lost due to the above reasons (Insurance coverage), a police report will have to be made. Submit the police report to the IT room, the school will submit a claim on behalf of the student from the Insurance company (subject to insurance company's approval)
 
 ***Accidental loss will not be covered by insurance. 
 If an iPad is lost, DMA and find my iPad App are not able to track.**
+
+##### **What steps should be taken if my child's iPad, Apple Pencil, or keyboard is malfunctioning/damage?**
+
+**For the iPad (3 year warranty)**: You have the option to either send it to the school IT room, where the school will report the issue on behalf of the student, or personally send it to the [Asiapac service center](https://www1.asiapac.com.sg/support/)
+
+**For the Apple Pencil(1 year warranty)**: You can choose to personally send it to an Apple store or the Asiapac service center. 
+For the keyboard(1 year warranty): personally send it to the Asiapac service center .
+
+***Physical damage for apple pencil and keyboard will not be covered by warranty**
+
 
 
  
