@@ -17,7 +17,7 @@ Parents/Guardians can refer to the following materials listed below for addition
 [Parent Handbook I on Learning with a PLD 2024](/files/Parent_Handbook_I_on_Learning_with_a_PLD_2024.pdf)
 
 [Parent Handbook II on Learning with a PLD 2024](/files/Parent_Handbook_II_on_Learning_with_a_PLD_2024.pdf)
-
+<br><a href="/files/Frequently%20Asked%20Questions%20PDLP%202022.pdf">Frequently Asked Questions PDLP.pdf</a>
 
 
 **DMA Resources for Parents**
