@@ -26,7 +26,7 @@ variant: markdown
 </tr>
 
 <tr>
-<td>Mr&nbsp;Loo Wen Bin</td>
+<td>-</td>
 <td>School Staff Developer&nbsp;</td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: markdown
 <td>Year Head (Upper Sec)</td>
 </tr>
 <tr>
-<td>-</td>
+<td>Mr Loo Wen Bin</td>
 <td>Head of Department, Character &amp; Citizenship Education</td>
 </tr>
 <tr>
