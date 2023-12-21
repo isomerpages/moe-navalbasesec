@@ -14,7 +14,7 @@ As part of the National Digital Literacy Programme (NDLP), the implementation in
 
 Parents/Guardians can refer to the following materials listed below for additional information on the NDLP
 
-[NDLP - Briefing for Sec 1 Parents 2024](/files/NDLP___Briefing_for_Sec_1_Parents__2024_.pdf)
+[NDLP - Briefing for Sec 1 Parents 2024](/files/NDLP___Briefing_for_Sec_1_Parents__2024__.pdf)
 
 [Parent Handbook I on Learning with a PLD 2024](/files/Parent_Handbook_I_on_Learning_with_a_PLD_2024.pdf)
 
