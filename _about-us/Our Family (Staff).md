@@ -863,7 +863,7 @@ variant: markdown
 <td>Operations Manager&nbsp;</td>
 </tr>
 <tr>
-<td>-</td>
+<td>Ms Ang Shiou Ching</td>
 <td>Administration Manager</td>
 </tr>
 <tr>
