@@ -11,6 +11,9 @@ variant: markdown
 ## Social Media
 Our school community is very active on social media with frequent updates at [our Facebook page](https://www.facebook.com/navalbasesec) and [Instagram page](https://www.instagram.com/navalbasesec/). Head over to see our Navalite community in action! 
 
+#### 2023 Yearbook
+New!  [Click here](https://drive.google.com/file/d/1PqeGNi4imclFXBneiRNSXUW613vi0BSP/view?usp=drive_link) to view a copy of our 2023 school yearbook!
+
 ## Other Useful Resources
 <p>Please access the following links for other resources:
 </p><p>
