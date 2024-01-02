@@ -7,4 +7,4 @@ variant: markdown
 ---
 | **SEC 1** | **SEC 2** | **SEC 3** | **SEC 4/5** |
 | -------- | -------- | -------- |-------- |
-| | [Sec 2 TT](/files/2024TT/Sec_2_TT_2024.pdf)| [Sec 3 TT](/files/2024TT/Sec3_TT_2024.pdf)  |[Sec 4&5 TT](/files/2024TT/Sec_4_5_TT_2024.pdf)  |
+|[Sec 1 TT](/files/2024_Sec_1_TT.pdf) | [Sec 2 TT](/files/2024TT/Sec_2_TT_2024.pdf)| [Sec 3 TT](/files/2024TT/Sec3_TT_2024.pdf)  |[Sec 4&5 TT](/files/2024TT/Sec_4_5_TT_2024.pdf)  |
