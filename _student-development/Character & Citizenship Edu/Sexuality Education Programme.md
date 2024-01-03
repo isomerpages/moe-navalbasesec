@@ -49,7 +49,7 @@ b.	Character and Citizenship Education (CCE)
 7.	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 
-At Naval Base Secondary School, the following lessons from The Growing Years  Programme and eTeens Programme ( for Secondary 3 only) will be  taught in 2024. Click this:   Sed lessons for 2024
+At Naval Base Secondary School, the following lessons from The Growing Years  Programme and eTeens Programme ( for Secondary 3 only) will be  taught in 2024. Click this: [Sed lessons for 2024](/files/SE%20Edu/SEd_lessons_for_2024.pdf)
 
 
 
