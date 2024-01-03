@@ -36,7 +36,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more inform
 **OVERVIEW OF NAVAL BASE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
 
 
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) [https://form.gov.sg](https://form.gov.sg/658ecaed472c2d0013543030)for more information on the scope of Sexuality Education in the school curriculum.
 
 5.	The subjects that incorporate topics on sexuality include: 
 
