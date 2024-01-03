@@ -51,6 +51,13 @@ b.	Character and Citizenship Education (CCE)
 
 At Naval Base Secondary School, the following lessons from The Growing Years  Programme and eTeens Programme ( for Secondary 3 only) will be  taught in 2024. Click this: [Sed lessons for 2024](/files/SE%20Edu/SEd_lessons_for_2024.pdf)
 
+**INFORMATION FOR PARENTS**
+
+10.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable:  (https://form.gov.sg/658ecaed472c2d0013543030). The completed form is to be submitted by 11/01/2024. 
+12.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable: (https://form.gov.sg/658ecf7e341230001179e607)
+The completed form is to be submitted by 11/01/2024.
+13.	Parents can contact the school at nbss@moe.edu.sg or 6257 1996 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
 
