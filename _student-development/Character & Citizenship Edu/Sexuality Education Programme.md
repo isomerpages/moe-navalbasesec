@@ -21,7 +21,7 @@ variant: markdown
 
 
 
-3.	The Key Messages of Sexuality Education are:
+3. The Key Messages of Sexuality Education are:
 
 (a)	Love and respect yourself as you love and respect others
 
