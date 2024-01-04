@@ -11,7 +11,7 @@ variant: markdown
 	
 
 
-2.	The Goals of Sexuality Education are to:
+2. The Goals of Sexuality Education are to:
 
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. 
 
