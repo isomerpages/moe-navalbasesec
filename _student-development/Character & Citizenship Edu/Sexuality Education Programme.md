@@ -64,15 +64,5 @@ The completed form is to be submitted by 11/01/2024.
 
 
 
-<p><strong><u>Still unsure what's the next step for you?</u></strong>&nbsp;</p>
-	
-<p>The school's ECG Counsellor, Ms Jerlyn Poh, works closely with the respective institutions' ECG teams to guide students to make informed decisions about their education and career plans.</p>
-	
-	
-<p>You may contact the school's ECG Counsellor via the following modes:</p>
-	
-<p>Email: jerlyn_poh_yoke_hui@schools.gov.sg</p>
-	
-<p>Telegram: https://t.me/ecgc_jp</p>
-	
-<p>Appointment Link: https://go.gov.sg/nbssmsjerlyn</p>
+
+
