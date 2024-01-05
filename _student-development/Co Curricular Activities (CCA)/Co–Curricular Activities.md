@@ -156,15 +156,7 @@ variant: markdown
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
 <p><strong class=""><span class="" lang="EN-SG">
 	
-**2024 CCA Schedule**
-	
-[CCA Schedule 2024](/files/CCA_Schedule_2024.pdf)
-	
-[Sec 1 CCA Selection 2024 PG links](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
-	
-[Leaps 2.0 grading system](/files/leaps-20.pdf)	
-	
-	
+
 	
 </span></strong></p><p><strong class=""><strong>CCAs Available at NBSS: Do check out the CCAs' pages via the menu on the left!</strong></strong></p><strong class="">
 <table>
