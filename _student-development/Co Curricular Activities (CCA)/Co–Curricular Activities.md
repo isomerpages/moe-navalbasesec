@@ -156,7 +156,7 @@ variant: markdown
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
 <p><strong class=""><span class="" lang="EN-SG">
 	
-2024 CCA Schedule
+**2024 CCA Schedule**
 	
 [CCA Schedule 2024](/files/CCA_Schedule_2024.pdf)
 	
@@ -214,7 +214,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><strong><u>Sec 1 CCA</u></strong></p>
-<p>Sec 1 CCA Option Form Link:&nbsp;<a href="https://forms.moe.edu.sg/forms/moO2nJ">https://forms.moe.edu.sg/forms/moO2nJ</a></p>
-<p>You will need the following information for logging in.</p>
-<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p></strong>
+</strong>
