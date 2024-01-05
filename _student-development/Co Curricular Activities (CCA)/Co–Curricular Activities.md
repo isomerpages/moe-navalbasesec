@@ -216,6 +216,6 @@ variant: markdown
 <td>Table Tennis</td>
 </tr>
 </tbody>
-</table><table>
+</table>
 
-	</table></strong>
+	</strong>
