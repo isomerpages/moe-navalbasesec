@@ -218,5 +218,4 @@ variant: markdown
 </tbody>
 </table>
 
-	
-</strong>
+	</strong>
