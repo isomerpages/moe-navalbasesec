@@ -215,8 +215,4 @@ variant: markdown
 <td>&nbsp;</td>
 <td>Table Tennis</td>
 </tr>
-</tbody>
-</table>
-
-	
-</strong>
+</tbody></table></strong>
