@@ -220,8 +220,7 @@ variant: markdown
 </table>
 
 	
-	
-#### 2024 CCA Schedule
+2024 CCA Schedule
 	
 [CCA Schedule 2024 ](/files/CCA_Schedule_2024.pdf)
 	
