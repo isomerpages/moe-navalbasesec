@@ -153,6 +153,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
 <p><strong class=""><span class="" lang="EN-SG">
 	
@@ -209,7 +210,7 @@ variant: markdown
 
 	
 	
-**2024 CCA Schedule**
+2024 CCA Schedule
 	
 [CCA Schedule 2024](/files/CCA_Schedule_2024.pdf)
 	
