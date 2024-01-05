@@ -216,7 +216,6 @@ variant: markdown
 	
 [Sec 1 CCA Selection 2024 PG links](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
 	
-[Leaps 2.0 grading system](/files/leaps-20.pdf)	
 	
 [LEAPS 2.0 grading system](/files/leaps-20.pdf)
 	
