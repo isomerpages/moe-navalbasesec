@@ -221,8 +221,7 @@ variant: markdown
 [LEAPS 2.0 grading system](/files/leaps-20.pdf)
 	
 	
-	
-**2024 CCA Schedule**
+2024 CCA Schedule
 	
 [CCA Schedule 2024](/files/CCA_Schedule_2024.pdf)
 	
