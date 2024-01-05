@@ -154,8 +154,17 @@ variant: markdown
 </tbody>
 </table>
 <p>Our school is offering 16 CCAs in 4 categories, namely The Performing &amp; Visual Arts, Sports &amp; Games, Uniformed Groups and Clubs &amp; Societies. All students are&nbsp;<strong><u>compulsory</u></strong>&nbsp;to take up at least one CCA in their secondary school life.&nbsp;</p>
-<p><strong class=""><span class="" lang="EN-SG"><u>2023 CCA Schedule<br></u></span></strong><strong class=""><a class="refobj" href="/files/CCA%20timing%20and%20venue%202023.pdf">CCA schedule timing venues 2023.pdf</a><br></strong><a href="/files/leaps-20.pdf" target="_blank" rel="noopener"><strong><u>LEAPS 2.0 grading system</u></strong></a></p>
-<p><strong>CCAs Available at NBSS: Do check out the CCAs' pages via the menu on the left!</strong></p>
+<p><strong class=""><span class="" lang="EN-SG">
+	
+2024 CCA Schedule
+	
+[CCA Schedule 2024](/files/CCA_Schedule_2024.pdf)
+	
+[Leaps 2.0 grading system](/files/leaps-20.pdf)	
+	
+	
+	
+</span></strong></p><p><strong class=""><strong>CCAs Available at NBSS: Do check out the CCAs' pages via the menu on the left!</strong></strong></p><strong class="">
 <table>
 <tbody>
 <tr>
@@ -206,4 +215,4 @@ variant: markdown
 <p><strong><u>Sec 1 CCA</u></strong></p>
 <p>Sec 1 CCA Option Form Link:&nbsp;<a href="https://forms.moe.edu.sg/forms/moO2nJ">https://forms.moe.edu.sg/forms/moO2nJ</a></p>
 <p>You will need the following information for logging in.</p>
-<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p>
+<p>Example:&nbsp;&nbsp;&nbsp; NRIC : T1234567A<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class : S1-3<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Register No.: 38</p></strong>
