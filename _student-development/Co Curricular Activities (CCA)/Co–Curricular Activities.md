@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: markdown
 ---
+#### 2024 CCA Schedule
+	
+[CCA Schedule 2024 ](/files/CCA_Schedule_2024.pdf)
+	
+[Sec 1 CCA Selection 2024 PG links](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
+	
+	
+[LEAPS 2.0 grading system](/files/leaps-20.pdf)
+
+
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYGoccvBLz7UQ92f6PI1oHbOLOewH-rWlZtJZDilOM2ojudc4ZPCyQBvXWGKM1gQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <p><strong><u>NBSS CCA</u></strong></p>
