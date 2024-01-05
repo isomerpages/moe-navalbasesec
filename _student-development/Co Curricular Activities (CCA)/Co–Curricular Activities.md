@@ -7,10 +7,9 @@ variant: markdown
 ---
 #### 2024 CCA Schedule
 	
-[CCA Schedule 2024 ](/files/CCA_Schedule_2024.pdf)
-	
-[Sec 1 CCA Selection 2024 PG links](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
-	
+[CCA time venue 2024](/files/CCA_time_venue_2024_updated.pdf)
+
+
 	
 [LEAPS 2.0 grading system](/files/leaps-20.pdf)
 
@@ -220,12 +219,4 @@ variant: markdown
 </table>
 
 	
-2024 CCA Schedule
-	
-[CCA Schedule 2024 ](/files/CCA_Schedule_2024.pdf)
-	
-[Sec 1 CCA Selection 2024 PG links](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
-	
-	
-[LEAPS 2.0 grading system](/files/leaps-20.pdf)
 </strong>
