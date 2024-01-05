@@ -9,7 +9,7 @@ variant: markdown
 	
 [CCA time venue 2024](/files/CCA_time_venue_2024_updated.pdf)
 
-
+[Sec 1 CCA Selection 2024](/files/Sec_1_CCA_Selection_2024_PG_links.pdf)
 	
 [LEAPS 2.0 grading system](/files/leaps-20.pdf)
 
