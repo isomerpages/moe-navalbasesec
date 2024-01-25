@@ -1,0 +1,49 @@
+logo: /images/logohome.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Academic
+    collection: academic-curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Prospective Students
+    url: /nbss-e-open-house/
+    sublinks:
+      - title: NBSS e–OPEN HOUSE
+        url: /nbss-e-open-house/
+      - title: DSA @ NBSS
+        url: /nbss-curriculum/dsa-at-nbss/
+      - title: Social Media
+        url: /for-prospective-students/socialmedia/
+      - title: 2024 Sec 1 Registration
+        url: /for-prospective-students/2024-secondary-1-registration/
+  - title: Navalites
+    url: /for-navalities/nbss-pyramid-of-success-pos
+    sublinks:
+      - title: NBSS Pyramid of Success (PoS)
+        url: /for-navalities/nbss-pyramid-of-success-pos
+      - title: SHIPSHAPE
+        url: /for-navalities/shipshape-in-target-setting-n-monitoring
+      - title: Home-Based Learning
+        url: /for-navalities/home-based-learning
+      - title: Timetable, Booklist & Uniform
+        url: /for-navalities/timetable-booklist-n-uniform/
+      - title: Financial Assistance
+        url: /for-navalities/financial-assistance/moe-financial-assistance-scheme
+      - title: Student Well-being
+        url: /for-navalities/student-well-being/counselling
+      - title: Sec 3 Subject Combinations
+        url: /for-navalites/sec3subjcomb
+      - title: Poly EAE
+        url: /for-navalities/poly-eae
+      - title: ITE EAE
+        url: /for-navalites/iteeae
+  - title: Parents
+    url: /nbss/announcements/
+    sublinks:
+      - title: Announcements
+        url: /nbss/announcements/
+      - title: Termly letters
+        url: /parents-at-nbss/termly-letters
+      - title: Personal Learning Devices
+        url: /parents/permalink/
