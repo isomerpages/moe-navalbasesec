@@ -467,17 +467,8 @@ to join our parent support group!</p>
 </p>
 <p>Here are some resources for parents:</p>
 <p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick Links</strong>
+<p><strong>&nbsp;Quick Links</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -496,17 +487,8 @@ learn how to set up a PSG, sustain their involvement,</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resources for PSGs</strong>
+<p><strong>&nbsp;Resources for PSGs</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -526,17 +508,8 @@ access resources for PSGs to refer to throughout the year.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Experiences shared by PSGs on Schoolbag</strong>
+<p><strong>&nbsp;Experiences shared by PSGs on Schoolbag</strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
 </div>
