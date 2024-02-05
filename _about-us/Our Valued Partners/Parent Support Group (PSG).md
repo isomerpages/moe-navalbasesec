@@ -525,7 +525,6 @@ access resources for PSGs to refer to throughout the year.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>&nbsp;</p>
 <table>
 <tbody>
