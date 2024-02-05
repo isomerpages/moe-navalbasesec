@@ -97,6 +97,9 @@ access resources for PSGs to refer to throughout the year.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/partnering_teachers___doing_it_the_right_way.jpg">
+</div>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
