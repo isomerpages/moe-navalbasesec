@@ -483,6 +483,9 @@ to join our parent support group!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/psg-online-guide" rel="noopener noreferrer nofollow" target="_blank">here</a> to
@@ -509,6 +512,9 @@ learn how to set up a PSG, sustain their involvement,</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture3.jpg">
+</div>
 <p></p>
 <p>&nbsp;</p>
 </td>
@@ -536,15 +542,17 @@ access resources for PSGs to refer to throughout the year.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture5.jpg">
+</div>
 </td>
 </tr>
 </tbody>
