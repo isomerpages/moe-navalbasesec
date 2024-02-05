@@ -501,6 +501,7 @@ learn how to set up a PSG, sustain their involvement,</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Click <a href="https://go.gov.sg/psg-resources-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access resources for PSGs to refer to throughout the year.</p>
 </td>
