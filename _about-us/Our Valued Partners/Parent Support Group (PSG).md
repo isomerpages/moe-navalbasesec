@@ -537,27 +537,9 @@ access resources for PSGs to refer to throughout the year.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture.JPG">
 </div>
-<p>&nbsp;</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture5.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.schoolbag.edu.sg/story/let-us-chat!-admiralty-sec-s-parent-support-group-gets-everyone-talking" rel="noopener noreferrer nofollow" target="_blank">Let Us Chat! Admiralty Sec’s Parent Support Group gets everyone talking</a>
