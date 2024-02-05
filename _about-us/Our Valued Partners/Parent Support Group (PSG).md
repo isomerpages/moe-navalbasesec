@@ -47,9 +47,6 @@ to join our parent support group!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture4.JPG">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture3.JPG">
-</div>
 <p><strong>The MOE PSG Portal</strong>
 </p>
 <p>Here are some resources for parents:&nbsp;</p>
