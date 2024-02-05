@@ -39,7 +39,7 @@ thus helping them to reach their potential.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
 </p>
-<p>Please click [<a href="https://forms.gle/unzSKSmGALp63d11A" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
+<p>Please click [<a href="https://forms.gle/STQdiX6nmEFTjjn29" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
 to join our parent support group!</p>
 <p><strong><u>2024 PSG Calendar of Events</u></strong>
 </p>
