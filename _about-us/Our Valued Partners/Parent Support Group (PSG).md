@@ -28,15 +28,441 @@ and activities to develop our Navalites holistically. By working hand in
 hand with the school, our PSG is involved in the school lives of our Navalites,
 thus helping them to reach their potential.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture1.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
 <p>Here are the highlights of the PSG’s involvement and contributions in:</p>
 <p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
 </p>
-<p>2024</p>
+<p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
 <p>Please click [<a href="https://forms.gle/unzSKSmGALp63d11A" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
 to join our parent support group!</p>
+<p><strong><u>2024 PSG Calendar of Events</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time of the year</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>TERM 1</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Parents’ Meet and Greet (5/1)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tea &amp; Talk (3/2)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chingay NE Show (3/2)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE PSG Meet Up (EXCO) (3/2)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CNY Lou Hei with Touch Community (9/2)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Total Defence Day (15/2)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>TERM 2</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Celebrations (17/4)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Earth Day (TBC)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Road Run (30/4)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ND Army Camp Rehearsal (18/5)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ND Army Camp Rehearsal (25/5)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ND Army Camp Rehearsal (8/6)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Actual NDP Venue Rehearsal (15/6)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Actual NDP Venue Rehearsal (22/6)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>TERM 3</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE1 (29/6)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE2 (6/7)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE3 (13/7)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NBSS Art Exhibition Launch (15/7)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE PSG Meet Up (EXCO) (TBC)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NE4 (20/7)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preview 1 (27/7)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preview 2 (3/8)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NBSS National Day Celebrations (8/8)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent-child bonding Day Sports Fiesta* (24/8)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day Celebrations (29/8)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>TERM 4</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Celebrations (17/10)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sports Carnival (18/10)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE PSG event (EXCO) (TBC)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open House (23/11)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thank You Tea (23/11) (EXCO)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p><strong>The MOE PSG Portal</strong>
 </p>
 <p>The MOE PSG team continues to partner and support our parents. Below are
