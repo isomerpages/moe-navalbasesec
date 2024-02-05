@@ -465,8 +465,7 @@ to join our parent support group!</p>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
 </p>
-<p>Here are some resources for parents:</p>
-<p>&nbsp;</p>
+<p>Here are some resources for parents:&nbsp;</p>
 <p><strong>&nbsp;Quick Links</strong>
 </p>
 <table>
