@@ -465,15 +465,88 @@ to join our parent support group!</p>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
 </p>
-<p>The MOE PSG team continues to partner and support our parents. Below are
-some initiatives and resources to support our PSG community:</p>
-<p>• <a href="https://go.gov.sg/psg-mental-wellbeing-website" rel="noopener noreferrer nofollow" target="_blank">PSG Online Repository </a>–
-A one-stop site where you can find useful resources to engage your parents,
-including the sharing by Dr Ong Lue Ping on ‘Supporting Your Child’s Mental
-Well-being’.</p>
-<p>• <a href="https://go.gov.sg/psg-mental-wellbeing-guide" rel="noopener noreferrer nofollow" target="_blank">Mental Well-Being Resource Guide</a> –
-A resource with guidelines and tips on how PSGs can be Resource and Peer
-Supporters to their parent community.</p>
-<p>•<a href="https://go.gov.sg/psghandyguide" rel="noopener noreferrer nofollow" target="_blank">PSG Handy Guide</a> PSG
-Handy Guide – Compilation of experiences and learning points from 25 frontrunner
-schools on reaching out to parents on supporting student mental well-being.</p>
+<p>Here are some resources for parents:</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick Links</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/psg-online-guide" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+learn how to set up a PSG, sustain their involvement,</p>
+<p>and plan for succession.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resources for PSGs</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://go.gov.sg/psg-resources-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+access resources for PSGs to refer to throughout the year.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Experiences shared by PSGs on Schoolbag</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
