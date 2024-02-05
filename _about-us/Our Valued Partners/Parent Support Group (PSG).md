@@ -63,8 +63,7 @@ to join our parent support group!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/psg-online-guide" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-learn how to set up a PSG, sustain their involvement,</p>
-<p>and plan for succession.</p>
+learn how to set up a PSG, sustain their involvement, and plan for succession.</p>
 </td>
 </tr>
 </tbody>
