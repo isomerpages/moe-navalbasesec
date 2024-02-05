@@ -506,13 +506,11 @@ access resources for PSGs to refer to throughout the year.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>&nbsp;Experiences shared by PSGs on Schoolbag</strong>
+<p>&nbsp;<strong>&nbsp;Experiences shared by PSGs on Schoolbag</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
