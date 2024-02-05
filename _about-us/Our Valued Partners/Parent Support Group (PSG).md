@@ -44,11 +44,11 @@ to join our parent support group!</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2024 PSG/PSG_Calendar_Semester_1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture1.JPG">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Semester_2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture3.JPG">
 </div>
 <p><strong>The MOE PSG Portal</strong>
 </p>
