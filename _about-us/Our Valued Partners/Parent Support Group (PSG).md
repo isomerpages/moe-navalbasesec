@@ -72,8 +72,7 @@ learn how to set up a PSG, sustain their involvement,</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>&nbsp;Resources for PSGs</strong>
+<p>&nbsp;<strong>&nbsp;Resources for PSGs</strong>
 </p>
 <table>
 <tbody>
@@ -98,7 +97,7 @@ access resources for PSGs to refer to throughout the year.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/partnering_teachers___doing_it_the_right_way.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 PSG/partnering_teachers___doing_it_the_right_way.jpg">
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
