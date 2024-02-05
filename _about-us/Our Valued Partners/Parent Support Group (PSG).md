@@ -33,7 +33,6 @@ thus helping them to reach their potential.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
 <p>Here are the highlights of the PSG’s involvement and contributions in:</p>
 <p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
 </p>
@@ -511,7 +510,7 @@ access resources for PSGs to refer to throughout the year.</p>
 <p><strong>&nbsp;Experiences shared by PSGs on Schoolbag</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
 </div>
 <p></p>
 <p></p>
