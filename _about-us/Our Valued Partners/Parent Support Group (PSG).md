@@ -47,9 +47,6 @@ to join our parent support group!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture4.JPG">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture3.JPG">
-</div>
 <p><strong>The MOE PSG Portal</strong>
 </p>
 <p>Here are some resources for parents:&nbsp;</p>
@@ -66,8 +63,7 @@ to join our parent support group!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://go.gov.sg/psg-online-guide" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-learn how to set up a PSG, sustain their involvement,</p>
-<p>and plan for succession.</p>
+learn how to set up a PSG, sustain their involvement, and plan for succession.</p>
 </td>
 </tr>
 </tbody>
