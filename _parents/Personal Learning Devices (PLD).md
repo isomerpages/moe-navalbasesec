@@ -107,12 +107,12 @@ to the Asiapac service center .</p>
 <h5>For technical support of DMA or reset of School Apple ID Password-<a href="https://form.gov.sg/6122ed79c06e770012189905" rel="noopener noreferrer nofollow" target="_blank">Click here</a></h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide1.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide1.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide2.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide2.JPG">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide3.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024ICT/Slide3.JPG">
 </div>
 <p></p>
