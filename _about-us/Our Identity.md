@@ -4,7 +4,7 @@ permalink: /about-us/our-identity/
 description: ""
 variant: tiptap
 ---
-<h3>Our Vision: Leaders of Character, Leaders for Tomorrow</h3>
+<h3>Our Vision: Leaders of Character, Learners for Tomorrow</h3>
 <p>Leaders of Character are individuals who guide and inspire others as persons
 of character. As persons of character, Navalites internalise and demonstrate
 our RECIPE (Respect, Resilience, Care, Integrity, Passion, Excellence)
@@ -40,7 +40,7 @@ citizens.</p>
 <p>Our school motto, Enitamur in Altiora, inspires us to be our best, aim
 for high standards and inspire others. The school motto is an integral
 part of the school’s DNA.</p>
-<h3>Our Core Values: RECIPE </h3>
+<h3>Our Core Values: RECIPE</h3>
 <h5><strong>Re</strong>spect, <strong>Re</strong>silience, <strong>C</strong>are, <strong>I</strong>ntegrity, <strong>P</strong>assion, <strong>E</strong>xcellence</h5>
 <p>While there are many good values that we want to inculcate in each Navalite,
 we need to have a set of core beliefs that we hold dear to. These beliefs
