@@ -29,6 +29,8 @@ additional information on the NDLP</p>
 </p>
 <p><a href="/files/Frequently%20Asked%20Questions%20PDLP%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP.pdf</a>
 </p>
+<p><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
+</p>
 <p><strong>DMA Resources for Parents</strong>
 </p>
 <p>Device Management Application (DMA) resources and videos for parents-
