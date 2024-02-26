@@ -3,6 +3,7 @@ title: School Advisory Committee
 permalink: /partners-of-nbss/sac/
 description: ""
 third_nav_title: Our Valued Partners
+variant: markdown
 ---
 <p>Term of Office: 1 Oct 2022 to 30 Sep 2024</p>
 <table>
@@ -37,7 +38,7 @@ third_nav_title: Our Valued Partners
 </tr>
 <tr>
 <td>Asst Honorary Secretary 2</td>
-<td>Mr Lionel Lye</td>
+<td>Mr Muhammad Shahari B Abu Bakar</td>
 </tr>
 <tr>
 <td>Secretariat</td>
