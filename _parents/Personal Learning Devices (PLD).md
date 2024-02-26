@@ -86,10 +86,6 @@ additional information on the NDLP</p>
 <p>*<strong>Accidental loss will not be covered by insurance.</strong>
 </p>
 <p><strong>Claimable</strong>- 2 repairs or 1 replacement (3 year insurance)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024ICT/Slide_4.jpg">
-</div>
 <h5><strong>What if my child's iPad is lost?</strong></h5>
 <p>For lost due to the above reasons (Insurance coverage), a police report
 will have to be made. Submit the police report to the IT room, the school
@@ -108,6 +104,10 @@ to personally send it to an Apple store or the Asiapac service center.</p>
 to the Asiapac service center .</p>
 <p>*<strong>Physical damage for apple pencil and keyboard will not be covered by warranty</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024ICT/Slide_4.jpg">
+</div>
 <h5>For technical support of DMA or reset of School Apple ID Password-<a href="https://form.gov.sg/6122ed79c06e770012189905" rel="noopener noreferrer nofollow" target="_blank">Click here</a></h5>
 <p></p>
 <p><strong>For hardware technical support-</strong>
