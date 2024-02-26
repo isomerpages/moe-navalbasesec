@@ -86,6 +86,10 @@ additional information on the NDLP</p>
 <p>*<strong>Accidental loss will not be covered by insurance.</strong>
 </p>
 <p><strong>Claimable</strong>- 2 repairs or 1 replacement (3 year insurance)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024ICT/Slide_4.jpg">
+</div>
 <h5><strong>What if my child's iPad is lost?</strong></h5>
 <p>For lost due to the above reasons (Insurance coverage), a police report
 will have to be made. Submit the police report to the IT room, the school
