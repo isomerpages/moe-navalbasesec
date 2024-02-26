@@ -41,8 +41,8 @@ variant: markdown
 <td>Mr Muhammad Shahari B Abu Bakar</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Secretariat</td>
+<td>Mdm Ang Shiou Ching</td>
 </tr>
 </tbody>
 </table>
