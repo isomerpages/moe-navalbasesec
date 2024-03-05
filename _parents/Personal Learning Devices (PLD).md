@@ -27,7 +27,7 @@ additional information on the NDLP</p>
 </p>
 <p><a href="/files/Parent_Handbook_II_on_Learning_with_a_PLD_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a PLD 2024</a>
 </p>
-<p><a href="/files/Frequently%20Asked%20Questions%20PDLP%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP.pdf</a>
+<p><a href="/files/ICT 2024/Frequently_Asked_Questions_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP</a>
 </p>
 <p><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
 </p>
