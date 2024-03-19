@@ -10,7 +10,8 @@ variant: markdown
 
 [Term 2 letter (S1 to S3)](/files/2024tt%20t2/Term_2_Letter_to_Parents__S1_3_.pdf)
 
-[Term_2_Letter_to_Parents__S4/S5](/files/2024tt%20t2/Term_2_Letter_to_Parents__S4_5_.pdf)
+[Term 2 letter (S4/S5)](/files/2024tt%20t2/Term_2_Letter_to_Parents__S4_5_.pdf)
+
 
 **Term 1**
 
