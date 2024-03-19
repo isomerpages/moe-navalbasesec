@@ -6,6 +6,7 @@ variant: markdown
 ---
 **2024**
 
+**Term 1**
 
 [Term 1 - Sec 1](/files/NBSS_Termly_Letter_2024_Term_1___Sec_1.pdf)
 
@@ -14,3 +15,9 @@ variant: markdown
 [Term 1 - Sec 3](/files/NBSS_Termly_Letter_2024_Term_1___Sec_3.pdf)
 
 [Term 1 - Sec 4&5](/files/NBSS_Termly_Letter_2024_Term_1___Sec_4___5.pdf)
+
+**Term 2**
+
+[Term_2_Letter_to_Parents__S1 to S3](/files/2024tt%20t2/Term_2_Letter_to_Parents__S1_3_.pdf)
+
+[Term_2_Letter_to_Parents__S4/S5](/files/2024tt%20t2/Term_2_Letter_to_Parents__S4_5_.pdf)
