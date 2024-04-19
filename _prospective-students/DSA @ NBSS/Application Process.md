@@ -7,13 +7,13 @@ variant: markdown
 ---
 #### Centralised DSA-Sec Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open ( Date TBC). 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open (Date TBC). 
 
 For our school, the specific timeline for 2024 is as follows:
 
 | Action | Period/Date | 
 | -------- | -------- | 
-| Notification to applicants selected for interviews | (TCB)    | 
+| Notification to applicants selected for interviews | (TBC)    | 
 | Interview and Selection / Trial period | (TBC)    | 
 | Notification of DSA outcome | (TBC)     | 
 
