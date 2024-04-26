@@ -27,12 +27,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024tt t2/Sec_1_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec1_Term 2</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024tt t2/2024_Sec_2_TT_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Term 2</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024tt t2/2024_Sec_3_TT_Term_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Term 2</a>
