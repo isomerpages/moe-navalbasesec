@@ -78,7 +78,7 @@ affirmed through :</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
+<p>Student Leadership (Uniformed Group)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Be <strong>emplaced in a Uniformed Group CCA </strong>and participate in
