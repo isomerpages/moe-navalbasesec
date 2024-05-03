@@ -91,7 +91,8 @@ the following talent development programmes:</p>
 <p>Cadet leadership and/or specialist courses</p>
 </li>
 <li>
-<p>Opportunities to plan and lead combined Uniformed Group programmes</p>
+<p>Opportunities to plan and lead combined Uniformed Group programmes such
+as combined UG camp and citizenship programme</p>
 </li>
 <li>
 <p>Participate in local and/or overseas camps</p>
