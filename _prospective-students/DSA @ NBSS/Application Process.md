@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Centralised DSA-Sec Application Process
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open (Date TBC). 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May to 3 June 2024. 
 
 For our school, the specific timeline for 2024 is as follows:
 
