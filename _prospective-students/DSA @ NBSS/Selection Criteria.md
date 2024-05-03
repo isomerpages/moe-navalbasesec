@@ -219,7 +219,7 @@ as well as:</p>
 <p>General proficiency in table-tennis</p>
 </li>
 <li>
-<p>Fitness and physique</p>
+<p>Fitness and agility</p>
 </li>
 </ul>
 </td>
