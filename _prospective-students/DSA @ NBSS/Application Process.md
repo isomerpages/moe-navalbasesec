@@ -47,7 +47,7 @@ supporting documents (including portfolio of artworks) to the interview.</p>
 <p><strong><u>Outcome</u></strong>
 </p>
 <p>A letter or email notifying the outcome of the application will be sent
-to the applicant by<strong> Wednesday, 30 August 2024</strong>. The letter
+to the applicant by<strong> Friday, 30 August 2024</strong>. The letter
 or email will indicate whether the applicant has been given a Confirmed
 Offer, put on the Waiting List or not accepted.</p>
 <p></p>
