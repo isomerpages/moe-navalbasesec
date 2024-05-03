@@ -25,11 +25,9 @@ variant: markdown
 <li>Receive personalised educational and career guidance in art</li>
 <li>Based on their performance and other criteria, participate in at least one overseas art learning trip</li>
 </ul>
-<p>Further, students will benefit from an art programme that has, through continual review and refinement, grown into one that not only provides students with rich learning in art but also develops their character and 21<sup>st</sup>-century competencies. In the last few years, the school’s efforts to provide students with a comprehensive art education have been affirmed through the:</p>
+<p>Further, students will benefit from an art programme that has, through continual review and refinement, grown into one that not only provides students with rich learning in art but also develops their character and 21<sup>st</sup>-century competencies. In the last few years, the school’s efforts to provide students with a comprehensive art education have been affirmed through :</p>
 <ul>
-<li>Character Development Award (2010 – 2015)</li>
-<li>National Arts Education Spark Award (2011-2012)</li>
-<li>Niche Programme in Character Building through the Visual Arts (2012-2014)</li>
+
 <li>Applied Learning Programme in Art (2015-present)</li>
 <li>Enhanced Art Programme (2016-present)</li>
 </ul>
