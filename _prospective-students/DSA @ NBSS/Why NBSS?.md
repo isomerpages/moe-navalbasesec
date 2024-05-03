@@ -183,8 +183,8 @@ International Dance (Hip-hop):</p>
 <p>Training to become student choreographer</p>
 </li>
 </ul>
-<p>Outstanding dancers will be positioned for emplacement in MOE-NAC Dance
-Talent Development Programme.</p>
+<p>Outstanding dancers will be positioned for emplacement in MOE SP CCA-
+Strategic Partnership Co-Curricular Activity (Ethnic Dance).</p>
 </td>
 </tr>
 <tr>
