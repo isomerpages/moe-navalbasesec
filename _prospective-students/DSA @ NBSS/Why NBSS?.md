@@ -3,12 +3,11 @@ title: Why NBSS?
 permalink: /nbss-curriculum/dsa-at-nbss/why-nbss/
 description: ""
 third_nav_title: DSA @ NBSS
+variant: markdown
 ---
-
-
-<p>All Secondary One Navalites admitted to our school via DSA will benefit from customised talent development programmes to groom them to become leaders in their respective talent areas. They will develop both performance and moral character through the active use of SHIPSHAPE, our leadership development model adapted from John Wooden&rsquo;s Pyramid of Success, and inculcation of the&nbsp;<a href="/about-us/our-identity" target="_blank" rel="noopener">school&rsquo;score values</a>&nbsp;as they grow within their respective CCAs and student development programmes.</p>
+<p>All Secondary One Navalites admitted to our school via DSA will benefit from customised talent development programmes to groom them to become leaders in their respective talent areas. </p>
 <img src="/images/y1.png">
-<p><strong>Click here to view our &ldquo;<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be">DSA@NBSS</a></strong><strong>&rdquo; video!</strong></p>
+<p><strong>Click here to view our “<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be">DSA@NBSS</a></strong><strong>” video!</strong></p>
 <p>The detailed benefits for the respective talent areas are given below:</p>
 <table>
 <tbody>
@@ -26,9 +25,9 @@ third_nav_title: DSA @ NBSS
 <li>Receive personalised educational and career guidance in art</li>
 <li>Based on their performance and other criteria, participate in at least one overseas art learning trip</li>
 </ul>
-<p>Further, students will benefit from an art programme that has, through continual review and refinement, grown into one that not only provides students with rich learning in art but also develops their character and 21<sup>st</sup>-century competencies. In the last few years, the school&rsquo;s efforts to provide students with a comprehensive art education have been affirmed through the:</p>
+<p>Further, students will benefit from an art programme that has, through continual review and refinement, grown into one that not only provides students with rich learning in art but also develops their character and 21<sup>st</sup>-century competencies. In the last few years, the school’s efforts to provide students with a comprehensive art education have been affirmed through the:</p>
 <ul>
-<li>Character Development Award (2010 &ndash; 2015)</li>
+<li>Character Development Award (2010 – 2015)</li>
 <li>National Arts Education Spark Award (2011-2012)</li>
 <li>Niche Programme in Character Building through the Visual Arts (2012-2014)</li>
 <li>Applied Learning Programme in Art (2015-present)</li>
@@ -52,7 +51,7 @@ third_nav_title: DSA @ NBSS
 <ul>
 <li>Class Chairperson or Vice-Chairperson appointment in Secondary 1</li>
 </ul>
-<p>&middot; Advanced appointment to Student Council in Secondary 1 and be involved in leadership programmes within and outside of school</p>
+<p>· Advanced appointment to Student Council in Secondary 1 and be involved in leadership programmes within and outside of school</p>
 <ul>
 <li>&nbsp;Opportunities to lead and organise school-level programmes/events/ projects with the Student Council&nbsp;</li>
 </ul>
@@ -60,7 +59,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Choir</p>
+<p>Performing Arts – Choir</p>
 </td>
 <td width="514">
 <p>Be emplaced in our Choir CCA and participate in the following talent development programmes:</p>
@@ -79,7 +78,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Dance (Indian &amp; Modern Dance)</p>
+<p>Performing Arts – Dance (Indian &amp; Modern Dance)</p>
 </td>
 <td width="514">
 <p>Be emplaced in our Dance CCA and participate in the following talent development programmes within two broad categories of dance, namely Indian Dance and International Dance (Hip-hop):</p>
@@ -97,7 +96,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Performing Arts &ndash; Concert Band</p>
+<p>Performing Arts – Concert Band</p>
 </td>
 <td width="514">
 <p>Be emplaced in our Symphonic Band CCA and participate in the following talent development programmes:</p>
@@ -117,7 +116,7 @@ third_nav_title: DSA @ NBSS
 </tr>
 <tr>
 <td width="87">
-<p>Sports &ndash; Table Tennis</p>
+<p>Sports – Table Tennis</p>
 </td>
 <td width="514">
 <p>Participate in the following talent development programmes:</p>
