@@ -3,133 +3,259 @@ title: Why NBSS?
 permalink: /nbss-curriculum/dsa-at-nbss/why-nbss/
 description: ""
 third_nav_title: DSA @ NBSS
+variant: tiptap
 ---
-
-
-<p>All Secondary One Navalites admitted to our school via DSA will benefit from customised talent development programmes to groom them to become leaders in their respective talent areas. They will develop both performance and moral character through the active use of SHIPSHAPE, our leadership development model adapted from John Wooden&rsquo;s Pyramid of Success, and inculcation of the&nbsp;<a href="/about-us/our-identity" target="_blank" rel="noopener">school&rsquo;score values</a>&nbsp;as they grow within their respective CCAs and student development programmes.</p>
-<img src="/images/y1.png">
-<p><strong>Click here to view our &ldquo;<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be">DSA@NBSS</a></strong><strong>&rdquo; video!</strong></p>
+<p>All Secondary One Navalites admitted to our school via DSA will benefit
+from customised talent development programmes to groom them to become leaders
+in their respective talent areas. These programmes focus on fostering both
+performance and moral character, aligning with our school's RECIPE values
+of Respect, Resilience, Care, Integrity, Passion and Excellence. Students
+will develop their leadership skills through the application of the five
+practices of exemplary leadership modelling the way, inspiring a shared
+vision, challenging the process, enabling others to act, and encouraging
+the heart while actively participating in their CCAs and student development
+initiatives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/y1.png">
+</div>
+<p><strong>Click here to view our “<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">DSA@NBSS</a>” video!</strong>
+</p>
 <p>The detailed benefits for the respective talent areas are given below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="87">
+<td rowspan="1" colspan="1">
 <p>Visual Arts</p>
 </td>
-<td width="514">
-<ul>
-<li>Be emplaced on the Art Talent Development Programme (ATDP) wing of our Art Club, and go through an enhanced art curriculum that stretches their talents and grooms them for excellence in art</li>
-<li>Have abundant opportunities to create and exhibit their artworks in the school and beyond</li>
-<li>Participate in local and/or overseas art competitions and projects on an individual and/or group basis</li>
-<li>Participate in clinics / workshops / attachments with practising artists</li>
-<li>Visit and participate in attachments to local art museums and/or galleries</li>
-<li>Receive personalised educational and career guidance in art</li>
-<li>Based on their performance and other criteria, participate in at least one overseas art learning trip</li>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Be emplaced on the Art Talent Development Programme (ATDP) wing of our
+Art Club, and go through an enhanced art curriculum that stretches their
+talents and grooms them for excellence in art</p>
+</li>
+<li>
+<p>Have abundant opportunities to create and exhibit their artworks in the
+school and beyond</p>
+</li>
+<li>
+<p>Participate in local and/or overseas art competitions and projects on
+an individual and/or group basis</p>
+</li>
+<li>
+<p>Participate in clinics / workshops / attachments with practising artists</p>
+</li>
+<li>
+<p>Visit and participate in attachments to local art museums and/or galleries</p>
+</li>
+<li>
+<p>Receive personalised educational and career guidance in art</p>
+</li>
+<li>
+<p>Based on their performance and other criteria, participate in at least
+one overseas art learning trip</p>
+</li>
 </ul>
-<p>Further, students will benefit from an art programme that has, through continual review and refinement, grown into one that not only provides students with rich learning in art but also develops their character and 21<sup>st</sup>-century competencies. In the last few years, the school&rsquo;s efforts to provide students with a comprehensive art education have been affirmed through the:</p>
-<ul>
-<li>Character Development Award (2010 &ndash; 2015)</li>
-<li>National Arts Education Spark Award (2011-2012)</li>
-<li>Niche Programme in Character Building through the Visual Arts (2012-2014)</li>
-<li>Applied Learning Programme in Art (2015-present)</li>
-<li>Enhanced Art Programme (2016-present)</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Student Leadership</p>
-</td>
-<td width="514">
-<p>Be emplaced in a Uniformed Group CCA and participate in the following talent development programmes:</p>
-<ul>
-<li>CCA leadership</li>
-<li>Cadet leadership and/or specialist courses</li>
-<li>Opportunities to plan and lead combined Uniformed Group programmes</li>
-<li>Participate in local and/or overseas camps</li>
-</ul>
-<p>Be prioritised for school-level student leadership appointments and participate in the following:</p>
-<ul>
-<li>Class Chairperson or Vice-Chairperson appointment in Secondary 1</li>
-</ul>
-<p>&middot; Advanced appointment to Student Council in Secondary 1 and be involved in leadership programmes within and outside of school</p>
-<ul>
-<li>&nbsp;Opportunities to lead and organise school-level programmes/events/ projects with the Student Council&nbsp;</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Performing Arts &ndash; Choir</p>
-</td>
-<td width="514">
-<p>Be emplaced in our Choir CCA and participate in the following talent development programmes:</p>
-<ul>
-<li>CCA leadership, including mentoring and upskilling of self and others</li>
-<li>Performance portfolio development, anchored on greater musical independence</li>
-<li>Solo-oriented or highlight roles to stretch talent</li>
-<li>Singapore Youth Festival Arts Presentations</li>
-<li>Performances within and outside of school</li>
-<li>Choral exchanges with other secondary schools</li>
-<li>Master classes and vocal workshops</li>
-<li>Training to become student conductor</li>
-</ul>
-<p>Upon graduation, outstanding vocalists will be given opportunities to be a part of the Singapore Symphony Youth Choir.</p>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Performing Arts &ndash; Dance (Indian &amp; Modern Dance)</p>
-</td>
-<td width="514">
-<p>Be emplaced in our Dance CCA and participate in the following talent development programmes within two broad categories of dance, namely Indian Dance and International Dance (Hip-hop):</p>
-<ul>
-<li>CCA leadership, including mentoring and upskilling of self and others</li>
-<li>Performance portfolio development, anchored on greater performative independence</li>
-<li>Solo-oriented or highlight roles to stretch talent</li>
-<li>Singapore Youth Festival Arts Presentations</li>
-<li>Performances within and outside of school</li>
-<li>Master classes and workshops</li>
-<li>Training to become student choreographer</li>
-</ul>
-<p>Outstanding dancers will be positioned for emplacement in MOE-NAC Dance Talent Development Programme.</p>
-</td>
-</tr>
-<tr>
-<td width="87">
-<p>Performing Arts &ndash; Concert Band</p>
-</td>
-<td width="514">
-<p>Be emplaced in our Symphonic Band CCA and participate in the following talent development programmes:</p>
-<ul>
-<li>CCA leadership, including mentoring and upskilling of self and others</li>
-<li>Performance portfolio development, anchored on greater performative independence</li>
-<li>Solo-oriented or highlight roles to stretch talent</li>
-<li>Singapore Youth Festival Arts Presentations</li>
-<li>Performances within and outside of school</li>
-<li>Band exchanges with other secondary schools</li>
-<li>Marching programmes for the school and community parade events</li>
-<li>Mentoring programmes for primary school students</li>
-<li>Master classes by renowned composer, Mr Keiichi Kurokawa</li>
-<li>Training to become concert master or student conductor</li>
+<p>Further, students will benefit from an art programme that has, through
+continual review and refinement, grown into one that not only provides
+students with rich learning in art but also develops their character and
+21<sup>st</sup>-century competencies. In the last few years, the school’s
+efforts to provide students with a comprehensive art education have been
+affirmed through :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applied Learning Programme in Art (2015-present)</p>
+</li>
+<li>
+<p>Enhanced Art Programme (2016-present)</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td width="87">
-<p>Sports &ndash; Table Tennis</p>
+<td rowspan="1" colspan="1">
+<p>Student Leadership (Uniformed Group)</p>
 </td>
-<td width="514">
+<td rowspan="1" colspan="1">
+<p>Be <strong>emplaced in a Uniformed Group CCA </strong>and participate in
+the following talent development programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA leadership</p>
+</li>
+<li>
+<p>Cadet leadership and/or specialist courses</p>
+</li>
+<li>
+<p>Opportunities to plan and lead combined Uniformed Group programmes such
+as combined UG camp and citizenship programme</p>
+</li>
+<li>
+<p>Participate in local and/or overseas camps</p>
+</li>
+</ul>
+<p>Be prioritised for school-level student leadership appointments and participate
+in the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Class Chairperson or Vice-Chairperson appointment in Secondary 1</p>
+</li>
+</ul>
+<p>· Advanced appointment to Student Council in Secondary 1 and be involved
+in leadership programmes within and outside of school</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Opportunities to lead and organise school-level programmes/events/
+projects with the Student Council&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be emplaced in our Choir CCA and participate in the following talent development
+programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA leadership, including mentoring and upskilling of self and others</p>
+</li>
+<li>
+<p>Performance portfolio development, anchored on greater musical independence</p>
+</li>
+<li>
+<p>Solo-oriented or highlight roles to stretch talent</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentations</p>
+</li>
+<li>
+<p>Performances within and outside of school</p>
+</li>
+<li>
+<p>Choral exchanges with other secondary schools</p>
+</li>
+<li>
+<p>Master classes and vocal workshops</p>
+</li>
+<li>
+<p>Training to become student conductor</p>
+</li>
+</ul>
+<p>Upon graduation, outstanding vocalists will be given opportunities to
+be a part of the Singapore Symphony Youth Choir.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Dance (Indian &amp; Modern Dance)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be emplaced in our Dance CCA and participate in the following talent development
+programmes within two broad categories of dance, namely Indian Dance and
+International Dance (Hip-hop):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA leadership, including mentoring and upskilling of self and others</p>
+</li>
+<li>
+<p>Performance portfolio development, anchored on greater performative independence</p>
+</li>
+<li>
+<p>Solo-oriented or highlight roles to stretch talent</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentations</p>
+</li>
+<li>
+<p>Performances within and outside of school</p>
+</li>
+<li>
+<p>Master classes and workshops</p>
+</li>
+<li>
+<p>Training to become student choreographer</p>
+</li>
+</ul>
+<p>Outstanding dancers will be positioned for emplacement in MOE SP CCA-
+Strategic Partnership Co-Curricular Activity (Ethnic Dance).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be emplaced in our Symphonic Band CCA and participate in the following
+talent development programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA leadership, including mentoring and upskilling of self and others</p>
+</li>
+<li>
+<p>Performance portfolio development, anchored on greater performative independence</p>
+</li>
+<li>
+<p>Solo-oriented or highlight roles to stretch talent</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentations</p>
+</li>
+<li>
+<p>Performances within and outside of school</p>
+</li>
+<li>
+<p>Band exchanges with other secondary schools</p>
+</li>
+<li>
+<p>Marching programmes for the school and community parade events</p>
+</li>
+<li>
+<p>Mentoring programmes for primary school students</p>
+</li>
+<li>
+<p>Master classes by renowned composer, Mr Keiichi Kurokawa</p>
+</li>
+<li>
+<p>Training to become concert master or student conductor</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports – Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<ul>
-<li>CCA leadership, including mentoring and upskilling of self and others</li>
-<li>Individualised coaching</li>
-<li>National School Games</li>
-<li>External school competitions sponsored by the school</li>
-<li>Programmes organised by Singapore Table Tennis Association</li>
-<li>Planning and organisation of intra-school programmes</li>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA leadership, including mentoring and upskilling of self and others</p>
+</li>
+<li>
+<p>Individualised coaching</p>
+</li>
+<li>
+<p>National School Games</p>
+</li>
+<li>
+<p>External school competitions sponsored by the school</p>
+</li>
+<li>
+<p>Programmes organised by Singapore Table Tennis Association</p>
+</li>
+<li>
+<p>Planning and organisation of intra-school programmes</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
