@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Timetable, Booklist & Uniform
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -46,3 +52,15 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><strong><u>Navalites Learning Explorations Week from (14-20 May) </u></strong>
+<br><strong>Sec 1 to 3 Timetable</strong> 
+<br><a href="/files/2024 May TT/NLE_MY_S1_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec1</a> 
+<br><a href="/files/2024 May TT/NLE_MY_S2_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec2</a> 
+<br><a href="/files/2024 May TT/NLE_MY_S3_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec3</a>
+</p>
+<p><strong>Special Timetable Sec4/5 </strong>
+<br><a href="/files/2024 May TT/NLE_MY_S4_5_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5</a>
+</p>
+<p>
+<br>
+</p>
