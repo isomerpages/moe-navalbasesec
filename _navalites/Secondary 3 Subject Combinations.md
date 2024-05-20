@@ -24,7 +24,7 @@ each option.</p>
 <p><strong>(subject to actual demand, resourcing and timetable planning)</strong>
 </p>
 <p></p>
-<p><strong><u>Secondary 3 Express</u></strong>
+<p><strong><u>Secondary 3 Express</u></strong> 
 <br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet</strong>  <strong>(Express)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__EX_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -38,7 +38,7 @@ each option.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong><u>Secondary 3 Normal Academic</u></strong>
+<p><strong><u>Secondary 3 Normal Academic</u></strong> 
 <br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Su%20combi/Sec3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet (Normal Academic)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -50,7 +50,7 @@ each option.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong><u>Secondary 3 Normal Technical</u></strong>
+<p><strong><u>Secondary 3 Normal Technical</u></strong> 
 <br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Su%20combi/Sec3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
