@@ -36,6 +36,7 @@ each option.</p>
 </div>
 <p></p>
 <p></p>
+<p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong>
 </p>
 <p><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Su%20combi/Sec3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
@@ -46,6 +47,7 @@ each option.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
 </div>
+<p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Technical</u></strong>
 </p>
