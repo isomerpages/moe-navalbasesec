@@ -28,7 +28,7 @@ each option.</p>
 <p><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet</strong>  <strong>(Express)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__EX_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
-<br><strong>Secondary 3 Express Parents Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,8 +52,7 @@ each option.</p>
 <p><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Su%20combi/Sec3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
-<br><strong>Secondary 3 Normal Technical Parents Briefing Slides</strong> 
-<a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.png">
