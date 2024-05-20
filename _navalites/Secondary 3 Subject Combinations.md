@@ -23,9 +23,9 @@ each option.</p>
 <h4>2024 Secondary 3 Subject Combinations (for 2023 Secondary 2 students)</h4>
 <p><strong>(subject to actual demand, resourcing and timetable planning)</strong>
 </p>
+<p></p>
 <p><strong><u>Secondary 3 Express</u></strong>
-</p>
-<p><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet</strong>  <strong>(Express)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__EX_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -37,9 +37,9 @@ each option.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong>
-</p>
-<p><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Su%20combi/Sec3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Su%20combi/Sec3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet (Normal Academic)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NA).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -49,9 +49,9 @@ each option.</p>
 </div>
 <p></p>
 <p></p>
+<p></p>
 <p><strong><u>Secondary 3 Normal Technical</u></strong>
-</p>
-<p><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Su%20combi/Sec3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Su%20combi/Sec3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
