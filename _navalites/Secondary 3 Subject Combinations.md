@@ -16,9 +16,8 @@ as their aspirations, interests and aptitudes.</p>
 <p>The subject combinations offered to students will be based on their overall
 academic performance, availability of school resources and vacancies in
 each option.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Subject_Combi_Update_Mar_24.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_21_at_08_28_39.jpg">
 </div>
 <h4><u>2024 Secondary 3 Subject Combinations (for 2023 Secondary 2 students)</u></h4>
 <p><strong>(Subject to actual demand, resourcing and timetable planning)</strong>
