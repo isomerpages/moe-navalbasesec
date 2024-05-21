@@ -16,7 +16,6 @@ as their aspirations, interests and aptitudes.</p>
 <p>The subject combinations offered to students will be based on their overall
 academic performance, availability of school resources and vacancies in
 each option.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_21_at_08_28_39.jpg">
 </div>
