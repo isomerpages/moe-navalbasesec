@@ -19,8 +19,9 @@ each option.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_21_at_08_28_39.jpg">
 </div>
-<h4><strong><u>2025 Secondary 3 Subject Combinations</u></strong></h4>
-<p><strong>(Subject to actual demand, resourcing and timetable planning)</strong>
+<p><strong><u>2025 Secondary 3 Subject Combinations</u></strong>
+<br>(Subject to actual demand, resourcing and timetable planning)
+<br>
 </p>
 <p></p>
 <p><strong><u>Secondary 3 Express</u></strong> 
