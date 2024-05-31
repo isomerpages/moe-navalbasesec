@@ -7,4 +7,7 @@ variant: tiptap
 ---
 <p><strong><u>S4/5 Preliminary Exam Timetable</u></strong>
 </p>
+<p><a href="/files/Exam tt/4A4T_Prelim_2024_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">4A4T_Prelim_2024</a>
+<br><a href="/files/Exam tt/4E5A_Prelim_2024_v4.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5A_Prelim_2024</a>
+</p>
 <p></p>
