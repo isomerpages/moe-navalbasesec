@@ -19,7 +19,7 @@ each option.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_21_at_08_28_39.jpg">
 </div>
-<h4><u>2024 Secondary 3 Subject Combinations (for 2023 Secondary 2 students)</u></h4>
+<h4><strong><u>2025 Secondary 3 Subject Combinations</u></strong></h4>
 <p><strong>(Subject to actual demand, resourcing and timetable planning)</strong>
 </p>
 <p></p>
