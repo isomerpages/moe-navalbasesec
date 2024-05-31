@@ -62,10 +62,7 @@ variant: tiptap
 <br><a href="/files/2024 May TT/NLE_MY_S4_5_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec4/5</a>
 </p>
 <p></p>
-<p><strong>S4/5 Preliminary Exam Timetable </strong>
-<br><a href="/files/2024 May TT/4A4T_Prelim_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">4A/4T_Prelim_2024</a>
-<br><a href="/files/2024 May TT/4E5A_Prelim_2024_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">4E/5A_Prelim_2024</a>
-</p>
+<p></p>
 <p></p>
 <p>
 <br>
