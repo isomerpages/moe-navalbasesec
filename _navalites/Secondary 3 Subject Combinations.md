@@ -12,8 +12,9 @@ the secondary school's Education &amp; Career Guidance (ECG) journey.</p>
 for their Secondary 3 Subject Combination, we honour our Navalites’ choice
 of subjects, based on their academic inclinations and strengths, as well
 as their aspirations, interests and aptitudes.</p>
-<p><u>To support your child/ward, you may want to download this 2 simple page guide so that you can better need his/her needs.</u>
-<br><a href="/files/Parent_Kit___Supporting_Our_Teens_in_Choosing_Post_Secondary_Pathways_S3.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Supporting Our_Teens_in_Choosing_Post_Secondary_Pathways_S3</a>
+<p>To support your child/ward, you may want to download this 2 simple page
+guide so that you can better need his/her needs.
+<br><a href="/files/Parent_Kit___Supporting_Our_Teens_in_Choosing_Post_Secondary_Pathways_S3.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Supporting Our Teens in Choosing Post Secondary Pathways S3</a>
 </p>
 <p></p>
 <h4>Allocation of Subjects</h4>
