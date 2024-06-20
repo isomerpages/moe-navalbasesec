@@ -624,7 +624,7 @@ variant: tiptap
 <p>Mr Chandrasekaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leslie Tan</p>
+<p></p>
 </td>
 </tr>
 <tr>
