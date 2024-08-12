@@ -7,7 +7,7 @@ variant: tiptap
 <h4>School Canteen Advertisement</h4>
 <p><strong>Type of Stall</strong>- Halal Mixed Rice/ Muslim food. - 1 vacancy
 available.</p>
-<p><strong>Closing Date</strong>- 24 May 2024</p>
+<p><strong>Closing Date</strong>- 13 Sep 2024</p>
 <p><strong>Requirements</strong>- Please see below</p>
 <p><strong>Application Procedure</strong>
 </p>
