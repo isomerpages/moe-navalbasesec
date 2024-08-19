@@ -43,7 +43,7 @@ each option.</p>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong> 
-<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Su%20combi/Sec3NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Sec3NA__1a_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>2024 Subject Combi Elective Booklet (Normal Academic)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NA).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -55,15 +55,15 @@ each option.</p>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Technical</u></strong> 
-<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Su%20combi/Sec3NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Pages_from_2024_Subject_Combi_Elective_Booklet__NT__1a.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/Picture7a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3nt_sub_comi1.png">
 </div>
 <p>
 <br>
 </p>
-<p></p>
