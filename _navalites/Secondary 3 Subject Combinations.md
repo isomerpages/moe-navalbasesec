@@ -55,7 +55,7 @@ each option.</p>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Technical</u></strong> 
-<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Pages_from_2024_Subject_Combi_Elective_Booklet__NT__1a.pdf" rel="noopener noreferrer nofollow" target="_blank">download</a>
+<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Pages_from_2024_Subject_Combi_Elective_Booklet__NT__1a.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
