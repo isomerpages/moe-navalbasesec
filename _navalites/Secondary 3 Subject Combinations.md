@@ -60,8 +60,9 @@ each option.</p>
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NT).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/Picture7a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3nt_sub_comi1.png">
 </div>
 <p>
 <br>
