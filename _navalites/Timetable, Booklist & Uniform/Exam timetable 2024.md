@@ -11,6 +11,6 @@ variant: tiptap
 <br><a href="/files/4E5A_Prelim_2024_v5.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5A_Prelim_2024_v5</a>
 </p>
 <p><a href="/files/2024 eoy exam/sec_1_eoy_timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_1_eoy_timetable_2024</a>
-<br><a href="/files/2024 eoy exam/sec_2_eoy_timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_2_eoy_timetable_2024</a>
+<br><a href="/files/sec_2_eoy_timetable_2024_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_2_eoy_timetable_2024_a</a>
 <br><a href="/files/2024 eoy exam/sec_3_eoy_timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_3_eoy_timetable_2024</a>
 </p>
