@@ -33,7 +33,7 @@ each option.</p>
 <p><strong><u>Secondary 3 Express</u></strong> 
 <br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet</strong>  <strong>(Express)</strong> 
-<a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__EX___1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<a href="/files/2024_Subject_Combi_Elective_Booklet__EX___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 <p></p>
