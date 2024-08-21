@@ -21,8 +21,9 @@ guide so that you can better need his/her needs.
 <p>The subject combinations offered to students will be based on their overall
 academic performance, availability of school resources and vacancies in
 each option.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_21_at_08_28_39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_16_49_32.jpg">
 </div>
 <p><strong><u>2025 Secondary 3 Subject Combinations</u></strong>
 <br>(Subject to actual demand, resourcing and timetable planning)
@@ -32,14 +33,14 @@ each option.</p>
 <p><strong><u>Secondary 3 Express</u></strong> 
 <br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Combi Elective Booklet</strong>  <strong>(Express)</strong> 
-<a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__EX___1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<a href="/files/2024_Subject_Combi_Elective_Booklet__EX___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_31_at_14_10_28.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3ex.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong> 
@@ -48,10 +49,10 @@ each option.</p>
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NA).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_16_51_06.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Technical</u></strong> 
