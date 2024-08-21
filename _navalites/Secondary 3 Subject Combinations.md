@@ -37,10 +37,10 @@ each option.</p>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Su combi/WhatsApp_Image_2024_05_31_at_14_10_28.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3ex.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong> 
