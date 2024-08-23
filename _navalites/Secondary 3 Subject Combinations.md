@@ -40,7 +40,15 @@ each option.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3exa.jpg">
 </div>
-<p></p>
+<p>Allocation of the above will be based on students’ academic performance
+and aptitude, subjected to the availability of school resources.</p>
+<p>A good pass in the respective lower secondary subjects is required to
+read Pure Geography, Pure Sciences and Additional Mathematics.</p>
+<p>*Optional 7th subject: For Option C and D, students may choose to take
+Additional Mathematics as a 7th subject.</p>
+<p>#For Options A, B and C, students may choose to take Art as an 8th subject
+only if they attain a very good overall pass across subjects and a very
+good pass in Art.</p>
 <p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong> 
 <br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Sec3NA__1a_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
