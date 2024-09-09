@@ -6,7 +6,19 @@ variant: tiptap
 ---
 <p><strong>2024</strong>
 </p>
-<p><strong>Term 3</strong> 
+<p><strong>Term 4</strong>
+<br>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_1.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_1</a>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_2.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_2</a>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_3.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_3</a>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_4/5</a>
+</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p><strong>Term 3</strong>
 </p>
 <p><a href="/files/2024 t3 letter/NBSS_Termly_Letter_for_Parents_of_Sec_1s.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 letter (Sec 1)</a>
 <br><a href="/files/2024 t3 letter/NBSS_Termly_Letter_for_Parents_of_Sec_2s.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 letter (Sec2)</a>
@@ -28,4 +40,5 @@ variant: tiptap
 <p><a href="/files/NBSS_Termly_Letter_2024_Term_1___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - Sec 3</a>
 </p>
 <p><a href="/files/NBSS_Termly_Letter_2024_Term_1___Sec_4___5.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 - Sec 4&amp;5</a>
+<br>
 </p>
