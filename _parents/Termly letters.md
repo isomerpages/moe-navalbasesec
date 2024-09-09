@@ -9,6 +9,8 @@ variant: tiptap
 <p><strong>Term 4</strong>
 <br>
 <br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_1.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_1</a>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_2.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_2</a>
+<br><a href="/files/Term letter/NBSS_Termly_Letter_2024_Term_4_Sec_3.pdf" rel="noopener nofollow" target="_blank">Term_4_letter Sec_3</a>
 <br>
 </p>
 <p></p>
