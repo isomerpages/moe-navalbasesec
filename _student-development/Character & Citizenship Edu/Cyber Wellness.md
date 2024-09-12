@@ -49,7 +49,7 @@ also share some relevant information during assembly to promote awareness
 of some Cyber Wellness topics and issues.&nbsp;</p>
 <p><strong>Cyber Wellness Resources</strong>
 <br>MOE has developed a range of prepared materials which includes topics
-such as Cyber Bullying and Evaluating Online Information.&nbsp;<a href="http://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101" rel="noopener noreferrer nofollow" target="">Click here to access it</a>.</p>
+such as Cyber Bullying and Evaluating.</p>
 <p><strong><u>Cyber Wellness Tips for Parents<br></u></strong>Is your child
 a responsible digital learner? Here's some tips on how to support your
 child.
