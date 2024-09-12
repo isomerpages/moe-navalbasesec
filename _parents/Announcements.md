@@ -23,5 +23,5 @@ view a copy of our 2023 school yearbook!</p>
 a useful parents guide to help you advise your child/ward in making the
 right choices after graduation.</p>
 <p>
-<br>
+<br><a href="https://www.moe.gov.sg/careers" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/careers</a>
 </p>
