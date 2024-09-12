@@ -21,8 +21,7 @@ view a copy of our 2023 school yearbook!</p>
 </p>
 <p><strong>Post-Secondary Education and Career Options<br></strong>Here's
 a useful parents guide to help you advise your child/ward in making the
-right choices after graduation.
-<br><a href="https://www.moe.gov.sg/microsites/whats-next/#p=1" rel="noopener noreferrer nofollow" target="">https://www.moe.gov.sg/microsites/whats-next/#p=1</a>
-<br><a href="https://www.moe.gov.sg/microsites/next-step-forward/" rel="noopener noreferrer nofollow" target="">https://www.moe.gov.sg/microsites/next-step-forward/</a>
-<br><a href="https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1" rel="noopener noreferrer nofollow" target="">https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1</a>
+right choices after graduation.</p>
+<p>
+<br>
 </p>
