@@ -56,5 +56,4 @@ child.
 <br><a href="/files/CW%20Parent%20Tips%20Sheet.pdf" rel="noopener noreferrer nofollow" target="">Is your child a responsible digital user?</a>
 <br><a href="/files/4%20Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.pdf" rel="noopener noreferrer nofollow" target="">Help Your Child Manage Excessive Internet Use</a>
 </p>
-<p><strong><u>MOE Cyber Wellness Framework<br></u></strong><a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness" rel="noopener" target="_blank">MOE Cyber Wellness Framework</a>
-</p>
+<p></p>
