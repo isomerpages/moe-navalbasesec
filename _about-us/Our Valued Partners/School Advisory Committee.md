@@ -3,46 +3,87 @@ title: School Advisory Committee
 permalink: /partners-of-nbss/sac/
 description: ""
 third_nav_title: Our Valued Partners
-variant: markdown
+variant: tiptap
 ---
 <p>Term of Office: 1 Oct 2022 to 30 Sep 2024</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>Chairman</td>
-<td>Mr Ow Yong Hann Ming</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vinoth s/o Balakrishna Pillay</p>
+</td>
 </tr>
 <tr>
-<td>Vice-Chairman </td>
-<td>Mr Vinoth s/o Balakrishna Pillay</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sahul Hameed Bin Mohd Abd Kadir</p>
+</td>
 </tr>
 <tr>
-<td>Member</td>
-<td>Mr Linus s/o Jeraled</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Chin Su-Lin</p>
+</td>
 </tr>
 <tr>
-<td>Member</td>
-<td>Mr Sahul Hameed bin Mohd Abd Kadir</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chiou Perng</p>
+</td>
 </tr>
 <tr>
-<td>Member</td>
-<td>Mr Tan Kim Lee</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kim Lee</p>
+</td>
 </tr>
 <tr>
-<td>Honorary Secretary</td>
-<td>Mdm Linda Yeo Sock Khoon</td>
+<td rowspan="1" colspan="1">
+<p>Honorary Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Linda Yeo Sock Khoon</p>
+</td>
 </tr>
 <tr>
-<td>Asst Honorary Secretary 1</td>
-<td>Mr Lim Seow Kuan</td>
+<td rowspan="1" colspan="1">
+<p>Asst Honorary Secretary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Seow Kuan</p>
+</td>
 </tr>
 <tr>
-<td>Asst Honorary Secretary 2</td>
-<td>Mr Muhammad Shahari B Abu Bakar</td>
+<td rowspan="1" colspan="1">
+<p>Asst Honorary Secretary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Shahari B Abu Bakar</p>
+</td>
 </tr>
 <tr>
-<td>Secretariat</td>
-<td>Mdm Ang Shiou Ching</td>
+<td rowspan="1" colspan="1">
+<p>Secretariat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ang Shiou Ching</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
