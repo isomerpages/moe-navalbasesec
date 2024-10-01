@@ -33,7 +33,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Geraldine Chin Su-Lin</p>
+<p>Ms Geraldine Chin Su-Lin</p>
 </td>
 </tr>
 <tr>
