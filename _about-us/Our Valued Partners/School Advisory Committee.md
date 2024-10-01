@@ -25,7 +25,7 @@ variant: tiptap
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vinoth s/o Balakrishna Pillay</p>
+<p>Mr Sahul Hameed bin Mohd Abd Kadir</p>
 </td>
 </tr>
 <tr>
