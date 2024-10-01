@@ -41,7 +41,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sahul Hameed bin Mohd Abd Kadir</p>
+<p>Mr Ong Chiou Perng</p>
 </td>
 </tr>
 <tr>
