@@ -52,7 +52,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong><u>7 to 14 Oct Timetable</u></strong>
+<p><strong><u>Timetable - 7 to 14 Oct </u></strong>
 </p>
 <p><a href="/files/2024 eoy exam/Sec_1__7_14_Oct_.pdf" rel="noopener nofollow" target="_blank">Sec_1__7_14_Oct</a>
 <br><a href="/files/2024 eoy exam/Sec_2__7_14_Oct_.pdf" rel="noopener nofollow" target="_blank">Sec_2__7_14_Oct</a>
