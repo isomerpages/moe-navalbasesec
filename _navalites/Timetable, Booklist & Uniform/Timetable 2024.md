@@ -52,13 +52,19 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Timetable - 7 to 14 Oct </u></strong>
+<p><strong><u>Timetable - 7 to 14 Oct</u></strong>
 </p>
 <p><a href="/files/2024 eoy exam/Sec_1__7_14_Oct_.pdf" rel="noopener nofollow" target="_blank">Sec_1__7_14_Oct</a>
 <br><a href="/files/2024 eoy exam/Sec_2__7_14_Oct_.pdf" rel="noopener nofollow" target="_blank">Sec_2__7_14_Oct</a>
 <br><a href="/files/2024 eoy exam/Sec_3__7_14_Oct_.pdf" rel="noopener nofollow" target="_blank">Sec_3__7_14_Oct</a>
 </p>
 <p></p>
+<p><strong><u>Timetable- NLE week- 15 to 25 Oct</u></strong>
+</p>
+<p><a href="/files/2024 eoy tt/S1_NLE_WEEK__EOY__2024.pdf" rel="noopener nofollow" target="_blank">Sec 1_NLE_WEEK__EOY</a>
+<br><a href="/files/2024 eoy tt/S2_NLE_WEEK__EOY__2024.pdf" rel="noopener nofollow" target="_blank">Sec 2_NLE_WEEK__EOY</a>
+<br><a href="/files/2024 eoy tt/S3_NLE_WEEK__EOY__2024.pdf" rel="noopener nofollow" target="_blank">Sec 3_NLE_WEEK__EOY</a>
+</p>
 <p></p>
 <p></p>
 <p>
