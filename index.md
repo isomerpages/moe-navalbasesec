@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Open House 2023
-          description: Sat 25 Nov, 9am-1pm
+        - title: Open House 2024
+          description: Sat 23 Nov, 9am-1pm
           url: https://www.facebook.com/events/1374090676822881
         - title: Achievements
           description: Our Pride & Joy
