@@ -38,7 +38,6 @@ Additional Mathematics as a 7th subject.</p>
 only if they attain a very good overall pass across subjects and a very
 good pass in Art.</p>
 <p></p>
-<p></p>
 <p><strong><u>Secondary 3 Express</u></strong> 
 <br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
 <br><strong>2024 Subject Choice Briefing Booklet</strong>  <strong>(Express)</strong> 
