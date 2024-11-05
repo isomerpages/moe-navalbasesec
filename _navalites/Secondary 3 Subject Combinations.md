@@ -26,7 +26,12 @@ each option.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_20_at_16_49_32.jpg">
 </div>
 <p><strong><u>2025 Secondary 3 Subject Combinations</u></strong>
-<br>(Subject to actual demand, resourcing and timetable planning)
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sex_3_ea.jpg">
+</div>
+<p>
 <br>
 </p>
 <p></p>
