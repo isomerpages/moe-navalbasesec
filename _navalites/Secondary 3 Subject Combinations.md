@@ -39,7 +39,7 @@ only if they attain a very good overall pass across subjects and a very
 good pass in Art.</p>
 <p></p>
 <p><strong><u>Secondary 3 Express</u></strong> 
-<br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Su%20combi/Sec3EX.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> 
+<br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Sub combi 2024/Doc1a.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br><strong>2024 Subject Choice Briefing Booklet</strong>  <strong>(Express)</strong> 
 <a href="/files/2024_Subject_Combi_Elective_Booklet__EX___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(EX).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
@@ -49,7 +49,7 @@ good pass in Art.</p>
 </div>
 <p></p>
 <p><strong><u>Secondary 3 Normal Academic</u></strong> 
-<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Sec3NA__1a_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Sub combi 2024/sec_na_combi.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br><strong>2024 Subject Combi Elective Booklet (Normal Academic)</strong> 
 <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br><strong>For Reference: 2023's Parent Briefing Slides</strong>  <a href="/files/Su%20combi/2023%20Subject%20Combi%20Parents%20Briefing%20(NA).pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
