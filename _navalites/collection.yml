@@ -2,14 +2,12 @@ collections:
   navalites:
     output: true
     order:
-      - NBSS Pyramid of Success (PoS).md
-      - SHIPSHAPE in Target Setting & Monitoring.md
       - Home–Based Learning.md
       - Timetable, Booklist & Uniform/.keep
       - Timetable, Booklist & Uniform/Booklist 2024.md
       - Timetable, Booklist & Uniform/School Uniform.md
-      - Timetable, Booklist & Uniform/Timetable 2024.md
-      - Timetable, Booklist & Uniform/Exam timetable 2024.md
+      - Timetable, Booklist & Uniform/Timetable 2025.md
+      - Timetable, Booklist & Uniform/Exam timetable 2025.md
       - Financial Assistance/.keep
       - Financial Assistance/MOE Financial Assistance Scheme.md
       - Student Well Being/.keep
