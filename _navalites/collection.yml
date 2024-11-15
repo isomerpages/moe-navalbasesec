@@ -2,7 +2,6 @@ collections:
   navalites:
     output: true
     order:
-      - NBSS Pyramid of Success (PoS).md
       - SHIPSHAPE in Target Setting & Monitoring.md
       - Home–Based Learning.md
       - Timetable, Booklist & Uniform/.keep
