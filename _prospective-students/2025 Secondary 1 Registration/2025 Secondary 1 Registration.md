@@ -1,11 +1,11 @@
 ---
-title: 2024 Secondary 1 Registration
+title: 2025 Secondary 1 Registration
 permalink: /for-prospective-students/2024-secondary-1-registration/
 description: ""
-third_nav_title: 2024 Secondary 1 Registration
+third_nav_title: 2025 Secondary 1 Registration
 variant: tiptap
 ---
-<h1>Naval Base Secondary School welcomes our 2024 Secondary One students and parents!</h1>
+<h1>Naval Base Secondary School welcomes our 2025 Secondary One students and parents!</h1>
 <h4>Congratulations on your posting to Naval Base Secondary School! We welcome you on a new and exciting journey filled with varied opportunities and possibilities to support you in the next phase of your development.</h4>
 <p>After receiving your posting to Naval Base Secondary School (NBSS), please
 note that you do not need to physically report to school as registration
@@ -18,12 +18,12 @@ the Apple App/Google Play Store. For FAQs, refer to <a href="https://pg.moe.edu.
 <h5>Please take note of the following:</h5>
 <ol data-tight="true" class="tight">
 <li>
-<p>Your child is not required to physically report to NBSS until <strong>2 January 2024 (Tuesday)</strong>,
+<p>Your child is not required to physically report to NBSS until <strong>2 January 2025 (Thursday)</strong>,
 when school officially begins.</p>
 </li>
 <li>
 <p>To complete the registration, please go to our E-registration Portal at
-<a href="https://enroll.edmension.com" rel="noopener noreferrer nofollow" target="_blank">https://enroll.edmension.com</a>from <strong>20 Dec 2023, 4pm</strong> onwards.
+<a href="https://enroll.edmension.com" rel="noopener noreferrer nofollow" target="_blank">https://enroll.edmension.com</a>from <strong>18 Dec 2024, 4pm</strong> onwards.
 Details available there include the following:</p>
 </li>
 </ol>
@@ -36,7 +36,8 @@ Details available there include the following:</p>
 Elective Programme</p>
 </li>
 <li>
-<p>MOE Financial Assistance Scheme (FAS)</p>
+<p>MOE Financial Assistance Scheme (FAS) can be applied <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </li>
 <li>
 <p>Enquiries on Appeal and Transfer</p>
