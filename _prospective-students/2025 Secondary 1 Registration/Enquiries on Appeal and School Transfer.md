@@ -11,12 +11,12 @@ for a transfer can do so as follows:</p>
 </p>
 <p>The MAE is only applicable to students with serious medical conditions
 or severe physical impairments. Parents are to file their MAE appeals with
-the posted school by&nbsp;<strong>12 pm of 21 Dec 2023 &nbsp;</strong>.
-Please contact the school for more information on the MAE application process.</p>
+the posted school by&nbsp;<strong>12 pm of 18 Dec 2024</strong>. Please
+contact the school for more information on the MAE application process.</p>
 <p><strong><u>Appeal for Transfer (Non-Medical) – to transfer into Naval Base Secondary School</u></strong>
 </p>
 <p>Students who wish to appeal for a transfer to Naval Base Secondary School
-can submit their appeal&nbsp;by&nbsp;<strong>5pm of 22 Dec 2023.</strong>&nbsp;Late
+can submit their appeal&nbsp;by&nbsp;<strong>5pm of 20 Dec 2024.</strong>&nbsp;Late
 submissions will not be considered. Please note that transfers are subjected
 to available vacancies and the school’s admission criteria, including the
 meeting of the school’s cut-off point.</p>
