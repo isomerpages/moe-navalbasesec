@@ -2,7 +2,6 @@ collections:
   navalites:
     output: true
     order:
-      - SHIPSHAPE in Target Setting & Monitoring.md
       - Home–Based Learning.md
       - Timetable, Booklist & Uniform/.keep
       - Timetable, Booklist & Uniform/Booklist 2024.md
