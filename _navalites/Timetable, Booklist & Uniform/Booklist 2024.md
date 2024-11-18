@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Timetable, Booklist & Uniform
 variant: tiptap
 ---
-<h1>Book Sales for 2024</h1>
+<h1>Book Sales for 2025</h1>
 <p><strong>Books &amp; Stationery Purchase:</strong>
 </p>
 <p><strong>All</strong> books/stationery orders through the school bookshop
@@ -21,7 +21,7 @@ correct books accordingly.</p>
 (choose a date/time appointment in the online portal)</p>
 </li>
 <li>
-<p>The website will be open from 3 November 2023 to 15 Dec 2023.</p>
+<p>The website will be open from 04 November 2024 to 14 Dec 2024.</p>
 </li>
 </ul>
 <p><strong>Booklists</strong>- <a href="/files/2024%20bl/selling%20date.pdf" rel="noopener noreferrer nofollow" target="_blank">Selling dates</a>
