@@ -3,6 +3,7 @@ title: School Uniform
 permalink: /for-navalities/timetable-booklist-n-uniform/school-uniform/
 description: ""
 third_nav_title: Timetable, Booklist & Uniform
+variant: markdown
 ---
 # Uniform Purchase
 
@@ -23,6 +24,5 @@ You can purchase your uniform through the following channels:
 	
 **FAS Students:**
 
-If you have submitted your FAS application for 2024, please wait for the school to notify you on the outcome by end November. Collection of books &amp; uniform for FAS students will be scheduled in December.
+If you have submitted your FAS application for 2025, please wait for the school to notify you on the outcome by end November. Collection of books &amp; uniform for FAS students will be scheduled in December.
 
-[Selling dates](/files/2024%20bl/selling%20date.pdf)
