@@ -31,11 +31,7 @@ additional information on the NDLP</p>
 </p>
 <p><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
 </p>
-<p><strong>DMA Resources for Parents</strong>
-</p>
-<p>Device Management Application (DMA) resources and videos for parents-
-<a href="https://go.gov.sg/dmaparentguide-mg" rel="noopener noreferrer nofollow" target="_blank">DMA Options Info</a>
-</p>
+<p></p>
 <h5><strong>Device information</strong></h5>
 <p><strong>iPad Spec (3 years apple care warranty and 3 years Insurance warranty)</strong>
 </p>
