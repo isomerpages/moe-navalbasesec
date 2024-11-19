@@ -717,15 +717,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Shiou Ching</p>
+<p>Ms Sharine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nadhirah&nbsp;</p>
+<p>Ms Zhang Zi Tong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive&nbsp;</p>
