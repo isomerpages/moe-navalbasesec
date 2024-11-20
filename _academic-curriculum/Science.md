@@ -110,3 +110,44 @@ level is as follows:</p>
 </div>
 <p>We adopt a tiered approach to the programme for each level in order to
 meet the diverse needs of our students.</p>
+
+
+
+**Sec 1 STEM Exploration **
+In their first year, students explore various STEM fields through activities that showcase the applications of science and enhance awareness of STEM careers
+
+
+
+Sec 2 STEM Connection
+In their second year, students build on their foundation by connecting STEM to science, technology, society, and the environment. They apply scientific concepts and design thinking to tackle more complex tasks, deepening their skills and knowledge.
+
+
+
+Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life
+In their 3rd year, students will advance further through their participation in advanced STEM workshops, learning journeys and higher level competitions. These experiences hone advanced science skills, foster STEM discussions, and empower students to solve complex challenges independently.
+
+In their graduating year, students will have the opportunities to higher level institutions and attend workshops to delve deeper into the world of STEM. Students will be guided to consolidate their STEM learning experiences, helping them prepare for applications to further studies and related career paths.
+
+
+
+Notable Accomplishments
+NUS Crystal Growing Challenge 2024 - Merit Award
+Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi
+
+25th International Elementz Fair  (2024) - Silver Award
+Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen
+
+Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award
+Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen
+
+IgnITE Skills Challenge 2024 - Gold Award
+Awardees: Marsha Adhwaa Aliani Binte Abdullah, Gan Ting Eng and Goh Kor Qi
+
+Illustratum 2023 - Merit Award
+Awardees: Chloe Lim Rui Jia, Ning Jing Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan
+
+
+
+
+
+
