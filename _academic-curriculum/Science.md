@@ -44,11 +44,23 @@ and continue to develop the skills needed to excel.</p>
 </div>
 <p><strong>STEM EXCEL Programme</strong>
 </p>
-<p>Our STEM ExCEL Programme is an enrichment programme that aims to strengthen
-the interest and capabilities of our students in STEM. We want our students
-to be curious about the world around them, to think creatively and critically
-in solving problems and to be concerned citizens who make positive difference
-to the life of others.</p>
+<p>“And beyond that – we want our people to have a <strong>sense of curiosity</strong> to <strong>explore</strong> and <strong>experiment</strong>,
+to create and <strong>innovate</strong>, and to have an open mind to new
+ideas. This will be our competitive advantage going into the future; <strong>framing</strong>  <strong>tomorrow's challenges</strong>,
+and <strong>finding tomorrow's solutions</strong> ahead of time using <strong>STEM</strong>.”</p>
+<p>Education Minister Chan Chun Sing</p>
+<p>As such we need to equip our students with the skills and mindsets, to
+empower them to thrive in an ever-evolving world.</p>
+<p>Our STEM ExCEL Programme is designed to ignite students' passion for STEM
+and enhance their skills in Science, Technology, Engineering and Mathematics.
+Through this programme, we aim to cultivate curiosity about the world,
+foster creative and critical problem-solving abilities, and nurture socially
+responsible citizens who strive to make a meaningful impact on others'
+lives.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci/STEM%20ExCEL_pillars.png">
 </div>
