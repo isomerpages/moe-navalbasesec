@@ -4,8 +4,22 @@ permalink: /nbss-curriculum/science/
 description: ""
 variant: tiptap
 ---
-<p><strong>Department Vision<br></strong>
-</p>
+<p><strong>Department Vision<br></strong>Guided by the principle that every
+child can learn and excel, and its vision - Inquiring Mind and Innovative
+Spirit - the Science Department is dedicated to shaping every child into
+an adaptive, collaborative, and excellence-driven learner.</p>
+<p>We recognize that each student is unique, with different strengths, challenges,
+and learning styles, and we aim to cultivate adaptability by encouraging
+students to approach problems with flexibility and resilience.</p>
+<p>Through collaborative learning opportunities, we foster teamwork, communication,
+and shared problem-solving, helping students learn from one another and
+build essential skills for working in diverse environments.</p>
+<p>At the same time, we instill a drive for excellence by setting high standards,
+challenging students to push beyond their limits, and inspiring them to
+pursue mastery in both scientific knowledge and personal growth.</p>
+<p>By nurturing these qualities, we empower students to become future-ready
+learners who excel in all aspects of their academic and personal lives.</p>
+<p></p>
 <p></p>
 <p><strong>Curriculum, Pedagogy and Assessment</strong>
 </p>
