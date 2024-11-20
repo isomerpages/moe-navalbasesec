@@ -228,24 +228,30 @@ skills and knowledge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture4.png">
 </div>
-<p>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life In their 3rd year,
-students will advance further through their participation in advanced STEM
-workshops, learning journeys and higher level competitions. These experiences
-hone advanced science skills, foster STEM discussions, and empower students
-to solve complex challenges independently.</p>
+<p><strong>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life</strong>
+<br>In their 3rd year, students will advance further through their participation
+in advanced STEM workshops, learning journeys and higher level competitions.
+These experiences hone advanced science skills, foster STEM discussions,
+and empower students to solve complex challenges independently.</p>
 <p>In their graduating year, students will have the opportunities to higher
 level institutions and attend workshops to delve deeper into the world
 of STEM. Students will be guided to consolidate their STEM learning experiences,
 helping them prepare for applications to further studies and related career
 paths.</p>
-<p>Notable Accomplishments NUS Crystal Growing Challenge 2024 - Merit Award
-Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
-<p>25th International Elementz Fair (2024) - Silver Award Awardees: Oo LaDawn,
-Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award Awardees:
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture5.png">
+</div>
+<p><strong><u>Notable Accomplishments</u></strong>
+<br><strong>NUS Crystal Growing Challenge 2024 - Merit Award</strong>
+<br>Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
+<p><strong>25th International Elementz Fair (2024) - Silver Award</strong>
+<br>Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
+<p><strong>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award</strong> Awardees:
 Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p>IgnITE Skills Challenge 2024 - Gold Award Awardees: Marsha Adhwaa Aliani
-Binte Abdullah, Gan Ting Eng and Goh Kor Qi</p>
+<p>IgnITE Skills Challenge 2024 - Gold Award
+<br>Awardees: Marsha Adhwaa Aliani Binte Abdullah, Gan Ting Eng and Goh Kor
+Qi</p>
 <p>Illustratum 2023 - Merit Award Awardees: Chloe Lim Rui Jia, Ning Jing
 Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan</p>
 <p></p>
