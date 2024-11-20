@@ -2,7 +2,7 @@
 title: Science
 permalink: /nbss-curriculum/science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Department Vision<br></strong>Guided by the principle that every
 child can learn and excel, and its vision - Inquiring Mind and Innovative
@@ -110,44 +110,132 @@ level is as follows:</p>
 </div>
 <p>We adopt a tiered approach to the programme for each level in order to
 meet the diverse needs of our students.</p>
-
-
-
-**Sec 1 STEM Exploration **
-In their first year, students explore various STEM fields through activities that showcase the applications of science and enhance awareness of STEM careers
-
-
-
-Sec 2 STEM Connection
-In their second year, students build on their foundation by connecting STEM to science, technology, society, and the environment. They apply scientific concepts and design thinking to tackle more complex tasks, deepening their skills and knowledge.
-
-
-
-Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life
-In their 3rd year, students will advance further through their participation in advanced STEM workshops, learning journeys and higher level competitions. These experiences hone advanced science skills, foster STEM discussions, and empower students to solve complex challenges independently.
-
-In their graduating year, students will have the opportunities to higher level institutions and attend workshops to delve deeper into the world of STEM. Students will be guided to consolidate their STEM learning experiences, helping them prepare for applications to further studies and related career paths.
-
-
-
-Notable Accomplishments
-NUS Crystal Growing Challenge 2024 - Merit Award
-Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi
-
-25th International Elementz Fair  (2024) - Silver Award
-Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen
-
-Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award
-Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen
-
-IgnITE Skills Challenge 2024 - Gold Award
-Awardees: Marsha Adhwaa Aliani Binte Abdullah, Gan Ting Eng and Goh Kor Qi
-
-Illustratum 2023 - Merit Award
-Awardees: Chloe Lim Rui Jia, Ning Jing Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan
-
-
-
-
-
-
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+<p>STEM Exploration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+<p>STEM Connection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 and Sec 4</p>
+<p>STEM Empowerment &amp;</p>
+<p>for Life</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Excel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Science Buskers</p>
+<p>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elementz @ASRJC</p>
+<p></p>
+<p>Tan Kah Kee Young Inventors’ Award</p>
+<p></p>
+<p>Computer Science and Robotics Certification</p>
+<p></p>
+<p>SISTEMIC @NJC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National STEM Championship</p>
+<p></p>
+<p>Chem-dot-Comm Challenge</p>
+<p></p>
+<p>Singapore National Crystal Growing Challenge</p>
+<p></p>
+<p>GMAC Challenge</p>
+<p></p>
+<p>IgnITE Skills Challenge</p>
+<p></p>
+<p>Illustratum</p>
+<p></p>
+<p>SISTEMIC @NJC</p>
+<p></p>
+<p>Junior Olympiads</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enrich</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Show &amp; Tell</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Big STEM Challenge</p>
+<p></p>
+<p>STEM IEP at Penang</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Embrace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Learning Journeys to Science Centre</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Plant Whisperers (PPW)</p>
+<p></p>
+<p>Learning Journey to ComCrop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys to Science Centre and Institutes of Higher Learning</p>
+<p></p>
+<p>Consolidation of STEM experiences</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> <strong>Sec 1 STEM Exploration</strong>
+<br>In their first year, students explore various STEM fields through activities
+that showcase the applications of science and enhance awareness of STEM
+careers</p>
+<p>Sec 2 STEM Connection In their second year, students build on their foundation
+by connecting STEM to science, technology, society, and the environment.
+They apply scientific concepts and design thinking to tackle more complex
+tasks, deepening their skills and knowledge.</p>
+<p>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life In their 3rd year,
+students will advance further through their participation in advanced STEM
+workshops, learning journeys and higher level competitions. These experiences
+hone advanced science skills, foster STEM discussions, and empower students
+to solve complex challenges independently.</p>
+<p>In their graduating year, students will have the opportunities to higher
+level institutions and attend workshops to delve deeper into the world
+of STEM. Students will be guided to consolidate their STEM learning experiences,
+helping them prepare for applications to further studies and related career
+paths.</p>
+<p>Notable Accomplishments NUS Crystal Growing Challenge 2024 - Merit Award
+Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
+<p>25th International Elementz Fair (2024) - Silver Award Awardees: Oo LaDawn,
+Tan Yujun and Samantha Bella Vu Jing Wen</p>
+<p>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award Awardees:
+Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
+<p>IgnITE Skills Challenge 2024 - Gold Award Awardees: Marsha Adhwaa Aliani
+Binte Abdullah, Gan Ting Eng and Goh Kor Qi</p>
+<p>Illustratum 2023 - Merit Award Awardees: Chloe Lim Rui Jia, Ning Jing
+Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan</p>
