@@ -57,10 +57,54 @@ Through this programme, we aim to cultivate <strong>curiosity</strong> about
 the world, foster <strong>creative</strong> and critical problem-solving
 abilities, and nurture socially responsible citizens who strive to make
 a <strong>meaningful impact</strong> on others' lives.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Be <strong>Curious</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curiosity encourages exploration. This nurtures <strong>adaptive learners</strong> who
+are open to learning and evolving with new information.</p>
+<p>Curiosity also fosters a culture of continuous improvement, supporting
+students in their drive for excellence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Be <strong>Creative</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creativity fosters innovative thinking, helping students grow as <strong>adaptive</strong> and <strong>collaborative learners</strong> who
+co-create effective solutions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Be the <strong>Change</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Developing a changemaker mindset is associated with <strong>excellence-driven</strong> individuals
+who aim to make <strong>meaningful contributions</strong> and improve the
+community.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The STEM EXCEL Programme is designed to progressively develop students’
+STEM capabilities from Secondary 1 to Secondary 4/5. The focus for each
+level is as follows:</p>
+<p>Sec 1 - STEM Exploration</p>
+<p>Sec 2 - STEM Connection</p>
+<p>Sec 3 - STEM Empowerment</p>
+<p>Sec 4 - STEM for Life</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci/STEM%20ExCEL_pillars.png">
 </div>
