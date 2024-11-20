@@ -124,16 +124,13 @@ meet the diverse needs of our students.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1</p>
-<p>STEM Exploration</p>
+<p>Sec 1 STEM Exploration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
-<p>STEM Connection</p>
+<p>Sec 2 STEM Connection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 and Sec 4</p>
-<p>STEM Empowerment &amp; for Life</p>
+<p>Sec 3 and Sec 4 STEM Empowerment &amp; for Life</p>
 </td>
 </tr>
 <tr>
