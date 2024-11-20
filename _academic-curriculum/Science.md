@@ -225,6 +225,9 @@ STEM to science, technology, society, and the environment. They apply scientific
 concepts and design thinking to tackle more complex tasks, deepening their
 skills and knowledge.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture4.png">
+</div>
 <p>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life In their 3rd year,
 students will advance further through their participation in advanced STEM
 workshops, learning journeys and higher level competitions. These experiences
@@ -245,3 +248,4 @@ Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
 Binte Abdullah, Gan Ting Eng and Goh Kor Qi</p>
 <p>Illustratum 2023 - Merit Award Awardees: Chloe Lim Rui Jia, Ning Jing
 Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan</p>
+<p></p>
