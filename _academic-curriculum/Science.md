@@ -133,8 +133,7 @@ meet the diverse needs of our students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3 and Sec 4</p>
-<p>STEM Empowerment &amp;</p>
-<p>for Life</p>
+<p>STEM Empowerment &amp; for Life</p>
 </td>
 </tr>
 <tr>
