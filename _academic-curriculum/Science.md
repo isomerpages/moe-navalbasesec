@@ -20,73 +20,29 @@ pursue mastery in both scientific knowledge and personal growth.</p>
 <p>By nurturing these qualities, we empower students to become future-ready
 learners who excel in all aspects of their academic and personal lives.</p>
 <p></p>
-<p></p>
 <p><strong>Curriculum, Pedagogy and Assessment</strong>
 </p>
-<p>Our Science curriculum framework was derived from Ministry of Education’s
-Policy Framework for the teaching and learning of Science which seeks to
-inculcate and nurture the spirit of inquiry and curiosity. This framework
-guides us in designing and crafting our lesson packages and enrichment
-program to provide an authentic learning experience for our students as
-well as develop the desired thinking dispositions in them and during the
-process bring about Joy of Learning for Science.</p>
-<p>Our Science curriculum takes into consideration the different learning
-experiences for our students. Teachers are guided by the core ideas and
-essential question when they plan and deliver their lessons. We adopt the
-5E Instructional Model to plan an inquiry-oriented student-centric lesson.
-Teachers are equipped with a repertoire of teaching strategies to cater
-to the different learning profile of the students. Examples of the teaching
-pedagogies used include teacher-directed learning, Socratic questioning,
-Making Thinking Visible routines, collaborative learning, flipped classroom,
-peer teaching, oral presentation, Cornell note-taking, mind mapping and
-the use of games for learning.</p>
-<p>Our department also believes in using varied mode of assessments, ranging
-from oral presentations to projects to practical and written papers, to
-provide a holistic assessment of our students. Formative assessment in
-the form of quizzes and model making are also used to provide information
-of the extent of learning, understanding of concepts and mastery of skills.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci/IMG_5586.jpg">
-</div>
+<p>Our Science curriculum is grounded in the Ministry of Education's Policy
+Framework, fostering inquiry and curiosity. Aligned with our department’s
+vision, we design lessons and enrichment programs that provide authentic
+learning experiences and cultivate the joy of learning, while developing
+adaptive, collaborative, and excellence-driven learners.</p>
+<p>Teachers create student-centered lessons based on core concepts and essential
+questions, employing strategies like feedback pedagogy, e-pedagogy, differentiated
+instruction, questioning techniques, thinking routines, and collaborative
+learning. These approaches cater to diverse learning profiles, promoting
+adaptability, teamwork, and critical thinking.</p>
+<p>To support our excellence-driven focus, we use a range of assessments—projects,
+practical tasks, and written exams—to provide a holistic view of student
+progress. These assessments are designed to challenge students, encourage
+self-reflection, and measure mastery of scientific concepts and skills.
+Through ongoing feedback, we aim to empower students to track their growth
+and continue to develop the skills needed to excel.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci/IMG_1155.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture1.png">
 </div>
-<p><strong>Teaching &amp; Learning - Science&nbsp;</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sJRccyqwZKQ"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SdKccX88XBg"></iframe>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wn60IsbLtvw"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b2G48oCL_GQ"></iframe>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Signature STEM ExCEL Programme</strong>
+<p><strong>STEM EXCEL Programme</strong>
 </p>
 <p>Our STEM ExCEL Programme is an enrichment programme that aims to strengthen
 the interest and capabilities of our students in STEM. We want our students
