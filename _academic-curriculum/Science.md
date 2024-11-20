@@ -211,14 +211,20 @@ meet the diverse needs of our students.</p>
 </tr>
 </tbody>
 </table>
-<p> <strong>Sec 1 STEM Exploration</strong>
+<p><strong>Sec 1 STEM Exploration</strong>
 <br>In their first year, students explore various STEM fields through activities
 that showcase the applications of science and enhance awareness of STEM
 careers</p>
-<p>Sec 2 STEM Connection In their second year, students build on their foundation
-by connecting STEM to science, technology, society, and the environment.
-They apply scientific concepts and design thinking to tackle more complex
-tasks, deepening their skills and knowledge.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture3.png">
+</div>
+<p><strong>Sec 2 STEM Connection</strong>
+<br>In their second year, students build on their foundation by connecting
+STEM to science, technology, society, and the environment. They apply scientific
+concepts and design thinking to tackle more complex tasks, deepening their
+skills and knowledge.</p>
+<p></p>
 <p>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life In their 3rd year,
 students will advance further through their participation in advanced STEM
 workshops, learning journeys and higher level competitions. These experiences
