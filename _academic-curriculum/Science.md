@@ -247,11 +247,12 @@ paths.</p>
 <br>Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
 <p><strong>25th International Elementz Fair (2024) - Silver Award</strong>
 <br>Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p><strong>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award</strong> Awardees:
-Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p>IgnITE Skills Challenge 2024 - Gold Award
+<p><strong>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award</strong>
+<br>Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
+<p><strong>IgnITE Skills Challenge 2024 - Gold Award </strong>
 <br>Awardees: Marsha Adhwaa Aliani Binte Abdullah, Gan Ting Eng and Goh Kor
 Qi</p>
-<p>Illustratum 2023 - Merit Award Awardees: Chloe Lim Rui Jia, Ning Jing
-Qi, Chen Jing Yang, Liu Jia Wen, Tisha Gupta and Carie Oh Jing Xuan</p>
+<p><strong>Illustratum 2023 - Merit Award</strong>
+<br>Awardees: Chloe Lim Rui Jia, Ning Jing Qi, Chen Jing Yang, Liu Jia Wen,
+Tisha Gupta and Carie Oh Jing Xuan</p>
 <p></p>
