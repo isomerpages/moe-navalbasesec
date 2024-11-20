@@ -53,10 +53,10 @@ and <strong>finding tomorrow's solutions</strong> ahead of time using <strong>ST
 empower them to thrive in an ever-evolving world.</p>
 <p>Our STEM ExCEL Programme is designed to ignite students' passion for STEM
 and enhance their skills in Science, Technology, Engineering and Mathematics.
-Through this programme, we aim to cultivate curiosity about the world,
-foster creative and critical problem-solving abilities, and nurture socially
-responsible citizens who strive to make a meaningful impact on others'
-lives.</p>
+Through this programme, we aim to cultivate <strong>curiosity</strong> about
+the world, foster <strong>creative</strong> and critical problem-solving
+abilities, and nurture socially responsible citizens who strive to make
+a <strong>meaningful impact</strong> on others' lives.</p>
 <p></p>
 <p></p>
 <p></p>
