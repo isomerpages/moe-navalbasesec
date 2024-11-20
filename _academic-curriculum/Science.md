@@ -107,7 +107,7 @@ level is as follows:</p>
 <p>Sec 3 - STEM Empowerment</p>
 <p>Sec 4 - STEM for Life</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sci/STEM%20ExCEL_pillars.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 sci/Picture2.png">
 </div>
 <p>We adopt a tiered approach to the programme for each level in order to
 meet the diverse needs of our students.</p>
