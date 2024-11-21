@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Open House 2024
           description: Sat 23 Nov, 9am-1pm
-          url: https://www.facebook.com/events/1374090676822881
+          url: https://www.facebook.com/navalbasesec/
         - title: Achievements
           description: Our Pride & Joy
           url: /about-us/Achievements/permalink/
