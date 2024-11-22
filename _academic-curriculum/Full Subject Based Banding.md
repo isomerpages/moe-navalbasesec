@@ -38,8 +38,7 @@ variant: markdown
 <p>Mixed form classes with the provision of a common curriculum</p>
 </td>
 <td width="510">
-<p>Our school implemented mixed form classes starting from the&nbsp;<strong>2023's Secondary 1 students.</strong></p>
-<p>They are grouped in mixed form classes, comprising students from different courses of study.&nbsp;Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.</p>
+<p>Our school implemented mixed form classes starting from 2023's Secondary 1 students. They are grouped in mixed form classes, comprising students from different courses of study.&nbsp;Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.</p>
 <p>In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.</p>
 <p>These subjects are:</p>
 <ul>
