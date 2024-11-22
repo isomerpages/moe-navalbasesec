@@ -17,9 +17,11 @@ that every student has the potential to become an effective leader in their
 own right, and is someone who can make a positive impact in their communities.
 The programme is designed to develop students' leadership skills based
 on the Five Practices of Exemplary Leadership as developed by James Kouzes
-and Barry Posner.</p>
+and Barry Posner.
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/navy%20-%20invest3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 student leader/Photo_1.jpg">
 </div>
 <p>Backed by over 25 years of research and data of over three million leaders,
 the Five Practices are:</p>
@@ -45,9 +47,9 @@ others to take ownership of their work.</p>
 of others, creating a positive and supportive environment.</p>
 </li>
 </ul>
-<h4>Student Leadership Framework</h4>
+<h4>Student Leadership Framework<br></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stlship1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 student leader/Photo_2.png">
 </div>
 <p>The leadership programme is guided by the Student Leadership Development
 Framework, which &nbsp;anchors students on a core set of school values,
