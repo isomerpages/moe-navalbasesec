@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Leadership
 variant: tiptap
 ---
-<h2><strong><em>Leaders</em></strong> of Character, School of Excellence</h2>
+<h2><strong><em>Leaders</em></strong> of Character, Learners for Tomorrow</h2>
 <p>With 'Leaders' being the very first word of our School Vision, it is natural
 for student leadership to be a key focus area of our school. Even as we
 establish structures and programmes for our student leaders in various
