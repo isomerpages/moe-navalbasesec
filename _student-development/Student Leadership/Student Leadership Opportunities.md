@@ -3,6 +3,7 @@ title: Student Leadership Opportunities
 permalink: /student-development/stlopp/
 description: ""
 third_nav_title: Student Leadership
+variant: markdown
 ---
 ### Leading through Service
 
@@ -59,5 +60,6 @@ Within the class, students are also empowered to take on class committee positio
 * Aesthetics ambassadors
 * Peer support leaders
 * Cyberwellness ambassadors
+* Reading ambassadors
 
-The class committee members work closely with the respective Student Council Boards in the planning and implementation of classroom activities for their classmates. 
+The class committee members work closely with the respective Student Council Boards in the planning and implementation of classroom activities for their classmates.
