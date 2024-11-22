@@ -10,9 +10,6 @@ variant: tiptap
 tools through hands-on activities in this skill-based subject. Problem
 sets integrating software applications are designed to guide in preparing
 for real life.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/cpa1.jpeg">
-</div>
 <p>From 2025, the Upper Secondary syllabus will focus on higher-order thinking
 skills. Basic programming concepts and skills will be learnt through animation
 and game design and applying them to solve problems in everyday context.
