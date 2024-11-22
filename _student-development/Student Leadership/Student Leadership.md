@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /nbss-curriculum/character-and-citizenship-education/student-leaders-at-nbss/
 description: ""
 third_nav_title: Student Leadership
-variant: markdown
+variant: tiptap
 ---
 <h2><strong><em>Leaders</em></strong> of Character, Learners for Tomorrow</h2>
 <p>With 'Leaders' being the very first word of our School Vision, it is natural
@@ -60,35 +60,8 @@ Practices of Exemplary Leadership.</p>
 <p>Within this framework, a three tiered approach of Embrace, Enrich and
 Excel, is taken to develop students in the 3 domains of leadership: self,
 team, and community leadership.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h4>Head on to the following pages to find out more!</h4>
 <p><a href="/student-development/stlopp/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Opportunities</a>
 </p>
 <p><a href="/student-development/student-leadership/tnd/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Training &amp; Development</a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
