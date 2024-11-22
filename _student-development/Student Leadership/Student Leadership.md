@@ -51,15 +51,15 @@ of others, creating a positive and supportive environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 student leader/Photo_2.png">
 </div>
-<p>The leadership programme is guided by the Student Leadership Development
-Framework, which &nbsp;anchors students on a core set of school values,
-developing our student leaders into steadfast contributors, high achievers,
-people leaders, and inspiring innovators. Through their years in NBSS,
-student leaders go through the key stages of Selection, Development, Empowerment,
-and finally, Recognition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stlship2.png">
-</div>
+<p>The NBSS Student Leadership Framework outlines the school’s approach to
+nurturing student to become leaders of character, which encompasses not
+only a Leader of Self but also a Leader of Others, to positively impact
+those around them. It is rooted in our school’s core RECIPE values and
+is enabled by equipping students with the essential skillsets - the Five
+Practices of Exemplary Leadership.</p>
+<p>Within this framework, a three tiered approach of Embrace, Enrich and
+Excel, is taken to develop students in the 3 domains of leadership: self,
+team, and community leadership.</p>
 <h4>Head on to the following pages to find out more!</h4>
 <p><a href="/student-development/stlopp/" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Opportunities</a>
 </p>
