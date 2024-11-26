@@ -85,14 +85,6 @@ variant: tiptap
 <p>Mr Muhammad Shahari B Abu Bakar</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretariat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VP2</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
