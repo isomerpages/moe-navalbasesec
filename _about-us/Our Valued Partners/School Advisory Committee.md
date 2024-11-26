@@ -54,6 +54,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Phua Siang Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +89,7 @@ variant: tiptap
 <p>Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Shiou Ching</p>
+<p>VP2</p>
 </td>
 </tr>
 </tbody>
