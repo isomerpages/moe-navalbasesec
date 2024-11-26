@@ -94,4 +94,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
