@@ -42,6 +42,13 @@ Elective Programme</p>
 <li>
 <p>Enquiries on Appeal and Transfer</p>
 </li>
+<li>
+<p>Appeal for Transfer (Non-Medical)
+<br>Students who wish to appeal for a transfer to Naval Base Secondary School
+can submit their appeal via this online form <a href="https://www.navalbasesec.moe.edu.sg/for-prospective-students/2024-secondary-1-registration/" rel="noopener nofollow" target="_blank">here</a> by
+26 December 2024, 5.00pm. Students who are posted to their schools under
+the DSA programme will not be allowed to transfer to another school.</p>
+</li>
 </ul>
 <h4>Thank you, and we look forward to meeting you as our newest members of our Navalite family!</h4>
 <p></p>
