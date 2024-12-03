@@ -41,9 +41,6 @@ Elective Programme</p>
 <li>
 <p>MOE Financial Assistance Scheme (FAS) can be applied <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 </p>
-</li>
-<li>
-<p>Enquiries on Appeal and Transfer</p>
 <p></p>
 </li>
 </ul>
