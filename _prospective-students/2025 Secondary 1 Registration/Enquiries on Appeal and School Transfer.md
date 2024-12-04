@@ -7,14 +7,14 @@ variant: tiptap
 ---
 <p>After the release of posting results from MOE, students who wish to appeal
 for a transfer can do so as follows:</p>
-<p><strong><u>Medical Appeal Exercise (MAE) </u></strong>
+<p><strong><u>Medical Appeal Exercise (MAE)</u></strong>
 </p>
 <p>The MAE is only applicable to students with serious medical conditions
 or severe physical impairments. Parents are to file their MAE appeals with
 the posted school by <strong>12 pm of 27 December 2024</strong>.. The appeal
 can be filed in person or through email. Please contact the school for
 more information.</p>
-<p><strong><u>Appeal for Transfer (Non-Medical) </u></strong>
+<p><strong><u>Appeal for Transfer (Non-Medical)</u></strong>
 </p>
 <p>Students who wish to appeal for a transfer to Naval Base Secondary School
 can submit their appeal by 5pm of 20 December 2024 using this online form
