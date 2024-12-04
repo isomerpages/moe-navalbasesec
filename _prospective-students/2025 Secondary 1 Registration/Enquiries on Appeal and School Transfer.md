@@ -7,20 +7,17 @@ variant: tiptap
 ---
 <p>After the release of posting results from MOE, students who wish to appeal
 for a transfer can do so as follows:</p>
-<p><strong><u>Medical Appeal Exercise (MAE) – to transfer out of Naval Base Secondary School</u></strong>
+<p><strong><u>Medical Appeal Exercise (MAE) </u></strong>
 </p>
 <p>The MAE is only applicable to students with serious medical conditions
 or severe physical impairments. Parents are to file their MAE appeals with
-the posted school by&nbsp;<strong>12 pm of 27 Dec 2024</strong>. Please
-contact the school for more information on the MAE application process.</p>
-<p><strong><u>Appeal for Transfer (Non-Medical) – to transfer into Naval Base Secondary School</u></strong>
+the posted school by <strong>12 pm of 27 December 2024</strong>.. The appeal
+can be filed in person or through email. Please contact the school for
+more information.</p>
+<p><strong><u>Appeal for Transfer (Non-Medical) </u></strong>
 </p>
 <p>Students who wish to appeal for a transfer to Naval Base Secondary School
-can submit their appeal&nbsp;by&nbsp;<strong>5pm of 20 Dec 2024.</strong>&nbsp;Late
-submissions will not be considered. Please note that transfers are subjected
-to available vacancies and the school’s admission criteria, including the
-meeting of the school’s cut-off point.</p>
-<p>Students who are posted to their schools under the DSA programme will&nbsp;<strong>not</strong>&nbsp;be
-allowed to transfer to another school.</p>
-<p>If you wish to seek a transfer to another school, please approach the
-receiving school directly.</p>
+can submit their appeal by 5pm of 20 December 2024 using this online form
+<a href="https://go.gov.sg/nbssappeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssappeal</a>. Students who are posted to their schools
+under the DSA programme will not be allowed to transfer to another school.</p>
+<p></p>
