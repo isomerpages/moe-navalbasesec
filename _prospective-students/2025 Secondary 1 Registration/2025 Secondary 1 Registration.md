@@ -42,30 +42,7 @@ Elective Programme</p>
 <p>MOE Financial Assistance Scheme (FAS) can be applied <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Enquiries on Appeal and School Transfer</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Medical Appeal Exercise (MAE) is only applicable to students with serious
-medical conditions or severe physical impairments. Parents are to file
-their MAE appeals at the posted school on 18 December 2024 from 8.30am
-to 12pm. The appeal can be filed in person or through email. Please contact
-the school for more information.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Appeal for Transfer (non-medical)
-<br>Students who wish to appeal for a transfer to Naval Base Secondary School
-can submit their appeal via this online form <a href="https://go.gov.sg/nbssappeal" rel="noopener nofollow" target="_blank">here</a> by 26 December 2024, 5.00pm.
-Students who are posted to their schools under the DSA programme will not
-be allowed to transfer to another school.</p>
 </li>
 </ul>
 <h4>Thank you, and we look forward to meeting you as our newest members of our Navalite family!</h4>
