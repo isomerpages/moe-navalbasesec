@@ -2,7 +2,6 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Art.md
       - Overview.md
       - Full Subject Based Banding.md
       - Talent Development @ NBSS.md
@@ -25,3 +24,4 @@ collections:
       - Music/O Level Music Application Process and Key Dates.md
       - Music/Music Recording & Production Programme (MRPP).md
       - Music/Music Related Courses in Post Secondary Education.md
+      - Art.md
