@@ -4,14 +4,6 @@ permalink: /nbss-e-open-house/
 description: ""
 variant: markdown
 ---
-### Enquiries on Appeal and School Transfer
-
-Medical Appeal Exercise (MAE) is only applicable to students with serious medical conditions or severe physical impairments. Parents are to file their MAE appeals at the posted school on 18 December 2024 from 8.30am to 12pm. The appeal can be filed in person or through email. Please contact the school for more information.
-    
-
-Appeal for Transfer (non-medical)  
-Students who wish to appeal for a transfer to Naval Base Secondary School can submit their appeal via this online form&nbsp;[here](https://go.gov.sg/nbssappeal)&nbsp;by 26 December 2024, 5.00pm. Students who are posted to their schools under the DSA programme will not be allowed to transfer to another school.
-
 ### Welcome to the Naval Base Secondary School e-Open House webpage! 
 
 We hold Open Houses at the end of November every year, where prospective students and parents get to be immersed in the Naval Base Experience. While we await this year's instalment, do check out our social media pages: 
