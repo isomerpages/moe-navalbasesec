@@ -49,7 +49,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kim Lee</p>
+<p>Mr Phua Siang Ling</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Siang Ling</p>
+<p>Mr Tan Kim Lee</p>
 </td>
 </tr>
 <tr>
