@@ -78,7 +78,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Honorary Secretary 2
+<p>Asst Honorary Secretary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Shahari B Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
 <br>Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
