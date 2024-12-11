@@ -49,7 +49,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kim Lee</p>
+<p>Mr Phua Siang Ling</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Siang Ling</p>
+<p>Mr Tan Kim Lee</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Honorary Secretary 2
+<p>Asst Honorary Secretary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Shahari B Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
 <br>Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
