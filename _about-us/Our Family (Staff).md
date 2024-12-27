@@ -183,10 +183,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Chong</p>
+<p>Ms Charissa Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, CCA</p>
+<p>Subject Head, English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
