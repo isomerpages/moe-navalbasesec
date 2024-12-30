@@ -284,7 +284,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1</p>
+<p><strong>Secondary 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -383,7 +384,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2</p>
+<p><strong>Secondary 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -471,7 +473,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p><strong>Secondary 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -482,7 +485,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Anchor (NT)</p>
+<p>3 Anchor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharinah Bte Mohamed Agbar Ali</p>
@@ -493,7 +496,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Beacon (NA)</p>
+<p>3 Beacon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Arthur Cheong Fook Oon</p>
@@ -504,7 +507,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Compass (NA)</p>
+<p>3 Compass</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Marinah Hasnan (SH)</p>
@@ -515,7 +518,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Danforth (NA)</p>
+<p>3 Danforth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rashidah Ibrahim (SH)</p>
@@ -526,7 +529,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Expedition (EX)</p>
+<p>3 Expedition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Seow Wei</p>
@@ -537,7 +540,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Flagship (EX)</p>
+<p>3 Flagship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Charissa Ong Xiu Ling (SH)</p>
@@ -548,7 +551,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Garrison (EX)</p>
+<p>3 Garrison</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Irene Ong (ST)</p>
@@ -559,7 +562,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4/5</p>
+<p><strong>Secondary 4/5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
