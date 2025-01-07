@@ -21,11 +21,9 @@ in the digital landscape.</p>
 </p>
 <p>Parents/Guardians can refer to the following materials listed below for
 additional information on the NDLP</p>
-<p><a href="/files/ICT 2024/NDLP___Briefing_for_Sec_1_Parents__2024__.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP Briefing for Sec 1 Parents 2024</a>
-</p>
-<p><a href="/files/Parent_Handbook_I_on_Learning_with_a_PLD_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD 2024</a>
-</p>
-<p><a href="/files/Parent_Handbook_II_on_Learning_with_a_PLD_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a PLD 2024</a>
+<p><a href="/files/2025 pdlp/NDLP_Parents_Engagement_Slides_2025.pdf" rel="noopener nofollow" target="_blank">NDLP Parents Engagement Slides 2025</a>
+<br><a href="/files/2025 pdlp/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">IP2 - Parent Handbook (I) 2025</a>
+<br><a href="/files/2025 pdlp/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2025</a>
 </p>
 <p><a href="/files/ICT 2024/Frequently_Asked_Questions_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP</a>
 </p>
