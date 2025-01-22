@@ -6,7 +6,7 @@ third_nav_title: Timetable, Booklist & Uniform
 variant: tiptap
 ---
 <p></p>
-<p><strong>(2025 timetable will be updated by last week of Dec)</strong>
+<p><strong><u>2025</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
