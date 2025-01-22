@@ -55,7 +55,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p><a href="/files/2025 T1 TT/2025_Sec_3_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3 TT</a>
-</p>
