@@ -57,8 +57,5 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>
-<br><a href="/files/2025 T1 TT/2025_Sec_3_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3 TT</a>
+<p><a href="/files/2025 T1 TT/2025_Sec_3_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3 TT</a>
 </p>
