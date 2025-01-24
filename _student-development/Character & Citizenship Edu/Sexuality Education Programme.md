@@ -31,7 +31,7 @@ variant: markdown
 
 You may click [here](https://go.gov.sg/moe-sexuality-education)  for more information on MOE Sexuality Education.
 
-**OVERVIEW OF NAVAL BASE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
+**OVERVIEW OF NAVAL BASE SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
 
 
 4-	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
@@ -49,7 +49,7 @@ b.	Character and Citizenship Education (CCE)
 7- 	Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 
-At Naval Base Secondary School, the following lessons from The **Growing Years  Programme** and **eTeens Programme** ( for Secondary 3 only) will be  taught in 2024. Click this: [Sed lessons for 2024](/files/SE%20Edu/SEd_lessons_for_2024.pdf)
+At Naval Base Secondary School, the following lessons from **The Sexuality Education Programme **and **eTeens Programme** ( for Secondary 3 only) will be  taught in 2025. Click this: 
 
 **INFORMATION FOR PARENTS**
 
@@ -61,8 +61,3 @@ At Naval Base Secondary School, the following lessons from The **Growing Years  
 The completed form is to be submitted by 11/01/2024.
 
 11-	Parents can contact the school at nbss@moe.edu.sg or 6257 1996 for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-
-
-
-
