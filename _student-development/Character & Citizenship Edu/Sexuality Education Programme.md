@@ -57,7 +57,7 @@ At Naval Base Secondary School, the following lessons from The Sexuality Educati
 
 9-	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/67908afbaaafa93a925b50c3) The completed form is to be submitted by 19/02/2025. 
 
-10-	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/67908e52a3dde37902840951) / [Online form](https://form.gov.sg/658ecf7e341230001179e607)
+10-	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/67908e52a3dde37902840951) 
 The completed form is to be submitted by 19/02/2025.
 
 11-	Parents can contact the school at nbss@moe.edu.sg or 6257 1996 for discussion or to seek clarification about the school’s Sexuality Education programme.
