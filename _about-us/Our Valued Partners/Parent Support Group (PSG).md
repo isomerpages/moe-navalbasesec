@@ -38,16 +38,15 @@ thus helping them to reach their potential.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
 </p>
+<p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
+</p>
 <p>Please click [<a href="https://forms.gle/STQdiX6nmEFTjjn29" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
 to join our parent support group!</p>
-<p><strong><u>2024 PSG Calendar of Events</u></strong>
+<p><strong><u>2025 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture1.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Capture3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Calendar_of_Events__21_Jan_School_Webpage.jpg">
 </div>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
@@ -55,7 +54,11 @@ to join our parent support group!</p>
 <p>Here are some resources for parents:&nbsp;</p>
 <p><strong>&nbsp;Quick Links</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,7 +76,11 @@ learn how to set up a PSG, sustain their involvement, and plan for succession.</
 </table>
 <p>&nbsp;<strong>&nbsp;Resources for PSGs</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
