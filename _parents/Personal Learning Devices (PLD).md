@@ -26,8 +26,7 @@ additional information on the NDLP</p>
 <br><a href="/files/2025 pdlp/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2025</a>
 </p>
 <p><a href="/files/ICT 2024/Frequently_Asked_Questions_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP</a>
-</p>
-<p><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
+<br><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
 </p>
 <p><strong><u>Jamf DMA parent option guide</u></strong>
 </p>
