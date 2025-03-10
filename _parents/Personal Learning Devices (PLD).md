@@ -26,10 +26,14 @@ additional information on the NDLP</p>
 <br><a href="/files/2025 pdlp/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2025</a>
 </p>
 <p><a href="/files/ICT 2024/Frequently_Asked_Questions_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions PDLP</a>
+<br><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
 </p>
-<p><a href="/files/Apple_Support_Guide_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Apple_Support_Guide</a>
+<p><strong><u>Jamf DMA parent option guide</u></strong>
 </p>
-<p></p>
+<p><a href="/files/2025 parent option guide/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default option</a>
+<br><a href="/files/2025 parent option guide/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
+<br><a href="/files/2025 parent option guide/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">Option B</a>
+</p>
 <h5><strong>Device information</strong></h5>
 <p><strong>iPad Spec (3 years apple care warranty and 3 years Insurance warranty)</strong>
 </p>
