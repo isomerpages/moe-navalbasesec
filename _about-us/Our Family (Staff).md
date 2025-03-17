@@ -707,10 +707,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharine Koh</p>
+<p>Ms Cassandra Loo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -723,10 +723,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sharine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Administration Executive</p>
 </td>
 </tr>
 </tbody>
