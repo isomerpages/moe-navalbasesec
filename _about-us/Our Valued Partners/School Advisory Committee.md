@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Valued Partners
 variant: tiptap
 ---
-<p>Term of Office: 1 Oct 2022 to 30 Sep 2024</p>
+<p>Term of Office: 1 Oct 2024 to 30 Sep 2026</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,11 +86,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Secretariat</p>
+<p>Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Shahari B Abu Bakar</p>
+<p>Ms Cassandra Loo</p>
 </td>
 </tr>
 </tbody>
