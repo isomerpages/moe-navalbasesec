@@ -43,5 +43,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<img src="/images/hu2.png"><br>
-<img src="/images/hu3.png">
+<br>
