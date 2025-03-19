@@ -2,6 +2,7 @@
 title: Our Achievements
 permalink: /about-us/Achievements/permalink/
 description: ""
+variant: markdown
 ---
 # Bouquets &amp; Awards
 #### Navalites in our Community: Compliments from the Public
@@ -29,21 +30,7 @@ I had the fortune to have a very pleasant encounter with 3 NBSS students *(pictu
 
 ![](/images/bnc1.jpeg)
 
-**September 2021**
 
-I was at Yishun Public Library on Monday, 20 Sep 2021. While browsing through the Children's Section, a few magazines dropped onto the floor as the plastic rack broke. I was holding on to many books in one hand so it was rather challenging for me to pick the magazines up to put them in place. Just as I was struggling, Zi Qian, a student from 4-6, came over to help. She was studying in a little corner near me when she saw what happened. Although I didn't ask for help, she willingly came forward to extend her assistance. I'm truly grateful for her kind gesture, and I'm so heartened to see such youths in our society! I'm proud of Zi Qian, and many Navalites who have shown us what true character is really about!
-
-**March 2021**
-
-I am writing in as a parent of children studying in Peiying Primary School. As you are aware, the school is neighbouring to Naval Base Secondary School and they share the roads and many crossings through the neighbourhood. 
-
-My purpose of writing in is to commend on the security personnel at your school, I was not able to get his name but I believe there's only one. He has been ever present whenever I send / fetch my children to and from school. He has always greeted us with warm greetings even though we are not with NBSS. He has always ensure anyone passing the front and back gates of the school have a safe passage and walk away with a happy greeting no matter the time of the day. 
-
-There was an instance where there were children from PYPS trying to cross the road after school but due to heavy traffic they could not, he took the responsibility to step out and stop the cars to allow the children to cross, this really puts my heart at ease knowing that if at times I'm unable to fetch my children and they were to go home on their own, there is someone there to keep a lookout for them at these dangerous crossings. 
-
-It is definitely a bonus for the school to have a heart warming, caring and responsible security guard at your gates and I am happy to be seeing him around~
-
-Thank you for taking time in reading my feedback.
 
 #### Our Navalites' Achievements
 
@@ -60,8 +47,7 @@ Thank you for taking time in reading my feedback.
 * **April 2022:** Khaing Min Htet Aung was awarded Second Prize at the ACJC Orator's Trophy competition
 * **March 2022:** Lai Xin Xuan Geraine won fourth prize in the Crime Prevention Advisory Poster Design Competition organised by the Woodlands Police Division
 * **March 2022:** Five artworks by Navalites were selected for display on the hoarding boards that surround Chong Pang Community Centre, as it undergoes a five-year redevelopment. The Navalites are: Bediones Rochelle Chloe Belisario, Indraneel Shivram, Li Bingyu, Ng Tricia Eyonna and Shukira Arisha Binte Shukor
-* **October 2021:** A photo story by Onquit Jake Davis Areglo won the "Best Story" prize in the "Our Schools, Our Stories" Photo &amp; Video Contest, and went on exhibition across various spaces islandwide
-* **October 2021:** Destinee Chee Tong En's artwork "Brand New Beginnings" received a Special Mention at the Live On Festival (LOF) 2021 Design Competition
+
 
 
 ##### Co-Curricular Achievements
