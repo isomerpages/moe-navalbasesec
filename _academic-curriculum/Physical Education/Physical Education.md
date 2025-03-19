@@ -16,4 +16,3 @@ variant: markdown
 <p>Games - Football, Basketball, Frisbee, Floor ball, Badminton, Softball <br>Napfa testing, Outdoor Education, Physical Health and Fitness and Inter class competitions</p>
 <p><strong>Key Programmes</strong></p>
 <img src="/images/pe1.png"><br>
-<img src="/images/pe2.png">
