@@ -36,6 +36,12 @@ I had the fortune to have a very pleasant encounter with 3 NBSS students *(pictu
 
 ##### Academic Achievements
 
+* **Oct 2024:** Ng Jun Yang Adam Yusuf Muhamad was a Gold Finalist in the Queen's Commonwealth Essay Competition; 
+*
+Harith Irfan and Joji Quah obtained Bronze Awards for the Game Making and Animation Competition organised by MOE Curriculum Planning and Development Division (CPDD)
+
+* **Oct 2023** NBSS was presented an award for Project Plant Whisperer, as part of the 2023 Empowering STEM Education Professionals Programme.
+
 
 * **March 2023:** An NBSS delegation took part in the National Youth Environmental Conference organised by Nan Hua High School. Lee Hui Xuan was awarded "Best Design" for the segment "Delegates in Action"
 * **February 2023:** The Queen's Commonwealth Essay Competition 2022
@@ -51,6 +57,23 @@ I had the fortune to have a very pleasant encounter with 3 NBSS students *(pictu
 
 
 ##### Co-Curricular Achievements
+
+**March 2025:**
+
+Ho Jia Xin Belinda was awarded the prestigious SPF-NPCC Badge
+
+**2025 Singapore Youth Festival Arts Presentation**
+
+*Certificate of Distinction*
+* Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group
+
+**Nov 2023** NBSS clinched the prestigious Vanda Miss Joaquim Award at the Schools Green Award 2023 in recognition of our dedication to nuturturing eco-stewards and championing environmental efforts.
+
+**Sep 2023** Lau Roxann received the prestigious Baden-Powell Award at the Guide Awards Ceremony. 
+
+NBSS was also conferred the Puan Noor Aishah Award (Gold).
+
+**July 2023** Liu Jia Wen, Chen Siling Charlene and Tiffany Tan Le Ying were one of the finalists who presented their app, Zen Buddy at the Swift Explorer's Singapore. 
 
 **2023 Singapore Youth Festival Arts Presentation**
 
