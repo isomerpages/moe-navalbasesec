@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements/.keep
-      - Our Achievements/Navalites.md
-      - Our Achievements/Staff.md
-      - Our Achievements/Community.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
       - Our School Song.md
       - Our Campus.md
+      - Our Achievements/.keep
+      - Our Achievements/Navalites.md
+      - Our Achievements/Staff.md
+      - Our Achievements/Community.md
       - Our Achievements.md
       - Social Media.md
       - Our Family (Staff).md
