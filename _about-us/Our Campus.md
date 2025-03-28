@@ -44,7 +44,7 @@ environment for creative expression, conversation and learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our Plaza</p>
+<p>Our Eco and Koi Ponds</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Starboard</p>
@@ -57,7 +57,7 @@ environment for creative expression, conversation and learning.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Plaza" src="/images/2025 campus/Our_Plaza.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Eco and Koi Ponds" src="/images/2025 campus/Our_Eco_and_Koi_Ponds.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ environment for creative expression, conversation and learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Our Eco and Koi Ponds</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Library – The Horizon</p>
@@ -97,9 +97,6 @@ environment for creative expression, conversation and learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Eco and Koi Ponds" src="/images/2025 campus/Our_Eco_and_Koi_Ponds.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
