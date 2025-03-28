@@ -9,12 +9,12 @@ third_nav_title: Our Achievements
 <p><strong>Academic Achievements</strong>
 </p>
 <p>Oct 2024: Ng Jun Yang Adam Yusuf Muhamad was a Gold Finalist in the Queen's
-Commonwealth Essay Competition;</p>
+Commonwealth Essay Competition</p>
 <p>Harith Irfan and Joji Quah obtained Bronze Awards for the Game Making
 and Animation Competition organised by MOE Curriculum Planning and Development
 Division (CPDD)</p>
-<p>Oct 2023 NBSS was presented an award for Project Plant Whisperer, as part
-of the 2023 Empowering STEM Education Professionals Programme.</p>
+<p>Oct 2023: NBSS was presented an award for Project Plant Whisperer, as
+part of the 2023 Empowering STEM Education Professionals Programme.</p>
 <p>March 2023: An NBSS delegation took part in the National Youth Environmental
 Conference organised by Nan Hua High School. Lee Hui Xuan was awarded "Best
 Design" for the segment "Delegates in Action"</p>
