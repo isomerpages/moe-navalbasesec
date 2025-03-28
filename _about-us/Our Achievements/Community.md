@@ -1,7 +1,7 @@
 ---
 title: Community
 permalink: /community/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
@@ -51,3 +51,13 @@ helped me. Not only were they helpful, they were very courteous. They are
 good ambassadors of the school. I believe that affirmation from the school
 would encourage these girls to continue to be kind and helpful to the less
 IT-savvy older generation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bnc1.jpg">
+</div>
+<p></p>
+<p><strong>Organisational Achievements</strong>
+</p>
+<p>2022 Singapore Environment Council School Green Awards</p>
+<p>Naval Base Secondary School was accorded the Yellow Flame Award, the category
+just below the pinnacle Vanda Miss Joaquim Award</p>
