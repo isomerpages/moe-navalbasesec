@@ -2,34 +2,124 @@
 title: Our Campus
 permalink: /about-us/our-campus/our-campus/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/camp1.jpg">
-
-
-### Welcome to Our Home!
-NBSS aims to be a caring school for our community to live, work and play in, where the human character flourishes. 
-	
-The school's Khatib campus is designed around the following three concepts, which seek to make the school a welcoming and safe home for both staff and students, as well as an inviting space for partners and visitors for collaboration and learning.
-
-##### (1) A School as a Big Learning Space
-As Navalites move around school daily, they have multiple opportunities to learn and find out more about the world. From staircases decorated with decals of mathematical formulae, to garden plots with food crops, Navalites are able to learn more about life and the world just by moving around school.
-	
-##### (2) A School in a Garden
-Visitors to NBSS are often struck by the amount of green they see, and marvel at the meticulously-manicured landscaping. We are particularly proud of the variety of green spaces scattered around the school, from our sprawling artificially-turfed Plaza, to the ever-popular Starboard tables. Navalites relish being in the airy outdoor spaces and embrace them as much as Singapore has embraced its reputation as a Garden City.
-	
-##### (3) A School as a Giant Art Gallery
-The entire school campus has been converted to a large art gallery displaying artworks created by students, staff, parents and other stakeholders. There are artworks on the walls, floors and ceilings, in waterscapes and landscapes, indoors as well as outdoors and on every floor of the school building. The artworks range from individual creations to large-scale collective installations. The increasingly rich repertoire of artistic expressions, styles, forms and themes provide a stimulating environment for cross-fertilisation of ideas and for team learning and growth.
-<img style="width: 65%;" src="/images/sch.jpg">
-
-The artworks are displayed according to a larger curatorial concept. Each floor of the school building focuses on a specific ecological stratum that represents an aspect of nature or life.
-
-* Level 1 Exhibits depict sea and landscapes, with water features, gardens and parks.
-* Level 2 Exhibits depict close-range renditions of trees, flowers, animals and insects.
-* Level 3 Exhibits depict bird-eye views of landscapes and nature.
-* Level 4 Exhibits depict space, the universe and abstract concepts, including the surreal.
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfYX8PqCO1ERyCv7T2f6K5fh94mfRMugfSCJFj6NUQkwcNo9m60ky3LdRn1jFfcA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-#### Explore Our Campus Virtually!
-View the series of videos below to experience the different highlights of our campus and immerse yourself in our learning environment!
-<iframe src="https://www.youtube.com/embed/-1dlQJO_msg" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/camp1.jpg">
+</div>
+<h3>Welcome to Our Home!</h3>
+<p>Our campus provides a welcoming and safe learning and working environment
+for both students and staff. It is designed around 3 key concepts of (1)
+School as a Big Learning Space (2) School in a Garden and (3) School as
+a Giant Art Gallery.</p>
+<p>Find out more below!</p>
+<p></p>
+<h5>(1) A School as a Big Learning Space</h5>
+<p>As Navalites move around in school, they have multiple opportunities to
+interact with one another and learn from learning spaces outside of their
+classrooms, from the Horizon – our school library, to our hydroponics and
+aquaponics stations and therapeutic garden.</p>
+<h5>(2) A School in a Garden</h5>
+<p>Through our landscaping and environmental efforts, we have created a variety
+of green spaces around school, from our sprawling artificially turfed Plaza,
+to Starboard, a sheltered outdoor self-study and activity area. Navalities
+relish being in the airy outdoor spaces and enjoy social activities or
+self-study during their recess and lunch breaks, and after school.</p>
+<h5>(3) A School as a Giant Art Gallery</h5>
+<p>The school acts as a large art gallery displaying artworks created by
+students, staff, parents and other stakeholders. There are artworks on
+the walls along the corridors, staircases, indoors and outdoors, and on
+every floor of the school building. The artworks range from individual
+creations to larger collective installations. The increasingly rich repertoire
+of artistic expressions, styles, forms and themes provide a stimulating
+environment for creative expression, conversation and learning.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Eco and Koi Ponds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Starboard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Lilliput Green</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Eco and Koi Ponds" src="/images/2025 campus/Our_Eco_and_Koi_Ponds.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Starboard" src="/images/2025 campus/Our_Starboard.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Lilliput Green" src="/images/2025 campus/Our_Liliput_Green.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Plaza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Library – The Horizon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Canteen – The Harbour</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Plaza" src="/images/2025 campus/Our_Plaza.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Library – The Horizon" src="/images/2025 campus/Our_Library___The_Horizon.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Canteen – The Harbour" src="/images/2025 campus/Our_Canteen___The_Harbour.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>Our Legacy</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfYX8PqCO1ERyCv7T2f6K5fh94mfRMugfSCJFj6NUQkwcNo9m60ky3LdRn1jFfcA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h4></h4>
+<p></p>

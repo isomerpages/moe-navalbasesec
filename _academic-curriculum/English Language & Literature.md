@@ -2,20 +2,58 @@
 title: English Language & Literature
 permalink: /nbss-curriculum/english-language-n-literature/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs27YtNfYbCEOjvcHTEgrWI_Nhd0MA9hKqCvO8Y5V8TkV_zEi3Wd8SD3pFYQGUGQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<p>Oliver Wendell&nbsp;Holmes once said, "Language is the blood of the soul into which thoughts run and out of which they grow." In Naval Base Secondary School, the English Language &amp; Literature Department believes that the English Language plays an important role - communication. This means being able to think and interact with others in order to understand and be understood.&nbsp;</p>
-<p>To develop Navalites to be effective users of the language, the department has put in place strategies and programmes to enhance their skills in reading, writing, listening and speaking. For instance, our&nbsp;<strong>Reading Programme</strong>&nbsp;seeks to expose Navalites to different text-types and genres. Navalites are also engaged in a range of exciting language learning experiences such as public speaking, language games, creating engaging podcasts, and participating in class debates. Through all these experiences, Navalites are introduced to thinking routines that guide them in idea generation and making their thinking visible.&nbsp;</p>
-<p>Navalites can look forward to an engaging&nbsp;<strong>Literature curriculum</strong>, offered at the lower secondary levels, and as an Elective Humanities subject at the upper secondary level. Literature in English further encourages Navalites to be critical thinkers as they examine the purposeful use of language for impact and in bringing alive the characters, plot, setting, atmosphere, and theme. Through engaging and connecting with the texts, Navalites will also develop a keen interest on societal issues and learn to appreciate different perspectives.</p>
-<p><strong>Teaching &amp; Learning - English Language &amp; Literature</strong></p>
-<p><iframe src="https://www.youtube.com/embed/9qoouA_y_Ik" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe><br></p>
-<img style="width: 65%;" src="/images/el1.jpg">
-<p><strong>Engaging in Socratic Seminars</strong></p>
-<img style="width: 45%;" src="/images/el2.jpg">
-<p><strong>Video-conferencing with fellow students</strong></p>
-<img style="width: 45%;" src="/images/el3.jpg">
-<p><strong>Creating podcasts on issues we care about</strong></p>
-<img style="width: 65%;" src="/images/el4.jpg">
-<p><strong>Immersive writing environments – describing the beauty around us</strong></p>
+<p>At NBSS, the English Department cultivates confident communicators and
+critical thinkers through an engaging and authentic curriculum. Each year,
+Navalites participate in real-world tasks such as producing food vlogs,
+creating podcasts, and engaging in debates. The thematically linked units
+of work and the 3E approach to enrichment programmes expose Navalites to
+diverse issues and develop them to be critical thinkers, empathetic listeners
+and effective communicators.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_03_28_164137.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Group_Shot__Prize_Winners___2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230308_135753.jpg">
+</div>
+<p>Beyond the classroom, learning journeys deepen students’ understanding
+of language and society. Secondary Three students visit Little India to
+explore the challenges faced by migrant workers, gaining insights through
+an interdisciplinary collaboration with the Social Studies and Citizenship
+Education team.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prejudice_Trail_2.jpg">
+</div>
+<p>Programmes such as <em>Grammar Around the School</em> refine language skills
+by addressing common grammar and academic writing challenges. To encourage
+creative expression, the department organises an <em>Intra-school Narrative Writing Competition</em> and
+submits student entries to national competitions, including the <em>Creative Arts Programme</em> and <em>Live On! Writing Competition</em>.
+Selected works are published in <em>Ink and Inspiration</em>, celebrating
+students' literary talents.</p>
+<p>Literature comes alive through immersive experiences. The biennial <em>Get Lit!</em> festival
+engages lower secondary students with interactive activities such as Escape
+Rooms and puzzles. Upper Secondary students expand their literary appreciation
+by attending live performances at venues like the Victoria Theatre, where
+they engage with directors and performers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240420_135113__1__compressed.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GetLitWordsWandsWizards2__1_.jpg">
+</div>
+<p>To foster a strong reading culture, <em>Reading Ambassadors</em> lead initiatives
+such as book talks, movie screenings, and craft sessions, inspiring their
+peers while honing their confidence.</p>
+<p>Through these initiatives, the English Department empowers Navalites with
+the skills to communicate effectively, think critically, and develop a
+lifelong appreciation for language and literature.</p>
+<p></p>
