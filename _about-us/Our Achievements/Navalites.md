@@ -9,8 +9,8 @@ third_nav_title: Our Achievements
 <p><strong>Academic Achievements</strong>
 </p>
 <p><strong>Oct 2024:</strong> Ng Jun Yang Adam Yusuf Muhamad was a Gold Finalist
-in the Queen's Commonwealth Essay Competition</p>
-<p>Harith Irfan and Joji Quah obtained Bronze Awards for the Game Making
+in the Queen's Commonwealth Essay Competition.
+<br>Harith Irfan and Joji Quah obtained Bronze Awards for the Game Making
 and Animation Competition organised by MOE Curriculum Planning and Development
 Division (CPDD)</p>
 <p><strong>Oct 2023:</strong> NBSS was presented an award for Project Plant
