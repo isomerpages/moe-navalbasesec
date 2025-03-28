@@ -48,9 +48,8 @@ and Shukira Arisha Binte Shukor</p>
 SPF-NPCC Badge</p>
 <p><strong>2025 Singapore Youth Festival Arts Presentation</strong>
 </p>
-<p><strong>Certificate of Distinction</strong>
-</p>
-<p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
+<p><strong>Certificate of Distinction </strong>
+<br>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
 <p><strong>Nov 2023:</strong> NBSS clinched the prestigious Vanda Miss Joaquim
 Award at the Schools Green Award 2023 in recognition of our dedication
 to nuturturing eco-stewards and championing environmental efforts.</p>
