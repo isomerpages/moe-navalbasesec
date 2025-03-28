@@ -77,7 +77,8 @@ given by the Chief Commissioner to a Girl Guide</p>
 <p>Individual accolade: Muhammad Alif Bin Abdullah was accorded the Best
 Sportsboy Award for Sepak Takraw at the Singapore Schools Sports Council
 Colours Award</p>
-<p>2022 Clubs &amp; Societies</p>
+<p><strong>2022 Clubs &amp; Societies</strong>
+</p>
 <p>Art Club: Selection for SYF2022 Art Exhibition: "Repeated Openings" by
 Wee Wenrou Castillo, and "The Destruction of Creation" by Cheng Wei En
 Moses &amp; Indraneel Shivram</p>
