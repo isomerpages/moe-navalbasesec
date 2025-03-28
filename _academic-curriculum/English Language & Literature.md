@@ -4,11 +4,9 @@ permalink: /nbss-curriculum/english-language-n-literature/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs27YtNfYbCEOjvcHTEgrWI_Nhd0MA9hKqCvO8Y5V8TkV_zEi3Wd8SD3pFYQGUGQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
 <p>At NBSS, the English Department cultivates confident communicators and critical thinkers through an engaging and authentic curriculum. Each year, Navalites participate in real-world tasks such as producing food vlogs, creating podcasts, and engaging in debates. The thematically linked units of work and the 3E approach to enrichment programmes expose Navalites to diverse issues and develop them to be critical thinkers, empathetic listeners and effective communicators. 
 
-   ![](/images/Screenshot_2025_03_28_164137.png)   
+![](/images/Screenshot_2025_03_28_164137.png)   
 
 ![Secondary 4 Inter-class Debates](/images/01_Group_Shot__Prize_Winners___2_.jpg)
 	
@@ -26,7 +24,6 @@ Literature comes alive through immersive experiences. The biennial _Get Lit!_ fe
 ![Theatre Experience](/images/20240420_135113__1__compressed.jpg)
 
 To foster a strong reading culture, _Reading Ambassadors_ lead initiatives such as book talks, movie screenings, and craft sessions, inspiring their peers while honing their confidence.
-
-	![Hobbies Workshop at the Library](/images/20240219_154029.jpg)
+![Hobbies Workshop at the Library](/images/20240219_154029.jpg)
 
 Through these initiatives, the English Department empowers Navalites with the skills to communicate effectively, think critically, and develop a lifelong appreciation for language and literature. </p>
