@@ -14,7 +14,6 @@ School as a Big Learning Space (2) School in a Garden and (3) School as
 a Giant Art Gallery.</p>
 <p>Find out more below!</p>
 <p></p>
-<p></p>
 <h5>(1) A School as a Big Learning Space</h5>
 <p>As Navalites move around in school, they have multiple opportunities to
 interact with one another and learn from learning spaces outside of their
