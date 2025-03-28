@@ -1,7 +1,7 @@
 ---
 title: Community
 permalink: /community/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
@@ -39,3 +39,15 @@ Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe
 Lim Xinyu (pictured below) was produced for display across a few MRT pillars
 in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians
 about road safety, and the importance of looking out for one another.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xin_yu_pillar.jpg">
+</div>
+<p></p>
+<p>February 2022</p>
+<p>I had the fortune to have a very pleasant encounter with 3 NBSS students
+(pictured below) who did their school proud with their exemplary behaviour.
+I was having problems navigating the self-service machine when they enthusiastically
+helped me. Not only were they helpful, they were very courteous. They are
+good ambassadors of the school. I believe that affirmation from the school
+would encourage these girls to continue to be kind and helpful to the less
+IT-savvy older generation.</p>
