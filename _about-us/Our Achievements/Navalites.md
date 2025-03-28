@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
-<h4>Our Navalites' Achievements</h4>
-<p><strong>Academic Achievements</strong>
-</p>
+<h4><strong>Our Navalites' Achievements</strong></h4>
+<h4>Academic Achievements</h4>
 <p><strong>Oct 2024:</strong> Ng Jun Yang Adam Yusuf Muhamad was a Gold Finalist
 in the Queen's Commonwealth Essay Competition.
 <br>Harith Irfan and Joji Quah obtained Bronze Awards for the Game Making
@@ -43,8 +42,7 @@ display on the hoarding boards that surround Chong Pang Community Centre,
 as it undergoes a five-year redevelopment. The Navalites are: Bediones
 Rochelle Chloe Belisario, Indraneel Shivram, Li Bingyu, Ng Tricia Eyonna
 and Shukira Arisha Binte Shukor</p>
-<p><strong>Co-Curricular Achievements</strong>
-</p>
+<h4>Co-Curricular Achievements</h4>
 <p><strong>March 2025:</strong> Ho Jia Xin Belinda was awarded the prestigious
 SPF-NPCC Badge</p>
 <p><strong>2025 Singapore Youth Festival Arts Presentation</strong>
