@@ -16,7 +16,6 @@ third_nav_title: Our Achievements
 </div>
 <p>
 <br>
-<br>
 <br><strong>2022 National Day Commendation Medal</strong>
 </p>
 <p>Mr Lim Seow Kuan (Vice-Principal)</p>
