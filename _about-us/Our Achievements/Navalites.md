@@ -62,7 +62,6 @@ Singapore.</p>
 <p>Choir (also featured in Minister Chan Chun Sing's social media post here)</p>
 <p>Modern Dance</p>
 <p>Symphonic Band</p>
-<p>Pending Announcement</p>
 <p>Drama</p>
 <p>2022 Uniformed Groups</p>
 <p>NCC: Gold Medal</p>
