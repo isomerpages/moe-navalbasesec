@@ -20,10 +20,12 @@ third_nav_title: Our Achievements
 </p>
 <p>Mr Lim Seow Kuan (Vice-Principal)</p>
 <p>Mdm Faridah Bte Abdul Hamid (Year Head)</p>
-<p>2022 National Day Long Service Award</p>
+<p><strong>2022 National Day Long Service Award</strong>
+</p>
 <p>Mrs Siti Osman (Senior Teacher, Art)</p>
 <p>Mr Velukutty Ravindranath (Teacher, Tamil Language)</p>
-<p>2022 Associate of Academy of Singapore Teachers</p>
+<p><strong>2022 Associate of Academy of Singapore Teachers</strong>
+</p>
 <p>Ms Tay Chee Joo Edna (Lead Teacher, PE)</p>
 <p>Ms Huang Peishi (Senior Teacher, Geography)</p>
 <p></p>
