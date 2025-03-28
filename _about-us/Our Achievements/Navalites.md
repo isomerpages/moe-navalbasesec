@@ -56,16 +56,19 @@ one of the finalists who presented their app, Zen Buddy at the Swift Explorer's
 Singapore.</p>
 <p><strong>2023 Singapore Youth Festival Arts Presentation</strong>
 </p>
-<p>Certificate of Distinction</p>
-<p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
-<p>Indian Dance</p>
-<p>Certificate of Accomplishment</p>
+<p><strong>Certificate of Distinction</strong>
+</p>
+<p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group
+<br>Indian Dance</p>
+<p><strong>Certificate of Accomplishment</strong>
+</p>
 <p>Choir (also featured in Minister Chan Chun Sing's social media post
-<a href="https://www.facebook.com/ChanChunSing.SG/videos/3365925413721875/" rel="noopener nofollow" target="_blank">here</a>)</p>
-<p>Modern Dance</p>
-<p>Symphonic Band</p>
-<p>Drama</p>
-<p>2022 Uniformed Groups</p>
+<a href="https://www.facebook.com/ChanChunSing.SG/videos/3365925413721875/" rel="noopener nofollow" target="_blank">here</a>)
+<br>Modern Dance
+<br>Symphonic Band
+<br>Drama</p>
+<p><strong>2022 Uniformed Groups</strong>
+</p>
 <p>NCC: Gold Medal</p>
 <p>NPCC: Gold Medal</p>
 <p>St John Brigade: Gold Medal (Chief Commissioner's Badge awarded to Lim
