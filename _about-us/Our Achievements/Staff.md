@@ -6,11 +6,15 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
+<p>2024 MSEA</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_.jpg">
+</div>
+<p>2023 MSEA</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023.png">
+</div>
 <p>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br><strong>2022 National Day Commendation Medal</strong>
@@ -27,3 +31,4 @@ third_nav_title: Our Achievements
 <p><strong>2022 Singapore Hokkien Huay Kuan LEAP Award</strong>
 </p>
 <p>Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)</p>
+<p></p>
