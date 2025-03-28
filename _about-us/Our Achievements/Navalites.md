@@ -61,21 +61,19 @@ Tan Le Ying were one of the finalists who presented their app, Zen Buddy
 at the Swift Explorer's Singapore.</p>
 <p><strong>2023 Singapore Youth Festival Arts Presentation</strong>
 </p>
-<p><strong>Certificate of Distinction</strong>
-</p>
-<p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group
+<p><strong>Certificate of Distinction </strong>
+<br>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group
 <br>Indian Dance</p>
-<p><strong>Certificate of Accomplishment</strong>
-</p>
-<p>Choir (also featured in Minister Chan Chun Sing's social media post
+<p><strong>Certificate of Accomplishment </strong>
+<br>Choir (also featured in Minister Chan Chun Sing's social media post
 <a href="https://www.facebook.com/ChanChunSing.SG/videos/3365925413721875/" rel="noopener nofollow" target="_blank">here</a>)
 <br>Modern Dance
 <br>Symphonic Band
 <br>Drama</p>
 <p><strong>2022 Uniformed Groups</strong>
 </p>
-<p>NCC: Gold Medal</p>
-<p>NPCC: Gold Medal</p>
+<p>NCC: Gold Medal
+<br>NPCC: Gold Medal</p>
 <p>St John Brigade: Gold Medal (Chief Commissioner's Badge awarded to Lim
 Yong Ting, Low Xin Yu Jolie &amp; Tan Leena)</p>
 <p>Girl Guides: Patrol Leader Suresh Umameshwari and Company Leader Vinodeaswar
