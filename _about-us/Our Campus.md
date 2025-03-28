@@ -85,18 +85,21 @@ environment for creative expression, conversation and learning.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Plaza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Our Library – The Horizon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Canteen – The Harbour</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Plaza" src="/images/2025 campus/Our_Plaza.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
