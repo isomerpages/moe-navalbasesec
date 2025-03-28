@@ -33,16 +33,6 @@ will be something I will remember for a long time to come. 😊</p>
 <p>Do feel free to contact me if you require any more information and I hope
 this commendation will be passed on to Alfiyah as well as her teachers
 who have done a wonderful job teaching her class.</p>
-<p>July 2022</p>
-<p>In collaboration with our partners from Yishun South Neighbourhood Police
-Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe
-Lim Xinyu (pictured below) was produced for display across a few MRT pillars
-in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians
-about road safety, and the importance of looking out for one another.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xin_yu_pillar.jpg">
-</div>
-<p></p>
 <p>February 2022</p>
 <p>I had the fortune to have a very pleasant encounter with 3 NBSS students
 (pictured below) who did their school proud with their exemplary behaviour.
@@ -54,6 +44,16 @@ IT-savvy older generation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bnc1.jpg">
+</div>
+<p></p>
+<p>July 2022</p>
+<p>In collaboration with our partners from Yishun South Neighbourhood Police
+Centre, Land Transport Authority and SMRT, a digital artwork by Phoebe
+Lim Xinyu (pictured below) was produced for display across a few MRT pillars
+in the Khatib vicinity. The poster is intended to remind cyclists and pedestrians
+about road safety, and the importance of looking out for one another.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xin_yu_pillar.jpg">
 </div>
 <p></p>
 <p><strong>Organisational Achievements</strong>
