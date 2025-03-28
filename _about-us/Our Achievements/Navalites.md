@@ -20,6 +20,7 @@ Programme.</p>
 Youth Environmental Conference organised by Nan Hua High School. Lee Hui
 Xuan was awarded "Best Design" for the segment "Delegates in Action"</p>
 <p><strong>February 2023:</strong> The Queen's Commonwealth Essay Competition
+<br>
 <br>Senior Category (Gold): Vernice Koh; Senior Category (Silver): DS Dhanvin,
 Sam Alexander; Senior Category (Bronze): Erin Nazira, Tan Ci Hui
 <br>Junior Category (Gold): Poh Yu Xin, Lyne; Junior Category (Silver): Jaivarthini
