@@ -18,10 +18,10 @@ part of the 2023 Empowering STEM Education Professionals Programme.</p>
 <p>March 2023: An NBSS delegation took part in the National Youth Environmental
 Conference organised by Nan Hua High School. Lee Hui Xuan was awarded "Best
 Design" for the segment "Delegates in Action"</p>
-<p>February 2023: The Queen's Commonwealth Essay Competition 2022</p>
+<p>February 2023: The Queen's Commonwealth Essay Competition</p>
 <p>Senior Category (Gold): Vernice Koh; Senior Category (Silver): DS Dhanvin,
-Sam Alexander; Senior Category (Bronze): Erin Nazira, Tan Ci Hui</p>
-<p>Junior Category (Gold): Poh Yu Xin, Lyne; Junior Category (Silver): Jaivarthini
+Sam Alexander; Senior Category (Bronze): Erin Nazira, Tan Ci Hui
+<br>Junior Category (Gold): Poh Yu Xin, Lyne; Junior Category (Silver): Jaivarthini
 Vigneshwaran; Junior Category (Bronze): Tan Wee Qin, Melissa</p>
 <p>November 2022: Amber Pan Xian Ern's artwork was commissioned by the Dyslexia
 Association of Singapore, for presentation to our Director-General of Education,
