@@ -54,12 +54,14 @@ Guide Awards Ceremony.</p>
 <p>July 2023: Liu Jia Wen, Chen Siling Charlene and Tiffany Tan Le Ying were
 one of the finalists who presented their app, Zen Buddy at the Swift Explorer's
 Singapore.</p>
-<p>2023 Singapore Youth Festival Arts Presentation</p>
+<p><strong>2023 Singapore Youth Festival Arts Presentation</strong>
+</p>
 <p>Certificate of Distinction</p>
 <p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
 <p>Indian Dance</p>
 <p>Certificate of Accomplishment</p>
-<p>Choir (also featured in Minister Chan Chun Sing's social media post here)</p>
+<p>Choir (also featured in Minister Chan Chun Sing's social media post
+<a href="https://www.facebook.com/ChanChunSing.SG/videos/3365925413721875/" rel="noopener nofollow" target="_blank">here</a>)</p>
 <p>Modern Dance</p>
 <p>Symphonic Band</p>
 <p>Drama</p>
