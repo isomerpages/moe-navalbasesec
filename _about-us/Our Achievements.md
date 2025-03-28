@@ -9,8 +9,8 @@ variant: tiptap
 <p><strong>August 2022</strong>
 </p>
 <p>I am writing in to you as I would like to commend one of your student,
-Alfiyah, from Class 3-5. 😊</p>
-<p>I attended the National Day Parade two days back with my family. As we
+Alfiyah, from Class 3-5. 😊
+<br>I attended the National Day Parade two days back with my family. As we
 arrived earlier, we had to sit in the hot afternoon sun for about 1.5 hours.
 My 3.5yo toddler was getting increasingly grumpy as he was sweaty and heat
 rash appeared on his neck. I used the foldable fan to fan him and continuously
