@@ -2,12 +2,13 @@
 title: Our Campus
 permalink: /about-us/our-campus/our-campus/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/camp1.jpg">
 </div>
 <h3>Welcome to Our Home!</h3>
+<p></p>
 <p>NBSS aims to be a caring school for our community to live, work and play
 in, where the human character flourishes.</p>
 <p>The school's Khatib campus is designed around the following three concepts,
@@ -41,6 +42,44 @@ of ideas and for team learning and growth.</p>
 <p>The artworks are displayed according to a larger curatorial concept. Each
 floor of the school building focuses on a specific ecological stratum that
 represents an aspect of nature or life.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Our Legacy</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfYX8PqCO1ERyCv7T2f6K5fh94mfRMugfSCJFj6NUQkwcNo9m60ky3LdRn1jFfcA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
