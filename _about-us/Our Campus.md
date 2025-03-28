@@ -8,37 +8,32 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/camp1.jpg">
 </div>
 <h3>Welcome to Our Home!</h3>
+<p>Our campus provides a welcoming and safe learning and working environment
+for both students and staff. It is designed around 3 key concepts of (1)
+School as a Big Learning Space (2) School in a Garden and (3) School as
+a Giant Art Gallery.</p>
+<p>Find out more below!</p>
 <p></p>
-<p>NBSS aims to be a caring school for our community to live, work and play
-in, where the human character flourishes.</p>
-<p>The school's Khatib campus is designed around the following three concepts,
-which seek to make the school a welcoming and safe home for both staff
-and students, as well as an inviting space for partners and visitors for
-collaboration and learning.</p>
+<p></p>
 <h5>(1) A School as a Big Learning Space</h5>
-<p>As Navalites move around school daily, they have multiple opportunities
-to learn and find out more about the world. From staircases decorated with
-decals of mathematical formulae, to garden plots with food crops, Navalites
-are able to learn more about life and the world just by moving around school.</p>
+<p>As Navalites move around in school, they have multiple opportunities to
+interact with one another and learn from learning spaces outside of their
+classrooms, from the Horizon – our school library, to our hydroponics and
+aquaponics stations and therapeutic garden.</p>
 <h5>(2) A School in a Garden</h5>
-<p>Visitors to NBSS are often struck by the amount of green they see, and
-marvel at the meticulously-manicured landscaping. We are particularly proud
-of the variety of green spaces scattered around the school, from our sprawling
-artificially-turfed Plaza, to the ever-popular Starboard tables. Navalites
-relish being in the airy outdoor spaces and embrace them as much as Singapore
-has embraced its reputation as a Garden City.</p>
+<p>Through our landscaping and environmental efforts, we have created a variety
+of green spaces around school, from our sprawling artificially turfed Plaza,
+to Starboard, a sheltered outdoor self-study and activity area. Navalities
+relish being in the airy outdoor spaces and enjoy social activities or
+self-study during their recess and lunch breaks, and after school.</p>
 <h5>(3) A School as a Giant Art Gallery</h5>
-<p>The entire school campus has been converted to a large art gallery displaying
-artworks created by students, staff, parents and other stakeholders. There
-are artworks on the walls, floors and ceilings, in waterscapes and landscapes,
-indoors as well as outdoors and on every floor of the school building.
-The artworks range from individual creations to large-scale collective
-installations. The increasingly rich repertoire of artistic expressions,
-styles, forms and themes provide a stimulating environment for cross-fertilisation
-of ideas and for team learning and growth.</p>
-<p>The artworks are displayed according to a larger curatorial concept. Each
-floor of the school building focuses on a specific ecological stratum that
-represents an aspect of nature or life.</p>
+<p>The school acts as a large art gallery displaying artworks created by
+students, staff, parents and other stakeholders. There are artworks on
+the walls along the corridors, staircases, indoors and outdoors, and on
+every floor of the school building. The artworks range from individual
+creations to larger collective installations. The increasingly rich repertoire
+of artistic expressions, styles, forms and themes provide a stimulating
+environment for creative expression, conversation and learning.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
