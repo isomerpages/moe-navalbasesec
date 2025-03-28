@@ -84,9 +84,46 @@ represents an aspect of nature or life.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Eco and Koi Ponds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Library – The Horizon</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Eco and Koi Ponds" src="/images/2025 campus/Our_Eco_and_Koi_Ponds.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Library – The Horizon" src="/images/2025 campus/Our_Library___The_Horizon.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Canteen – The Harbour" src="/images/2025 campus/Our_Canteen___The_Harbour.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p>Our Legacy</p>
