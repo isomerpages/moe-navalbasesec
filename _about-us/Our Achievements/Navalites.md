@@ -71,7 +71,8 @@ Yong Ting, Low Xin Yu Jolie &amp; Tan Leena)</p>
 <p>Girl Guides: Patrol Leader Suresh Umameshwari and Company Leader Vinodeaswar
 Harshitha were accorded the prestigious Baden-Powell Award, the highest
 given by the Chief Commissioner to a Girl Guide</p>
-<p>2022 Sports &amp; Games</p>
+<p><strong>2022 Sports &amp; Games</strong>
+</p>
 <p>Sepak Takraw: C Division 1st Runners-Up (National Championship)</p>
 <p>Individual accolade: Muhammad Alif Bin Abdullah was accorded the Best
 Sportsboy Award for Sepak Takraw at the Singapore Schools Sports Council
