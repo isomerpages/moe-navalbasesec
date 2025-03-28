@@ -5,3 +5,25 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements
 ---
+<h4>Staff Achievements</h4>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><strong>2022 National Day Commendation Medal</strong>
+</p>
+<p>Mr Lim Seow Kuan (Vice-Principal)</p>
+<p>Mdm Faridah Bte Abdul Hamid (Year Head)</p>
+<p>2022 National Day Long Service Award</p>
+<p>Mrs Siti Osman (Senior Teacher, Art)</p>
+<p>Mr Velukutty Ravindranath (Teacher, Tamil Language)</p>
+<p>2022 Associate of Academy of Singapore Teachers</p>
+<p>Ms Tay Chee Joo Edna (Lead Teacher, PE)</p>
+<p>Ms Huang Peishi (Senior Teacher, Geography)</p>
+<p></p>
+<p><strong>2022 Singapore Hokkien Huay Kuan LEAP Award</strong>
+</p>
+<p>Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)</p>
