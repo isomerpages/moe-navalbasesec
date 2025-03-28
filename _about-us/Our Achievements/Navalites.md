@@ -41,8 +41,7 @@ Indraneel Shivram, Li Bingyu, Ng Tricia Eyonna and Shukira Arisha Binte
 Shukor</p>
 <p><strong>Co-Curricular Achievements</strong>
 </p>
-<p>March 2025:</p>
-<p>Ho Jia Xin Belinda was awarded the prestigious SPF-NPCC Badge</p>
+<p>March 2025: Ho Jia Xin Belinda was awarded the prestigious SPF-NPCC Badge</p>
 <p>2025 Singapore Youth Festival Arts Presentation</p>
 <p>Certificate of Distinction</p>
 <p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
