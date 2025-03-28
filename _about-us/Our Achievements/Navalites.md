@@ -45,13 +45,13 @@ Shukor</p>
 <p>2025 Singapore Youth Festival Arts Presentation</p>
 <p>Certificate of Distinction</p>
 <p>Instrumental Ensemble (Gamelan) by our GEAR-UP Student Interest Group</p>
-<p>Nov 2023 NBSS clinched the prestigious Vanda Miss Joaquim Award at the
+<p>Nov 2023: NBSS clinched the prestigious Vanda Miss Joaquim Award at the
 Schools Green Award 2023 in recognition of our dedication to nuturturing
 eco-stewards and championing environmental efforts.</p>
 <p>Sep 2023 Lau Roxann received the prestigious Baden-Powell Award at the
 Guide Awards Ceremony.</p>
 <p>NBSS was also conferred the Puan Noor Aishah Award (Gold).</p>
-<p>July 2023 Liu Jia Wen, Chen Siling Charlene and Tiffany Tan Le Ying were
+<p>July 2023: Liu Jia Wen, Chen Siling Charlene and Tiffany Tan Le Ying were
 one of the finalists who presented their app, Zen Buddy at the Swift Explorer's
 Singapore.</p>
 <p>2023 Singapore Youth Festival Arts Presentation</p>
