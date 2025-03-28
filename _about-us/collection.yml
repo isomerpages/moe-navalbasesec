@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements.md
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
       - Our School Song.md
       - Our Campus.md
+      - Our Achievements.md
       - Our Achievements/.keep
       - Our Achievements/Staff.md
       - Our Achievements/Community.md
