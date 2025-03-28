@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Navalites/Our Achievements.md
-      - Navalites/.keep
       - Principal's Message.md
       - Our Heritage.md
       - Our Identity.md
       - Our School Song.md
       - Our Campus.md
+      - Navalites/.keep
+      - Navalites/Our Achievements.md
       - Social Media.md
       - Our Family (Staff).md
       - Our Valued Partners/.keep
