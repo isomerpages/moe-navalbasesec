@@ -36,9 +36,6 @@ The artworks range from individual creations to large-scale collective
 installations. The increasingly rich repertoire of artistic expressions,
 styles, forms and themes provide a stimulating environment for cross-fertilisation
 of ideas and for team learning and growth.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/sch.jpg">
-</div>
 <p>The artworks are displayed according to a larger curatorial concept. Each
 floor of the school building focuses on a specific ecological stratum that
 represents an aspect of nature or life.</p>
