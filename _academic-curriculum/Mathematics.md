@@ -4,7 +4,7 @@ permalink: /nbss-curriculum/mathematics/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEbNJRJQdsuPROwS9CkpsluBy7Hfsa2jt0l88pbhfyHih4j8XmMLUdcpCDKHd7Ug/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <p><strong>DEPARTMENT OBJECTIVES </strong></p>
 <p>The Mathematics department aims to provide a nurturing and diversified experience for students pursuing mathematics that focuses on mathematical problem solving. Mathematics problem solving is central to mathematics learning as it involves the acquisition and application of mathematics concepts and skills in a wide range of situations, including non-routine, open-ended and real-world situations. The development of mathematical problem solving ability is dependent on five inter-related components, namely Concepts, Skills, Processes, Attitudes and Metacognition.&nbsp;</p>
@@ -12,9 +12,11 @@ variant: markdown
 ![](/images/5__Mathematics_Department__1_.jpg)
 
 <p><strong>CURRICULUM OVERVIEW</strong></p>
-<p>Mathematics is a spiral curriculum that focuses on three strands namely Numbers and Algebra, Geometry and Measurement and Statistics and Probability.</p>
-<p><strong><u>SECONDARY MATHEMATICS</u></strong></p>
-<table>
+<p>The Mathemtics Curriculum focuses on three strands namely Numbers and Algebra, Geometry and Measurement and Statistics and Probability, equipping students with essential concepts and skills, fostering critical thinking, problem-solving, and confidence. Through a structured approach, students connect mathematical ideas across disciplines while developing reasoning and communication skills.
+
+
+</p><p></p><p><strong><u>SECONDARY MATHEMATICS</u></strong></p><table>
+
 <tbody>
 <tr>
 <td style="text-align: center;">Sec 1 to 5 Mathematics Curriculum</td>
@@ -34,23 +36,13 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p>The syllabus aims to equip students with mathematical concepts and skills for continuous learning in Mathematics and to support learning in other subjects. Skills taught include to</p>
-<p>- Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem-solving</p>
-<p>- Connect ideas within mathematics and between mathematics and other subjects through applications of mathematics, and</p>
-<p>- Build confidence and foster interest in Mathematics&nbsp;</p>
-<p>The department uses a range of techniques for our learners. In tandem to the use of questioning techniques based on Bloom’s Taxanomy, Polya’s Four Steps Approach is used by teachers to model the steps. This approach helps students to scaffold their strategies in problem solving.&nbsp;</p>
-<p>In lower secondary, building foundation is the key focus. To help students shift from using the model approach, teachers adopt the Concrete→Pictorial→Abstract (CPA) approach in class. In addition, the ICAN (Improving Confidence and Achievement in Numeracy) approach is used to help our low progress learners acquire concepts in a scaffolded and structured way. ICAN strategies includes ways to close&nbsp;issues of learning gaps, language, motivation and memory.&nbsp;</p>
-<p>Teachers also uses different modes to assess students learning in the class through the use of technology. Students have the opportunities to use technology for self-assessment as well as collaborative work.</p>
-<p><strong>Teaching &amp; Learning - Mathematics</strong></p>
-<p><iframe src="https://www.youtube.com/embed/_v-uEdPzIFM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-<p>Using concrete materials to learn about Probability</p>
-<img src="/images/ma2.jpg">
+
+**ENGAGING DIVERSE LEARNERS**
+
+![](/images/2025_03_29_183721.png)
+
+Teachers employ diverse strategies, including Bloom’s Taxonomy questioning and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports concept mastery, while the ICAN framework helps address learning gaps. In addition, a programme specially designed by NBSS teachers, Project Cube, helps Secondary One learners bridge gaps faced when transitioning from the primary school curriculum.
+
+Technology enhances learning through self-assessment and collaboration, while competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge, _Pi Week_, and the Singapore and Asian Schools Math Olympiad push Navalites to think critically and apply mathematics to real-world problems.
+
 <p>Students are given opportunities to be exposed to various competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites are exposed to mathematical problems that challenged them to think critically and out of the box to solve real life problems.</p>
-<p>Math and Science Challenge-4th Runner Up Winners</p>
-<img src="/images/ma3.jpg">
-<p>Math and Science Challenge</p>
-<img src="/images/ma4.jpg"><br>
-<img src="/images/ma5.png"><br>
-<img src="/images/ma6.png">
-<p>Brainstorming on solving non-routine question</p>
-<img style="width: 65%;" src="/images/ma7.jpg">

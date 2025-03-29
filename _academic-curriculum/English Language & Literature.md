@@ -7,6 +7,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3iBf-w8EJ71-LYzFezOzAiIDgUSUm9LinPf3sBAVPSDgWAJVGyB9vebs65wnKpQjrguWdlrqLJpDb/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
+<p><strong>Department Objectives</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__English_Language_and_Literature_Department__1_.jpg">
+</div>
 <p>At NBSS, the English Department cultivates confident communicators and
 critical thinkers through an engaging and authentic curriculum. Each year,
 Navalites participate in real-world tasks such as producing food vlogs,
@@ -25,11 +30,13 @@ and effective communicators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230308_135753.jpg">
 </div>
-<p>Beyond the classroom, learning journeys deepen students’ understanding
-of language and society. Secondary Three students visit Little India to
-explore the challenges faced by migrant workers, gaining insights through
-an interdisciplinary collaboration with the Social Studies and Citizenship
-Education team.</p>
+<p><strong>Learning Journeys and Enrichment Opportunities</strong>
+</p>
+<p>Beyond the classroom,<strong> </strong>learning journeys deepen students’
+understanding of language and society. Secondary Three students visit Little
+India to explore the challenges faced by migrant workers, gaining insights
+through an interdisciplinary collaboration with the Social Studies and
+Citizenship Education team.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prejudice_Trail_2.jpg">
@@ -40,6 +47,8 @@ creative expression, the department organises an <em>Intra-school Narrative Writ
 submits student entries to national competitions, including the <em>Creative Arts Programme</em> and <em>Live On! Writing Competition</em>.
 Selected works are published in <em>Ink and Inspiration</em>, celebrating
 students' literary talents.</p>
+<p><strong>Literature Unit</strong>
+</p>
 <p>Literature comes alive through immersive experiences. The biennial <em>Get Lit!</em> festival
 engages lower secondary students with interactive activities such as Escape
 Rooms and puzzles. Upper Secondary students expand their literary appreciation
