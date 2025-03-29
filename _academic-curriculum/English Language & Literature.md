@@ -4,6 +4,9 @@ permalink: /nbss-curriculum/english-language-n-literature/
 description: ""
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3iBf-w8EJ71-LYzFezOzAiIDgUSUm9LinPf3sBAVPSDgWAJVGyB9vebs65wnKpQjrguWdlrqLJpDb/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+</div>
 <p>At NBSS, the English Department cultivates confident communicators and
 critical thinkers through an engaging and authentic curriculum. Each year,
 Navalites participate in real-world tasks such as producing food vlogs,
