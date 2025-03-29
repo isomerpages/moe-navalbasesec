@@ -54,6 +54,9 @@ creations to larger collective installations. The increasingly rich repertoire
 of artistic expressions, styles, forms and themes provide a stimulating
 environment for creative expression, conversation and learning.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/giantartgallery1__1___1_.png">
+</div>
 <p>Our Legacy</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfYX8PqCO1ERyCv7T2f6K5fh94mfRMugfSCJFj6NUQkwcNo9m60ky3LdRn1jFfcA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
