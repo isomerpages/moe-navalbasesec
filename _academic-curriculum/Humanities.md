@@ -4,7 +4,7 @@ permalink: /nbss-curriculum/humanities/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRzu6VDquApIu3aWX7fDyd9d9egqxkk4F85o8dlUCY7waHNl3oih_MjWU-exg-uA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+![](/images/7__Humanities__1_.jpg)
 
 <p><strong>Department Vision</strong></p>
 <p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. We believe every student can and wants to learn and achieve excellence, and actively strive to tap and maximise the potential of every student.<br></p>
