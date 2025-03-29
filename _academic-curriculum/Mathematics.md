@@ -43,11 +43,6 @@ variant: markdown
 
 Teachers employ diverse strategies, including Bloom’s Taxonomy questioning and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports concept mastery, while the ICAN framework helps address learning gaps. In addition, a programme specially designed by NBSS teachers, Project Cube, helps Secondary One learners bridge gaps faced when transitioning from the primary school curriculum.
 
-Technology enhances learning through self-assessment and collaboration, while competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge, _Pi Week_, and the Singapore and Asian Schools Math Olympiad push Navalites to think critically and apply mathematics to real-world problems
-
-
-<p></p><p><iframe src="https://www.youtube.com/embed/_v-uEdPzIFM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
-
-
+Technology enhances learning through self-assessment and collaboration, while competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge, _Pi Week_, and the Singapore and Asian Schools Math Olympiad push Navalites to think critically and apply mathematics to real-world problems.
 
 <p>Students are given opportunities to be exposed to various competitions such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition, Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites are exposed to mathematical problems that challenged them to think critically and out of the box to solve real life problems.</p>
