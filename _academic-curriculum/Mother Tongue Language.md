@@ -116,4 +116,3 @@ o	Cstreet Dance Sharing (爱上华文街舞)
 **CULTURAL IMMERSION AND EXCHANGE WITH OVERSEAS PARTNERS**
 ![](/images/MTL_Overseas_1.jpg)
 Our students participated in virtual exchanges with peers from India and China, expanding their global perspectives. The Tamil Language Unit collaborated with St Stephen's High School in India, while Navalites and teachers warmly hosted Yali Yanghu Experimental Middle School from China. In 2024, students studying Malay had the enriching opportunity to visit Malacca, where they forged meaningful friendships and deepened their cultural understanding.
-
