@@ -80,7 +80,7 @@ MTL Department organises traditional festivals from different cultures. This pro
 Students confidently showcase the beauty of Malay traditional costumes on stage and learn about the significance of Hari Raya celebrations.
 
 **DEEPAVALI CELEBRATION**
-![](/images/deepavali1.jpg)
+![](/images/Deepavali2.png)
 Through meaningful sharings on the origins of Deepavali, stunning performances from our Indian Dance troupe and a lively fashion show showcasing beautiful traditional costumes, students learn about cultural significance of Deepavali.
 
 **PONGAL CELEBRATION**
@@ -89,8 +89,8 @@ During the celebration of the Indian traditional Pongal festival, students activ
 
 **LUNAR NEW YEAR CELEBRATION**
 
-![](/images/DSC05054_Pano__1_.jpg)
-![](/images/MTL_LNY.jpg)
+![](/images/DSC05054_Pano__1_.jpg)<br>
+![](/images/LNY2.png)
 
 During Lunar New Year, our students come together for the joyous tradition of _Lohei_, which means "tossing up good fortune." Through vibrant performances and hands-on craft activities, Navalites deepen their appreciation of Chinese culture while celebrating the festive spirit together.
 
@@ -113,5 +113,5 @@ o	National Schools Xinyao Festival 2023（2023年“新空下”全国学生新�
 o	Cstreet Dance Sharing (爱上华文街舞)
 
 **CULTURAL IMMERSION AND EXCHANGE WITH OVERSEAS PARTNERS**
-![](/images/MTL_Overseas_1.jpg)
+![](/images/CIP.png)
 Our students participate in both virtual and physical exchange programmes with schools from India, China, and Malaysia, expanding their global perspectives. The Tamil Language Unit collaborated with St Stephen's High School in India, while in 2024, Navalites warmly hosted Yali Yanghu Experimental Middle School from China. Students studying the Malay Language also had the enriching opportunity to visit Malacca, where they forged meaningful friendships and deepened their cultural understanding.
