@@ -4,7 +4,7 @@ permalink: /nbss-curriculum/mathematics/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="1109" width="1920" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=false&amp;delayms=2000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <p><strong>DEPARTMENT OBJECTIVES </strong></p>
 <p>The Mathematics department aims to provide a nurturing and diversified experience for students pursuing mathematics that focuses on mathematical problem solving. Mathematics problem solving is central to mathematics learning as it involves the acquisition and application of mathematics concepts and skills in a wide range of situations, including non-routine, open-ended and real-world situations. The development of mathematical problem solving ability is dependent on five inter-related components, namely Concepts, Skills, Processes, Attitudes and Metacognition.&nbsp;</p>
