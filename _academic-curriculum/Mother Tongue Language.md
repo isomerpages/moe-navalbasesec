@@ -100,7 +100,6 @@ Renowned local writers are invited to Naval Base Secondary  School to promote a 
 
 **MALAY LANGUAGE**
 ![](/images/Cl/picture12.jpg)
-Local writer
 
 **CHINESE UNIT**
 ![](/images/Cl/picture13.jpg)
