@@ -9,7 +9,8 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p>Department Objectives</p>
+<p><strong>Department Objectives</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__English_Language_and_Literature_Department__1_.jpg">
 </div>
