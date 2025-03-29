@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Education
 variant: markdown
 ---
-<p><strong>PE Department</strong></p>
+![](/images/11__Physical_Education_Department__1_.jpg)
 <p>The NBSS PE Department believes that our curriculum should promote not only students' physical, but also mental and social well being. Furthermore, each student should be empowered to achieve success, regardless of size, maturity, coordination, body type or any other physical attributes.&nbsp;</p>
 
 <p><strong>Department Direction</strong></p>
