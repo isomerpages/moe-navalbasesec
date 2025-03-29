@@ -4,7 +4,7 @@ permalink: /nbss-curriculum/mother-tongue-language/
 description: ""
 variant: markdown
 ---
-<p><strong>VISION: NURTURING ACTIVE LEARNERS AND PROFICIENT USERS</strong></p>
+<p><strong>VISION: NURTURING ACTIVE LEARNERS AND PROFICIENT MTL USERS</strong></p>
 
 ![](/images/022__1_.jpg)
 The Mother Tongue department aims to develop students' proficiency in using Mother Tongue languages (MTL) as a means of communication, while fostering an appreciation for their respective cultures and a deeper appreciation of their unique identities.
@@ -90,11 +90,9 @@ During the celebration of the Indian traditional Pongal festival, students activ
 **LUNAR NEW YEAR CELEBRATION**
 
 ![](/images/DSC05054_Pano__1_.jpg)
-
 ![](/images/MTL_LNY.jpg)
 
 During Lunar New Year, our students come together for the joyous tradition of _Lohei_, which means "tossing up good fortune." Through vibrant performances and hands-on craft activities, Navalites deepen their appreciation of Chinese culture while celebrating the festive spirit together.
-
 
 **AUTHOR-IN-RESIDENCE PROGRAMME** 
 
