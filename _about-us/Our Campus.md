@@ -15,7 +15,7 @@ a Giant Art Gallery.</p>
 <h5>(1) A School as a Big Learning Space</h5>
 <p>As Navalites move around in school, they have multiple opportunities to
 interact with one another and learn from learning spaces outside of their
-classrooms, from the Horizon – our school library, to the Starbooard, to
+classrooms, from the Horizon – our school library, to the Starboard, to
 the newly-renovated canteen.</p>
 <p></p>
 <div class="isomer-image-wrapper">
