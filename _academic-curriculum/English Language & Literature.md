@@ -7,8 +7,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3iBf-w8EJ71-LYzFezOzAiIDgUSUm9LinPf3sBAVPSDgWAJVGyB9vebs65wnKpQjrguWdlrqLJpDb/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
-<p></p>
-<p></p>
 <p><strong>Department Objectives</strong>
 </p>
 <div class="isomer-image-wrapper">
