@@ -16,7 +16,10 @@ third_nav_title: Our Achievements
 </div>
 <p>
 <br>
-<br><strong>2022 National Day Commendation Medal</strong>
+<br><strong>2023 Inspiring Teacher of English Award (Leadership)</strong>
+</p>
+<p>Mrs Crescendra Chong-Tan (HOD, English Language and Literature)</p>
+<p><strong>2022 National Day Commendation Medal</strong>
 </p>
 <p>Mr Lim Seow Kuan (Vice-Principal)</p>
 <p>Mdm Faridah Bte Abdul Hamid (Year Head)</p>
