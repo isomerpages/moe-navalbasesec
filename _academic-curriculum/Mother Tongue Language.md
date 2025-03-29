@@ -77,7 +77,11 @@ MTL Department organises traditional festivals from different cultures. This pro
 
 **HARI RAYA CELEBRATION**
 ![](/images/Cl/picture9.jpg)
-Students confidently showcase the beauty of Malay traditional costumes on stage and learn about the significance of Hari Raya celebrations. 
+Students confidently showcase the beauty of Malay traditional costumes on stage and learn about the significance of Hari Raya celebrations.
+
+**DEEPAVALI CELEBRATION**
+![](/images/deepavali1.jpg)
+Through meaningful sharings on the origins of Deepavali, stunning performances from our Indian Dance troupe and a lively fashion show showcasing beautiful traditional costumes, students learn about cultural significance of Deepavali.
 
 **PONGAL CELEBRATION**
 ![](/images/Cl/picture10.jpg)
@@ -89,15 +93,12 @@ During the celebration of the Indian traditional Pongal festival, students activ
 
 ![](/images/MTL_LNY.jpg)
 
-
-
 During Lunar New Year, our students come together for the joyous tradition of _Lohei_, which means "tossing up good fortune." Through vibrant performances and hands-on craft activities, Navalites deepen their appreciation of Chinese culture while celebrating the festive spirit together.
 
-**OTHER MTL  PROGRAMME**
 
 **AUTHOR-IN-RESIDENCE PROGRAMME** 
 
-Renowned local writers were invited to come to Naval Base Secondary  School to promote a love for literature among our students, inspiring them through their personal experiences and literary works. This initiative cultivates a passion for reading, writing, encouraging students to appreciate and engage with the power of literature.
+Renowned local writers are invited to Naval Base Secondary  School to promote a love for literature among our students, inspiring them through their personal experiences and literary works. This initiative cultivates a passion for reading, writing, encouraging students to appreciate and engage with the power of literature.
 
 **MALAY LANGUAGE**
 ![](/images/Cl/picture12.jpg)
@@ -115,4 +116,4 @@ o	Cstreet Dance Sharing (爱上华文街舞)
 
 **CULTURAL IMMERSION AND EXCHANGE WITH OVERSEAS PARTNERS**
 ![](/images/MTL_Overseas_1.jpg)
-Our students participated in virtual exchanges with peers from India and China, expanding their global perspectives. The Tamil Language Unit collaborated with St Stephen's High School in India, while Navalites and teachers warmly hosted Yali Yanghu Experimental Middle School from China. In 2024, students studying Malay had the enriching opportunity to visit Malacca, where they forged meaningful friendships and deepened their cultural understanding.
+Our students participate in both virtual and physical exchange programmes with schools from India, China, and Malaysia, expanding their global perspectives. The Tamil Language Unit collaborated with St Stephen's High School in India, while in 2024, Navalites warmly hosted Yali Yanghu Experimental Middle School from China. Students studying the Malay Language also had the enriching opportunity to visit Malacca, where they forged meaningful friendships and deepened their cultural understanding.
