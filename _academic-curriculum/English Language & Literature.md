@@ -9,11 +9,10 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
+<p>Department Objectives</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__English_Language_and_Literature_Department__1_.jpg">
 </div>
-<p><strong>Department Objectives</strong>
-</p>
 <p>At NBSS, the English Department cultivates confident communicators and
 critical thinkers through an engaging and authentic curriculum. Each year,
 Navalites participate in real-world tasks such as producing food vlogs,
