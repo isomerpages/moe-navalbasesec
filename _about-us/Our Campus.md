@@ -33,7 +33,7 @@ the newly-renovated canteen.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/canteen__1_.png">
 </div>
-<p><em>Our newly renovated canteen</em>
+<p><em>Our newly-renovated canteen</em>
 </p>
 <h5>(2) A School in a Garden</h5>
 <p>Through our landscaping and environmental efforts, we have created a variety
