@@ -6,10 +6,12 @@ variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEbNJRJQdsuPROwS9CkpsluBy7Hfsa2jt0l88pbhfyHih4j8XmMLUdcpCDKHd7Ug/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<p><strong>The Department</strong></p>
+<p><strong>DEPARTMENT OBJECTIVES </strong></p>
 <p>The Mathematics department aims to provide a nurturing and diversified experience for students pursuing mathematics that focuses on mathematical problem solving. Mathematics problem solving is central to mathematics learning as it involves the acquisition and application of mathematics concepts and skills in a wide range of situations, including non-routine, open-ended and real-world situations. The development of mathematical problem solving ability is dependent on five inter-related components, namely Concepts, Skills, Processes, Attitudes and Metacognition.&nbsp;</p>
-<img src="/images/ma1.jpeg">
-<p><strong>Mathematics Curriculum Overview</strong></p>
+
+![](/images/5__Mathematics_Department__1_.jpg)
+
+<p><strong>CURRICULUM OVERVIEW</strong></p>
 <p>Mathematics is a spiral curriculum that focuses on three strands namely Numbers and Algebra, Geometry and Measurement and Statistics and Probability.</p>
 <p><strong><u>SECONDARY MATHEMATICS</u></strong></p>
 <table>
