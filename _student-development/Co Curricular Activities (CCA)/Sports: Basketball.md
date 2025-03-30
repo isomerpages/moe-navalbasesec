@@ -28,16 +28,16 @@ variant: markdown
 <p>Teachers-in-Charge</p>
 </td>
 <td style="text-align: center;" width="441">
-<p>Ms Celine Chan (Girls’ I/C)<br>Ms Chen Xingli <br>Mr Herwanto (Boys’ I/C)<br>Mr Daniel Troy Ingham<br>Mr Zhang Jingda</p>
+<p><br>Mr Daniel Troy Ingham (IC)<br>Ms Celine Chan (2I/C)<br>Mr Zhang Jingda</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="161">
-<p>Instructor(s)</p>
-</td>
+<p>
+</p></td>
 <td style="text-align: center;" width="441">
-<p>Boys’ Team: Mr Sashi Pillay<br>Girls’ Team: Mr&nbsp;Ng Eng Beng</p>
-</td>
+<p>
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -122,5 +122,3 @@ variant: markdown
 </table>
 <p><strong>CCA Highlights</strong></p>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTM9zUFpyO5NKVg2-7z0aQxwgjz-vznFCWt4M2R1Xi0VKQi4C-8E5qVtZAxuelk-g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
