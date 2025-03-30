@@ -1,9 +1,10 @@
 ---
 title: Overview
-permalink: /nbss-curriculum/overview
+permalink: /nbss-curriculum/overview/
 description: ""
+variant: markdown
 ---
-<img src="/images/overview.png">
+![](/images/Picture13__1_.png)
 <p>The NBSS Curriculum is the sum total of all the learning which Navalites experience in their 4 to 5 years with us. This learning takes place within formal curriculum time as well informally through interactions with schoolmates and staff. It takes place inthe classroom, outside the classroom, outside school (learning journeys, camps, competitions), and even outside Singapore (overseas learning experiences).</p>
 <p>The NBSS Total Curriculum anchors on Character Development which we define to be holistic education in the domains of social &amp; moral development, leadership development, cognitive (academic) development, physical development, and aesthetic development (NBSS is especially strong in visual arts). All programmes in the school are geared towards achieving these outcomes.</p>
 <p><strong>Key Character Development Programmes </strong></p>
@@ -13,7 +14,7 @@ description: ""
 <p>The FTCT (CD3) provides time and space for Form Teachers (FTs) to connect with their form class and to build sense of class pride and belonging. FTs also do one-to-one conferencing to have better individual knowledge of their pupils.</p>
 <p><strong>School Wide Leadership Programmes for Personal Mastery</strong></p>
 <p>In the first week of January this year, the entire school participated in various personal mastery programmes in and out of school, within and beyond Singapore:</p>
-<p>Sec 1: Personal Leadership Camp in school<br />Sec 2: Adventure Leadership Camp&nbsp;<br />Sec 3: Adventure Leadership Camp&nbsp;<br />Sec 4E-4NA: Motivational Programme<br />Sec 4NT: Outdoors Motivational Programme<br />Sec 5N: Motivational Booster Programme</p>
+<p>Sec 1: Personal Leadership Camp in school<br>Sec 2: Adventure Leadership Camp&nbsp;<br>Sec 3: Adventure Leadership Camp&nbsp;<br>Sec 4E-4NA: Motivational Programme<br>Sec 4NT: Outdoors Motivational Programme<br>Sec 5N: Motivational Booster Programme</p>
 <p><strong>NBSS Experience</strong></p>
 <div><iframe src="https://www.youtube.com/embed/gtXpFImSd2E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p><strong><u>Virtual Campus Tour</u></strong></p>
