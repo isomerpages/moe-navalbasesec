@@ -39,7 +39,7 @@ through an interdisciplinary collaboration with the Social Studies and
 Citizenship Education team.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Prejudice_Trail_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230314_171131__1_.jpg">
 </div>
 <p>Programmes such as <em>Grammar Around the School</em> refine language skills
 by addressing common grammar and academic writing challenges. To encourage
