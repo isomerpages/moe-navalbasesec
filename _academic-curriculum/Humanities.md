@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/7__Humanities__1_.jpg)
 
 <p><strong>Department Vision</strong></p>
-<p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. By maximising the potential of our students, our programmes seek to nurture them into **A**daptive and** C**ollaborative learners who also strive for **E**xcellence. <br></p>
+<p>The Humanities Department aims to develop, among our students, inquiry-oriented learning dispositions that will allow them to make sense of the complexities of societal issues that they will encounter. By maximising the potential of our students, our programmes seek to nurture them into <strong>Adaptive</strong> and <strong>Collaborative</strong> learners who also strive for <strong>Excellence</strong>. <br></p>
 
 <p><strong>Teaching and Learning Experiences</strong></p>
 <p>Our key teaching and learning approach is adopted in line with the aim to help students become inquiry-oriented learners. As such the department adopts an inquiry-based approach towards teaching and learning to enable students to reach for deeper and enduring understanding of concepts through their own discovery and reasoning. Catering to diverse interests and needs, and in line with our 3E Approach (Embrace, Engage, Excel) the department designs and curates a host of enrichment and out-of-classroom learning experiences for our Navalites.</p>
