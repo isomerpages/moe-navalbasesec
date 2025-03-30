@@ -34,14 +34,3 @@ Besides the host of learning journeys and enrichment programmes offered locally,
 
 ![](/images/Picture12__1_.png)
 	
-<p><strong>Teaching &amp; Learning - Humanities</strong>&nbsp;</p>
-<table>
-<tbody>
-<tr>
-<td><iframe src="https://www.youtube.com/embed/WseBrGV7txQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br><br><br></td>
-<td><iframe src="https://www.youtube.com/embed/K_73-DqCj0M" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
-<td><iframe src="https://www.youtube.com/embed/PPswoG5BqdQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
-</tr>
-</tbody>
-</table>
-<br>
