@@ -7,11 +7,11 @@ variant: tiptap
 <p>At Naval Base Secondary School, we are dedicated to nurturing each student's
 unique talents and abilities. As part of our <strong>3E Approach</strong> to
 developing students <strong>(Embrace, Engage, and Excel)</strong>, our Talent
-Development Programme (TDP) offers students opportunities to excel in areas
-outside of the standard curriculum, challenging their thinking in the process.
-From Mathematics board game design to public speaking, to storytelling
-and innovative Science projects, the TDP encourages excelling Navalites
-to explore new ideas and address real-world challenges.</p>
+Development Programme (TDP) offers students opportunities to <strong>excel </strong>in
+areas outside of the standard curriculum, challenging their thinking in
+the process. From Mathematics board game design to public speaking, to
+storytelling and innovative Science projects, the TDP encourages excelling
+Navalites to explore new ideas and address real-world challenges.</p>
 <h4>Programme Overview</h4>
 <table style="minWidth: 100px">
 <colgroup>
