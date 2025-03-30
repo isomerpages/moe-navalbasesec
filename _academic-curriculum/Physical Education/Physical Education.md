@@ -9,7 +9,7 @@ variant: markdown
 <p>The NBSS PE Department believes that our curriculum should promote not only students' physical, but also mental and social well being. Furthermore, each student should be empowered to achieve success, regardless of size, maturity, coordination, body type or any other physical attributes.&nbsp;</p>
 
 <p><strong>Department Direction</strong></p>
-<p>The PE Department is committed to providing quality PE lesson through developing staff capacity by working closely with various agencies like PESTA (pathfinder project) , Cluster PLT team and school internal PLT programme. The PE Department is also committed to our Lifelong Learning Programme, “ Sports for Life: Character Education through SpACE’ (Sports Awareness, Commitment and Empowerment) adapted from the “Pyramid of Success model” crafted by John Wooden.</p>
+<p>The PE Department is committed to providing quality PE lessons and developing staff capacity by working closely with various agencies like PESTA (Pathfinder Project) and the Cluster PLT team. The PE Department is also committed to our Lifelong Learning Programme, “Sports for Life: Character Education through SpACE’ (Sports Awareness, Commitment and Empowerment), adapted from the “Pyramid of Success model” crafted by John Wooden.</p>
 
 ![](/images/Picture16__1_.png) *Annual Road Run*
 
