@@ -15,15 +15,18 @@ skills. Basic programming concepts and skills will be learnt through animation
 and game design and applying them to solve problems in everyday context.
 This prepares them for further studies in programming, ICT or media-related
 courses, and also for work and future learning.</p>
-<p>Students will have opportunities to do creative work with animation and
-game development projects in Secondary 2 and 3 respectively using the Scratch
-software developed by MIT.&nbsp;</p>
+<p>All students will have opportunity to create games in Secondary 3 using
+the Scratch software developed by MIT and participate in a nationwide Game
+Making Competition.&nbsp;</p>
+<p></p>
+<p><strong>Accolades</strong>
+</p>
 <p>Since 2020, our Secondary 2 and Secondary 3 CPA students have done well
 in the Animation and Game Making Competition organised In 2020, we obtained
 a Bronze Award, and in 2021 the Gold Award! In 2023, our Navalite Harith
 Irfan Bin Hasli was awarded Silver in the Animation category, and subsequently
-in 2024 a Bronze in the Game Making Category. This year also saw Joji Quah
-obtaining a Bronze in the Animation Category.</p>
+in 2024 a Bronze in the Game Making Category. 2024 also saw Joji Quah obtaining
+a Bronze in the Animation Category.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
