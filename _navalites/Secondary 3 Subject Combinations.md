@@ -22,6 +22,9 @@ guide so that you can better need his/her needs.
 academic performance, availability of school resources and vacancies in
 each option.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tentative 2025 Schedule" src="/images/2025_Subject_Combi_Schedule__Pic_.jpg">
+</div>
 <p></p>
 <p>*Schedule is subject to changes.</p>
 <p><strong><u>2026 Secondary 3 Subject Combinations</u></strong>
