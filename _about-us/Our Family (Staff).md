@@ -178,7 +178,7 @@ variant: tiptap
 <p>Mr Alvin Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Management and Assistant Year Head (Lower Sec)</p>
+<p>Subject Head, Student Management</p>
 </td>
 </tr>
 <tr>
