@@ -750,7 +750,23 @@ variant: tiptap
 <p>Ms Sharine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administration Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Leonie Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurlisah Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 </tbody>
