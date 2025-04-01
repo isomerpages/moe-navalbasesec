@@ -91,7 +91,8 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <p><strong>Associate of AST Award Recipients 2023</strong>
-<br>Facilitator of Networked Learning Communities</p>
+<br><strong>Facilitator of Networked Learning Communities</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,7 +177,8 @@ third_nav_title: Our Achievements
 <p></p>
 <p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
 Chee Joo, Edna</p>
-<p>MOE Innergy Award 2024</p>
+<p><strong>MOE Innergy Award 2024</strong>
+</p>
 <p>Commendation Award&nbsp;- Teaching &amp; Learning</p>
 <table style="minWidth: 75px">
 <colgroup>
