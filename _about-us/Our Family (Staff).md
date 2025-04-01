@@ -167,10 +167,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kellie Kok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Alvin Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Management and Assistant Year Head (Lower Sec)</p>
+<p>Subject Head, Student Management</p>
 </td>
 </tr>
 <tr>
@@ -255,10 +263,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lucy Png</p>
+<p>Mr Fan Yiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>Subject Head, Chinese Language</p>
 </td>
 </tr>
 </tbody>
@@ -335,7 +343,7 @@ variant: tiptap
 <p>Mdm Huang Peishi (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irwani Dewi&nbsp;</p>
+<p>Ms Jasmine Chua Jie Min</p>
 </td>
 </tr>
 <tr>
@@ -376,10 +384,10 @@ variant: tiptap
 <p>1 Harbour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rathna Raghesh (LT)</p>
+<p>Ms Joanne Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Tham</p>
+<p>Ms Katrina Maria Fernadez</p>
 </td>
 </tr>
 <tr>
@@ -679,7 +687,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Operations and Administrative Staff</strong>
+<p><strong>&nbsp;Executive and Administrative Staff</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -699,6 +707,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cassandra Loo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Balasundram</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -707,10 +723,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cassandra Loo</p>
+<p>Mr Frank Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Miaow Guan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
@@ -726,7 +750,23 @@ variant: tiptap
 <p>Ms Sharine Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administration Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Leonie Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurlisah Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 </tbody>
