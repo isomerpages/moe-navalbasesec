@@ -15,7 +15,54 @@ Navalites during HBL.&nbsp;</p>
 <p></p>
 <p><strong>Home-Based Learning Days for Term 2, 2025</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xy.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>HBL Session</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 1 (MS Teams Check in)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL 4</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
