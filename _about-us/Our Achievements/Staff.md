@@ -6,6 +6,180 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
+<p><strong>Associate of AST Award Recipients 2024</strong>
+</p>
+<p>Facilitator of Networked Learning Communities</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norlita Bte Marsuki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;Researcher</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher CL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Associate of AST Award Recipients 2023</strong>
+</p>
+<p>Facilitator of Networked Learning Communities</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norlita Bte Marsuki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;Facilitator of Workshops</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rathna d/o Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher EL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong>National Day Awards 2024</strong> - The Commendation Medal</p>
+<p>Tay Chee Joo, Edna</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>2024 MSEA</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_.jpg">
