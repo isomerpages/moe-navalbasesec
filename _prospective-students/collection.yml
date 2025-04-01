@@ -2,7 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
-      - NBSS e–OPEN HOUSE.md
+      - The Naval Base Experience.md
       - DSA @ NBSS/.keep
       - DSA @ NBSS/DSA @ NBSS.md
       - DSA @ NBSS/Why NBSS?.md

@@ -1,25 +1,30 @@
 ---
-title: Computer Applications (CPA)
+title: Computer Applications & Computing G1
 permalink: /nbss-curriculum/computer-applications-cpa/
 description: ""
 variant: tiptap
 ---
-<p><strong>Programmes</strong>
+<p><strong>Programme</strong>
 </p>
-<p>Students will be exposed to internet technologies and readily available
-tools through hands-on activities in this skill-based subject. Problem
-sets integrating software applications are designed to guide in preparing
-for real life.&nbsp;</p>
-<p>From 2025, the Upper Secondary syllabus will focus on higher-order thinking
-skills. Basic programming concepts and skills will be learnt through animation
-and game design and applying them to solve problems in everyday context.
-This prepares them for further studies in programming, ICT or media-related
-courses, and also for work and future learning.</p>
-<p>All students will have opportunity to create games in Secondary 3 using
-the Scratch software developed by MIT and participate in a nationwide Game
-Making Competition.&nbsp;</p>
-<p></p>
-<p><strong>Accolades</strong>
+<p>The rapid advancement of technology and growing capabilities of Artificial
+Intelligence (AI) will bring about significant changes to the way we learn,
+work and play. Computing subjects provide support for this effort by providing
+students with opportunities to acquire useful digital competencies and
+explore the field of Computing.</p>
+<p>Through this skill-based subject, students will:
+<br>• develop basic computational thinking skills along with 21st century
+competencies
+<br>• develop digital competencies in using digital tools to create digital
+artefacts, process information, communicate effectively and solve simple
+problems
+<br>• appreciate the legal, ethical and security issues relating to the use
+of computers, and
+<br>• gain understanding of emerging technologies and the impact of technology
+on society.</p>
+<p>Students will also have the opportunity to participate in a nationwide
+Game Making Competition.&nbsp;</p>
+<p>
+<br><strong>Accolades</strong>
 </p>
 <p>Since 2020, our Secondary 2 and Secondary 3 CPA students have done well
 in the Animation and Game Making Competition organised In 2020, we obtained
