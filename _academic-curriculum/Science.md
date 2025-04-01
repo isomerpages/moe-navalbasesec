@@ -245,7 +245,6 @@ paths.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
 <p><strong><u>Notable Accomplishments</u></strong>
 <br><strong>NUS Crystal Growing Challenge 2024 - Merit Award</strong>
 <br>Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
