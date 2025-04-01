@@ -8,11 +8,6 @@ variant: markdown
 	
 	**Home-Based Learning Days for Term 2, 2025:**
 	
-	
-| Date | HBL Session | 
-| -------- | -------- |
-| 4 April     | HBL 1     |
-| 2 May     | HBL 2     |
-| 16 May     | HBL 3     |
-| 30 May     | HBL 4     |	
+![](/images/HBL_Dates_Term_2.jpg)	
+
 </p>
