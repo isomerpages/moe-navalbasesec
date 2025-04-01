@@ -230,7 +230,7 @@ concepts and design thinking to tackle more complex tasks, deepening their
 skills and knowledge.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/2.jpg">
 </div>
 <p><strong>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life</strong>
 <br>In their 3rd year, students will advance further through their participation
