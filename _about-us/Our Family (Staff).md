@@ -384,10 +384,10 @@ variant: tiptap
 <p>1 Harbour</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rathna Raghesh (LT)</p>
+<p>Ms Joanne Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Tham</p>
+<p>Ms Katrina Maria Fernadez</p>
 </td>
 </tr>
 <tr>
