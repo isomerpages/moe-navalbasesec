@@ -4,7 +4,7 @@ permalink: /nbss-curriculum/computer-applications-cpa/
 description: ""
 variant: tiptap
 ---
-<p><strong>Programme</strong>
+<p><strong>Programme (Embrace)</strong>
 </p>
 <p>The rapid advancement of technology and growing capabilities of Artificial
 Intelligence (AI) will bring about significant changes to the way we learn,
@@ -21,17 +21,17 @@ problems
 of computers, and
 <br>• gain understanding of emerging technologies and the impact of technology
 on society.</p>
+<p>
+<br><strong>Enrich and Excel</strong>
+</p>
 <p>Students will also have the opportunity to participate in a nationwide
 Game Making Competition.&nbsp;</p>
-<p>
-<br><strong>Accolades</strong>
-</p>
-<p>Since 2020, our Secondary 2 and Secondary 3 CPA students have done well
-in the Animation and Game Making Competition organised In 2020, we obtained
-a Bronze Award, and in 2021 the Gold Award! In 2023, our Navalite Harith
-Irfan Bin Hasli was awarded Silver in the Animation category, and subsequently
-in 2024 a Bronze in the Game Making Category. 2024 also saw Joji Quah obtaining
-a Bronze in the Animation Category.</p>
+<p>Since 2020, our Secondary 2 and Secondary 3 CPA students have performed
+well in the Animation and Game Making Competition organised In 2020, we
+obtained a Bronze Award, and in 2021 the Gold Award! In 2023, our Navalite
+Harith Irfan Bin Hasli was awarded Silver in the Animation category, and
+subsequently in 2024 a Bronze in the Game Making Category. 2024 also saw
+Joji Quah obtaining a Bronze in the Animation Category.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
