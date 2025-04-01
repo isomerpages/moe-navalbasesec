@@ -74,6 +74,8 @@ and communication skills.</p>
 </table>
 <p><strong>ENGAGING DIVERSE LEARNERS</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03_29_183721.png">
 </div>
