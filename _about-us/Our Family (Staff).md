@@ -343,7 +343,7 @@ variant: tiptap
 <p>Mdm Huang Peishi (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irwani Dewi&nbsp;</p>
+<p>Ms Jasmine Chua Jie Min</p>
 </td>
 </tr>
 <tr>
