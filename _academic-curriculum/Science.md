@@ -216,9 +216,7 @@ meet the diverse needs of our students.</p>
 <p><strong>Sec 1 STEM Exploration</strong>
 <br>In their first year, students explore various STEM fields through activities
 that showcase the applications of science and enhance awareness of STEM
-careers
-<br>
-</p>
+careers</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/1.jpg">
 </div>
@@ -228,10 +226,10 @@ careers
 STEM to science, technology, society, and the environment. They apply scientific
 concepts and design thinking to tackle more complex tasks, deepening their
 skills and knowledge.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/2.jpg">
 </div>
+<p></p>
 <p><strong>Sec 3 STEM Empowerment &amp; Sec 4/5 STEM for Life</strong>
 <br>In their 3rd year, students will advance further through their participation
 in advanced STEM workshops, learning journeys and higher level competitions.
@@ -242,10 +240,12 @@ level institutions and attend workshops to delve deeper into the world
 of STEM. Students will be guided to consolidate their STEM learning experiences,
 helping them prepare for applications to further studies and related career
 paths.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/3.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p><strong><u>Notable Accomplishments</u></strong>
 <br><strong>NUS Crystal Growing Challenge 2024 - Merit Award</strong>
 <br>Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
