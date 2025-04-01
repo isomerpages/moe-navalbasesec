@@ -7,7 +7,8 @@ third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
 <p><strong>Associate of AST Award Recipients 2024</strong>
-<br>Facilitator of Networked Learning Communities</p>
+<br><strong>Facilitator of Networked Learning Communities</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,7 +54,8 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Researcher</p>
+<p>&nbsp;<strong>Researcher</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -124,7 +126,8 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Facilitator of Workshops</p>
+<p>&nbsp;<strong>Facilitator of Workshops</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -173,11 +176,7 @@ third_nav_title: Our Achievements
 <p></p>
 <p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
 Chee Joo, Edna</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>MOE Innergy Award 2024</p>
-</li>
-</ol>
 <p>Commendation Award&nbsp;- Teaching &amp; Learning</p>
 <table style="minWidth: 75px">
 <colgroup>
