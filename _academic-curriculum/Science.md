@@ -216,11 +216,13 @@ meet the diverse needs of our students.</p>
 <p><strong>Sec 1 STEM Exploration</strong>
 <br>In their first year, students explore various STEM fields through activities
 that showcase the applications of science and enhance awareness of STEM
-careers</p>
-<p></p>
+careers
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/Picture3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/1.jpg">
 </div>
+<p></p>
 <p><strong>Sec 2 STEM Connection</strong>
 <br>In their second year, students build on their foundation by connecting
 STEM to science, technology, society, and the environment. They apply scientific
