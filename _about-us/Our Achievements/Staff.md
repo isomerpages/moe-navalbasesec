@@ -171,10 +171,68 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
 Chee Joo, Edna</p>
-<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>MOE Innergy Award 2024</p>
+</li>
+</ol>
+<p>Commendation Award&nbsp;- Teaching &amp; Learning</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title of Innovation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Synopsis</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interdisciplinary Project Work (IPW)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Initiated by Innovation &amp; Environment Education (IEE) Committee's,
+this cross-departmental initiative promotes practical understanding and
+action within both school and Yishun community contexts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Plant Whisperers (Think Like a Plant Whisperer, Design Like an
+Urban Farmer)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Initiated by Science Dept, this project engages Secondary 2 students in
+STEM learning through urban farming. The programme builds civic and scientific
+literacy via hands-on activities, industry visits, and community service,
+with differentiated learning approaches for various student groups.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
