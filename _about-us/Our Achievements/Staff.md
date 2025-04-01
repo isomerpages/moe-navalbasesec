@@ -7,8 +7,7 @@ third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
 <p><strong>Associate of AST Award Recipients 2024</strong>
-</p>
-<p>Facilitator of Networked Learning Communities</p>
+<br>Facilitator of Networked Learning Communities</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -89,9 +88,8 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Associate of AST Award Recipients 2023</strong>
-</p>
-<p>Facilitator of Networked Learning Communities</p>
+<p><strong>Associate of AST Award Recipients 2023</strong>
+<br>Facilitator of Networked Learning Communities</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
