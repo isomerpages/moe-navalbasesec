@@ -172,8 +172,8 @@ third_nav_title: Our Achievements
 </table>
 <p></p>
 <p></p>
-<p><strong>National Day Awards 2024</strong> - The Commendation Medal</p>
-<p>Tay Chee Joo, Edna</p>
+<p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
+Chee Joo, Edna</p>
 <p></p>
 <p></p>
 <p></p>
