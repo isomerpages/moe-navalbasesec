@@ -255,10 +255,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lucy Png</p>
+<p>Mr Fan Yiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>Subject Head, Chinese Language</p>
 </td>
 </tr>
 </tbody>
