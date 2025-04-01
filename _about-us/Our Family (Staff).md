@@ -687,7 +687,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Operations and Administrative Staff</strong>
+<p><strong>&nbsp;Executive and Administrative Staff</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -707,6 +707,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Cassandra Loo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Balasundram</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -715,10 +723,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cassandra Loo</p>
+<p>Mr Frank Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
