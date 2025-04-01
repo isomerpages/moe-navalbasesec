@@ -177,9 +177,9 @@ third_nav_title: Our Achievements
 <p></p>
 <p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
 Chee Joo, Edna</p>
-<p><strong>MOE Innergy Award 2024</strong>
-</p>
-<p>Commendation Award&nbsp;- Teaching &amp; Learning</p>
+<p></p>
+<p><strong>MOE Innergy Award 2024 </strong>
+<br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -266,4 +266,3 @@ with differentiated learning approaches for various student groups.</p>
 <p><strong>2022 Singapore Hokkien Huay Kuan LEAP Award</strong>
 </p>
 <p>Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)</p>
-<p></p>
