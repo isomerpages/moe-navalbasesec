@@ -234,8 +234,8 @@ skills and knowledge.</p>
 <br>In their 3rd year, students will advance further through their participation
 in advanced STEM workshops, learning journeys and higher level competitions.
 These experiences hone advanced science skills, foster STEM discussions,
-and empower students to solve complex challenges independently.</p>
-<p>In their graduating year, students will have the opportunities to higher
+and empower students to solve complex challenges independently.
+<br>In their graduating year, students will have the opportunities to higher
 level institutions and attend workshops to delve deeper into the world
 of STEM. Students will be guided to consolidate their STEM learning experiences,
 helping them prepare for applications to further studies and related career
