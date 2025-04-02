@@ -246,13 +246,16 @@ with differentiated learning approaches for various student groups.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No.</p>
+<p><strong>No.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Award Category</p>
+<p><strong>Award Category</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awardees</p>
+<p><strong>Awardees</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -468,12 +471,208 @@ with differentiated learning approaches for various student groups.</p>
 </table>
 <p></p>
 <p></p>
-<p>2023 MSEA</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023.png">
-</div>
+<p><strong>2023 MSEA</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Balasundaram S/O Marappannalappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eugene Lee Chun Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Su Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurazni Binte Mohamed Kassim&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shawn Neo Zhe Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Wong Fue Sze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lishi Lisa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Cheng Mun Janessa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fan Yiming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kellie Kok Yu Feng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Sung Kok Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Guek Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oh Wei Shi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seo Soh Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tharmendra Jeyaraman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yuan Zhen Cheng Josep</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
 <br><strong>2023 Inspiring Teacher of English Award (Leadership)</strong>
 </p>
 <p>Mrs Crescendra Chong-Tan (HOD, English Language and Literature)</p>
