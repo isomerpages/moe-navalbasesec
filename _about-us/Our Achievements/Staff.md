@@ -667,7 +667,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>Silver&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuan Zhen Cheng Josep</p>
+<p>Yuan Zhen Cheng Joseph</p>
 </td>
 </tr>
 </tbody>
