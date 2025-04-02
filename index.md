@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: Our Pride & Joy
-          url: /about-us/Achievements/permalink/
+          url: /navalites/
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
