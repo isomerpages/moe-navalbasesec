@@ -7,7 +7,7 @@ third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
 <p><strong>Associate of AST Award Recipients 2024</strong>
-<br><strong>Facilitator of Networked Learning Communities</strong>
+<br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,7 +54,7 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Researcher</strong>
+<p>&nbsp;<strong>B)</strong>  <strong>Researcher</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -91,7 +91,7 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <p><strong>Associate of AST Award Recipients 2023</strong>
-<br><strong>Facilitator of Networked Learning Communities</strong>
+<br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -127,7 +127,7 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>Facilitator of Workshops</strong>
+<p>&nbsp;<strong>B)</strong>  <strong>Facilitator of Workshops</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
