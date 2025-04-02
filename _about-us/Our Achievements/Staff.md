@@ -175,8 +175,8 @@ third_nav_title: Our Achievements
 </tbody>
 </table>
 <p></p>
-<p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
-Chee Joo, Edna</p>
+<p><strong>National Day Awards 2024</strong> 
+<br>The Commendation Medal - Tay Chee Joo, Edna</p>
 <p></p>
 <p><strong>MOE Innergy Award 2024 </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
@@ -266,7 +266,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>&nbsp;Platinum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Balasundaram S/O Marappannalappan</p>
+<p>Balasundaram S/O Marappannalappan</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>Gold&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Chang Cheng Mun Janessa</p>
+<p>Chang Cheng Mun Janessa</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +365,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Daniel Troy Ingham</p>
+<p>Daniel Troy Ingham</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +431,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Rathna D/O Suppiah</p>
+<p>Rathna D/O Suppiah</p>
 </td>
 </tr>
 <tr>
@@ -557,7 +557,7 @@ with differentiated learning approaches for various student groups.</p>
 <p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Wong Fue Sze</p>
+<p>Wong Fue Sze</p>
 </td>
 </tr>
 <tr>
