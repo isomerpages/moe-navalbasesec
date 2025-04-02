@@ -176,7 +176,7 @@ third_nav_title: Our Achievements
 </table>
 <p></p>
 <p><strong>National Day Awards 2024</strong> 
-<br>The Commendation Medal Tay Chee Joo, Edna</p>
+<br>The Commendation Medal - Tay Chee Joo, Edna</p>
 <p></p>
 <p><strong>MOE Innergy Award 2024 </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
