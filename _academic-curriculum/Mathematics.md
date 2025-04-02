@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /nbss-curriculum/mathematics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
@@ -95,3 +95,114 @@ such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competitio
 Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites
 are exposed to mathematical problems that challenged them to think critically
 and out of the box to solve real life problems.</p>
+<h4>Achievements of our Navalites at Math Competitions:</h4>
+<p><strong>Year 2023</strong>
+</p>
+<p><strong><u>Singapore Asian School Math Olympiad (SASMO)</u></strong>
+</p>
+<p>Silver</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jovan Ong Hong Jun (1 Danforth)</p>
+</li>
+</ul>
+<p>Bronze</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cheong Coek Yip Dylan (1 Beacon)</p>
+</li>
+<li>
+<p>Dang Linh Linh (1 Beacon)</p>
+</li>
+<li>
+<p>Nurul Husna Binte Norhisham (1 Beacon)</p>
+</li>
+<li>
+<p>Joel Goh Zu Rui (1 Danforth)</p>
+</li>
+</ul>
+<p><strong>Honourable Mention</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Neven Lim Sheng Yang (1 Expedition)</p>
+</li>
+</ul>
+<p><strong><u>International Mathematical Modelling Competition (IMMC) Singapore</u></strong>
+</p>
+<p>Merit Award:</p>
+<p>BEDIONES ROCHELLE CHLOE BELISARIO</p>
+<p>DEESHA SURESH BALANI</p>
+<p>CHEN JING YANG</p>
+<p>SIEW YU CHANG KEITH</p>
+<p></p>
+<p><strong>Year 2024</strong>
+</p>
+<p><strong><u>Singapore and Asian Schools Math Olympiad (SASMO)</u></strong>
+</p>
+<p>Honorable Mention</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lee Xue Ying (1 Compass)</p>
+</li>
+<li>
+<p>Chiew Ying Xuan (1 Flagship)</p>
+</li>
+<li>
+<p>Kelly Sua Kai Li (2 Expedition)</p>
+</li>
+<li>
+<p>Sahla Farzana Shamshad (2 Flagship)</p>
+</li>
+</ul>
+<p>Bronze:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Zi Yuan (1 Garrison)</p>
+</li>
+<li>
+<p>Ng Hong Zhi (2 Flagship)</p>
+</li>
+</ul>
+<p>Silver:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nikita Zoshi (3-5)</p>
+</li>
+<li>
+<p>Chew Yu Jie (1 Danforth)</p>
+</li>
+</ul>
+<p><strong><u>International Mathematical Modelling Competition (IMMC) Singapore</u></strong>
+</p>
+<p>Merit Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Leo Xin Min, Gracia (Liang Xinmin) (3-5)</p>
+</li>
+<li>
+<p>Nikita Zoshi (3-5)</p>
+</li>
+<li>
+<p>Nicole Yip Pin Xi (3-5)</p>
+</li>
+<li>
+<p>Ong Ziyang, Xavier (3-5)</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>NIE Math Challenge</u></strong>
+</p>
+<p>Highest Distinction:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chew Yu Jie (1 Danforth)</p>
+</li>
+<li>
+<p>Elva Teo (1 Compass)</p>
+</li>
+<li>
+<p>Yew En Qi (1 Anchor)</p>
+</li>
+</ul>
+<p></p>
