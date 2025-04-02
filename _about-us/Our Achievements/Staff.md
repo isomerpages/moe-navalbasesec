@@ -6,16 +6,673 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
-<p>2024 MSEA</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_.jpg">
-</div>
-<p>2023 MSEA</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023.png">
-</div>
+<p><strong>Associate of AST Award Recipients 2024</strong>
+<br><strong>Facilitator of Networked Learning Communities</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norlita Bte Marsuki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher PE</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Researcher</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher CL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Associate of AST Award Recipients 2023</strong>
+<br><strong>Facilitator of Networked Learning Communities</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norlita Bte Marsuki</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Art</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>Facilitator of Workshops</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rathna d/o Suppiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher EL</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>National Day Awards 2024</strong> - The Commendation Medal Tay
+Chee Joo, Edna</p>
+<p></p>
+<p><strong>MOE Innergy Award 2024 </strong>
+<br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title of Innovation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Synopsis</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interdisciplinary Project Work (IPW)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Initiated by Innovation &amp; Environment Education (IEE) Committee's,
+this cross-departmental initiative promotes practical understanding and
+action within both school and Yishun community contexts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Plant Whisperers (Think Like a Plant Whisperer, Design Like an
+Urban Farmer)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Initiated by Science Dept, this project engages Secondary 2 students in
+STEM learning through urban farming. The programme builds civic and scientific
+literacy via hands-on activities, industry visits, and community service,
+with differentiated learning approaches for various student groups.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>2024 MSEA</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Platinum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Balasundaram S/O Marappannalappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lishi Lisa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chang Cheng Mun Janessa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Sung Kok Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Guek Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seo Soh Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tharmendra Jeyaraman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Ya-Wen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Vivien</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Daniel Troy Ingham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Koon Wah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Jiunn Shyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norlita Bte Marsuki</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Afnie Safrianie Binte Miswari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Amanina Bte Zain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Rathna D/O Suppiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Anis Binte Amat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Ching Yee Maybellin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong>2023 MSEA</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Balasundaram S/O Marappannalappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eugene Lee Chun Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Su Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurazni Binte Mohamed Kassim&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shawn Neo Zhe Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Wong Fue Sze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lishi Lisa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Cheng Mun Janessa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fan Yiming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kellie Kok Yu Feng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kenneth Sung Kok Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Guek Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oh Wei Shi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seo Soh Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tharmendra Jeyaraman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yuan Zhen Cheng Joseph</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>
 <br><strong>2023 Inspiring Teacher of English Award (Leadership)</strong>
 </p>
 <p>Mrs Crescendra Chong-Tan (HOD, English Language and Literature)</p>
@@ -35,4 +692,3 @@ third_nav_title: Our Achievements
 <p><strong>2022 Singapore Hokkien Huay Kuan LEAP Award</strong>
 </p>
 <p>Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)</p>
-<p></p>
