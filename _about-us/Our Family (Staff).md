@@ -687,7 +687,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<p><strong>&nbsp;Executive and Administrative Staff</strong>
+<p><strong>&nbsp;School Admin Team</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -759,6 +759,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gina Seo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
