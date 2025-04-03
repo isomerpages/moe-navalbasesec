@@ -105,7 +105,33 @@ and how they can develop aptitudes and attitudes necessary for the industry.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>Exploring various post-secondary pathways</u></strong>: Our
+graduating students learn more about various post-secondary pathways, life
+in Polytechnic, ITE, and Junior Colleges, and explore how they can achieve
+their potential.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
