@@ -107,7 +107,7 @@ of reading</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 1 </strong>
+<p><strong>Secondary 1</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -136,7 +136,7 @@ their peers.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Secondary 2 </strong>
+<p><strong>Secondary 2</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -177,7 +177,7 @@ chess and take on leadership roles by organising a school-wide chess competition
 </tbody>
 </table>
 <p></p>
-<p><strong>Secondary 3 </strong>
+<p><strong>Secondary 3</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -221,7 +221,7 @@ citizenship through debating global issues.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Learning Journeys</strong> 
+<p><strong>Learning Journeys</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
