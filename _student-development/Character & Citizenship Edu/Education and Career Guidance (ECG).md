@@ -76,9 +76,10 @@ potential post-secondary education options related to these industries</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p>World of Work: Navalites take part in a one-week job attachment stint
-in various industries to learn more about the field they are attached to
-and how they can develop aptitudes and attitudes necessary for the industry.</p>
+<p><strong><u>World of Work</u></strong>: Navalites take part in a one-week
+job attachment stint in various industries to learn more about the field
+they are attached to and how they can develop aptitudes and attitudes necessary
+for the industry.</p>
 </td>
 </tr>
 <tr>
