@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Character & Citizenship Edu
 variant: tiptap
 ---
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Student Development @ NBSS</strong>
 </p>
 <p>At NBSS, we believe that every Navalite can become a Leader of Self and
