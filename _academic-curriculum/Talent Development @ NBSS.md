@@ -200,6 +200,7 @@ chess and take on leadership roles by organising a school-wide chess competition
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p>At Naval Base Secondary School, we are dedicated to nurturing each student's
 unique talents and abilities. As part of our <strong>3E Approach</strong> to
 developing students <strong>(Embrace, Engage, and Excel)</strong>, our Talent
