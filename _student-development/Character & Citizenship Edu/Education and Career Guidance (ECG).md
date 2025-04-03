@@ -37,7 +37,38 @@ making informed decisions about their post-secondary pathways.
 <br>If you require further ECG advice, book an appointment and reach out to
 our ECG counsellor here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssecgc</a>
 </p>
+<p>These are some of our ECG programmes at NBSS:
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Applied Learning Module@Schools: Navalites deepen their various curriculum
+subject knowledge linked to various industries and explore potential post-secondary
+education options related to these industries</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Pictuure_11.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture12.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
