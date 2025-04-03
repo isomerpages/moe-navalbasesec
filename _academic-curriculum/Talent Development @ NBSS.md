@@ -179,7 +179,7 @@ chess and take on leadership roles by organising a school-wide chess competition
 </tbody>
 </table>
 <p></p>
-<p>Secondary 3
+<p><strong>Secondary 3 </strong>
 <br>
 </p>
 <table style="minWidth: 25px">
@@ -224,7 +224,7 @@ citizenship through debating global issues.</p>
 </tr>
 </tbody>
 </table>
-<p>Learning Journeys
+<p><strong>Learning Journeys</strong> 
 <br>
 </p>
 <table style="minWidth: 25px">
@@ -233,13 +233,13 @@ citizenship through debating global issues.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>As part of their learning experiences, TDP students visit organizations
 that focus on innovation and inventive thinking, such as Jewel@Changi and
 the Science Centre. These visits provide students with valuable exposure
 to real-world applications of creativity and technology, fostering critical
 thinking, problem-solving skills, and a deeper understanding of innovation.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
