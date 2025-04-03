@@ -114,7 +114,35 @@ of reading</p>
 </tr>
 </tbody>
 </table>
+<p>Secondary 1
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 students explore the gamification process and collaborate
+to design board games and interactive learning experiences aimed at engaging
+their peers. Past projects have included math-themed games such as Math
+Storm, which focuses on arithmetic, and Naval Nexus, which centers on algebraic
+equations. Through these projects, students enhance their creativity and
+critical thinking skills as they create fun, educational experiences for
+their peers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
