@@ -48,9 +48,9 @@ our ECG counsellor here: <a rel="noopener noreferrer nofollow" target="_blank">h
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Applied Learning Module@Schools: Navalites deepen their various curriculum
-subject knowledge linked to various industries and explore potential post-secondary
-education options related to these industries</p>
+<p><strong>Applied Learning Module@Schools:</strong> Navalites deepen their
+various curriculum subject knowledge linked to various industries and explore
+potential post-secondary education options related to these industries</p>
 </td>
 </tr>
 <tr>
