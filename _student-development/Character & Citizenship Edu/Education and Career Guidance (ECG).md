@@ -109,19 +109,16 @@ for the industry.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong><u>Exploring various post-secondary pathways</u></strong>: Our
 graduating students learn more about various post-secondary pathways, life
 in Polytechnic, ITE, and Junior Colleges, and explore how they can achieve
 their potential.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture19.jpg">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture19.jpg">
+</div>
 <p></p>
