@@ -142,14 +142,4 @@ future.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>National Education (NE) emphasizes on cultivating a sense of belonging
-and emotional rootedness to Singapore. It is an important aspect of a holistic
-education and it aims to develop national cohesion, cultivate the instinct
-for survival as a nation and instil in our students confidence in our nation
-future.</p>
-<p>Our school’s NE programme aims to provide different platforms for students
-to learn about the Singapore story. In doing so, we instil in our students
-the core values of our way of life and to foster a sense of identity as
-Singaporeans so as to ensures our continued success and well-being.</p>
-<p></p>
 <p></p>
