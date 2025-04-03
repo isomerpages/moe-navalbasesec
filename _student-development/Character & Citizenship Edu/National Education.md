@@ -15,27 +15,22 @@ in relation to society and the world, and arrive at our shared ideals and
 values.</p>
 <p>&nbsp;<strong>Our Citizenship Dispositions</strong>
 </p>
-<p>&nbsp;<strong>A Sense of Belonging</strong>
-</p>
-<p>We help our students develop a deeper understanding of who we are as Singaporeans,
+<p><strong>A Sense of Belonging</strong>
+<br>We help our students develop a deeper understanding of who we are as Singaporeans,
 and a shared understanding of the values that are important to us as a
 nation.</p>
-<p>&nbsp;<strong>A Sense of Hope</strong>
-</p>
-<p>Our programmes cultivate confidence and optimism in Singapore's future,
+<p><strong>A Sense of Hope</strong>
+<br>Our programmes cultivate confidence and optimism in Singapore's future,
 building resilience in our students to face the challenges ahead.</p>
-<p>&nbsp;<strong>A Sense of Reality</strong>
-</p>
-<p>Students gain awareness of contemporary realities – including Singapore's
+<p><strong>A Sense of Reality</strong>
+<br>Students gain awareness of contemporary realities – including Singapore's
 constraints and vulnerabilities – which affect us as a nation amidst the
 backdrop of a less predictable world.</p>
-<p>&nbsp;<strong>The Will to Act</strong>
-</p>
-<p>We empower our students to be active citizens who have a collective resolve
+<p><strong>The Will to Act</strong>
+<br>We empower our students to be active citizens who have a collective resolve
 and a sense of shared mission towards building a Singapore for all.</p>
 <p></p>
 <p><strong>Our Citizenship Education in Action</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
