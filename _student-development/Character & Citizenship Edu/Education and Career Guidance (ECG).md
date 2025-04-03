@@ -132,8 +132,4 @@ their potential.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Appointment Link: https://go.gov.sg/nbssmsjerlyn</p>
