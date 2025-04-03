@@ -16,8 +16,7 @@ of effort, planning, and resilience in times of stress.</p>
 </div>
 <p></p>
 <p><strong><u>Peer Support Leaders (PSLs)</u></strong>
-</p>
-<p>Beyond personal development, we also foster well-being through building
+<br>Beyond personal development, we also foster well-being through building
 a strong peer support network. We select and develop Peer Support Leaders
 (PSLs) to promote positive mindsets, social-emotional support, and pro-social
 behaviours to the school community.</p>
