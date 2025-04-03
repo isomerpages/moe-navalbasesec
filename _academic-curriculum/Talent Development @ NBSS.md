@@ -143,6 +143,11 @@ their peers.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p>Secondary 2
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -150,7 +155,7 @@ their peers.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>In Secondary 2, enrichment opportunities emphasise problem-solving and
 scientific concepts, utilising Design Thinking to address both everyday
 challenges and global environmental and health issues. This hands-on learning
@@ -164,15 +169,15 @@ Award.</p>
 chess and take on leadership roles by organising a school-wide chess competition.</p>
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture2.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture3.jpg">
@@ -181,7 +186,6 @@ chess and take on leadership roles by organising a school-wide chess competition
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
