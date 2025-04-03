@@ -18,6 +18,26 @@ the value of all occupations.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture10.png">
 </div>
+<p>At NBSS, we provide Navalites with opportunities for:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Self-discovery, where Navalites
+nurture self-awareness to discover how they can meaningfully play a part
+in their community;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploration of opportunities, where
+Navalites become self-directed and confident to explore and leverage education
+and career opportunities;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preparation for the future, where
+Navalites stay relevant, adaptable, and resilient through embracing the
+need for lifelong learning.
+<br>
+<br>In lower secondary, Navalites begin their ECG journey by understanding
+their personality, work values, interests and learning styles better. In
+upper secondary, Navalites focus on exploring industry opportunities and
+making informed decisions about their post-secondary pathways.
+<br>
+<br>If you require further ECG advice, book an appointment and reach out to
+our ECG counsellor here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssecgc</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
