@@ -3,7 +3,7 @@ title: Counselling
 permalink: /for-navalities/student-well-being/counselling/
 description: ""
 third_nav_title: Counselling & Guidance
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>School Counselling Service</strong></h4>
 <p>A positive and balanced state of mind is an important pre-condition for
@@ -20,11 +20,5 @@ Some issues could be:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sexual / physical / emotional abuse</p>
 <p>To see the counsellor, students may walk in during recess or after school.&nbsp;</p>
 <p>School Counsellors: Ms Lucy Png and Mr Li Jun Yang</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
