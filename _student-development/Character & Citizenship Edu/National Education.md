@@ -102,6 +102,38 @@ activities, empowering peer-to-peer learning in citizenship education</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture24.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture25.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interactive Games: Students explore our world through interactive games
+designed by CE leaders.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Journey: Museum-based learning journeys deepen students' understanding
+of Singapore's identity and heritage.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
