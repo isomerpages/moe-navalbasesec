@@ -102,13 +102,12 @@ of reading</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>Local learning journeys to industries or corporations</p>
-<p>Hands on workshops at museums</p>
-<p>&nbsp;</p>
+<p>Hands on workshops at museums&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Secondary 1
+<p><strong>Secondary 1 </strong>
 <br>
 </p>
 <table style="minWidth: 25px">
@@ -138,7 +137,7 @@ their peers.</p>
 </tbody>
 </table>
 <p></p>
-<p>Secondary 2
+<p><strong>Secondary 2 </strong>
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -189,15 +188,15 @@ chess and take on leadership roles by organising a school-wide chess competition
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>In the Secondary 3 Programme, students extend their passion for literacy
 by volunteering in the National Library's KidsREAD Program. They take an
 active role in designing interactive presentations and organising creative
 activities to introduce primary school children to the joys of reading.
 Through their efforts, they foster a love of books in younger students
 while cultivating a supportive and engaging learning environment for the
-broader community</p>
-</th>
+broader community.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
