@@ -33,7 +33,7 @@ upper secondary, Navalites focus on exploring industry opportunities and
 making informed decisions about their post-secondary pathways.
 <br>
 <br>If you require further ECG advice, book an appointment and reach out to
-our ECG counsellor here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssecgc</a>
+our ECG counsellor <a href="https://go.gov.sg/nbssecgc" rel="noopener nofollow" target="_blank">Here</a>
 </p>
 <p>These are some of our ECG programmes at NBSS:</p>
 <table style="minWidth: 50px">
