@@ -13,8 +13,7 @@ Through engaging learning experiences, we nurture important citizenship
 dispositions where students explore and examine their identity as citizens
 in relation to society and the world, and arrive at our shared ideals and
 values.</p>
-<p>&nbsp;</p>
-<p><strong>Our Citizenship Dispositions</strong>
+<p>&nbsp;<strong>Our Citizenship Dispositions</strong>
 </p>
 <p>&nbsp;<strong>A Sense of Belonging</strong>
 </p>
@@ -54,7 +53,7 @@ and a sense of shared mission towards building a Singapore for all.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture21.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture21.jpg">
 </div>
 </td>
 </tr>
@@ -70,7 +69,38 @@ to life with energy and enthusiasm.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture23.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NRIC Presentation Ceremony: A meaningful ceremony marking students' coming-of-age
+journey into citizenship.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leadership: Citizenship Education Ambassadors lead engaging class
+activities, empowering peer-to-peer learning in citizenship education</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
