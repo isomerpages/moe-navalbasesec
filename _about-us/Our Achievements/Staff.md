@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2024</strong>
+<p><strong>2024 Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -90,7 +90,7 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2023</strong>
+<p><strong>2023 Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -174,7 +174,7 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2022</strong>
+<p><strong>2022 Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -222,10 +222,10 @@ third_nav_title: Our Achievements
 </table>
 <p></p>
 <p></p>
-<p><strong>National Day Awards 2024</strong> 
+<p><strong>2024 National Day Award</strong>
 <br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
-<p><strong>MOE Innergy Award 2024 </strong>
+<p><strong>2024 MOE Innergy Award  </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
 <table style="minWidth: 75px">
 <colgroup>
