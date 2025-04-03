@@ -4,6 +4,47 @@ permalink: /nbss-curriculum/talent-development-at-nbss/
 description: ""
 variant: tiptap
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p>At Naval Base Secondary School, we are dedicated to nurturing each student's
+unique talents and abilities. As part of our 3E Approach to developing
+students (Embrace, Engage, and Excel), our Talent Development Programme
+(TDP) offers students opportunities to excel in areas outside of the standard
+curriculum, challenging their thinking in the process. From Mathematics
+board game design to public speaking, to storytelling and innovative Science
+projects, the TDP encourages excelling Navalites to explore new ideas and
+address real-world challenges.
+<br>
+<br><strong><u>Programme Objectives:</u></strong>
+<br>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture self-directed learners,
+creative and critical thinkers who can communicate effectively</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop confident,
+resilient and empathetic individuals who use their talents to actively
+contribute to others</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>At Naval Base Secondary School, we are dedicated to nurturing each student's
 unique talents and abilities. As part of our <strong>3E Approach</strong> to
 developing students <strong>(Embrace, Engage, and Excel)</strong>, our Talent
