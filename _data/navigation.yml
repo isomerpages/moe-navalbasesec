@@ -22,18 +22,18 @@ links:
     sublinks:
       - title: Home-Based Learning
         url: /for-navalities/home-based-learning
-      - title: Timetable, Booklist & Uniform
-        url: /for-navalities/timetable-booklist-n-uniform/
-      - title: Financial Assistance
-        url: /for-navalities/financial-assistance/moe-financial-assistance-scheme
-      - title: Counselling and Guidance
-        url: /for-navalities/counselling
       - title: Sec 3 Subject Combinations
         url: /for-navalites/sec3subjcomb
       - title: Poly EAE
         url: /for-navalities/poly-eae
       - title: ITE EAE
         url: /for-navalites/iteeae
+      - title: Counselling and Guidance
+        url: /for-navalities/counselling
+      - title: Timetable, Booklist & Uniform
+        url: /for-navalities/timetable-booklist-n-uniform/
+      - title: Financial Assistance
+        url: /for-navalities/financial-assistance/moe-financial-assistance-scheme
   - title: Parents
     url: /nbss/announcements/
     sublinks:
