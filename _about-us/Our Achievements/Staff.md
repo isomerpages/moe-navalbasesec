@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2024</strong>
+<p><strong>2024: Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -90,7 +90,8 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2023</strong>
+<p></p>
+<p><strong>2023: Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -174,7 +175,8 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2022</strong>
+<p></p>
+<p><strong>2022: Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -222,10 +224,10 @@ third_nav_title: Our Achievements
 </table>
 <p></p>
 <p></p>
-<p><strong>National Day Awards 2024</strong> 
+<p><strong>2024: National Day Award</strong>
 <br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
-<p><strong>MOE Innergy Award 2024 </strong>
+<p><strong>2024: MOE Innergy Award </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -282,7 +284,7 @@ with differentiated learning approaches for various student groups.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>2024 MSEA</strong>
+<p><strong>2024: MSEA</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -518,7 +520,7 @@ with differentiated learning approaches for various student groups.</p>
 </table>
 <p></p>
 <p></p>
-<p><strong>2023 MSEA</strong>
+<p><strong>2023: MSEA</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -720,22 +722,21 @@ with differentiated learning approaches for various student groups.</p>
 </tbody>
 </table>
 <p>
-<br><strong>2023 Inspiring Teacher of English Award (Leadership)</strong>
+<br><strong>2023: Inspiring Teacher of English Award (Leadership)</strong>
 </p>
 <p>Mrs Crescendra Chong-Tan (HOD, English Language and Literature)</p>
-<p><strong>2022 National Day Commendation Medal</strong>
+<p><strong>2022: National Day Commendation Medal</strong>
 </p>
 <p>Mr Lim Seow Kuan (Vice-Principal)</p>
 <p>Mdm Faridah Bte Abdul Hamid (Year Head)</p>
-<p><strong>2022 National Day Long Service Award</strong>
+<p><strong>2022: National Day Long Service Award</strong>
 </p>
 <p>Mrs Siti Osman (Senior Teacher, Art)</p>
 <p>Mr Velukutty Ravindranath (Teacher, Tamil Language)</p>
-<p><strong>2022 Associate of Academy of Singapore Teachers</strong>
+<p><strong>2022: Associate of Academy of Singapore Teachers</strong>
 </p>
 <p>Ms Tay Chee Joo Edna (Lead Teacher, PE)</p>
 <p>Ms Huang Peishi (Senior Teacher, Geography)</p>
-<p></p>
-<p><strong>2022 Singapore Hokkien Huay Kuan LEAP Award</strong>
+<p><strong>2022: Singapore Hokkien Huay Kuan LEAP Award</strong>
 </p>
 <p>Certification of Commendation: Mr Andrew Lim Swee Leong (Year Head)</p>
