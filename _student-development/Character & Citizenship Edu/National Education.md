@@ -38,7 +38,37 @@ and a sense of shared mission towards building a Singapore for all.</p>
 <p><strong>Our Citizenship Education in Action</strong>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture21.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fostering pride and belonging through the National Day Observance Ceremony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations: Students' voices bring National Day celebrations
+to life with energy and enthusiasm.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
