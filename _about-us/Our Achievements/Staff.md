@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
-<p><strong>Associate of AST Award Recipients 2024</strong>
+<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2024</strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -46,7 +46,7 @@ third_nav_title: Our Achievements
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Chee Joo</p>
+<p>Tay Chee Joo Edna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher PE</p>
@@ -90,7 +90,7 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
-<p><strong>Associate of AST Award Recipients 2023</strong>
+<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2023</strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
 <table style="minWidth: 75px">
@@ -155,7 +155,7 @@ third_nav_title: Our Achievements
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Chee Joo</p>
+<p>Tay Chee Joo Edna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher PE</p>
@@ -174,9 +174,56 @@ third_nav_title: Our Achievements
 </tr>
 </tbody>
 </table>
+<p><strong>Associate of Academy of Singapore Teachers Award Recipients 2022</strong>
+<br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>s/n</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Chee Joo Edna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Peishi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Geography</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p><strong>National Day Awards 2024</strong> 
-<br>The Commendation Medal - Tay Chee Joo, Edna</p>
+<br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
 <p><strong>MOE Innergy Award 2024 </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
