@@ -23,7 +23,97 @@ resilient and empathetic individuals who use their talents to actively
 contribute to others</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Programme Overview</strong>
+<br>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Signature Programmes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designing board games and interactive learning activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applying Design Thinking to innovate School Improvement and STEM-related
+projects</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leading activities in the KidsREAD programme to inspire a love for reading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contribution to others</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organising learning experiences for the Sec 1 cohort</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organising chess competition for the school</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organising activities for primary school students to promote the love
+of reading</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition Opportunities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject-related competitions, Math and Science Olympiads</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kah Kee Young Inventors Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Model United Nations Conferences</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Journeys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Local learning journeys to industries or corporations</p>
+<p>Hands on workshops at museums</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
