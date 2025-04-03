@@ -37,9 +37,7 @@ making informed decisions about their post-secondary pathways.
 <br>If you require further ECG advice, book an appointment and reach out to
 our ECG counsellor here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssecgc</a>
 </p>
-<p>These are some of our ECG programmes at NBSS:
-<br>
-</p>
+<p>These are some of our ECG programmes at NBSS:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
