@@ -135,6 +135,10 @@ of Singapore's identity and heritage.</p>
 </tbody>
 </table>
 <p></p>
+<p>Through our National Education events, student development experiences,
+and meaningful discussions of contemporary issues, we prepare our students
+to be leaders of character and others, willing to contribute to Singapore's
+future.</p>
 <p></p>
 <p></p>
 <p></p>
