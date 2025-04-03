@@ -85,20 +85,5 @@ future.</p>
 to learn about the Singapore story. In doing so, we instil in our students
 the core values of our way of life and to foster a sense of identity as
 Singaporeans so as to ensures our continued success and well-being.</p>
-<p><strong><u>NE core events in Naval Base Secondary</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Total Defence Day</p>
-</li>
-<li>
-<p>International Friendship Day</p>
-</li>
-<li>
-<p>Racial Harmony Day</p>
-</li>
-<li>
-<p>National Day</p>
-</li>
-</ul>
+<p></p>
 <p></p>
