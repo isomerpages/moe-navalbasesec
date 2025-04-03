@@ -80,7 +80,7 @@ to life with energy and enthusiasm.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture23.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture23.jpg">
 </div>
 </td>
 </tr>
@@ -107,7 +107,7 @@ activities, empowering peer-to-peer learning in citizenship education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture24.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Picture24.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
