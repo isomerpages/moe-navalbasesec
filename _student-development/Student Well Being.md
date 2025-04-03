@@ -63,7 +63,6 @@ and the school community</p>
 Unplugged, where PSLs work with other student leadership boards to encourage
 peers to put away their mobile devices, be fully present with their friend,
 and reconnect with the joy of face-to-face interaction.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Sl update wenbin/Untitled_design.jpg">
 </div>
