@@ -3,16 +3,69 @@ title: National Education
 permalink: /nbss-curriculum/character-and-citizenship-education/national-education/
 description: ""
 third_nav_title: Character & Citizenship Edu
+variant: tiptap
 ---
-
-
-
-<p>National Education (NE) emphasizes on cultivating a sense of belonging and emotional rootedness to Singapore. It is an important aspect of a holistic education and it aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation future.</p>
-<p>Our school&rsquo;s NE programme aims to provide different platforms for students to learn about the Singapore story. In doing so, we instil in our students the core values of our way of life and to foster a sense of identity as Singaporeans so as to ensures our continued success and well-being.</p>
-<p><strong><u>NE core events in Naval Base Secondary</u></strong></p>
-<ul>
-<li>Total Defence Day</li>
-<li>International Friendship Day</li>
-<li>Racial Harmony Day</li>
-<li>National Day</li>
+<p><strong>Citizenship Education@NBSS</strong>
+</p>
+<p>&nbsp;At NBSS, we strive to develop in our students a deep understanding
+and appreciation of Singapore and citizenship in today's complex world.
+Through engaging learning experiences, we nurture important citizenship
+dispositions where students explore and examine their identity as citizens
+in relation to society and the world, and arrive at our shared ideals and
+values.</p>
+<p>&nbsp;</p>
+<p><strong>Our Citizenship Dispositions</strong>
+</p>
+<p>&nbsp;<strong>A Sense of Belonging</strong>
+</p>
+<p>We help our students develop a deeper understanding of who we are as Singaporeans,
+and a shared understanding of the values that are important to us as a
+nation.</p>
+<p>&nbsp;<strong>A Sense of Hope</strong>
+</p>
+<p>Our programmes cultivate confidence and optimism in Singapore's future,
+building resilience in our students to face the challenges ahead.</p>
+<p>&nbsp;<strong>A Sense of Reality</strong>
+</p>
+<p>Students gain awareness of contemporary realities – including Singapore's
+constraints and vulnerabilities – which affect us as a nation amidst the
+backdrop of a less predictable world.</p>
+<p>&nbsp;<strong>The Will to Act</strong>
+</p>
+<p>We empower our students to be active citizens who have a collective resolve
+and a sense of shared mission towards building a Singapore for all.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>National Education (NE) emphasizes on cultivating a sense of belonging
+and emotional rootedness to Singapore. It is an important aspect of a holistic
+education and it aims to develop national cohesion, cultivate the instinct
+for survival as a nation and instil in our students confidence in our nation
+future.</p>
+<p>Our school’s NE programme aims to provide different platforms for students
+to learn about the Singapore story. In doing so, we instil in our students
+the core values of our way of life and to foster a sense of identity as
+Singaporeans so as to ensures our continued success and well-being.</p>
+<p><strong><u>NE core events in Naval Base Secondary</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Total Defence Day</p>
+</li>
+<li>
+<p>International Friendship Day</p>
+</li>
+<li>
+<p>Racial Harmony Day</p>
+</li>
+<li>
+<p>National Day</p>
+</li>
 </ul>
+<p></p>
