@@ -46,7 +46,7 @@ third_nav_title: Our Achievements
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Chee Joo</p>
+<p>Tay Chee Joo Edna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher PE</p>
@@ -155,7 +155,7 @@ third_nav_title: Our Achievements
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Chee Joo</p>
+<p>Tay Chee Joo Edna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher PE</p>
@@ -223,7 +223,7 @@ third_nav_title: Our Achievements
 <p></p>
 <p></p>
 <p><strong>National Day Awards 2024</strong> 
-<br>The Commendation Medal - Tay Chee Joo, Edna</p>
+<br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
 <p><strong>MOE Innergy Award 2024 </strong>
 <br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
