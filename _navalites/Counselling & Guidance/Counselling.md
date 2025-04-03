@@ -28,4 +28,3 @@ Some issues could be:</p>
 <p></p>
 <p></p>
 <p></p>
-<p>School Counsellor: Ms Lucy Png, Venue: Hope Sanctuary (Level</p>
