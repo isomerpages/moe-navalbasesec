@@ -144,7 +144,6 @@ their peers.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p>Secondary 2
 <br>
 </p>
@@ -187,8 +186,89 @@ chess and take on leadership roles by organising a school-wide chess competition
 </tbody>
 </table>
 <p></p>
+<p>Secondary 3
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>In the Secondary 3 Programme, students extend their passion for literacy
+by volunteering in the National Library's KidsREAD Program. They take an
+active role in designing interactive presentations and organising creative
+activities to introduce primary school children to the joys of reading.
+Through their efforts, they foster a love of books in younger students
+while cultivating a supportive and engaging learning environment for the
+broader community</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students are also given opportunities to participate in Model United Nations
+(MUN) Conferences, where they enhance research, public speaking and negotiation
+skills, collaborate with diverse peers, and deepen their sense of global
+citizenship through debating global issues.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Learning Journeys
+<br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>As part of their learning experiences, TDP students visit organizations
+that focus on innovation and inventive thinking, such as Jewel@Changi and
+the Science Centre. These visits provide students with valuable exposure
+to real-world applications of creativity and technology, fostering critical
+thinking, problem-solving skills, and a deeper understanding of innovation.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture6.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
