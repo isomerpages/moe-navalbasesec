@@ -151,15 +151,32 @@ their peers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>In Secondary 2, enrichment opportunities emphasise problem-solving and
+scientific concepts, utilising Design Thinking to address both everyday
+challenges and global environmental and health issues. This hands-on learning
+approach encourages students to think critically and creatively, enabling
+them to contribute to global issues such as food security and environmental
+sustainability. One standout in the 2024 project was the development of
+a foldable hydro-case for a vertical farm within the school—an initiative
+that earned the Encouragement Award at the 2024 Tan Kah Kee Young Inventors’
+Award.</p>
+<p>The students also have the opportunity to learn the strategic game of
+chess and take on leadership roles by organising a school-wide chess competition.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture2.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 SL update TDP/Picture3.jpg">
+</div>
 </td>
 </tr>
 </tbody>
