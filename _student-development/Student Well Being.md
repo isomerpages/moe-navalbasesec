@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><strong><u>Well-being starts with ourselves!</u></strong>
-</p>
-<p>At NBSS, we believe student well-being starts with cultivating a growth
+<br>At NBSS, we believe student well-being starts with cultivating a growth
 mindset. Our Growth Mindset curriculum encourages Navalites to see challenges
 as opportunities for growth. Guided by Form Teachers, they learn the value
 of effort, planning, and resilience in times of stress.</p>
