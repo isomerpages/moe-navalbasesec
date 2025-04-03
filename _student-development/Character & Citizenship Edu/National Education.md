@@ -35,6 +35,9 @@ backdrop of a less predictable world.</p>
 <p>We empower our students to be active citizens who have a collective resolve
 and a sense of shared mission towards building a Singapore for all.</p>
 <p></p>
+<p><strong>Our Citizenship Education in Action</strong>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
