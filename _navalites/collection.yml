@@ -2,13 +2,13 @@ collections:
   navalites:
     output: true
     order:
-      - Counselling & Guidance/.keep
-      - Counselling & Guidance/Counselling.md
-      - Counselling & Guidance/Guidance.md
       - Home–Based Learning.md
       - Secondary 3 Subject Combinations.md
       - Poly EAE.md
       - ITE EAE.md
+      - Counselling & Guidance/.keep
+      - Counselling & Guidance/Counselling.md
+      - Counselling & Guidance/Guidance.md
       - Timetable, Booklist & Uniform/.keep
       - Timetable, Booklist & Uniform/Booklist 2025.md
       - Timetable, Booklist & Uniform/School Uniform.md
