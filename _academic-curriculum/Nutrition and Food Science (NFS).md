@@ -55,8 +55,7 @@ With the appropriate knowledge and skills, they will become a health ambassador,
 discerning consumer and food innovator.</p>
 <p></p>
 <p><strong>Programmes</strong>
-</p>
-<p><strong>Secondary 3 Culinary Workshop</strong>
+<br><strong>Secondary 3 Culinary Workshop</strong>
 </p>
 <p>The workshop focuses on sharpening students' culinary skills through hands-on
 practice. Students will refine essential techniques, improve efficiency
