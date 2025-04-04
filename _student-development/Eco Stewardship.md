@@ -262,8 +262,8 @@ efforts through various channels.</p>
 </table>
 <p></p>
 <h4>Accolades and Recognition</h4>
-<p>National Environment Agency – Project ECO (Educate. Challenge. Organise)
-Bronze Award</p>
+<p><strong>National Environment Agency – Project ECO (Educate. Challenge. Organise) Bronze Award</strong>
+</p>
 <p>The school participated in the annual outreach efforts by National Environment
 Agency targeted at students involved in sustainability efforts in school.
 The aim was to train, guide and support students to lead environmental
