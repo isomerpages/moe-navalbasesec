@@ -261,7 +261,36 @@ efforts through various channels.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<h4>Accolades and Recognition</h4>
+<p>National Environment Agency – Project ECO (Educate. Challenge. Organise)
+Bronze Award</p>
+<p>The school participated in the annual outreach efforts by National Environment
+Agency targeted at students involved in sustainability efforts in school.
+The aim was to train, guide and support students to lead environmental
+initiatives in schools. We are proud to announce that Naval Base Secondary
+School clinched the Bronze Award in the Environment Protection Category
+based on our efforts in encouraging recycling practices in the school as
+well as the neighbourhood. Our annual signature project for students to
+produce upcycling gifts for our staff as part of our Teachers’ Day Celebration
+also contributes towards the sustainability efforts.</p>
+<p>&nbsp;Find out more about what the school does at the Clean and Green
+Singapore Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/what-we-do/cgs2024/eco-schools/environment-protection-secondary-school/</a>
+</p>
+<p>&nbsp;<strong>Singapore Environment Council (School Green Awards)</strong>
+</p>
+<p>Organised by the Singapore Environment Council for schools, the annual
+SEC_SGA is to recognise the environmental education efforts in schools
+through a regular audit as well as environmental projects led by students.
+We are glad to announce that for 2023 and 2024, the school has achieved
+the Vanda Ms Joaquim award.</p>
+<p>&nbsp;More information about the award can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://web.sec.org.sg/sga/</a>
+</p>
+<p>&nbsp;<strong>Northwest CDC School Green Living Awards</strong>
+</p>
+<p>The school also clinched the Silver Award for Northwest CDC’s School Green
+Living Awards in 2023 and 2024. This reflects the school’s active efforts
+in working with our partners to promote sustainability efforts in the school
+as well as in the community, and our continued desire to support such efforts.</p>
 <p></p>
 <p></p>
 <p></p>
