@@ -50,7 +50,6 @@ security, including food safety and sustainable food consumption. They
 will also apply scientific principles during food preparation and cooking.
 With the appropriate knowledge and skills, they will become a health ambassador,
 discerning consumer and food innovator.</p>
-<p></p>
 <p><strong>Programmes</strong>
 <br><strong>Secondary 3 Culinary Workshop</strong>
 </p>
