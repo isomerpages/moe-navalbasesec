@@ -102,8 +102,6 @@ choices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 using eco-friendly ingredients and minimizing waste. This competition enhances
 culinary skills while promoting awareness of responsible food consumption
 and sustainability.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_2.jpg">
 </div>
