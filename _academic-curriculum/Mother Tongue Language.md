@@ -68,7 +68,7 @@ o	Traditional musical experience
 
 **CHINESE LANGUAGE**
 ![](/images/Cl/picture8.jpg)
-o	River Hongbao 2023（春到河畔2023<br>
+o	River Hongbao 2023（春到河畔2023)<br>
 o	Chinese musical at Drama Centre, 《都是当兵惹的祸》The Soldier &amp; His Virtuous Wife
 
 **CELEBRATION OF FESTIVALS**
