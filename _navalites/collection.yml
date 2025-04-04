@@ -2,7 +2,6 @@ collections:
   navalites:
     output: true
     order:
-      - Counselling.md
       - Home–Based Learning.md
       - Secondary 3 Subject Combinations.md
       - Poly EAE.md
