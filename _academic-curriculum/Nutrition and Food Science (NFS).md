@@ -71,8 +71,7 @@ in the food lab, and enhance their confidence in food preparation.</p>
 <p></p>
 <p></p>
 <p><strong>Learning Journey to Edible Garden City</strong>
-</p>
-<p>Students explored sustainable urban farming at Edible Garden City, gaining
+<br>Students explored sustainable urban farming at Edible Garden City, gaining
 hands-on experience in growing edible plants and understanding farm-to-table
 concepts. This journey deepens their appreciation for food security, sustainability,
 and urban agriculture through interactive activities and real-world applications.</p>
