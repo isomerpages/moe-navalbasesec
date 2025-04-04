@@ -241,16 +241,26 @@ efforts through various channels.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture5.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture6.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
