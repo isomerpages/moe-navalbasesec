@@ -68,6 +68,27 @@ growth.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/Picture11.jpg">
 </div>
 <p></p>
+<p><strong>A Celebration of Learning: Student-led Workshops</strong>
+</p>
+<p>Throughout the year, selected Navalites facilitated student-led workshops
+on topics like perfumery, crochet, coding, clay trinkets, and terrarium-making.
+As facilitators, they honed skills in public speaking, collaboration, and
+problem-solving while fostering a dynamic peer-learning environment.</p>
+<p></p>
+<p></p>
+<p><strong>A Celebration of Learning: SIL Fest</strong>
+</p>
+<p>The school’s signature program, SIL Fest, concluded the year with a vibrant
+celebration of learning, where students presented projects and led workshops,
+exploring skills from sports and music to culinary arts and artistic expressions,
+the event highlighted a diverse range of talents, fostering curiosity and
+innovation.&nbsp; The event highlighted diverse talents, fostering curiosity,
+collaboration, and a “for students, by students” experience, where passion,
+knowledge, and skills were exchanged freely.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
