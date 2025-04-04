@@ -20,7 +20,7 @@ and competencies that will prepare them for a rapidly changing world. n.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<h4>Sports </h4>
+<h4>Sports</h4>
 </td>
 </tr>
 <tr>
@@ -144,30 +144,50 @@ and competencies that will prepare them for a rapidly changing world. n.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Objectives:&nbsp;</strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Uniformed Groups</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Girl Guides</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>Breadth of experiences:</u></strong>Students in each CCA being
-introduced and exposed to a variety of programmes and activities.</p>
-</li>
-<li>
-<p><strong><u>Progressive:</u></strong>a comprehensive plan is in place to
-develop the students progressively in the CCAs.</p>
-</li>
-<li>
-<p><strong><u>Enjoyment and connection:</u></strong>Students have adequate
-time during CCA to connect and collaborate with one another, and enjoy
-the experience.</p>
-</li>
-<li>
-<p><strong><u>Team Spirit:</u></strong>Students establish good peer relationship
-and teamwork within the CCA.</p>
-</li>
-<li>
-<p><strong><u>Competencies development:</u></strong>Students develop character,
-and citizenship, and achieve the 21st century skills, while identify their
-interests and talents.</p>
-</li>
-</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104715__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Police Cadet Corps</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104466__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>St. John Brigade</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104560__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National Cadet Corps</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104639__1_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
