@@ -1,8 +1,8 @@
 ---
 title: Guidance
-permalink: /for-navalities/student-well-being/guidance/
+permalink: /for-navalities/counselling-n-guidance/guidance/
 description: ""
-third_nav_title: Counselling & Guidance
+third_nav_title: Counselling and Guidance
 variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7rTCEyevJL-Lsq0l6zzUwKnPxmFL0ozZbokFTGq5DXTeQAGjK1FvMHNtjRfMxoA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

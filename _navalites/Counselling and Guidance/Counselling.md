@@ -1,8 +1,8 @@
 ---
 title: Counselling
-permalink: /for-navalities/student-well-being/counselling/
+permalink: /for-navalities/counselling-and-guidance/counselling/
 description: ""
-third_nav_title: Counselling & Guidance
+third_nav_title: Counselling and Guidance
 variant: tiptap
 ---
 <h4><strong>School Counselling Service</strong></h4>

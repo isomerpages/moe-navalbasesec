@@ -21,15 +21,16 @@ the initiatives can be found at the following links:</p>
 <p></p>
 </li>
 </ul>
-<h3>Environmental Education at NBSS</h3>
+<h4>Environmental Education at NBSS</h4>
 <p>In line with the SGP 2030, the Eco-Stewardship Programme (ESP) is introduced
 in schools. In NBSS, our aim is to develop all Navalites to be stewards
 for the environment. This is done via the nationwide 4Cs approach - Curriculum,
 Campus, Culture and Community, and in customising the programmes under
 this broad umbrella, we hope to shape all Navalites to be advocates for
 sustainable living.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/envedu1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture1.png">
 </div>
 <p>Our ESP builds on current environmental efforts in our school through
 the 4Cs – Curriculum, Campus, Culture and Community.</p>
@@ -221,4 +222,80 @@ discussed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/envedu8.png">
 </div>
+<p><strong>Workshops and Training for our students</strong>
+</p>
+<p>To support the acquiring of knowledge related to sustainability, students
+also have the chance to participate in training workshops that touch on
+various pillars related to the Singapore Green Plan 2030. From BioGirl
+MJ’s workshop on recycled paper workshop to vermicomposting sessions, and
+programmes organised by Gardens by the Bay, the schools strives to provide
+our students with opportunities to learn about and witness sustainability
+efforts through various channels.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Accolades and Recognition</h4>
+<p><strong>National Environment Agency – Project ECO (Educate. Challenge. Organise) Bronze Award</strong>
+</p>
+<p>The school participated in the annual outreach efforts by National Environment
+Agency targeted at students involved in sustainability efforts in school.
+The aim was to train, guide and support students to lead environmental
+initiatives in schools. We are proud to announce that Naval Base Secondary
+School clinched the Bronze Award in the Environment Protection Category
+based on our efforts in encouraging recycling practices in the school as
+well as the neighbourhood. Our annual signature project for students to
+produce upcycling gifts for our staff as part of our Teachers’ Day Celebration
+also contributes towards the sustainability efforts.</p>
+<p>&nbsp;Find out more about what the school does at the Clean and Green
+Singapore Website: <a href="https://www.cgs.gov.sg/what-we-do/cgs2024/eco-schools/environment-protection-secondary-school/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p>&nbsp;<strong>Singapore Environment Council (School Green Awards)</strong>
+</p>
+<p>Organised by the Singapore Environment Council for schools, the annual
+SEC_SGA is to recognise the environmental education efforts in schools
+through a regular audit as well as environmental projects led by students.
+We are glad to announce that for 2023 and 2024, the school has achieved
+the Vanda Ms Joaquim award.</p>
+<p>&nbsp;More information about the award can be found at: <a href="https://web.sec.org.sg/sga/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p>&nbsp;<strong>Northwest CDC School Green Living Awards</strong>
+</p>
+<p>The school also clinched the Silver Award for Northwest CDC’s School Green
+Living Awards in 2023 and 2024. This reflects the school’s active efforts
+in working with our partners to promote sustainability efforts in the school
+as well as in the community, and our continued desire to support such efforts.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
