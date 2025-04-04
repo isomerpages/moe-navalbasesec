@@ -2,7 +2,6 @@ collections:
   navalites:
     output: true
     order:
-      - Guidance/Guidance.md
       - Guidance/.keep
       - Home–Based Learning.md
       - Secondary 3 Subject Combinations.md
