@@ -56,10 +56,17 @@ insights.</p>
 growth.</p>
 </li>
 </ol>
+<p><strong>Here’s a sneak peek of their individual SIL Padlet updates</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/Picture10.jpg">
+</div>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/Picture11.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
