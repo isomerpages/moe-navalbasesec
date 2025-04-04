@@ -1,6 +1,6 @@
 ---
 title: Guidance
-permalink: /for-navalities/counselling-n-guidance/guidance/
+permalink: /for-navalites/counselling-n-guidance/guidance/
 description: ""
 third_nav_title: Counselling and Guidance
 variant: markdown

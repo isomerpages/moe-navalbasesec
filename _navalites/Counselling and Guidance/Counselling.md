@@ -1,6 +1,6 @@
 ---
 title: Counselling
-permalink: /for-navalities/counselling-and-guidance/counselling/
+permalink: /for-navalites/counselling-and-guidance/counselling/
 description: ""
 third_nav_title: Counselling and Guidance
 variant: tiptap
