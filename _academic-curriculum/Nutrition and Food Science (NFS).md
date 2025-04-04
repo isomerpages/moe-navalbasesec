@@ -43,8 +43,7 @@ equips students with foundational knowledge in food, nutrition, and consumerism.
 This strong foundation prepares them for everyday living and progression
 to upper secondary Nutrition &amp; Food Science (NFS), leading to further
 studies in food and nutrition-related fields.</p>
-<p>&nbsp;</p>
-<p><strong>Nutrition &amp; Food Science</strong>
+<p>&nbsp;<strong>Nutrition &amp; Food Science</strong>
 </p>
 <p>Through the Nutrition &amp; Food Science (NFS) curriculum, students would
 advocate nutrition and health for self, family and the community. They
