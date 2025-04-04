@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Counselling and Guidance
 variant: tiptap
 ---
-<h4><strong>School Counselling Service</strong></h4>
+<h4><strong>School Counselling </strong></h4>
 <p>A positive and balanced state of mind is an important pre-condition for
 doing well in school (academic as well as co-curricular pursuits).</p>
 <p>&nbsp;Students who need to seek advice or speak to someone over any personal
