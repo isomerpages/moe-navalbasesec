@@ -100,3 +100,21 @@ choices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_1.jpg">
 </div>
 <p></p>
+<p><strong>MasterChef For Change: A Competition on Food Sustainability</strong>
+</p>
+<p>MasterChef for Change challenges students to create sustainable dishes
+using eco-friendly ingredients and minimizing waste. This competition enhances
+culinary skills while promoting awareness of responsible food consumption
+and sustainability.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
