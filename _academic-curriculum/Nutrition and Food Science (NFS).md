@@ -33,9 +33,8 @@ and contribute meaningfully to a sustainable and health-conscious society.</p>
 <p></p>
 <p><strong>Curriculum Overview</strong>
 </p>
-<p><strong>Food &amp; Consumer Education</strong>
-</p>
-<p>At Naval Base Secondary School, Food &amp; Consumer Education (FCE) empowers
+<p><strong>Food &amp; Consumer Education </strong>
+<br>At Naval Base Secondary School, Food &amp; Consumer Education (FCE) empowers
 students to be health-conscious, discerning consumers with essential life
 skills. The curriculum, grounded in Food Studies and Consumer Studies,
 equips students with foundational knowledge in food, nutrition, and consumerism.
