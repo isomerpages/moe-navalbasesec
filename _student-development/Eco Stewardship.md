@@ -222,7 +222,35 @@ discussed.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/envedu8.png">
 </div>
+<p><strong>Workshops and Training for our students</strong>
+</p>
+<p>To support the acquiring of knowledge related to sustainability, students
+also have the chance to participate in training workshops that touch on
+various pillars related to the Singapore Green Plan 2030. From BioGirl
+MJ’s workshop on recycled paper workshop to vermicomposting sessions, and
+programmes organised by Gardens by the Bay, the schools strives to provide
+our students with opportunities to learn about and witness sustainability
+efforts through various channels.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
