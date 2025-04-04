@@ -96,6 +96,7 @@ their peers how to make homemade low-sodium nuggets, a healthier alternative
 to store-bought options. This hands-on activity sharpened culinary skills
 while promoting healthier eating with fresh ingredients and reduced sodium
 choices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_1.jpg">
+</div>
 <p></p>
