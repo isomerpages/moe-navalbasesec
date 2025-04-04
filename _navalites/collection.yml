@@ -2,6 +2,7 @@ collections:
   navalites:
     output: true
     order:
+      - Guidance and Counselling/Counselling.md
       - Guidance and Counselling/Guidance.md
       - Guidance and Counselling/.keep
       - Home–Based Learning.md
