@@ -1,6 +1,6 @@
 ---
 title: Home–Based Learning
-permalink: /for-navalities/home-based-learning/
+permalink: /for-navalites/home-based-learning/
 description: ""
 variant: tiptap
 ---

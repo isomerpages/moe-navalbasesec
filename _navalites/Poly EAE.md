@@ -1,7 +1,8 @@
 ---
 title: Poly EAE
-permalink: /for-navalities/poly-eae/
+permalink: /for-navalites/poly-eae/
 description: ""
+variant: tiptap
 ---
 <p><strong>Polytechnic EAE</strong>&nbsp;</p>
 <p>The Polytechnic Early Admission Exercise (Poly EAE) is an aptitude-based admission exercise that provides a pathway for graduating O-Level students to apply for and receive conditional offers for admission to the polytechnics. Beyond academic grades, EAE applicants are considered on the basis of demonstrated aptitude and interest towards a specific course. It is strongly recommended for students who are clear about what they want to pursue in our Post-Secondary Educational Institutes (PSEIs).</p>
