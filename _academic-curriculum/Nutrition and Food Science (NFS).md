@@ -4,7 +4,6 @@ permalink: /nbss-curriculum/nutrition-and-food-science-nfs/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <p><strong>Department Objectives</strong>
 </p>
 <p>Our Nutrition &amp; Food Science (NFS) curriculum empowers students as
