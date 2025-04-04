@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
 <p><strong>Department Objectives</strong>
 </p>
 <p>Our Nutrition &amp; Food Science (NFS) curriculum empowers students as
@@ -64,6 +62,19 @@ discerning consumer and food innovator.</p>
 <p>The workshop focuses on sharpening students' culinary skills through hands-on
 practice. Students will refine essential techniques, improve efficiency
 in the food lab, and enhance their confidence in food preparation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
