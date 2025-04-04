@@ -21,15 +21,16 @@ the initiatives can be found at the following links:</p>
 <p></p>
 </li>
 </ul>
-<h3>Environmental Education at NBSS</h3>
+<h4>Environmental Education at NBSS</h4>
 <p>In line with the SGP 2030, the Eco-Stewardship Programme (ESP) is introduced
 in schools. In NBSS, our aim is to develop all Navalites to be stewards
 for the environment. This is done via the nationwide 4Cs approach - Curriculum,
 Campus, Culture and Community, and in customising the programmes under
 this broad umbrella, we hope to shape all Navalites to be advocates for
 sustainable living.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/envedu1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update kenneth/Picture1.png">
 </div>
 <p>Our ESP builds on current environmental efforts in our school through
 the 4Cs – Curriculum, Campus, Culture and Community.</p>
