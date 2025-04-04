@@ -84,9 +84,8 @@ and urban agriculture through interactive activities and real-world applications
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/4.jpg">
 </div>
 <p></p>
-<p><strong>Signature Programmes</strong>
-</p>
-<p><strong>Health &amp; Wellness Week: Homemade Low-sodium Chicken Nuggets Making</strong>
+<p><strong>Signature Programmes </strong>
+<br><strong>Health &amp; Wellness Week: Homemade Low-sodium Chicken Nuggets Making</strong>
 </p>
 <p>As part of Health &amp; Wellness Week, Secondary 3 NFS students taught
 their peers how to make homemade low-sodium nuggets, a healthier alternative
