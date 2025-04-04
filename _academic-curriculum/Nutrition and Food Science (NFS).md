@@ -72,10 +72,30 @@ in the food lab, and enhance their confidence in food preparation.</p>
 </div>
 <p></p>
 <p></p>
+<p><strong>Learning Journey to Edible Garden City</strong>
+</p>
+<p>Students explored sustainable urban farming at Edible Garden City, gaining
+hands-on experience in growing edible plants and understanding farm-to-table
+concepts. This journey deepens their appreciation for food security, sustainability,
+and urban agriculture through interactive activities and real-world applications.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/4.jpg">
+</div>
 <p></p>
-<p></p>
+<p><strong>Signature Programmes</strong>
+</p>
+<p><strong>Health &amp; Wellness Week: Homemade Low-sodium Chicken Nuggets Making</strong>
+</p>
+<p>As part of Health &amp; Wellness Week, Secondary 3 NFS students taught
+their peers how to make homemade low-sodium nuggets, a healthier alternative
+to store-bought options. This hands-on activity sharpened culinary skills
+while promoting healthier eating with fresh ingredients and reduced sodium
+choices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
