@@ -283,7 +283,7 @@ SEC_SGA is to recognise the environmental education efforts in schools
 through a regular audit as well as environmental projects led by students.
 We are glad to announce that for 2023 and 2024, the school has achieved
 the Vanda Ms Joaquim award.</p>
-<p>&nbsp;More information about the award can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://web.sec.org.sg/sga/</a>
+<p>&nbsp;More information about the award can be found at: <a href="https://web.sec.org.sg/sga/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>&nbsp;<strong>Northwest CDC School Green Living Awards</strong>
 </p>
