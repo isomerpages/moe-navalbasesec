@@ -2,166 +2,109 @@
 title: Nutrition and Food Science (NFS)
 permalink: /nbss-curriculum/nutrition-and-food-science-nfs/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p style="text-align: center;"><strong>Food &amp; Consumer Education</strong></p>
-<p style="text-align: center;"><strong>Curriculum Overview</strong></p>
-<p>The study of Food &amp; Consumer Education (FCE) in NBSS focusses on equipping the students with knowledge on diet &amp; health&nbsp;so that they could be more discerning in choosing nutritious food for optimal health. Students are also equipped with basic principles of consumer education, enabling them to be informed consumers.</p>
-<p>The syllabus aims to enable students to:&nbsp;</p>
-<ol>
-<li>understand the importance of nutrition for long-term health;</li>
-<li>apply basic principles of consumer education;</li>
-<li>apply basic financial principles for everyday decision making and planning;</li>
-<li>appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the global context;</li>
-<li>nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic awareness; to make informed and discerning food and consumer-related decisions;</li>
-<li>develop positive attitudes and values for the well-being of the community (families and society);</li>
-<li>demonstrate effective and responsible use of resources for the individuals and the community.</li>
-</ol>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="123">
-<p><strong>Level</strong></p>
-</td>
-<td style="text-align: center;" width="482">
-<p><strong>Key knowledge &amp; skills</strong></p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="123">
-<p>Secondary 1</p>
-</td>
-<td width="482">
-<ul>
-<li><strong>Theoretical knowledge</strong>&nbsp;on nutrients, meal planning, diet-related disease and money management skills</li>
-<li><strong>Familiarization of the food lab</strong></li>
-<li><strong>Culinary skills</strong></li>
+<p><strong>Department Objectives</strong>
+</p>
+<p>Our Nutrition &amp; Food Science (NFS) curriculum empowers students as
+Health Ambassadors, Discerning Consumers, and Food Innovators, guided by
+the NFS Education Framework. Rooted in the principles of Appreciate, Advocate,
+and Apply, it builds a strong foundation in Nutrition &amp; Health, Food
+&amp; Consumer Literacy, and Food Science. Through authentic, hands-on
+experiences in practical lessons and coursework, we strive to develop students
+who:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Lead healthier lifestyles</strong> by making informed nutrition
+and dietary choices.</p>
+</li>
+<li>
+<p><strong>Advocate for sustainable food consumption</strong> through responsible
+decision-making.</p>
+</li>
+<li>
+<p><strong>Apply culinary science creatively</strong> to innovate in food
+preparation and cooking.</p>
+</li>
 </ul>
-<p>√ Roux sauce-making</p>
-<p>√ Shortcrust pastry (Rubbing-in method and rolling)</p>
-<p>√ Shaping, mashing and breading technique</p>
-<p>√ Knife skills: dicing, slicing, chopping</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="123">
-<p>Secondary 2</p>
-</td>
-<td width="482">
-<ul>
-<li><strong>Theoretical knowledge</strong>&nbsp;on methods of cooking, food &amp; kitchen safety, food &amp; culture, being an informed consumer and smart shopping</li>
-<li><strong>Coursework skills</strong></li>
-</ul>
-<p>√ Research</p>
-<p>√ Decision Making</p>
-<p>√ Planning</p>
-<p>√ Execution</p>
-<ul>
-<li>organisation and management</li>
-<li>manipulation</li>
-<li>product and presentation</li>
-</ul>
-<p>√ Evaluation</p>
-<ul>
-<li><strong>Investigative task</strong></li>
-<li><strong>Culinary skills</strong></li>
-</ul>
-<p>√ Rough puff pastry (Folding and rolling) Blended sauce-making</p>
-<p>√ Shortcrust pastry (rubbing-in method and rolling) Pancake (batter-making)</p>
-<p>√ Knife skills: dicing, slicing, chopping</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: center;"><strong>Nutrition and Food Science</strong></p>
-<p style="text-align: center;"><strong>Curriculum Overview</strong></p>
-<p>Nutrition &amp; Food Science (NFS) offered at the upper secondary level equipped students with&nbsp;a broad understanding of concepts in nutrition and health,&nbsp;food&nbsp;literacy&nbsp;and&nbsp;principles&nbsp;of&nbsp;food&nbsp;science.&nbsp;Students&nbsp;will&nbsp;be&nbsp;exposed&nbsp;to&nbsp;authentic&nbsp;real- world contexts through hands-on practical and coursework.</p>
-<p>Through these learning experiences, the syllabus aims to develop students&nbsp;to:</p>
-<ol>
-<li>a)lead a healthier lifestyle proactively through proper diet and&nbsp;nutrition;</li>
-<li>b)advocate&nbsp;sustainable&nbsp;food&nbsp;consumption&nbsp;by&nbsp;planning&nbsp;and&nbsp;making&nbsp;appropriate&nbsp;food&nbsp;choices; and</li>
-<li>c)apply principles of culinary science creatively in food preparation and&nbsp;</li>
-</ol>
-<table width="0">
-<tbody>
-<tr>
-<td width="123">
-<p style="text-align: center;"><strong>Level</strong></p>
-</td>
-<td colspan="2" width="482">
-<p style="text-align: center;"><strong>Key knowledge &amp; skills</strong></p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" width="123">
-<p style="text-align: center;"><strong>Secondary 3, 4 &amp; 5</strong></p>
-</td>
-<td colspan="2" width="482">
-<p><strong>Theoretical knowledge</strong></p>
-<ul>
-<li>Nutrients, water &amp; dietary fiber</li>
-<li>Sensory Evaluation</li>
-<li>Diet &amp; Health Problems</li>
-<li>Diet and Meal Planning</li>
-<li>Meal Analysis</li>
-<li>Preparation and Cooking of Food</li>
-<li>Reactions in Food during Preparation and Cooking</li>
-<li>Food Safety</li>
-<li>Sustainable Food Consumption</li>
-<li>Convenience Food</li>
-<li>Methods of Cooking</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="482">
-<p><strong>Culinary skills</strong></p>
-<ul>
-<li>One-stage, creaming, whisking</li>
-<li>Rubbing-in</li>
-<li>Rolling and folding (rough puff pastry)</li>
-<li>Shaping</li>
-<li>Pounding/ grinding, blending</li>
-<li>Roux and blended sauce-making</li>
-<li>Batter-making</li>
-<li>Pasta/ bread-making</li>
-<li>Knife skills</li>
-<li>Others</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td colspan="2" width="482">
-<p><strong> Coursework skills</strong></p>
-</td>
-</tr>
-<tr>
-<td width="241">
-<p><strong>O Level</strong></p>
-<p>√ Research<br>√ Decision Making<br>√ Investigation<br>√ Planning<br>√ Execution</p>
-<ul>
-<li>organisation and management</li>
-<li>manipulation</li>
-<li>product and presentation</li>
-</ul>
-<p>√ Evaluation</p>
-</td>
-<td width="241">
-<p><strong>N(A) Level</strong></p>
-<p>√ Research<br>√ Decision Making<br>√ Exploratory Study<br>√ Planning<br>√ Execution</p>
-<ul>
-<li>organisation and management</li>
-<li>manipulation</li>
-<li>product and presentation</li>
-</ul>
-<p>√ Evaluation</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Students are given opportunities to participate in various culinary workshops. The workshops enable the students to:</p>
-<p>√ develop an interest in the subject and instil the joy of learning;</p>
-<p>√ learn professional culinary skills and techniques taught by a professional chef; and</p>
-<p>√ explore career opportunities in the food industry.&nbsp;</p>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLGI14giCOK5Utu45-kqOYKXldPlN1Q22AFvL6s47TgBC1_Tku7B7pPsleMSj99Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<p>By integrating knowledge, skills, and values, our department nurtures
+future-ready individuals who are equipped to make informed food choices
+and contribute meaningfully to a sustainable and health-conscious society.</p>
+<p></p>
+<p><strong>Curriculum Overview</strong>
+</p>
+<p><strong>Food &amp; Consumer Education </strong>
+<br>At Naval Base Secondary School, Food &amp; Consumer Education (FCE) empowers
+students to be health-conscious, discerning consumers with essential life
+skills. The curriculum, grounded in Food Studies and Consumer Studies,
+equips students with foundational knowledge in food, nutrition, and consumerism.
+This strong foundation prepares them for everyday living and progression
+to upper secondary Nutrition &amp; Food Science (NFS), leading to further
+studies in food and nutrition-related fields.</p>
+<p><strong>Nutrition &amp; Food Science</strong>
+<br>Through the Nutrition &amp; Food Science (NFS) curriculum, students would
+advocate nutrition and health for self, family and the community. They
+will better appreciate how a variety of food, including consumer literacy
+like financial literacy, is used in food management and the issues of food
+security, including food safety and sustainable food consumption. They
+will also apply scientific principles during food preparation and cooking.
+With the appropriate knowledge and skills, they will become a health ambassador,
+discerning consumer and food innovator.</p>
+<p><strong>Programmes</strong>
+<br><strong>Secondary 3 Culinary Workshop</strong>
+</p>
+<p>The workshop focuses on sharpening students' culinary skills through hands-on
+practice. Students will refine essential techniques, improve efficiency
+in the food lab, and enhance their confidence in food preparation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/2.jpg">
+</div>
+<p></p>
+<p></p>
+<p><strong>Learning Journey to Edible Garden City</strong>
+<br>Students explored sustainable urban farming at Edible Garden City, gaining
+hands-on experience in growing edible plants and understanding farm-to-table
+concepts. This journey deepens their appreciation for food security, sustainability,
+and urban agriculture through interactive activities and real-world applications.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/4.jpg">
+</div>
+<p></p>
+<p><strong>Signature Programmes </strong>
+<br><strong>Health &amp; Wellness Week: Homemade Low-sodium Chicken Nuggets Making</strong>
+</p>
+<p>As part of Health &amp; Wellness Week, Secondary 3 NFS students taught
+their peers how to make homemade low-sodium nuggets, a healthier alternative
+to store-bought options. This hands-on activity sharpened culinary skills
+while promoting healthier eating with fresh ingredients and reduced sodium
+choices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_1.jpg">
+</div>
+<p></p>
+<p><strong>MasterChef For Change: A Competition on Food Sustainability</strong>
+</p>
+<p>MasterChef for Change challenges students to create sustainable dishes
+using eco-friendly ingredients and minimizing waste. This competition enhances
+culinary skills while promoting awareness of responsible food consumption
+and sustainability.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C2_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

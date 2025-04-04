@@ -2,25 +2,37 @@
 title: "Learn for Life (LLP): Character Education through Sports"
 permalink: /nbss-curriculum/llp-character-education-through-sports/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2j-6feqjaHT6A384PppcQUJThFGW4lCyfxCetOzE84Mxtv0yH3n69SfihCF_mSQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<p><strong><u>Central Idea for LLP - Sports</u></strong></p>
-<ul>
-<li>Character Education through Sports Awareness, Commitment and Empowerment (SPACE)</li>
-<li>In Naval Base Secondary School, we define success as</li>
-</ul>
-<blockquote>
-<p><strong><em>"Success is peace of mind, which is a direct result of self-satisfaction in knowing you </em></strong><strong><em>made the effort to do your best to become the best that you are capable of becoming."</em></strong></p>
-</blockquote>
-<ul>
-<li>The framework with which we base our approach is the Pyramid of Success. This is a self evolution&nbsp;tool with which we teach our students the various blocks to success.</li>
-</ul>
-<img style="width: 65%;" src="/images/llp1.jpg">
-<p><strong><u>Tier 1: PE Programme</u></strong></p>
-<p>Tier 1 Sports Awareness &amp; Commitment track encompasses mainly the school’s PE programme for all secondary 1 to 5 students. The focus here will be to raise awareness &amp; commitment to a range of sports, encourage daily physical activities to promote health (Healthy Living Learning), build relationships, inculcate values and use sports as a platform to enhance learning interests. Besides experiential and cooperative learning, there will be explicit teaching of knowledge, skills, values and competencies for sound performance &amp; moral character development. The foundational blocks of John Wooden’s PoS are also firmly anchored here.</p>
-<p><strong><u>Tier 2: Sports Empowerment</u></strong></p>
-<p>Tier 2 Sports Empowerment (Growth &amp; Development) track provides opportunities for students to learn in a variety of roles e.g. spectatorship and sportsmanship at both the recreational and competitive levels.</p>
-<p>Additionally, there will be platforms for identified students with potential to hone skills in leadership, facilitation, presentation and event management. Such opportunities to learn, experience and contribute in various roles in sports can be structured during CCA or PE lessons or at school-wide events e.g. organising / facilitating at Cross Country Run or NBSS Sports Fiesta. Critical and inventive thinking skills can be developed at this juncture.</p>
-<p><iframe src="https://www.youtube.com/embed/h40jPnJa2n4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWw0HDRwxBtp_jARbuv5_HVHM-Ekmp_jQUfD4FTQCywU-IL3247xtyMbOPD5AITNV4BYkGdCE3DuXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p>When the Learning for Life Programme (LLP) was introduced, our school
+chose to focus on physical education and sports. These activities play
+a vital role in students' physical development and well-being, while also
+serving as a key platform for character education.</p>
+<p><strong>Our LLP is anchored in the belief that:</strong>
+</p>
+<p>Character, including Enhanced 21st Century Competencies (e21CC) and values,
+can be taught and nurtured through sports and physical activities.</p>
+<p>Active participation in sports and physical activities cultivates healthy
+living dispositions and important life skills that prepare students for
+success and purpose in life.</p>
+<p>With these beliefs in mind, our school has enhanced its sports and physical
+activities programme through a structured three-tiered approach: Embrace,
+Enrich, and Excel. This approach enables us to nurture character in our
+students through sports in a systematic and differentiated way.</p>
+<p>Each tier targets different groups of students, allowing us to tailor
+character development strategies to their specific needs and levels of
+engagement. As students progress through the tiers, they take on greater
+involvement and responsibility in sports, ensuring that their character
+development grows alongside their sporting journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_04_04_143337.png">
+</div>
+<p></p>
