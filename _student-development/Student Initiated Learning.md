@@ -93,7 +93,8 @@ knowledge, and skills were exchanged freely.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C3_2.jpg">
 </div>
 <p></p>
-<p></p>
+<p>To see other excellent work by our Navalites, visit: <a href="https://sites.google.com/moe.edu.sg/nbssil/sil-fest?authuser=0" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
