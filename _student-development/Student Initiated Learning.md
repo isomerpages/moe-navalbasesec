@@ -75,6 +75,9 @@ on topics like perfumery, crochet, coding, clay trinkets, and terrarium-making.
 As facilitators, they honed skills in public speaking, collaboration, and
 problem-solving while fostering a dynamic peer-learning environment.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C3_1.jpg">
+</div>
 <p></p>
 <p><strong>A Celebration of Learning: SIL Fest</strong>
 </p>
@@ -86,6 +89,9 @@ innovation.&nbsp; The event highlighted diverse talents, fostering curiosity,
 collaboration, and a “for students, by students” experience, where passion,
 knowledge, and skills were exchanged freely.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sl update rashida/C3_2.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
