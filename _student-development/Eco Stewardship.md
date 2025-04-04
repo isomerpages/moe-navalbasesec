@@ -274,7 +274,7 @@ well as the neighbourhood. Our annual signature project for students to
 produce upcycling gifts for our staff as part of our Teachers’ Day Celebration
 also contributes towards the sustainability efforts.</p>
 <p>&nbsp;Find out more about what the school does at the Clean and Green
-Singapore Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.cgs.gov.sg/what-we-do/cgs2024/eco-schools/environment-protection-secondary-school/</a>
+Singapore Website: <a href="https://www.cgs.gov.sg/what-we-do/cgs2024/eco-schools/environment-protection-secondary-school/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>&nbsp;<strong>Singapore Environment Council (School Green Awards)</strong>
 </p>
