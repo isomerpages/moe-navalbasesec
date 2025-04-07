@@ -3,123 +3,107 @@ title: "Sports: Basketball"
 permalink: /nbss-curriculum/co-curricular-activities/physical-sports/basketball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Training Venue</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>Pavilion</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Training day/ time</p>
-</td>
-<td style="text-align: center;" width="441">
-<p><u>Boys<br></u>Monday and Wednesday: 3 – 5.30pm<br><u>Girls<br></u>Tuesday and Thursday: 3 – 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Teachers-in-Charge</p>
-</td>
-<td style="text-align: center;" width="441">
-<p><br>Mr Daniel Troy Ingham (IC)<br>Ms Celine Chan (2I/C)<br>Mr Zhang Jingda</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>
-</p></td>
-<td style="text-align: center;" width="441">
-<p>
-</p></td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Descripton</strong></p>
-<p>The Naval Base Basketball team was formed in 1995 and has since gone from strength to strength, making significant progress in both zonal and national competitions. It has produced outstanding national basketball players, such as Mr Hong Wei Jian, who played for the Singapore Slingers in the inaugural 2009/10 ASEAN Basketball League season.</p>
-
-<p><strong>CCA Vision</strong></p>
-<p>NBSS Basketball aims to promote the physical and socio-emotional development of students through a holistic and values-based system of training. We aim to use the principles of basketball as a vehicle for character growth, emphasising the values of teamwork and sportsmanship. Furthermore, rigorous training will foster the values of discipline, perseverance and excellence. Students are presented with opportunities to cultivate their leadership skills on and off the court. Players will take ownership of the team, assuming the responsibilities of team management and direction. They will also be presented with opportunities to plan, lead and execute programmes for their fellow CCA members. These programmes cover a range of relevant topics, from sports injuries and management to sports journalism and new media. NBSS Basketball serves as a platform for students to be exposed to a range of memorable and meaningful experiences. For example, one of the opportunities afforded to our players was the chance to meet the Singapore Slingers (National Basketball Players) in 2019, allowing them to gain valuable exposure to the character traits and values required to pursue their passions.&nbsp;</p>
-<p><strong>Student Executive Committee (2021 - 2022)</strong></p>
-<p><span style="text-decoration: underline;">Boys’ Basketball Team</span></p>
-<table width="0">
-<tbody>
-<tr>
-<td width="161">
-<p>B Division Captain</p>
-</td>
-<td width="441">
-<p>PRIYAN S/O SENTHILKUMAR</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>B Division Vice-Captain</p>
-</td>
-<td width="441">
-<p>JERRY LEONG KAI LUN</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>C Division Captain</p>
-</td>
-<td width="441">
-<p>THAM JUN XUAN</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>C Division Vice-Captain</p>
-</td>
-<td width="441">
-<p>SIEW YU CHANG KEITH</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><span style="text-decoration: underline;">Girls’ Basketball Team</span></p>
-<table width="0">
-<tbody>
-<tr>
-<td width="161">
-<p>B Division Captain</p>
-</td>
-<td width="441">
-<p>KUO TING WEI</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>B Division Vice-Captain</p>
-</td>
-<td width="441">
-<p>MISHALINI D/O SELVA KUMAR</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>C Division Captain</p>
-</td>
-<td width="441">
-<p>OH RONG XIN ASHLEY</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>C Division Vice-Captain</p>
-</td>
-<td width="441">
-<p>VALERIE YONG YIN JUN</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTM9zUFpyO5NKVg2-7z0aQxwgjz-vznFCWt4M2R1Xi0VKQi4C-8E5qVtZAxuelk-g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<h4>Overview</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture29.jpg">
+</div>
+<p>NBSS Basketball promotes the physical and socio-emotional development
+of students through a holistic, values-based training approach. Using the
+principles of basketball as a platform for character development, the programme
+emphasises teamwork, sportsmanship, and integrity. Rigorous training further
+instils discipline, perseverance, and a commitment to excellence.</p>
+<p>Beyond the court, students are empowered to cultivate leadership skills
+by taking ownership of team direction and management. They are also given
+opportunities to plan, lead, and execute initiatives for their fellow CCA
+members, developing confidence and responsibility in the process.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong>
+</p>
+<p><u>Girls Team</u>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays, 3pm-6pm</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesdays, 3pm-530pm</p>
+<p><u>Boys Team</u>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesdays, 3pm-530pm</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursdays, 3pm-6pm</p>
+<p><strong>Matches / Competitions:</strong>
+</p>
+<p><u>National Competitions:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games</p>
+</li>
+</ul>
+<p><u>Inter-school Competitions:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chong Pang Cup</p>
+</li>
+</ul>
+<p><u>School-based Competitions</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Inter-class Basketball Tournament</p>
+</li>
+</ul>
+<p><strong>Workshops &amp; Learning Opportunities:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strength and Conditioning Workshop</p>
+</li>
+<li>
+<p>First Aid Workshop</p>
+</li>
+<li>
+<p>Sports Taping Workshop</p>
+</li>
+<li>
+<p>Sports Nutrition Workshop</p>
+</li>
+<li>
+<p>Basketball Refereeing Workshop</p>
+</li>
+</ul>
+<p><strong>Camps &amp; Bonding Activities:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Holiday Training Day Camp</p>
+</li>
+<li>
+<p>Friendly Matches</p>
+</li>
+</ul>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p>“Being a member of the basketball team has taught me to be more vocal
+so that others can learn as well.” – Febrian, Secondary 4</p>
+<p></p>
+<p>“During my time in the basketball team I have learnt the importance of
+teamwork, communication, and self-discipline.” – Tiffany, Secondary 4</p>
+<p></p>
+<p>“My favourite thing about the basketball team is that we are all best
+friends with one another, and it feels more like a family than just a team.”
+– Aerilyn, Secondary 3</p>
+<p></p>
+<p>“What I love most about my basketball team is how we have a very strong
+connection with each other and can work together and cheer one another
+up when needed” – Davien, Secondary 3</p>
+</blockquote>
+<h4>Teachers and Coaches</h4>
+<p>Mr Daniel Troy (I/C)</p>
+<p>Ms Celine Chan (2 I/C)</p>
+<p>Ms Nur Afnie</p>
+<p>Mr Zhang Jingda</p>
+<p>Head coach: Mr Hor Wei Jie <strong>(Scholar Basketball Academy)</strong>
+</p>
+<p>Assistant coach: Mr Muhammad Nur Alfilail <strong>(Scholar Basketball Academy)</strong>
+</p>
+<p></p>
