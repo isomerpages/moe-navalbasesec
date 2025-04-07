@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Initiated Learning (SIL).md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
@@ -39,6 +38,7 @@ collections:
       - Values in Action (VIA)/Student VIA.md
       - Values in Action (VIA)/Staff VIA.md
       - Eco Stewardship.md
+      - Student Initiated Learning (SIL).md
       - Student Initiated Learning.md
       - "Applied Learning (ALP): Art/.keep"
       - "Applied Learning (ALP): Art/Experience: Nurturing & Vibrant (ALP).md"
