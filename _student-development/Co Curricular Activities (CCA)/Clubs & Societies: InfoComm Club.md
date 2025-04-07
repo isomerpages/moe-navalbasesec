@@ -6,7 +6,6 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h4>Overview</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_School_Website_Photo.png">
 </div>
@@ -52,7 +51,7 @@ in photography and video editing which I can apply to areas outside of
 CCA. Most importantly, I’ve made unforgettable memories that will stay
 with me forever!” – Benedict Tay Kai Xun, Sec 4</p>
 </blockquote>
-<h4>Teachers </h4>
+<h4>Teachers</h4>
 <p>Ms Janessa Chang (IC)</p>
 <p>Mr Velukitty Ravindranath</p>
 <p>Ms Yip Jing Ying</p>
