@@ -10,8 +10,9 @@ to become independent, passionate and lifelong learners. It is a dedicated
 time during Home-based Learning for them to explore, design and execute
 projects tied to their personal interests that extend their learning beyond
 the school curriculum.</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6393__1_.jpg">
 </div>
 <h4>Why SIL?</h4>
 <ol data-tight="true" class="tight">
@@ -119,56 +120,20 @@ and skills are shared freely.</p>
 <p>To view the excellent work of our Navalites, visit:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/nbssil/sil-fest?authuser=0</a>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL16.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL18.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1168.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1145.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241024_095455.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL13.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
 <p></p>
