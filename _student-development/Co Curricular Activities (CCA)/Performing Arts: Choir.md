@@ -3,99 +3,48 @@ title: "Performing Arts: Choir"
 permalink: /nbss-curriculum/co-curricular-activities/performing-arts/choir/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Training Venue</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>Soundcraft Room</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Training day/ time</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>Tuesday 3pm – 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Teachers-in-charge</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>Ms Wong Yang Hui (I/C)<br />Ms Joanna Chang<br />Ms Chang Ya Wen</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Chorale singing is a performance art that emphasises attention-to-detail, skills and teamwork.</p>
-<p>As part of holistic instruction, Naval Base Secondary School believes that education encompasses the appreciation of different art forms. In the Naval Base Chorale, our teachers and conductor prioritise capturing the attitude behind the pursuance of skills and experiences. We believe that every child has strengths, and provide opportunities to develop these aptitudes through a variety of roles and leadership positions.</p>
-<p>Choristers are also exposed to a range of musical learning experiences. They attend masterclasses conducted by renowned conductors, are immersed in cultural music concerts and develop performing artiste skills through singing for school events, community initiatives and national / international competitions.</p>
-<p>Through these intentionally crafted experiences, our choristers are taken through a scaled series of training that aims to develop each of them into a well-rounded person who understands and appreciates the finer elements of the arts. Our choristers strive to reach their individual and collective potential, and derive satisfaction from being their best.</p>
-<p><strong>Student Executive Committee (2020 - 2021)</strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Chairperson</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>MONEESHA DARSHINI D/O HARIVALSALAN PILLAI</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Vice-Chairpersons</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>TEO LI MIN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Student Conductor</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>WONG HUAI XUAN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Sectional Leaders</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>CHAN YUHUI ASHLEY<br />WONG HUAI XUAN<br />LORENE CHAN YUN QIN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Librarian</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>SAMANTHA PUAN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Wardrobe and Make-up I/Cs</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>SAMANTHA PUAN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Welfare I/C</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>AW JIA XUAN</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKaX3vUI28k4vauQj0V4vyd38ROuKWVdLzlUt1VxRxW0q6AM1njdVsCFWZJ65hpXbtlDe24RGXtiHi/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4>Overview</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0390__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_IMG_0438.jpg">
+</div>
+<p>In NBSS, students will have numerous opportunities to hone and showcase
+their talents through a variety of performances, from school concerts to
+external events. These experiences not only nurture their growth as performers
+but also instil valuable skills such as stage presence, confidence, and
+teamwork.</p>
+<p>By the end of the programme, choir members will have developed a well-rounded
+understanding of vocal performance and music theory, equipped with the
+skills and knowledge to excel as musicians.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong> Once a week (Tuesday) / 2 times per
+week (Tuesdays and Thursdays) for SYF period</p>
+<p><strong>Competitions/Performances: </strong>Singapore Youth Festival 2025,
+Navy IMDEX 2023 &amp; 2025, National Day Parade 2024</p>
+<p><strong>Workshops &amp; Learning Opportunities:</strong> External masterclasses,
+choir exchanges, VIA collaborations, watching concerts</p>
+<p><strong>Bonding Activities:</strong> Team-building experiences through
+sports and termly games</p>
+<h4>Achievements</h4>
+<p>SYF 2015 (Distinction), Orientale Concentus (Silver), Hong Kong Winter
+Choral Festival (Silver)</p>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p>“The passion I have for music keeps me motivated, and it drives me to
+pursue excellence in everything I do within choir.” -Chloe Tan Yi Jing
+(4-6, 2025)</p>
+<p></p>
+<p>“Choir has helped me developed a more disciplined attitude in my CCA,
+and this keeps me going when I study or do my schoolwork.” – Venus Chen
+(3 Garrison, 2025)</p>
+</blockquote>
+<h4>Teachers and Coaches</h4>
+<p>Ms Grace Yang Hui Wong [I/C]</p>
+<p>Ms Chang Yawen</p>
+<p>Ms Lim Huimin [Conductor]</p>
+<p></p>
