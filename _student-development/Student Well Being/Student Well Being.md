@@ -3,6 +3,7 @@ title: Student Well Being
 permalink: /student-well-being/
 variant: tiptap
 description: ""
+third_nav_title: Student Well Being
 ---
 <p><strong><u>Well-being starts with ourselves!</u></strong>
 <br>At NBSS, we believe student well-being starts with cultivating a growth
