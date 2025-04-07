@@ -3,67 +3,57 @@ title: "Uniformed Groups: Girl Guides"
 permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Training Venue</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Classroom- 3B</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Training day/time</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Tuesday: 3.00pm - 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Teachers-in-charge</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Ms Poovili (I/C)<br />Ms Oh Wei Shi<br />Ms Jaspreet</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Girl Guides Singapore aims to develop girls and young women to their fullest potential as responsible citizens of the world. The Guiding programme teaches girls vital life skills &ndash; such as personal goal-setting, decision-making and team-building &ndash; in a safe and supportive environment.&nbsp;</p>
-<p>At Naval Base Secondary, the motto &lsquo;Once a Guide, Always a Guide.&rsquo;, carries the values as well as the rich experiences that our Guides take away with them. The myriad of activities we offer aims to ignite the guiding light in our students to help develop their self-awareness and self-management. This includes annual camps, proficiency badges, outdoor activities (e.g. camp craft, tent-pitching, outdoor cooking), leadership and skills training workshops and community work.</p>
-<p>We also develop our Guides&rsquo; social awareness through meaningful service learning projects, such as choreographing an exercise video for the seniors at the Sree Narayana Mission Home. We build and strengthen our students&rsquo; leadership skills by providing them opportunities to plan and conduct division-level workshops, to lead in unit-wide and patrol-wide activities and to teach their fellow guides and brownies from other schools new skills.&nbsp;</p>
-<p>Our strong sense of commitment and pride has earned us the Puan Noor Aishah (PNA) Award (Gold). Numerous girls have also earned the prestigious Baden-Powell Award (BPA) over the past few years through their active participation in the CCA. We hope to inspire and empower every girl to maximise their potential and enable them to become future-ready leaders at the end of their Guiding journey.&nbsp;</p>
-<p><strong>Student Executive Committee (2021 - 2022)<br /></strong></p>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Company Leader</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Vinodeaswar Harshitha</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Assistant Company Leader</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Yap Xin Hui Angel</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="180">
-<p>Patrol Leader</p>
-</td>
-<td style="text-align: center;" width="421">
-<p>Ardini Qistina Binte Muhammad Ikram<br />Ho See Ting Cherish<br />Nazurah Haziqah Binte Mohamad Zaime<br />Tong Hui Yi</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0wDIco8CtRKNj0BTsDE08GJALAcolqq4HLSBRbiDm3m6Q3ODgtbNmzGMvMFVEixHI-I6e6WDvhlgl/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h4>Overview</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture27.jpg">
+</div>
+<p>Girl Guides provides opportunities for girls to discover and develop their
+strengths, their skills and their fullest potential, to become responsible
+citizens of the world.&nbsp;We empower girls and women through fun and
+challenging programmes, and unique experiences, adventures and activities.
+We offer opportunities for girls to get involved in local and international
+communities, equipping them to make a lasting positive impact by helping
+others.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong> Once a week on Tuesdays, a comprehensive
+5-Point Programme enables Girl Guides to develop in 5 areas: Personal &amp;
+Social Development, Home, Outdoor, Community and International. The Guiding
+programme teaches girls vital skills – such as personal goal-setting, decision-making
+and team-building – in a safe and supportive environment.</p>
+<p><strong>Competitions/Performances:</strong> The Baden-Powell Award is a
+competition for Girl Guides to demonstrate leadership qualities and proficiency
+in programme planning. Girl Guides also participates in a variety of division-level
+and headquarters-level events such as the North Division Fest and the School
+Cookie Project.&nbsp;</p>
+<p><strong>Workshops &amp; Learning Opportunities:</strong> The Guides are
+exposed to various learning opportunities and workshops such as the Sree
+Narayana Mission Home Service Learning, Free Being Me Training, Gardens
+by the Bay Ambassador Programme, Patrol Leaders' Training Camp and WAGGGS
+Leadership Model Workshop.</p>
+<p><strong>Camps &amp; Bonding Activities:</strong> The Guides attend at least
+two camps a year: the Combined UG Camp and the Annual Guides Camp. They
+may also get the opportunity to attend headquarters-run camps such as the
+President’s Guide Award Test Camp. Guides also also experience a variety
+of bonding activities such the inter-CCA games, Handknit Bag Weaving and
+Flower Garland Making Workshop.</p>
+<h4>Achievements</h4>
+<p>Puan Noor Aishah Award&nbsp;– Gold</p>
+<p>North Division Day: Fashion Show Competition – Silver</p>
+<p>North Division Day: Design a Notebook Cover – Bronze</p>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p><strong><em>"What I love most about Girl Guides is how we always support each other. Whether it is pioneer training or preparing for a badge, everyone encourages one another.” – Lily, Sec 4</em></strong>
+</p>
+<p></p>
+<p><strong><em>"I like Girl Guides because I get to try different activities. From service learning to outdoor cooking, there is always something new to learn.” – Adele, Sec 4</em></strong>
+</p>
+</blockquote>
+<h4>Teachers and Coaches</h4>
+<p>Ms Poovili (I/C)</p>
+<p>Ms Jaspreet</p>
+<p>Ms Joanne</p>
+<p>Ms Shidah</p>
+<p></p>
