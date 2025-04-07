@@ -17,6 +17,9 @@ The Mother Tongue department aims to develop students' proficiency in using Moth
 ●	Festive Celebrations<br>
 ●	Cultural Immersion and Exchange with overseas partners
 
+**Our Approach**
+
+![](/images/MTL_3E.png)
 
 **MOTHER TONGUE FORTNIGHT**
 
