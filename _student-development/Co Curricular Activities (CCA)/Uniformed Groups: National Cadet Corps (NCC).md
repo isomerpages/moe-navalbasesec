@@ -3,55 +3,68 @@ title: "Uniformed Groups: National Cadet Corps (NCC)"
 permalink: /nbss-curriculum/co-curricular-activities/uniformed-groups/national-cadet-corps-ncc/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
-<table width="0">
-<tbody>
-<tr>
-<td width="144">
-<p>Training Venue</p>
-</td>
-<td width="456">
-<p>Classrooms – 4-5, 4-6, 4-7, 4-8</p>
-</td>
-</tr>
-<tr>
-<td width="144">
-<p>Training day/time</p>
-</td>
-<td width="456">
-<p>Tuesday 3pm – 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td width="144">
-<p>Teachers-in-charge</p>
-</td>
-<td width="456">
-<p>Mr Alvin Tay (CO)<br>Mr Arthur Cheong (2 I/C)<br>Ms Shahirah<br>Mr Mohammad Alfiyan<br>Mr Thomas Lim</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>NBSS NCC aims to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities. In collaboration with the NCC HQ, the unit offers the cadets with a variety of fun and challenging activities that are meaningful in developing our cadets’ full potential.</p>
-<p>Other than having the opportunity to organize the weekly training sessions, our cadet leaders had multiple opportunities to organize and execute other activities. This includes our unit’s Annual Camp and Cluster Training. Through the planning and execution of these events, our cadet leaders learnt how to work together as a team and also the importance of effective communication.</p>
-<p>Each year, NBSS conducts a 2D1N camp in school with the objective of enabling cadet leaders to plan and execute the camp program, promoting cohesion amongst the cadets and to develop their mental resilience. They participated in team-building activities, outfield meals with Meal, Ready-to-Eat (MRE) packs and a night-activity involving urban ops.</p>
-<p>Our unit also prepares for the annual Precision Drill Squad (PDS) and Freestyle Exhibition Drill (FSD) competition organized by HQ NCC. Our PDS team executes rifle drills in complex series of movements with great co-ordination and precision while our FSD team performs and displays a vibrant array of drills and movements. The three-term long preparation is all planned and executed by our selected Cadet Leaders, under the supervision of our Teacher Officers.</p>
-<p>While numerous activities are currently cancelled or postponed due to the COVID-19 pandemic, the unit is hopeful that the situation will improve and looking forward to the gradual resumption of more activities in 2022.&nbsp;</p>
-<p>To serve with pride and dedication, NCC!</p>
-<p><strong>Student Executive Committee (2021 - 2022)</strong></p>
-<table width="0">
-<tbody>
-<tr>
-<td width="144">
-<p>CCA Leaders</p>
-</td>
-<td width="456">
-<p>MSG Koh Tua Hui (Unit Sergeant Major)<br>MSG Oh Ding Hao Damien (Assistant Unit Sergeant Major)<br>SSG Lim Jun Hong<br>SSG Anbouradjy Yeshvanthi Raji<br>SSG&nbsp;Reynard Wang Guan Kai<br>SSG Aaron Tan Yong Jing</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGNiO-63MuVid5QhiN1Cj6Yds_0aWsLr3TFCssGfwr2BT1O0gW405pmA3DByi1Ow/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
+<h4>Overview</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture25.jpg">
+</div>
+<p><strong>NBSS NCC</strong> aims to develop resourceful, responsible, resilient,
+and loyal leaders and team players through fun and challenging military-related
+activities. In collaboration with NCC HQ, the unit offers cadets a variety
+of engaging and meaningful experiences that support their holistic development.</p>
+<p><strong>Cadet Development Programme</strong>
+</p>
+<p><u>Secondary 1 (Junior Cadets)</u>
+<br>• Basic military knowledge and drills
+<br>• Introduction to Individual Field Craft (IFC)
+<br>• Camp FORGE
+<br>• Basic survival skills</p>
+<p><u>Secondary 2 (Senior Cadets)</u>
+<br>• Advanced drills and command
+<br>• Rifle handling and shooting
+<br>• Outdoor cooking and campcraft
+<br>• Leadership foundation course</p>
+<p><u>Secondary 3 (Cadet Leaders)</u>
+<br>• Advanced leadership training
+<br>• Specialist course
+<br>• Overseas exchange programmes
+<br>• Mentoring junior cadets</p>
+<p>Our cadet leaders take an active role in planning and executing various
+unit activities, including weekly training sessions, the Annual Camp, and
+Cluster Training. Through these experiences, they develop essential teamwork
+and communication skills while growing into confident and capable leaders.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong>
+</p>
+<p>Tuesdays (3.00pm – 5.30pm)</p>
+<p><strong>Competitions/Performances:</strong>
+</p>
+<p>Inter-unit Freestyle Drill Competition</p>
+<p>Sports Championship</p>
+<p>Orienteering Competition</p>
+<p><strong>Camps &amp; Bonding Activities:</strong>
+</p>
+<p>Annual Unit Camp</p>
+<p>Sports Experience Programmes</p>
+<p>1-Star Kayaking Certification</p>
+<h4>Achievements</h4>
+<p>Unit Recognition 2024 (Distinction)</p>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p><em>“I’m glad the NCC camp went better than expected. Most cadets were cooperative, and the Gel Blaster activity was a hit. I learned to be more responsible, adaptable, and team-oriented. Applying my SSLC training reinforced the importance of planning, while understanding the strengths of junior and senior cadets helped me support them better.”</em>
+</p>
+<p><em>-1SG (NCC) Rajavel Karthikraj on his experience organizing the camp for his juniors</em>
+</p>
+<p></p>
+<p><em>“Participating in the FSD competition was a valuable first-time experience. The FSD Basic Instructor course provided a strong foundation, and the competition allowed me to apply my skills—planning routines, selecting music, and teaching my team. It strengthened my leadership, teamwork, and resilience as we worked through challenges to improve our performance.”</em>
+</p>
+<p><em>-SSG (NCC) Venugopal Pranav Charan on his experience in preparing the Freestyle Drill Team for the competition</em>
+</p>
+</blockquote>
+<h4>Teachers and Coaches</h4>
+<p>Mr Alvin Tay (Commanding Officer)
+<br>Mr Arthur Cheong (2 I/C)
+<br>Ms Jasmine Chua (Teacher Officer)
+<br>Ms Shahirah (Teacher Officer)</p>
+<p></p>
