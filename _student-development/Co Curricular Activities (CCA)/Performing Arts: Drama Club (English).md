@@ -3,75 +3,43 @@ title: "Performing Arts: Drama Club (English)"
 permalink: /nbss-curriculum/co-curricular-activities/performing-arts/drama-club-english/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-<table width="0">
-<tbody>
-<tr>
-<td width="161">
-<p>Training Venue</p>
-</td>
-<td width="441">
-<p>Classroom&nbsp;- 1D</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>Training day/ time</p>
-</td>
-<td width="441">
-<p>Tuesday: 3pm - 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>Teachers-in-charge</p>
-</td>
-<td width="441">
-<p>Ms Sharinah (I/C)<br />Mr Nathanael Victor</p>
-</td>
-</tr>
-<tr>
-<td width="161">
-<p>Instructor/s</p>
-</td>
-<td width="441">
-<p>How Drama</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Drama is an opportunity for students to express themselves and build up good communication and public speaking skills. It creates an environment of fun and laughter in which friendships can be fostered and nurtured.&nbsp;</p>
-<p>At Naval Base Secondary School, students build their character through active participation in co-curricular activities such as the Drama Club. The Drama Club is dedicated to exploring different forms of stage art to express and hone the skills of each member. Drama Club members are involved in various aspects of a theatrical performance such as acting, scriptwriting, stage production, and lighting and sound management. This emphasises the indispensability of the entire crew, whether on stage or behind the scenes. Over time, students become empowered individuals who are ready to make a difference in whatever tasks they partake in.</p>
-<p>In addition to being exposed to different roles and genres of drama, our members are encouraged to mentor their juniors and lead by example. They maintain a journal to document their learning and individual reflections about experiences and challenges after every training sessions and stage performances. Each year, the Drama Club provides opportunities for students to hone their skills by participating in national performance showcase such as the Singapore Youth Festival Arts Presentation (Drama).</p>
-<p>The Drama Club also conducted our own virtual drama festival in 2021 where students were divided into groups of five and had to come up with a short skit on one of the SHIPSHAPE values that resonated with them. They spent a number of weeks meeting up through the Zoom platform, brainstorming for ideas, writing the script and actually planning and producing their own virtual zoom performance with costumes, props and virtual backgrounds included to make their performances pop.&nbsp;</p>
-<p>Through these activities, our actors and crew are able to develop and showcase their skills, team-work and commitment to Drama Arts. This is continued even in term 3 of 2021 when were only able to have e-CCA. Each session started with student-led warm-ups, a Drama related skill taught by instructor and students applying the skills learnt through mini role-plays. Enriching and fruitful sessions indeed!</p>
-<p><strong>Student Executive Committee (2021 - 2022)</strong></p>
-<table width="0">
-<tbody>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Chairperson</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>NAINA MOHAMED AFIYA</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="161">
-<p>Vice-Chairperson</p>
-</td>
-<td style="text-align: center;" width="441">
-<p>LIAO WEI JUN WAYNE</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<img src="/images/ed1.jpg">
-<p>Our full dress rehearsal for the Singapore Youth Festival in April 2021.</p>
-<img src="/images/ed2.jpg">
-<p>Scene from &lsquo;Fairy tell me what&rsquo;s your name&rsquo; our entry for Singapore Youth Festival 2021.</p>
-<img src="/images/ed3.png">
-<p>Teaching of Drama skills are explicitly taught during E-CCA. E-CCA is something new but students still continue working on improving their skills so that they are better prepared for performances.</p>
-<img src="/images/ed4.png">
-<p>Student concentrating and learning first. After teaching the skill, students will practice the skill taught by having mini role-plays.</p>
+<h4>Overview</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104144__1_.jpg">
+</div>
+<p>The Drama Club provides students with opportunities to explore theatrical
+arts and express their creativity through acting, directing, scriptwriting,
+and stagecraft. They learn essential theatre skills such as voice projection,
+movement, stage presence, script interpretation, and improvisation, alongside
+stage management techniques including lighting, sound, props, and costume
+design.</p>
+<p>Over 4 to 5 years, students grow into confident communicators—able to
+express ideas clearly, manage group dynamics under pressure, and develop
+empathy by portraying diverse characters and understanding audience perspectives.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong> Once a week / Tuesdays 3:00 -5.30pm</p>
+<p><strong>Competitions/Performances:</strong> Singapore Youth Festival 2023
+&amp; 2025, National Day Parade (NDP) Performance 2024 @ Padang and Teachers’
+Day Skit 2024.</p>
+<p><strong>Plays &amp; Learning Opportunities:</strong> Watching “Fat Kids
+are Harder to Kidnap” Play in 2023 and Secondary: The Musical in 2024</p>
+<p><strong>Bonding Activities:</strong> Team-building experiences during warm-ups
+where students led the session, celebrating the graduation of Secondary
+4 students.</p>
+<h4>Achievements</h4>
+<p>SYF 2023: Certificate of Accomplishment</p>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p><em>As an actor in the SYF 2023 play, contributing to such an experience was truly magical and I’m so grateful to be a part of it!</em> -
+Poh Yu Xin Lyne, 4-7</p>
+<p></p>
+<p><em>Representing Naval Base Secondary School in the National Day Parade (NDP) 2024 was a memorable experience which has brought many positive outcomes for Drama Club! It was indeed a once in lifetime opportunity as we had to work alongside other schools and organisations for the nation’s grandest celebration!</em> –
+Samantha Bella Vu Jing Wen, 3 Expedition</p>
+</blockquote>
+<h4>Teachers and Coaches</h4>
+<p>Ms Sharinah Binte Mohamed Agbar Ali</p>
+<p>Mdm Nithya Sukumaran</p>
+<p></p>
