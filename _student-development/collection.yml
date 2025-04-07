@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Guidance.md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
@@ -15,6 +14,7 @@ collections:
       - Student Leadership/Student Leadership Opportunities.md
       - Student Leadership/Student Leadership Training & Development.md
       - Student Well Being.md
+      - Guidance.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - "Co Curricular Activities (CCA)/Sports: Basketball.md"
