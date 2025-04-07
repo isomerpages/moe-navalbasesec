@@ -4,7 +4,15 @@ permalink: /about-us/our-family-staff/
 description: ""
 variant: tiptap
 ---
+<h2>The NBSS Family</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/staff_i__1_.jpg">
+</div>
 <h3>School Steering Committee</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__School_Steering_Committee_2__1_.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
