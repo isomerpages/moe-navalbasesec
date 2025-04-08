@@ -78,23 +78,17 @@ and communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03_29_183721.png">
 </div>
-<p>Teachers employ diverse strategies, including Bloom’s Taxonomy questioning
+<p style="text-align: justify;">Teachers employ diverse strategies, including Bloom’s Taxonomy questioning
 and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower
 secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports
 concept mastery, while the ICAN framework helps address learning gaps.
 In addition, a programme specially designed by NBSS teachers, Project Cube,
 helps Secondary One learners bridge gaps faced when transitioning from
 the primary school curriculum.</p>
-<p>Technology enhances learning through self-assessment and collaboration,
-while learning experiences and competitions such as the Math Challenge,
-Arithmeteq Competition, Pi Week, and the Singapore and Asian Schools Math
-Olympiad push Navalites to think critically and apply mathematics to real-world
+<p style="text-align: justify;">Technology enhances learning through self-assessment and collaboration,
+while learning experiences such as learning throughthe Naval Nexus and Algebra Storm games, Math Trail and Pi Week push Navalites to think critically and apply mathematics to real-world
 problems.</p>
-<p>Students are given opportunities to be exposed to various competitions
-such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition,
-Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites
-are exposed to mathematical problems that challenged them to think critically
-and out of the box to solve real life problems.</p>
+<p style="text-align: justify;">Students are also given opportunities to be exposed to various Mathematics competitions such as the Singapore Mathematics Olympiad (SMO), Singapore and Asian Schools Math Olympiad (SASMO), International Math Modelling Competition (IMMC), Math Challenge, Mathematics Trail, Arithmeteq Competition and many more. Navalites are exposed to mathematical problems that challenged them to think critically, stretch and extend their thinking.</p>
 <p></p>
 <p><strong>Achievements of our Navalites at Math Competitions:</strong>
 </p>
@@ -169,35 +163,35 @@ and out of the box to solve real life problems.</p>
 <p>Bronze Award:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choo Zi Yuan (1 Garrison)</p>
+<p>Choo Zi Yuan</p>
 </li>
 <li>
-<p>Ng Hong Zhi (2 Flagship)</p>
+<p>Ng Hong Zhi</p>
 </li>
 </ul>
 <p><strong>Honorable Mention</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Lee Xue Ying (1 Compass)</p>
+<p>Lee Xue Ying</p>
 </li>
 <li>
-<p>Chiew Ying Xuan (1 Flagship)</p>
+<p>Chiew Ying Xuan</p>
 </li>
 <li>
-<p>Kelly Sua Kai Li (2 Expedition)</p>
+<p>Kelly Sua Kai Li</p>
 </li>
 <li>
-<p>Sahla Farzana Shamshad (2 Flagship)</p>
+<p>Sahla Farzana Shamshad</p>
 </li>
 </ul>
 <p>Bronze:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Choo Zi Yuan (1 Garrison)</p>
+<p>Choo Zi Yuan</p>
 </li>
 <li>
-<p>Ng Hong Zhi (2 Flagship)</p>
+<p>Ng Hong Zhi</p>
 </li>
 </ul>
 <p></p>
@@ -206,16 +200,16 @@ and out of the box to solve real life problems.</p>
 <p>Merit Award:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Leo Xin Min, Gracia (Liang Xinmin) (3-5)</p>
+<p>Leo Xin Min, Gracia</p>
 </li>
 <li>
-<p>Nikita Zoshi (3-5)</p>
+<p>Nikita Zoshi</p>
 </li>
 <li>
-<p>Nicole Yip Pin Xi (3-5)</p>
+<p>Nicole Yip Pin Xi</p>
 </li>
 <li>
-<p>Ong Ziyang, Xavier (3-5)</p>
+<p>Ong Ziyang, Xavier</p>
 </li>
 </ul>
 <p></p>
@@ -224,13 +218,13 @@ and out of the box to solve real life problems.</p>
 <p>Highest Distinction:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chew Yu Jie (1 Danforth)</p>
+<p>Chew Yu Jie</p>
 </li>
 <li>
-<p>Elva Teo (1 Compass)</p>
+<p>Elva Teo</p>
 </li>
 <li>
-<p>Yew En Qi (1 Anchor)</p>
+<p>Yew En Qi</p>
 </li>
 </ul>
 <p></p>
