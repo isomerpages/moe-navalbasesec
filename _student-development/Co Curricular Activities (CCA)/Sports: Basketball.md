@@ -6,8 +6,13 @@ third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
 <h4>Overview</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture29.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/532c6822_4b27_41c0_baac_e917a4ae59c2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20241122_144522.jpg">
 </div>
 <p>NBSS Basketball promotes the physical and socio-emotional development
 of students through a holistic, values-based training approach. Using the
