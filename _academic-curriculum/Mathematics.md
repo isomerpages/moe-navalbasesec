@@ -95,7 +95,8 @@ and communication skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excel/ Engage</p>
+<p><strong>Excel/ Engage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -132,7 +133,8 @@ and communication skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enrich</p>
+<p><strong>Enrich</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -150,7 +152,8 @@ and communication skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Embrace</p>
+<p><strong>Embrace</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
