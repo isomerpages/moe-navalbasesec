@@ -105,10 +105,20 @@ community.</p>
 <p>The STEM EXCEL Programme is designed to progressively develop students’
 STEM capabilities from Secondary 1 to Secondary 4/5. The focus for each
 level is as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Sec 1 - STEM Exploration</p>
+</li>
+<li>
 <p>Sec 2 - STEM Connection</p>
+</li>
+<li>
 <p>Sec 3 - STEM Empowerment</p>
+</li>
+<li>
 <p>Sec 4 - STEM for Life</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 sci/Picture2.png">
 </div>
@@ -178,7 +188,7 @@ meet the diverse needs of our students.</p>
 <p>GMAC Challenge</p>
 </li>
 <li>
-<p>IgnITE Skills Challenge</p>
+<p>ignITE Skills Challenge</p>
 </li>
 <li>
 <p>Illustratum</p>
@@ -193,7 +203,7 @@ meet the diverse needs of our students.</p>
 <p>SSEF</p>
 </li>
 <li>
-<p>VJC ASTAR Competition</p>
+<p>A*STAR-VJC Science Fair</p>
 </li>
 </ul>
 </td>
