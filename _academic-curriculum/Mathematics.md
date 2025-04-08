@@ -78,17 +78,15 @@ and communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03_29_183721.png">
 </div>
-<p style="text-align: justify;">Teachers employ diverse strategies, including Bloom’s Taxonomy questioning
-and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower
+<p style="text-align: justify;">Teachers employ diverse strategies, including Bloom’s Taxonomy questioning and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower
 secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports
 concept mastery, while the ICAN framework helps address learning gaps.
 In addition, a programme specially designed by NBSS teachers, Project Cube,
 helps Secondary One learners bridge gaps faced when transitioning from
 the primary school curriculum.</p>
 <p style="text-align: justify;">Technology enhances learning through self-assessment and collaboration,
-while learning experiences such as learning throughthe Naval Nexus and Algebra Storm games, Math Trail and Pi Week push Navalites to think critically and apply mathematics to real-world
-problems.</p>
-<p style="text-align: justify;">Students are also given opportunities to be exposed to various Mathematics competitions such as the Singapore Mathematics Olympiad (SMO), Singapore and Asian Schools Math Olympiad (SASMO), International Math Modelling Competition (IMMC), Math Challenge, Mathematics Trail, Arithmeteq Competition and many more. Navalites are exposed to mathematical problems that challenged them to think critically, stretch and extend their thinking.</p>
+while learning experiences such as learning through games using the *Naval Nexus* and *Algebra Storm*, Mathematics Trail and Pi Week push Navalites to think critically and apply mathematics to real-world problems.</p>
+<p style="text-align: justify;">Students are also given opportunities to be exposed to various Mathematics competitions such as the Singapore Mathematics Olympiad (SMO), Singapore and Asian Schools Math Olympiad (SASMO), International Math Modelling Competition (IMMC) Singapore, NIE Math Challenge, Math Challenge, Arithmeteq Competition and many more. Navalites are exposed to mathematical problems that challenged them to think critically, stretch and extend their thinking.</p>
 <p></p>
 <p><strong>Achievements of our Navalites at Math Competitions:</strong>
 </p>
@@ -150,7 +148,7 @@ problems.</p>
 </p>
 <p><strong><u>Singapore and Asian Schools Math Olympiad (SASMO)</u></strong>
 </p>
-<p>Silver Award:</p>
+<p><strong>Silver Award</strong></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nikita Zoshi</p>
@@ -160,7 +158,7 @@ problems.</p>
 </li>
 </ul>
 <p></p>
-<p>Bronze Award:</p>
+<p><strong>Bronze Award</strong></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choo Zi Yuan</p>
@@ -185,19 +183,12 @@ problems.</p>
 <p>Sahla Farzana Shamshad</p>
 </li>
 </ul>
-<p>Bronze:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Choo Zi Yuan</p>
-</li>
-<li>
-<p>Ng Hong Zhi</p>
-</li>
-</ul>
+
+
 <p></p>
 <p><strong><u>International Mathematical Modelling Competition (IMMC) Singapore</u></strong>
 </p>
-<p>Merit Award:</p>
+<p><strong>Merit Award</strong></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Leo Xin Min, Gracia</p>
@@ -215,7 +206,7 @@ problems.</p>
 <p></p>
 <p><strong><u>NIE Math Challenge</u></strong>
 </p>
-<p>Highest Distinction:</p>
+<p><strong>Highest Distinction</strong></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chew Yu Jie</p>
