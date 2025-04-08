@@ -22,7 +22,7 @@ Skills, Processes, Attitudes and Metacognition.&nbsp;</p>
 </div>
 <p><strong>CURRICULUM OVERVIEW</strong>
 </p>
-<p>The Mathemtics Curriculum focuses on three strands namely Numbers and
+<p>The Mathematics curriculum focuses on three strands namely Numbers and
 Algebra, Geometry and Measurement and Statistics and Probability, equipping
 students with essential concepts and skills, fostering critical thinking,
 problem-solving, and confidence. Through a structured approach, students
@@ -72,9 +72,9 @@ and communication skills.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>ENGAGING DIVERSE LEARNERS</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_03_29_183721.png">
 </div>
@@ -86,61 +86,97 @@ In addition, a programme specially designed by NBSS teachers, Project Cube,
 helps Secondary One learners bridge gaps faced when transitioning from
 the primary school curriculum.</p>
 <p>Technology enhances learning through self-assessment and collaboration,
-while competitions such as the Math and Science Challenge, Mathematics
-Trail, Arithmeteq Competition, Sudoku Challenge, <em>Pi Week</em>, and the
-Singapore and Asian Schools Math Olympiad push Navalites to think critically
-and apply mathematics to real-world problems.</p>
+while learning experiences and competitions such as the Math Challenge,
+Arithmeteq Competition, Pi Week, and the Singapore and Asian Schools Math
+Olympiad push Navalites to think critically and apply mathematics to real-world
+problems.</p>
 <p>Students are given opportunities to be exposed to various competitions
 such as the Math and Science Challenge, Mathematics Trail, Arithmeteq Competition,
 Sudoku Challenge and the Singapore and Asian Schools Math Olympiad. Navalites
 are exposed to mathematical problems that challenged them to think critically
 and out of the box to solve real life problems.</p>
-<h4>Achievements of our Navalites at Math Competitions:</h4>
+<p></p>
+<p><strong>Achievements of our Navalites at Math Competitions:</strong>
+</p>
 <p><strong>Year 2023</strong>
 </p>
 <p><strong><u>Singapore Asian School Math Olympiad (SASMO)</u></strong>
 </p>
-<p>Silver</p>
+<p><strong>Silver Award</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Jovan Ong Hong Jun (1 Danforth)</p>
+<p>Jovan Ong Hong Jun</p>
 </li>
 </ul>
-<p>Bronze</p>
+<p><strong>Bronze Award</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cheong Coek Yip Dylan (1 Beacon)</p>
+<p>Cheong Coek Yip Dylan</p>
 </li>
 <li>
-<p>Dang Linh Linh (1 Beacon)</p>
+<p>Dang Linh Linh</p>
 </li>
 <li>
-<p>Nurul Husna Binte Norhisham (1 Beacon)</p>
+<p>Nurul Husna Binte Norhisham</p>
 </li>
 <li>
-<p>Joel Goh Zu Rui (1 Danforth)</p>
+<p>Joel Goh Zu Rui</p>
 </li>
 </ul>
 <p><strong>Honourable Mention</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Neven Lim Sheng Yang (1 Expedition)</p>
+<p>Neven Lim Sheng Yang</p>
 </li>
 </ul>
+<p></p>
 <p><strong><u>International Mathematical Modelling Competition (IMMC) Singapore</u></strong>
 </p>
-<p>Merit Award:</p>
-<p>BEDIONES ROCHELLE CHLOE BELISARIO</p>
-<p>DEESHA SURESH BALANI</p>
-<p>CHEN JING YANG</p>
-<p>SIEW YU CHANG KEITH</p>
+<p><strong>Merit Award</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bediones Rochelle Chloe Belisario</p>
+</li>
+<li>
+<p>Deesha Suresh Balani</p>
+</li>
+<li>
+<p>Chen Jing Yang</p>
+</li>
+<li>
+<p>Siew Yu Chang Keith</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Year 2024</strong>
 </p>
 <p><strong><u>Singapore and Asian Schools Math Olympiad (SASMO)</u></strong>
 </p>
-<p>Honorable Mention</p>
+<p>Silver Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nikita Zoshi</p>
+</li>
+<li>
+<p>Chew Yu Jie</p>
+</li>
+</ul>
+<p></p>
+<p>Bronze Award:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choo Zi Yuan (1 Garrison)</p>
+</li>
+<li>
+<p>Ng Hong Zhi (2 Flagship)</p>
+</li>
+</ul>
+<p><strong>Honorable Mention</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lee Xue Ying (1 Compass)</p>
@@ -164,15 +200,7 @@ and out of the box to solve real life problems.</p>
 <p>Ng Hong Zhi (2 Flagship)</p>
 </li>
 </ul>
-<p>Silver:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Nikita Zoshi (3-5)</p>
-</li>
-<li>
-<p>Chew Yu Jie (1 Danforth)</p>
-</li>
-</ul>
+<p></p>
 <p><strong><u>International Mathematical Modelling Competition (IMMC) Singapore</u></strong>
 </p>
 <p>Merit Award:</p>
