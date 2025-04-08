@@ -3,136 +3,141 @@ title: "Performing Arts: Symphonic Band"
 permalink: /nbss-curriculum/co-curricular-activities/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
-<table>
+<h4>Overview</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104123__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMG_9887.jpg">
+</div>
+<p><strong><em><u>With Pride We Play</u></em></strong>
+</p>
+<p>Our band lives by the motto <strong>"With Pride We Play,"</strong> reflecting
+our commitment to excellence in music and performance. At Naval Base Secondary
+School, we dedicate ourselves fully to rehearsals and performances, striving
+to deliver confident and skillful musical presentations. Strong teamwork
+is essential to our success, especially in a co-curricular activity (CCA)
+with multiple sections and members.</p>
+<p>More than just musicians, we are a family. While differences of opinion
+may arise, we always work together to resolve them with respect and understanding.
+Over the years, we have faced many challenges, but through teamwork, perseverance,
+and adaptability, we have grown stronger. We believe that adopting a growth
+mindset is key to overcoming obstacles and reaching new heights.</p>
+<p>The band actively contributes to school events such as the <strong>Lunar New Year concert, National Day celebration.</strong> Beyond
+the school, we have also been invited to perform at public events, broadening
+our experience and exposure.</p>
+<p>With passion and unity, we continue to strive for musical excellence and
+look forward to more opportunities to share our music with the community.</p>
+<h4>What We Do</h4>
+<p><strong>Training Sessions:</strong>
+</p>
+<p>Tuesdays and Thursdays: 3pm to 5.30pm (Non-SYF Season)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="236">
-<p>Training Venue</p>
-</td>
-<td width="365">
-<p>Band Room, classrooms- 
-3-1, 3-5, 3-6, 3-7, 3-8, 4-1, 4-2, 4-3, 4-4
+<td rowspan="1" colspan="2">
+<p><strong>Progression over 4 Years</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td width="236">
-<p>Training day/ time</p>
-</td>
-<td width="365">
-<p>Monday 3pm to 5.30pm<br>Tuesday 3pm to 5.45pm<br>Thursday 3pm to 5.45pm</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Secondary One</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary Two</p>
+</th>
 </tr>
 <tr>
-<td width="236">
-<p>Teachers-in-charge</p>
-</td>
-<td width="365">
-<p>Mrs Beryl Lim (I/C)<br>Ms Kasthuri (2 I/C)<br>Ms Phua Qi Qi (2 I/C)<br>Ms Ong Seow Wei</p>
-</td>
-</tr>
-<tr>
-<td width="236">
-<p>Instructor(s)</p>
-</td>
-<td width="365">
-<p>Mr Eric Chong</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>"<strong><em>With Pride We Play</em></strong>". There is a reason why our band chose this as our motto – we constantly strive to play to the best of our ability. At Naval Base Secondary School, we never fail to put in our best effort and go all out during rehearsals and performances, to display our musical skills and perform with confidence.&nbsp;In order to achieve competitive greatness, it is imperative for us to possess tight-knit teamwork and hence, success, especially in a CCA with as many sections and people as ours.&nbsp;</p>
-<p>In our band, we are like family. Although we may disagree and debate over some issues, we will always iron things out amicably and support each other. We have met many obstacles in our journey thus far, and it was through sheer teamwork, intentness, and adaptability that we managed to overcome it together. We have learnt that it is important to have an open, growth mindset whenever we meet with challenges in order to succeed and move on.&nbsp;</p>
-<p>In school, we perform during the Chinese New Year concert, SHINE, National Day celebration and Achievement Day. We have also received invitations to perform in the public. In the recent SYF, we have clinched the Certificate of Accomplishment.</p>
-<p><strong>Student Executive Committee (2021 - 2022)</strong></p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Band Major</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>LEE HWEE YEE</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Drum Major/ Concert Master</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>SHAKIR ZUFAYRI BIN BAKHTIAR</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Concert Mistress</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>SABADO LYKA LARISSE MALAZO</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Secretary I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>LOW AGNES</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Quartermaster I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>SEAH ZHI YI</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Operations Manager I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>KEH CHENG ZU ALOYSIUS</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Library I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>TAN AI LIN IRENE</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Wardrobe I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>LIM MING JUN</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="236">
-<p>Welfare I/C</p>
-</td>
-<td style="text-align: center;" width="365">
-<p>ELENA YAP SAAN YU</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>CCA Highlights</strong></p>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQKGffuJbZtFVj43JXc7VEyabaiqGbGBFN_hr2LSp4BcVTtFh921dgeW0FzBPk-zA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-<ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">National Creative Percussion Competition 2010</label>
-<div>
-<p>Our very own Navalites represented NBSS in the National Creative Percussion Competition 2010. The competition was a joint effort co-organised by thOh Music Educational Services and Ping Yi Secondary School and supported by the National Environmental Agency. The theme for the competition this year was "Beating Pollution with Recycled Beats, Save the Planet, Keep it Neat!"</p>
-<p>In the Senior Category, Earthbeats beat many schools and emerged as 1st runner-up! Well done Navalites!</p>
-<img style="width: 85%;" src="/images/eb1.jpg">
-<p>To read more about the competition, click&nbsp;<a href="/files/EcoNews%20-%20National%20Creative%20Percussion%202010.pdf">here&nbsp;</a>.</p>
-</div>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic instrument handling and care
+<br>Fundamental playing techniques</p>
+</li>
+<li>
+<p>Introduction to ensemble skills and following a conductor
+<br>Simple repertoire and scales</p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Intermediate playing techniques</p>
+</li>
+<li>
+<p>Understanding complex rhythms and time signatures</p>
+</li>
+<li>
+<p>Section cohesion and balance
+<br>Exposure to different musical styles</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary Three</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advanced playing techniques</p>
+</li>
+<li>
+<p>Complex musical interpretation</p>
+</li>
+<li>
+<p>Leadership within sections</p>
+</li>
+<li>
+<p>Performance preparation techniques</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary Four/Five</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Refinement of technical skills</p>
+</li>
+<li>
+<p>Mentoring and guiding junior members</p>
+</li>
+<li>
+<p>Musical maturity and expressive interpretation</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Competitions/Performances:</strong> 
+<br>Singapore Youth Festival Arts Presentations</p>
+<p><strong>Workshops &amp; Learning Opportunities:</strong>
+<br>SSO Demonstration Concert
+<br>Basic Music Instrument Maintenance Workshop
+<br>Values-In-Action projects or collaborations (on-going)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br><strong>Camps &amp; Bonding Activities:</strong>
+<br>Team-building experiences</p>
+<h4>Teachers and Instructors</h4>
+<p><strong><u>Teachers </u></strong>
+<br>Mrs Susheela Vijayarhagavan
+<br>Ms Ong Seow Wei
+<br>Mr Lim Kian Huat Thomas
+<br>
+<br><strong><u>Instructors</u></strong>
+<br>Senior Band Director: Mr Chiang Yick Keet, Adrian
+<br>Main Band Director: Mr Phua Peh Ming Samuel
+<br>Percussion Tutor: Mr Tan Pei Jie, Michael</p>
+<p></p>
