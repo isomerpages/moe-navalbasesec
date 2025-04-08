@@ -50,11 +50,9 @@ and continue to develop the skills needed to excel.</p>
 </div>
 <p><strong>STEM EXCEL Programme</strong>
 </p>
-<p>“And beyond that – we want our people to have a <strong>sense of curiosity</strong> to <strong>explore</strong> and <strong>experiment</strong>,
-to create and <strong>innovate</strong>, and to have an open mind to new
-ideas. This will be our competitive advantage going into the future; <strong>framing</strong>  <strong>tomorrow's challenges</strong>,
-and <strong>finding tomorrow's solutions</strong> ahead of time using <strong>STEM</strong>.”</p>
-<p>Education Minister Chan Chun Sing</p>
+<p>“<em>And beyond that – we want our people to have a </em><strong><em>sense of curiosity</em></strong><em> to </em><strong><em>explore</em></strong><em> and </em><strong><em>experiment</em></strong><em>, to create and </em><strong><em>innovate</em></strong><em>, and to have an open mind to new ideas. This will be our competitive advantage going into the future; </em><strong><em>framing</em></strong><em> </em><strong><em>tomorrow's challenges</em></strong><em>, and </em><strong><em>finding tomorrow's solutions</em></strong><em> ahead of time using </em><strong><em>STEM</em></strong>.”
+- <em>Education Minister Chan Chun Sing</em>
+</p>
 <p>As such we need to equip our students with the skills and mindsets, to
 empower them to thrive in an ever-evolving world.</p>
 <p>Our STEM ExCEL Programme is designed to ignite students' passion for STEM
@@ -129,71 +127,105 @@ meet the diverse needs of our students.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 STEM Exploration</p>
+<p><strong>Sec 1 STEM Exploration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 STEM Connection</p>
+<p><strong>Sec 2 STEM Connection</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 and Sec 4 STEM Empowerment &amp; for Life</p>
+<p><strong>Sec 3 and Sec 4 STEM Empowerment &amp; for Life</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Excel</p>
+<p><strong>Excel</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Science Buskers</p>
-<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Elementz @ASRJC</p>
-<p></p>
+</li>
+<li>
 <p>Tan Kah Kee Young Inventors’ Award</p>
-<p></p>
+</li>
+<li>
 <p>Computer Science and Robotics Certification</p>
-<p></p>
+</li>
+<li>
 <p>SISTEMIC @NJC</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>National STEM Championship</p>
-<p></p>
+</li>
+<li>
 <p>Chem-dot-Comm Challenge</p>
-<p></p>
+</li>
+<li>
 <p>Singapore National Crystal Growing Challenge</p>
-<p></p>
+</li>
+<li>
 <p>GMAC Challenge</p>
-<p></p>
+</li>
+<li>
 <p>IgnITE Skills Challenge</p>
-<p></p>
+</li>
+<li>
 <p>Illustratum</p>
-<p></p>
+</li>
+<li>
 <p>SISTEMIC @NJC</p>
-<p></p>
+</li>
+<li>
 <p>Junior Olympiads</p>
+</li>
+<li>
+<p>SSEF</p>
+</li>
+<li>
+<p>VJC ASTAR Competition</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enrich</p>
+<p><strong>Enrich</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Show &amp; Tell</p>
+<p>Show &amp; Tell/ Discovery in Action</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Big STEM Challenge</p>
-<p></p>
+</li>
+<li>
 <p>STEM IEP at Penang</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Embrace</p>
+<p><strong>Embrace</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Learning Journeys to Science Centre</p>
@@ -201,14 +233,24 @@ meet the diverse needs of our students.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Project Plant Whisperers (PPW)</p>
-<p></p>
+</li>
+<li>
 <p>Learning Journey to ComCrop</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learning Journeys to Science Centre and Institutes of Higher Learning</p>
-<p></p>
+</li>
+<li>
 <p>Consolidation of STEM experiences</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
