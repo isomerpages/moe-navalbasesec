@@ -86,9 +86,9 @@ helps Secondary One learners bridge gaps faced when transitioning from
 the primary school curriculum.</p>
 <p style="text-align: justify;">Technology enhances learning through self-assessment and collaboration,
 while learning experiences such as learning through games using the Naval Nexus and Algebra Storm, Mathematics Trail and Pi Week push Navalites to think critically and apply mathematics to real-world problems.</p>
-<p style="text-align: justify;">Students are also given opportunities to be exposed to various Mathematics competitions such as the Singapore Mathematics Olympiad (SMO), Singapore and Asian Schools Math Olympiad (SASMO), International Math Modelling Competition (IMMC) Singapore, NIE Math Challenge, Math Challenge, Arithmeteq Competition and many more. Navalites are exposed to mathematical problems that challenged them to think critically, stretch and extend their thinking.</p>
+<p style="text-align: justify;">Students are also given opportunities to be exposed to various Mathematics competitions such as the Singapore Mathematics Olympiad (SMO), Singapore and Asian Schools Math Olympiad (SASMO), International Math Modelling Competition (IMMC) Singapore, NIE Math Challenge, Math Challenge and many more. Navalites are exposed to mathematical problems that challenged them to think critically, stretch and extend their thinking.</p>
 <p></p>
-<p><strong>Achievements of our Navalites at Math Competitions:</strong>
+<p><strong>Achievements of our Navalites at Mathematics Competitions:</strong>
 </p>
 <p><strong>Year 2023</strong>
 </p>
