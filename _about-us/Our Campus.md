@@ -16,8 +16,8 @@ a Giant Art Gallery.</p>
 <p>As Navalites move around in school, they have multiple opportunities to
 interact with one another and learn from learning spaces outside of their
 classrooms, from the Horizon – our school library, to the Starboard, to
-the newly-renovated canteen.</p>
-<p></p>
+the newly-renovated canteen. Click <a href="https://wrasse-wrasse-92kw.squarespace.com/naval-base-secondary-school" rel="noopener nofollow" target="_blank">here</a> to
+read about The Horizon!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Horizon.png">
 </div>
