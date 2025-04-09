@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Valued Partners
 variant: tiptap
 ---
-<h1>NBSS Alumni Connects!</h1>
+<h1>NBSS Alumni Connect!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alum1.jpg">
