@@ -130,6 +130,16 @@ look forward to more opportunities to share our music with the community.</p>
 <br>
 <br><strong>Camps &amp; Bonding Activities:</strong>
 <br>Team-building experiences</p>
+<p></p>
+<h4>Student Testimonials</h4>
+<blockquote>
+<p>"Through my experience in Symphonic Band, I have developed greater initiative
+and resilience. The countless hours of practice have taught me the value
+of patience.” Maegan Kam, Sec 4-7</p>
+<p>"Being part of the Band has taught me valuable lessons in perseverance.
+I cherish the camaraderie as we support each other's growth and musical
+development. " – Strefen Phua, Sec 4-6</p>
+</blockquote>
 <h4>Teachers and Instructors</h4>
 <p><strong><u>Teachers </u></strong>
 <br>Mrs Susheela Vijayarhagavan
