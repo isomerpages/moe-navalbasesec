@@ -51,6 +51,11 @@ will also apply scientific principles during food preparation and cooking.
 With the appropriate knowledge and skills, they will become a health ambassador,
 discerning consumer and food innovator.</p>
 <p><strong>Programmes</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3E_NFS.png">
+</div>
+<p>
 <br><strong>Secondary 3 Culinary Workshop</strong>
 </p>
 <p>The workshop focuses on sharpening students' culinary skills through hands-on
