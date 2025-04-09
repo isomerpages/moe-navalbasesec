@@ -73,8 +73,17 @@ and communication skills.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p><strong>ENGAGING DIVERSE LEARNERS</strong>
 </p>
+<p>Teachers employ diverse strategies, including Bloom’s Taxonomy questioning
+and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower
+secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports
+concept mastery, while the ICAN framework helps address learning gaps.
+In addition, a programme specially designed by NBSS teachers, Project Cube,
+helps Secondary One learners bridge gaps faced when transitioning from
+the primary school curriculum.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -181,13 +190,7 @@ and communication skills.</p>
 </tr>
 </tbody>
 </table>
-<p>Teachers employ diverse strategies, including Bloom’s Taxonomy questioning
-and Polya’s Four-Step Approach, to scaffold problem-solving. At the lower
-secondary level, the Concrete→Pictorial→Abstract (CPA) approach supports
-concept mastery, while the ICAN framework helps address learning gaps.
-In addition, a programme specially designed by NBSS teachers, Project Cube,
-helps Secondary One learners bridge gaps faced when transitioning from
-the primary school curriculum.</p>
+<p></p>
 <p>Technology enhances learning through self-assessment and collaboration,
 while learning experiences such as learning through games using the Naval
 Nexus and Algebra Storm, Mathematics Trail and Pi Week push Navalites to
