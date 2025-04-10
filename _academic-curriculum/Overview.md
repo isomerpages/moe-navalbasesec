@@ -12,13 +12,10 @@ variant: tiptap
 <p>The NBSS ACE Teaching &amp; Learning framework encapsulates the school’s
 overarching beliefs about and approach to T&amp;L, guided by the school
 values; RECIPE.&nbsp;</p>
-<p>We intentionally design our curriculum with these three components: customised
-learning experiences, key pedagogical emphases and balanced assessment
-to prepare our students to be future-ready.</p>
-<p>Through these, students cultivate the necessary skills, dispositions and
-values to become Adaptive Learners, Collaborative Learners, and Excellence-Driven
-Learners fulfilling the school vision of Leaders of Character, Learners
-for Tomorrow.</p>
+<p>We intentionally design our curriculum to prepare our students to be future-ready.</p>
+<p>Students cultivate the necessary skills, dispositions and values to become
+Adaptive Learners, Collaborative Learners, and Excellence-Driven Learners
+fulfilling the school vision of Leaders of Character, Learners for Tomorrow.</p>
 <h4>Customised Learning Experiences</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3E_ACE_Framework.png">
