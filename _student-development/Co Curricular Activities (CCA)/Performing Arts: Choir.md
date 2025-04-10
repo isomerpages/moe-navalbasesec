@@ -32,7 +32,8 @@ choir exchanges, VIA collaborations, watching concerts</p>
 sports and termly games</p>
 <h4>Achievements</h4>
 <p>SYF 2015 (Distinction), Orientale Concentus (Silver), Hong Kong Winter
-Choral Festival (Silver)</p>
+Choral Festival (Silver), International Maritime Security Conference 2023
+Performance, SYF 2023 (Accomplishment)</p>
 <h4>Student Testimonials</h4>
 <blockquote>
 <p>“The passion I have for music keeps me motivated, and it drives me to
