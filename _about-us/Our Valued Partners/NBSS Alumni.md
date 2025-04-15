@@ -24,8 +24,9 @@ alongside teachers in realising our shared vision and mission. Through
 their stories and life experiences, alumni offer inspiration that can benefit
 our current students.</p>
 <h4>Our 3C Approach</h4>
-<p><strong><u>C</u>elebrate</strong>:</p>
-<p>Objective: Involve alumni in the celebration of important school events:</p>
+<p><strong><u>C</u>ontribute</strong>:</p>
+<p>Objective: Involve alumni in in contributing towards enhancing school's
+strengths and traditions:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><em>Art Exhibition</em>
@@ -44,7 +45,11 @@ our current students.</p>
 </p>
 </li>
 <li>
-<p><em>Commemorative events like RHD (invited speakers e.g. NS Engagement)</em>
+<p><em>Level Camps</em>
+</p>
+</li>
+<li>
+<p><em>CCAs</em>
 </p>
 </li>
 </ol>
@@ -70,28 +75,24 @@ Run also saw our Alumni participating in the run. 3 cheers to our runners!</p>
 </tbody>
 </table>
 <p><strong><u>C</u>ollaborate</strong>:</p>
-<p>Objective: Identify platforms for alumni contribution to school's Vision
-and Mission.&nbsp;</p>
+<p>Objective: Harness the knowledge and expertise of alumni to create a collaborative
+partnership that drives the school's Vision and Mission.</p>
 <p>Areas of collaboration:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><em>Level Camps</em>
+<p><em>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly Sharing</em>
 </p>
-</li>
-<li>
-<p><em>CCAs</em>
+<p><em>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduation Day (Special Invited Guests)</em>
 </p>
-</li>
-<li>
-<p><em>Assembly Sharing</em>
+<p><em>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VIA/ LJs</em>
 </p>
-</li>
-<li>
-<p><em>VIA/ LJs (networking and resources)</em>
+<p><em>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community projects&nbsp;</em>
 </p>
-</li>
-</ol>
-<p>5. <em>Community projects (networking and resources)</em>
+<p><em>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECG Career talks/ Work Attachment programme</em>
+</p>
+<p><em>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCE Commemorative events like RHD</em>
+</p>
+<p><em>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IP Support Programme</em>
+</p>
+<p><em>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NBSS Open House (NBSS Heritage ambassadors)</em>
 </p>
 <p></p>
 <table style="minWidth: 25px">
@@ -128,7 +129,23 @@ and Mission.&nbsp;</p>
 </tbody>
 </table>
 <p><strong><u>C</u>onnect</strong>:</p>
-<p>Objective: Foster networking and reunion opportunities.</p>
+<p>Objective: Nurture relationships among alumni and with the school by fostering
+opportunities for networking and reunions.&nbsp;</p>
+<p>Key Events</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>Annual Alumni Connect sessions</em>
+</p>
+</li>
+<li>
+<p><em>Navalites’ Homecoming</em>
+</p>
+</li>
+<li>
+<p><em>Milestone Anniversary celebration&nbsp; (e.g. 70<sup>th</sup> anniversary)</em>
+</p>
+</li>
+</ol>
 <p><strong>Alumni Connect Event</strong>
 </p>
 <p>Every year, we organise a reunion event for our alumni and last year,
