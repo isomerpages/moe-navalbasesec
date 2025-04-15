@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - An Overview.md
+      - Overview.md
       - "Applied Learning (ALP): Art/.keep"
       - "Applied Learning (ALP): Art/Experience: Nurturing & Vibrant (ALP).md"
       - "Applied Learning (ALP): Art/NBSS Aesthetics Development Framework.md"
