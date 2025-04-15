@@ -1,5 +1,5 @@
 ---
-title: An Overview
+title: Overview
 permalink: /an-overview/
 variant: tiptap
 description: ""
