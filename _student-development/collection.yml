@@ -2,6 +2,8 @@ collections:
   student-development:
     output: true
     order:
+      - "Other Key Programmes/Learn for Life (LLP): Character Education through
+        Sports.md"
       - Other Key Programmes/.keep
       - An Overview.md
       - Character & Citizenship Edu/.keep
