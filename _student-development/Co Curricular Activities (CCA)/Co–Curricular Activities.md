@@ -105,10 +105,7 @@ and competencies that will prepare them for a rapidly changing world. n.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Infocomm Club</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104765__1_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/nbss-curriculum/co-curricular-activities/clubs-and-societies/infocomm-club/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA104765__1_.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Art Club</strong>
