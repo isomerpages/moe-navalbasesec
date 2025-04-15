@@ -40,9 +40,9 @@ Performance, SYF 2023 (Accomplishment)</p>
 pursue excellence in everything I do within choir.” -Chloe Tan Yi Jing
 (4-6, 2025)</p>
 <p></p>
-<p>“Choir has helped me developed a more disciplined attitude in my CCA,
-and this keeps me going when I study or do my schoolwork.” – Venus Chen
-(3 Garrison, 2025)</p>
+<p>“Choir has helped me develop a more disciplined attitude in my CCA, and
+this keeps me going when I study or do my schoolwork.” – Venus Chen (3
+Garrison, 2025)</p>
 </blockquote>
 <h4>Teachers and Coaches</h4>
 <p>Ms Grace Yang Hui Wong [I/C]</p>
