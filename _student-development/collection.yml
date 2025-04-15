@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Other Key Programmes/International Experience Programme (IEP).md
       - Other Key Programmes/Eco Stewardship.md
       - Other Key Programmes/Camp Voyage.md
       - "Other Key Programmes/Learn for Life (LLP): Character Education through
