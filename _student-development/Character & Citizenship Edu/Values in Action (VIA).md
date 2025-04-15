@@ -1,5 +1,5 @@
 ---
-title: VIA Programme
+title: Values in Action (VIA)
 permalink: /student-development/character-and-citizenship-education/via-programme/
 description: ""
 third_nav_title: Character & Citizenship Edu

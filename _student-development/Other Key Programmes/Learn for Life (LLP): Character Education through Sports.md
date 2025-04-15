@@ -3,6 +3,7 @@ title: "Learn for Life (LLP): Character Education through Sports"
 permalink: /nbss-curriculum/llp-character-education-through-sports/
 description: ""
 variant: tiptap
+third_nav_title: Other Key Programmes
 ---
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWw0HDRwxBtp_jARbuv5_HVHM-Ekmp_jQUfD4FTQCywU-IL3247xtyMbOPD5AITNV4BYkGdCE3DuXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

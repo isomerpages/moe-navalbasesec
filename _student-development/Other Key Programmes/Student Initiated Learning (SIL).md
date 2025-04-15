@@ -3,6 +3,7 @@ title: Student Initiated Learning (SIL)
 permalink: /student-initiated-learning-sil/
 variant: tiptap
 description: ""
+third_nav_title: Other Key Programmes
 ---
 <h4>What is SIL?</h4>
 <p>The Student-Initiated Learning (SIL) provides Navalites with the opportunity

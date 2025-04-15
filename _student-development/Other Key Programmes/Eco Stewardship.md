@@ -3,6 +3,7 @@ title: Eco Stewardship
 permalink: /student-development/eco-stewardship/
 description: ""
 variant: tiptap
+third_nav_title: Other Key Programmes
 ---
 <h3>Our National Imperative: Eco-Stewardship</h3>
 <p>The Singapore Green Plan (SGP) 2030 is the national strategy aimed at

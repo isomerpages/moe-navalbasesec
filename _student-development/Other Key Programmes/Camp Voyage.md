@@ -3,6 +3,7 @@ title: Camp Voyage
 permalink: /camp-voyage/
 variant: tiptap
 description: ""
+third_nav_title: Other Key Programmes
 ---
 <h3><strong>Camp Voyage</strong><br></h3>
 <p>Camp Voyage @ Naval Base Secondary School is a signature programme that
