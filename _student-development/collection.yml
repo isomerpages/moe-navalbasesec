@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - An Overview.md
-      - International Experience Programme (IEP).md
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
@@ -11,13 +10,6 @@ collections:
       - Character & Citizenship Edu/Cyber Wellness.md
       - Character & Citizenship Edu/VIA Programme.md
       - Character & Citizenship Edu/Sexuality Education Programme.md
-      - Student Leadership/.keep
-      - Student Leadership/Student Leadership.md
-      - Student Leadership/Student Leadership Opportunities.md
-      - Student Leadership/Student Leadership Training & Development.md
-      - Student Well Being/.keep
-      - Student Well Being/Student Well Being.md
-      - Student Well Being/Guidance.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - "Co Curricular Activities (CCA)/Sports: Basketball.md"
@@ -37,6 +29,14 @@ collections:
         (SJB).md"
       - "Co Curricular Activities (CCA)/Clubs & Societies: Art Club.md"
       - "Co Curricular Activities (CCA)/Clubs & Societies: InfoComm Club.md"
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Student Leadership Opportunities.md
+      - Student Leadership/Student Leadership Training & Development.md
+      - Student Well Being/.keep
+      - Student Well Being/Student Well Being.md
+      - Student Well Being/Guidance.md
+      - International Experience Programme (IEP).md
       - Values in Action (VIA)/.keep
       - Values in Action (VIA)/VIA Programme.md
       - Values in Action (VIA)/Student VIA.md
