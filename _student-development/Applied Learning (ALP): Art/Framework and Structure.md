@@ -5,51 +5,114 @@ description: ""
 third_nav_title: "Applied Learning (ALP): Art"
 variant: tiptap
 ---
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEWzkIdmjy3KpCmMFpn29mt5ddrBcHEJ2S43hX6It8H8gHm1O2yyjkcZqeDjTgbQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p></p>
+<h4>ALP in Art Framework</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_ALP_framework.png">
 </div>
-<p><strong>ALP</strong>
+<p>Through the ALP, we aim to develop students to become:</p>
+<p><strong>Ardent Advocates</strong>&nbsp;</p>
+<p>Students who:</p>
+<ul>
+<li>
+<p>Appreciate art's significance in our social, cultural, and everyday lives</p>
+</li>
+<li>
+<p>Understand the real possibilities that art offers in education and careers</p>
+</li>
+<li>
+<p>Develop genuine passion to pursue art in their future endeavors</p>
+</li>
+</ul>
+<p><strong>Confident Communicators</strong>&nbsp;</p>
+<p>Students who:</p>
+<ul>
+<li>
+<p>Discuss and present artworks with understanding and appropriate vocabulary</p>
+</li>
+<li>
+<p>Express themselves meaningfully through artistic creation</p>
+</li>
+<li>
+<p>Communicate their ideas and intentions effectively through their art practice</p>
+</li>
+</ul>
+<p><strong>Skilled Practitioners</strong>&nbsp;</p>
+<p>Students who:</p>
+<ul>
+<li>
+<p>Develop baseline skills and knowledge in different art forms</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Achieve excellence in their chosen artistic disciplines</p>
+</li>
+</ul>
+<p><strong>Empowered Thinkers</strong>&nbsp;</p>
+<p>Students who:</p>
+<ul>
+<li>
+<p>Take ownership of their creative journey</p>
+</li>
+<li>
+<p>Apply their artistic skills to influence and inspire others</p>
+</li>
+<li>
+<p>Make meaningful contributions through their artistic practice</p>
+</li>
+</ul>
+<h4>Programme Structure</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_in_Art.jpg">
+</div>
+<p><strong>Pervasive Track (Embrace)</strong>
 </p>
-<table style="minWidth: 75px">
+<p>This foundational track is designed for all students, using inquiry-based
+learning to nurture essential art knowledge and skills while developing
+creative thinking and problem-solving abilities. Students learn to appreciate
+art and culture while applying artistic habits of mind to other subjects
+and daily life. Through school-wide art activities and exhibitions, they
+gain confidence in artistic expression and develop a broader understanding
+of art's role in society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_07_16_at_10_21_54_PM.jpg">
+</div>
+<p></p>
+<p><strong>Specialist Track&nbsp; (Engage &amp; Excel)</strong>
+</p>
+<p>This advanced track is tailored for students who show keen interest and
+talent in art. Through deep engagement in the creative process, mentorship
+opportunities with professional artists, and advanced studio practice,
+students engage in deeper artistic inquiry. This inquiry-based approach
+helps them build strong portfolios and gain valuable industry exposure.
+They participate in external exhibitions and competitions, preparing them
+for further art education and potential careers in creative fields.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g595XP8c4QE"></iframe>
-</div>
-<p>
-<br>
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N39b4HrG_RQ"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_20_at_9_38_08_AM__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Qm-hEMjFoZ8"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_07_27_at_8_31_47_AM.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <p></p>
-<p>The NBSS ALP in Art is rooted in the belief of the transformative power
-of art and its ability to expand students’ perceptions of the world around
-them and potential for self-discovery and expression. As students make
-art, they do more than just create, but also engage in a range of complex
-reasoning processes, such as comparing, organising, making decisions, investigating,
-questioning and problem-solving. Through studying and engaging in art,
-they come to understand that it connects many creative and mainstream industries
-whose products permeate our everyday lives and contribute to the development
-of a vibrant Singapore culture. As students make connections between what
-they learn and what they experience in the real world, they learn to see
-the relevance of art to their own lives and better appreciate its significance
-in the social, cultural and economic fabric of contemporary society.</p>
