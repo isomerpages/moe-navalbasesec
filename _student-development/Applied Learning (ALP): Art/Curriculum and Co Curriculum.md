@@ -152,9 +152,16 @@ staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMG_8049.jpg">
 </div>
+<h4><br><strong>Art in our Community</strong></h4>
+<p>At NBSS, we believe that art has the power to transform communities and
+inspire positive change. Our Art Learning Programme empowers students to
+use their creative voices to address social issues and enhance public spaces,
+making art accessible and meaningful to everyone.</p>
+<p>Click <a href="/community/" rel="noopener nofollow" target="_blank">here</a> to
+find out more about how we have been reaching out to our community through
+art!</p>
 <p>
-<br>.</p>
-<p>
+<br>
 <br>
 <br>
 </p>
