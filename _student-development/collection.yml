@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
-      - "Applied Learning (ALP): Art/Overseas Arts Study Trip.md"
       - "Applied Learning (ALP): Art/.keep"
       - "Applied Learning (ALP): Art/Overview and Approaches.md"
       - "Applied Learning (ALP): Art/Framework and Structure.md"
       - "Applied Learning (ALP): Art/Curriculum and Co Curriculum.md"
+      - "Applied Learning (ALP): Art/Overseas Arts Study Trip.md"
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
