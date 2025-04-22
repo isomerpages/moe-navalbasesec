@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - "Applied Learning (ALP): Art/Overseas Arts Study Trip.md"
       - "Applied Learning (ALP): Art/.keep"
       - "Applied Learning (ALP): Art/Overview and Approaches.md"
       - "Applied Learning (ALP): Art/Framework and Structure.md"
