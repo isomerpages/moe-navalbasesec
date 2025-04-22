@@ -18,26 +18,25 @@ of arts in different cultural contexts, enriching their artistic journey.</p>
 <h4>Arts Study Trip to Bangkok</h4>
 <p>In 2023 and 2024, our Navalites went to Thailand for an immersive and
 cross-cultural arts experience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0450.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0447.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1044__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0447.jpg">
-</div>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,12 +61,13 @@ cross-cultural arts experience.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0450.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1044__1_.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Click </strong><a href="/international-experience-programme-iep/" rel="noopener nofollow" target="_blank">here</a><strong> to find more about our International Experience Programme!</strong>
 <br>
 </p>
