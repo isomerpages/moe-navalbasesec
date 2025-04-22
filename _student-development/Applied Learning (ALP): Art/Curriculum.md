@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "Applied Learning (ALP): Art"
 variant: tiptap
 ---
-<h4>The Curriculum</h4>
+<h4><strong>The Curriculum</strong></h4>
 <p><strong>Our Applied Learning Programme in Art offers comprehensive art education throughout students' 4 to 5 years in NBSS. The curriculum spans four broad art disciplines:</strong>
 </p>
 <ul>
@@ -39,7 +39,7 @@ programme that provides an enriched learning environment for Secondary
 <p>(Click <a href="/art/" rel="noopener nofollow" target="_blank">here</a> to
 find out more)</p>
 <p></p>
-<h4>The Co-curriculum</h4>
+<h4><strong>The Co-curriculum</strong></h4>
 <p>The art co-curriculum enriches students' learning through dedicated Co-Curricular
 Activities (CCA), enrichment programmes, and talent development opportunities.</p>
 <p>Through this structured approach, students experience a wide range of
