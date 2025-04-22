@@ -88,62 +88,7 @@ traditions.</p>
 <p>Our passionate team of art educators is dedicated to nurturing the next
 generation of art leaders and practitioners.</p>
 <p></p>
-<h4>NBSS Art in ALP Framework</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_ALP_framework.png">
-</div>
-<p>Through the ALP, we aim to develop students to become:</p>
-<p><strong>Ardent Advocates</strong>&nbsp;</p>
-<p>Students who:</p>
-<ul>
-<li>
-<p>Appreciate art's significance in our social, cultural, and everyday lives</p>
-</li>
-<li>
-<p>Understand the real possibilities that art offers in education and careers</p>
-</li>
-<li>
-<p>Develop genuine passion to pursue art in their future endeavors</p>
-</li>
-</ul>
-<p><strong>Confident Communicators</strong>&nbsp;</p>
-<p>Students who:</p>
-<ul>
-<li>
-<p>Discuss and present artworks with understanding and appropriate vocabulary</p>
-</li>
-<li>
-<p>Express themselves meaningfully through artistic creation</p>
-</li>
-<li>
-<p>Communicate their ideas and intentions effectively through their art practice</p>
-</li>
-</ul>
-<p><strong>Skilled Practitioners</strong>&nbsp;</p>
-<p>Students who:</p>
-<ul>
-<li>
-<p>Develop baseline skills and knowledge in different art forms</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Achieve excellence in their chosen artistic disciplines</p>
-</li>
-</ul>
-<p><strong>Empowered Thinkers</strong>&nbsp;</p>
-<p>Students who:</p>
-<ul>
-<li>
-<p>Take ownership of their creative journey</p>
-</li>
-<li>
-<p>Apply their artistic skills to influence and inspire others</p>
-</li>
-<li>
-<p>Make meaningful contributions through their artistic practice</p>
-</li>
-</ul>
+<p></p>
 <p>
 <br>
 </p>
