@@ -3,21 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
+      - "Applied Learning (ALP): Art/Overseas Arts Study Trip.md"
       - "Applied Learning (ALP): Art/.keep"
-      - "Applied Learning (ALP): Art/Experience: Nurturing & Vibrant (ALP).md"
-      - "Applied Learning (ALP): Art/NBSS Aesthetics Development Framework.md"
-      - "Applied Learning (ALP): Art/Applied Learning Programme (ALP) In Art.md"
-      - "Applied Learning (ALP): Art/The Curriculum.md"
-      - "Applied Learning (ALP): Art/Aims.md"
-      - "Applied Learning (ALP): Art/Structure.md"
-      - "Applied Learning (ALP): Art/Content.md"
-      - "Applied Learning (ALP): Art/National Art Exam Syllabuses.md"
-      - "Applied Learning (ALP): Art/Co–Curricular Programme.md"
-      - "Applied Learning (ALP): Art/Enhanced Art Programme.md"
-      - "Applied Learning (ALP): Art/NBSS Art Exhibition.md"
-      - "Applied Learning (ALP): Art/Overseas Art Study Trip.md"
-      - "Applied Learning (ALP): Art/Art related Courses in Post Secondary
-        Education.md"
+      - "Applied Learning (ALP): Art/Overview and Approaches.md"
+      - "Applied Learning (ALP): Art/Framework and Structure.md"
+      - "Applied Learning (ALP): Art/Curriculum and Co Curriculum.md"
       - Character & Citizenship Edu/.keep
       - Character & Citizenship Edu/Character and Citizenship Education.md
       - Character & Citizenship Edu/Education and Career Guidance (ECG).md
