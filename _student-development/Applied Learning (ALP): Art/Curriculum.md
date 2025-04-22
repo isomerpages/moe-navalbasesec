@@ -78,16 +78,73 @@ of art.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Exposure_to_various_Art_forms__Art_Enrichment_prog.jpg">
 </div>
-<p><strong>Art Events</strong>
+<p></p>
+<h4><strong>Art Events</strong></h4>
+<p><strong>Celebrating Creative perspectives: Our Annual Art Exhibition</strong>
 </p>
 <p>Our school's art culture is highlighted through various events throughout
 the year, with the Annual Art Exhibition being our key showcase. This exhibition
 celebrates student artworks and achievements from across all levels.</p>
-<p>Throughout the year, we also organize Staff Art Appreciation sessions
-and Art assembly sharing. These regular events create opportunities for
-our school community to engage with art, building a vibrant environment
-for both students and staff.</p>
+<p>The annual NBSS Art Exhibition was first held in 2002 to celebrate and
+showcase our Navalites' talents in the visual arts to the larger school
+community and the public. Every year, the exhibition features over 120
+artworks created by past and current Navalites. These comprise artworks
+by our EAP art students, members of the Art Talent Development Programme
+(ATDP) and Art Club, as well as artworks created over the course of Art
+lessons by Secondary 1 to 5 students.&nbsp;</p>
+<p>The exhibition was wholly curated by our own Navalites. It is an application
+of the learning acquired from the Learn to Curate Programme, which the
+school developed in partnership with the National Gallery Singapore in
+2016.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_106_DSC08198.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_080_DSC08116.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_092_TMG_1192.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSS_095_TMG_1196.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Check out more photos on our NBSS Art Instagram page at <a href="https://www.instagram.com/nbssae/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/nbssae/</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NBSSAE.jpg">
+</div>
+<p></p>
+<p><strong>Staff Arts Appreciation Day</strong>
+</p>
+<p>Annually, we also organize Staff Art Appreciation sessions and Art assembly
+sharings. These regular events create opportunities for our school community
+to engage with art, building a vibrant environment for both students and
+staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMG_8097.jpg">
 </div>
@@ -95,6 +152,8 @@ for both students and staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMG_8049.jpg">
 </div>
+<p>
+<br>.</p>
 <p>
 <br>
 <br>
