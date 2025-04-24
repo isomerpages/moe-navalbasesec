@@ -2,7 +2,7 @@
 title: Overview and Approaches
 permalink: /nbss-curriculum/applied-learning-programme-alp-in-art/experience-nurturing-n-vibrant/
 description: ""
-third_nav_title: "Applied Learning (ALP): Art"
+third_nav_title: ALP in Art
 variant: tiptap
 ---
 <h3><strong>Applied Learning Programme in Art: Nurturing Creative Minds</strong></h3>

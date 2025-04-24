@@ -3,7 +3,7 @@ title: Overseas Arts Study Trip
 permalink: /overseas-arts-study-trip/
 variant: tiptap
 description: ""
-third_nav_title: "Applied Learning (ALP): Art"
+third_nav_title: ALP in Art
 ---
 <h4>Overview</h4>
 <p>Since 2003, our school has been organising annual overseas study trips

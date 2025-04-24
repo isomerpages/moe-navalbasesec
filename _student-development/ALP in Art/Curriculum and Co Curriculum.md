@@ -2,7 +2,7 @@
 title: Curriculum and Co Curriculum
 permalink: /nbss-curriculum/applied-learning-programme-alp-in-art/the-curriculum/aims/
 description: ""
-third_nav_title: "Applied Learning (ALP): Art"
+third_nav_title: ALP in Art
 variant: tiptap
 ---
 <h4><strong>The Curriculum</strong></h4>

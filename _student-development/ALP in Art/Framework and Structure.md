@@ -2,7 +2,7 @@
 title: Framework and Structure
 permalink: /nbss-curriculum/applied-learning-programme-alp-in-art/
 description: ""
-third_nav_title: "Applied Learning (ALP): Art"
+third_nav_title: ALP in Art
 variant: tiptap
 ---
 <p></p>
