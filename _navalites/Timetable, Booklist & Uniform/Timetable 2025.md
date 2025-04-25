@@ -6,7 +6,7 @@ third_nav_title: Timetable, Booklist & Uniform
 variant: tiptap
 ---
 <p></p>
-<p><strong><u>2025  Term 2</u></strong>
+<p><strong><u>2025 Term 2</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 T1 TT/T2 tt/SEC_3_TT.pdf" rel="noopener nofollow" target="_blank">SEC 3 TT</a>
+<p><a href="/files/2025 T1 TT/T2 tt/Sec_3_T2W6.pdf" rel="noopener nofollow" target="_blank">Sec_ 3_ TT_ W6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
