@@ -11,8 +11,8 @@ variant: tiptap
 </div>
 <p>In addition to meeting the general academic promotion standards and modelling
 positive conduct and behaviour, students admitted to the school via the
-DSA-Sec Exercise are expected to:</p>
-<p>·&nbsp;Commit to their CCA for the entire duration of their secondary
+DSA-Sec Exercise are expected to:
+<br>·&nbsp;Commit to their CCA for the entire duration of their secondary
 school life
 <br>·&nbsp;Participate actively in talent development programmes planned for
 them
