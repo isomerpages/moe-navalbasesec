@@ -21,6 +21,7 @@ of school-wide programmes related to their talent area
 <br>·&nbsp;Act as ambassadors for the school during school events; and
 <br>·&nbsp;Represent the school in competitions and/or&nbsp;projects related
 to their talent area.
+<br>
 <br>For Art, DSA students are also encouraged to offer Art at upper secondary
 level so that they may continue to pursue it as an educational and career
 pathway in the future.</p>
