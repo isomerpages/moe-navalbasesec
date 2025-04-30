@@ -38,7 +38,8 @@ VIA projects, etc. relevant to applicant’s talent area
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Visual Art</p>
+<p><strong>Visual Art</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and an aptitude test at
