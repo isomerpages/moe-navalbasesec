@@ -14,9 +14,11 @@ will develop their leadership skills through the application of the five
 practices of exemplary leadership—modelling the way, inspiring a shared
 vision, challenging the process, enabling others to act, and encouraging
 the heart—while actively participating in their CCAs and student development
-initiatives.</p>
+initiatives.
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/y1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/Picture3.png">
 </div>
 <p><strong>Click here to view our “<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">DSA@NBSS</a>” video!</strong>
 </p>
