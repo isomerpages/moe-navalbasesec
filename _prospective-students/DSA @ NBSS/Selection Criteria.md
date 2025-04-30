@@ -45,7 +45,8 @@ VIA projects, etc. relevant to applicant’s talent area
 Naval Base Secondary School.</p>
 <p>During the aptitude test, applicants will create an artwork that best
 showcases their talents and abilities using their preferred medium</p>
-<p><strong>Applicants are required to submit a link to their online art portfolio via this Google Form: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/nbssartdsa</a>.</strong>
+<p><strong>Applicants are required to submit a link to their online art portfolio via this Google Form: </strong>
+<a href="https://tinyurl.com/nbssartdsa" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p>The portfolio can be created using platforms such as <strong>Google Drive, Google Docs/Slides, or Canva</strong>.
 It should include <strong>no more than 5 pieces of work</strong> in any art
