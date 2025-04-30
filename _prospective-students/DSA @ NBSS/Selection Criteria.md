@@ -141,8 +141,8 @@ as well as their:</p>
 the aptitude test, applicants are required to bring their own table-tennis
 paddle and will be asked to:</p>
 <p>·&nbsp;Participate in one or more games of table-tennis.</p>
-<p>·&nbsp;Perform other physical exercises related to table-tennis.&nbsp;</p>
-<p>Applicants will be evaluated on their performance during the interview
+<p>·&nbsp;Perform other physical exercises related to table-tennis.
+<br>Applicants will be evaluated on their performance during the interview
 as well as:
 <br>·&nbsp;General proficiency in table-tennis
 <br>·&nbsp;Fitness and agility</p>
