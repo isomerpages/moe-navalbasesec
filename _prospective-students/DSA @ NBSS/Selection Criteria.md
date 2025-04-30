@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <p><strong>The generic criteria for selection are as follows:</strong>
-</p>
-<p>•Interest and passion
+<br>•Interest and passion
 <br>Applicants should demonstrate a keen interest in and passion for their
 respective talent areas. A clear and genuine aspiration in a field related
 to their talent area is an advantage.
