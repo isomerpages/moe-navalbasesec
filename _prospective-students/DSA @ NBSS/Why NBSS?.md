@@ -22,7 +22,8 @@ initiatives.
 </div>
 <p><strong>Click here to view our “<a href="https://www.youtube.com/watch?v=dz-6f1xY22E&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">DSA@NBSS</a>” video!</strong>
 </p>
-<p>The detailed benefits for the respective talent areas are given below:</p>
+<p><strong>The detailed benefits for the respective talent areas are given below:</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
