@@ -17,10 +17,11 @@ to their talent area is an advantage.
 talent area.
 <br>•Conduct and attitude for learning
 <br>Applicants should demonstrate a positive attitude for learning and demeanour.
-Applicants should be able to demonstrate evidence of good conduct in school.
+Applicants should be able to demonstrate evidence of good conduct in school.</p>
+<p>
 <br>Over the course of the exercise, the following will be taken into consideration
-in the evaluation of the DSA applications:</p>
-<p>•Evidence of participation and/or achievement in competitions, exhibitions,
+in the evaluation of the DSA applications:
+<br>•Evidence of participation and/or achievement in competitions, exhibitions,
 VIA projects, etc. relevant to applicant’s talent area
 <br>•Evidence of learning attitude and/or disposition
 <br>•Letters of recommendation / references (if any)
