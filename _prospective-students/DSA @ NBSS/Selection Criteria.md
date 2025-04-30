@@ -105,8 +105,8 @@ longer than 2 minutes.</p>
 <p>Applicants are required to be in appropriate dance attire and footwear
 during the audition. Long bottoms, e.g. tights or track pants, are recommended.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
-as well as their:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Movement
+as well as their:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Movement
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Balance and form
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence and poise</p>
 </td>
