@@ -120,8 +120,7 @@ independence</p>
 <p>·&nbsp;Singapore Youth Festival Arts Presentations</p>
 <p>·&nbsp;Performances within and outside of school</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master classes and workshops</p>
-<p>·&nbsp;Training to become student choreographer</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Training to become student choreographer&nbsp;</p>
 <p>Outstanding dancers will be positioned for emplacement in MOE SP CCA-
 Strategic Partnership Co-Curricular Activity (Ethnic Dance)</p>
 </td>
