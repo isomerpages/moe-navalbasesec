@@ -51,8 +51,8 @@ showcases their talents and abilities using their preferred medium</p>
 <p>The portfolio can be created using platforms such as <strong>Google Drive, Google Docs/Slides, or Canva</strong>.
 It should include <strong>no more than 5 pieces of work</strong> in any art
 form, comprising artworks or visual journals completed either during personal
-time or in school&nbsp;</p>
-<p>Applicants will be evaluated based on their portfolio and their performance
+time or in school&nbsp;
+<br>Applicants will be evaluated based on their portfolio and their performance
 during the interview, including how confidently and clearly, they are able
 to share and communicate their ideas.</p>
 </td>
