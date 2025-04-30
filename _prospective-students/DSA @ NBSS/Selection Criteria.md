@@ -27,8 +27,7 @@ VIA projects, etc. relevant to applicant’s talent area
 <br>•Interview performance
 <br>•Aptitude test / audition performance
 <br>•For Art, portfolio of artworks</p>
-<p>The detailed requirements and criteria for the respective areas of talent
-are given below:
+<p><strong>The detailed requirements and criteria for the respective areas of talent are given below:</strong> 
 <br>
 </p>
 <table style="minWidth: 50px">
