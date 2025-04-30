@@ -10,7 +10,7 @@ variant: tiptap
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May to 3 June 2025</strong>.
 For more details, please refer to MOE website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a>.
-<br>&nbsp;</p>
+&nbsp;</p>
 <p><strong><u>Accessing the DSA Portal</u></strong>
 </p>
 <p>a)&nbsp;Applicants from MOE mainstream primary schools: Parent may log
@@ -25,8 +25,7 @@ please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-applicati
 <p><strong><u>Choices</u></strong>
 </p>
 <p>Students can indicate up to three choices (maximum of two choices for
-the same school under two different talent areas).</p>
-<p>&nbsp;</p>
+the same school under two different talent areas).&nbsp;</p>
 <p><strong><u>Information to provide</u></strong>
 </p>
 <p>a)&nbsp;Valid email address and local mobile number.</p>
