@@ -50,8 +50,7 @@ showcases their talents and abilities using their preferred medium</p>
 <p>The portfolio can be created using platforms such as <strong>Google Drive, Google Docs/Slides, or Canva</strong>.
 It should include <strong>no more than 5 pieces of work</strong> in any art
 form, comprising artworks or visual journals completed either during personal
-time or in school</p>
-<p>&nbsp;</p>
+time or in school&nbsp;</p>
 <p>Applicants will be evaluated based on their portfolio and their performance
 during the interview, including how confidently and clearly, they are able
 to share and communicate their ideas.</p>
@@ -64,8 +63,7 @@ to share and communicate their ideas.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend a group interview which includes a collaborative
-task.</p>
-<p>&nbsp;</p>
+task.&nbsp;</p>
 <p>Applicants will be evaluated on their individual performance during the
 interview, their participation in the group task to assess leadership dispositions,
 as well as evidence of leadership capabilities through their supporting
@@ -82,8 +80,7 @@ documents</p>
 audition, applicants will be asked to:</p>
 <p>· Sing a chosen song in any vocal genre (e.g. choral, pop, etc.). The
 duration of the performance should be no more than 2 minutes.</p>
-<p>·&nbsp;Solfege singing – singing along to melodies played on the piano.</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Solfege singing – singing along to melodies played on the piano.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
 as well as their:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vocal range</p>
@@ -101,11 +98,9 @@ audition, applicants will be asked to:</p>
 <p>·&nbsp;Perform a solo dance routine in any dance genre (e.g. contemporary,
 hip hop, classical, etc.). The duration of the performance should be no
 longer than 2 minutes.</p>
-<p>·&nbsp;Follow a choreographer through a short dance piece.</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Follow a choreographer through a short dance piece.&nbsp;</p>
 <p>Applicants are required to be in appropriate dance attire and footwear
-during the audition. Long bottoms, e.g. tights or track pants, are recommended.</p>
-<p>&nbsp;</p>
+during the audition. Long bottoms, e.g. tights or track pants, are recommended.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
 as well as their:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Movement</p>
@@ -125,8 +120,7 @@ to:</p>
 <p>·&nbsp;Play at least 1 major scale on their instrument.</p>
 <p>·&nbsp;Perform a piece of their choice. The duration of the performance
 should be between 2 and 3 minutes.</p>
-<p>·&nbsp;Sight-read a given piece.</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Sight-read a given piece.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
 as well as their:</p>
 <p>·&nbsp;Proficiency in the chosen instrument</p>
@@ -141,8 +135,7 @@ as well as their:</p>
 the aptitude test, applicants are required to bring their own table-tennis
 paddle and will be asked to:</p>
 <p>·&nbsp;Participate in one or more games of table-tennis.</p>
-<p>·&nbsp;Perform other physical exercises related to table-tennis.</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Perform other physical exercises related to table-tennis.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
 as well as:</p>
 <p>·&nbsp;General proficiency in table-tennis</p>
