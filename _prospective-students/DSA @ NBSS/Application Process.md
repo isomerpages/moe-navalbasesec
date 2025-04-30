@@ -24,8 +24,8 @@ please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-applicati
 </p>
 <p><strong><u>Choices</u></strong>
 <br>Students can indicate up to three choices (maximum of two choices for
-the same school under two different talent areas).&nbsp;</p>
-<p><strong><u>Information to provide</u></strong>
+the same school under two different talent areas).&nbsp;
+<br><strong><u>Information to provide</u></strong>
 <br>a)&nbsp;Valid email address and local mobile number.
 <br>Supporting documents (for Art applicants only): <strong>Applicants are required to submit a link to their online art portfolio via this Google Form: </strong>
 <a href="https://tinyurl.com/nbssartdsa" rel="noopener nofollow" target="_blank">Here</a>
