@@ -126,8 +126,8 @@ to:</p>
 should be between 2 and 3 minutes.</p>
 <p>·&nbsp;Sight-read a given piece.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
-as well as their:</p>
-<p>·&nbsp;Proficiency in the chosen instrument</p>
+as well as their:
+<br>·&nbsp;Proficiency in the chosen instrument</p>
 </td>
 </tr>
 <tr>
