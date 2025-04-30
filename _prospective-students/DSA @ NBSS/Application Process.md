@@ -23,12 +23,10 @@ before they can apply through the DSA-Sec Portal. For more information,
 please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <p><strong><u>Choices</u></strong>
-</p>
-<p>Students can indicate up to three choices (maximum of two choices for
+<br>Students can indicate up to three choices (maximum of two choices for
 the same school under two different talent areas).&nbsp;</p>
 <p><strong><u>Information to provide</u></strong>
-</p>
-<p>a)&nbsp;Valid email address and local mobile number.</p>
+<br>a)&nbsp;Valid email address and local mobile number.</p>
 <p>Supporting documents (for Art applicants only): <strong>Applicants are required to submit a link to their online art portfolio via this Google Form: </strong>
 <a href="https://tinyurl.com/nbssartdsa" rel="noopener nofollow" target="_blank">Here</a>
 </p>
