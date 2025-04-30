@@ -20,11 +20,11 @@ Applicants should be able to demonstrate evidence of good conduct in school.</p>
 <p>Over the course of the exercise, the following will be taken into consideration
 in the evaluation of the DSA applications:</p>
 <p>•Evidence of participation and/or achievement in competitions, exhibitions,
-VIA projects, etc. relevant to applicant’s talent area</p>
-<p>•Evidence of learning attitude and/or disposition</p>
-<p>•Letters of recommendation / references (if any)</p>
-<p>•Interview performance</p>
-<p>•Aptitude test / audition performance</p>
+VIA projects, etc. relevant to applicant’s talent area
+<br>•Evidence of learning attitude and/or disposition
+<br>•Letters of recommendation / references (if any)
+<br>•Interview performance
+<br>•Aptitude test / audition performance</p>
 <p>•For Art, portfolio of artworks</p>
 <p></p>
 <p></p>
