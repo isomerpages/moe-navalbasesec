@@ -6,7 +6,8 @@ third_nav_title: DSA @ NBSS
 variant: tiptap
 ---
 <p></p>
-<p>The generic criteria for selection are as follows:</p>
+<p><strong>The generic criteria for selection are as follows:</strong>
+</p>
 <p>•Interest and passion
 <br>Applicants should demonstrate a keen interest in and passion for their
 respective talent areas. A clear and genuine aspiration in a field related
