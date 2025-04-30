@@ -68,8 +68,7 @@ task.&nbsp;</p>
 <p>Applicants will be evaluated on their individual performance during the
 interview, their participation in the group task to assess leadership dispositions,
 as well as evidence of leadership capabilities through their supporting
-documents</p>
-<p>&nbsp;</p>
+documents&nbsp;</p>
 </td>
 </tr>
 <tr>
