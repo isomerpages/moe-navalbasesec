@@ -99,9 +99,8 @@ independence</p>
 <p>·&nbsp;Training to become student conductor</p>
 <p>·&nbsp;Preparation for Grade 2-3 (Theory) and Grade 5 (Voice) accreditation
 from the Associated Board of the Royal Schools of Music (ABRSM)</p>
-<p>&nbsp;</p>
-<p>Upon graduation, outstanding vocalists will be given opportunities to
-be a part of the Singapore Symphony Youth Choir.</p>
+<p>&nbsp;Upon graduation, outstanding vocalists will be given opportunities
+to be a part of the Singapore Symphony Youth Choir.</p>
 </td>
 </tr>
 <tr>
