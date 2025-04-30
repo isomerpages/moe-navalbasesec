@@ -9,8 +9,7 @@ variant: tiptap
 <br><strong>FOR ADMISSION TO SECONDARY 1 IN 2026</strong>
 <br>
 <br><strong>Direct School Admission (DSA) @ NBSS</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why NBSS?
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why NBSS?
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Criteria
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application Process
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expectations of DSA
