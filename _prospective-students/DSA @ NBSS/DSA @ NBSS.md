@@ -15,7 +15,7 @@ variant: tiptap
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expectations of DSA
 Students</p>
 <p></p>
-<p>Direct School Admission (DSA) (Replace image “DSA@NBSS”)
+<p>Direct School Admission (DSA)
 <br>
 </p>
 <div class="isomer-image-wrapper">
