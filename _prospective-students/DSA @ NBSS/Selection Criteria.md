@@ -143,9 +143,9 @@ paddle and will be asked to:</p>
 <p>·&nbsp;Participate in one or more games of table-tennis.</p>
 <p>·&nbsp;Perform other physical exercises related to table-tennis.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
-as well as:</p>
-<p>·&nbsp;General proficiency in table-tennis</p>
-<p>·&nbsp;Fitness and agility</p>
+as well as:
+<br>·&nbsp;General proficiency in table-tennis
+<br>·&nbsp;Fitness and agility</p>
 </td>
 </tr>
 </tbody>
