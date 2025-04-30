@@ -84,10 +84,10 @@ audition, applicants will be asked to:</p>
 duration of the performance should be no more than 2 minutes.</p>
 <p>·&nbsp;Solfege singing – singing along to melodies played on the piano.&nbsp;</p>
 <p>Applicants will be evaluated on their performance during the interview
-as well as their:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vocal range</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Articulation</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pitching</p>
+as well as their:
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vocal range
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Articulation
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pitching</p>
 </td>
 </tr>
 <tr>
