@@ -48,8 +48,7 @@ supporting documents (including portfolio of artworks) to the interview.</p>
 <br>A letter or email notifying the outcome of the application will be sent
 to the applicant&nbsp;by<strong> Friday, 29 August 2025</strong>. The letter
 or email will indicate whether the applicant has been given a Confirmed
-Offer, put on the Waiting List or not accepted.</p>
-<p>
+Offer, put on the Waiting List or not accepted.
 <br>
 </p>
 <p></p>
