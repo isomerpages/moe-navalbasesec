@@ -20,9 +20,8 @@ primary school for assistance.</p>
 <p>&nbsp;b)&nbsp;Other applicants not studying in MOE mainstream primary
 schools: Applicants need to apply for a Registration Number (RGxxxxxxx)
 before they can apply through the DSA-Sec Portal. For more information,
-please visit the MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener nofollow" target="_blank">go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<p></p>
 <p><strong><u>Choices</u></strong>
 </p>
 <p>Students can indicate up to three choices (maximum of two choices for
