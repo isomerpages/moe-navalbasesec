@@ -60,8 +60,10 @@ to share and communicate their ideas.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
-<p>(Uniformed Group)</p>
+<p><strong>Student Leadership</strong>
+</p>
+<p><strong>(Uniformed Group)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend a group interview which includes a collaborative
@@ -74,7 +76,8 @@ documents&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Choir</p>
+<p><strong>Performing Arts – Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and audition. During the
@@ -91,7 +94,8 @@ as well as their:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Dance</p>
+<p><strong>Performing Arts – Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and audition. During the
@@ -111,7 +115,8 @@ as well as their:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Concert Band</p>
+<p><strong>Performing Arts – Concert Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and audition. During the
@@ -129,7 +134,8 @@ as well as their:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports – Table Tennis</p>
+<p><strong>Sports – Table Tennis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and aptitude test. During
