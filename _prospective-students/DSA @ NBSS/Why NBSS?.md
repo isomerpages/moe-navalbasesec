@@ -29,7 +29,8 @@ initiatives.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Visual Art</p>
+<p>&nbsp;<strong>Visual Art</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Be emplaced on the Art Talent Development Programme (ATDP) wing of our
@@ -57,8 +58,10 @@ students with a comprehensive art education have been affirmed through:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Leadership</p>
-<p>(Uniformed Group)</p>
+<p><strong>Student Leadership</strong>
+</p>
+<p><strong>(Uniformed Group)</strong>
+</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +82,8 @@ the school</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Choir</p>
+<p><strong>Performing Arts – Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Be emplaced in our Choir CCA and participate in the following talent development
@@ -103,7 +107,8 @@ be a part of the Singapore Symphony Youth Choir.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Dance (Indian &amp; Modern Dance)</p>
+<p><strong>Performing Arts – Dance (Indian &amp; Modern Dance)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Be emplaced in our Dance CCA and participate in the following talent development
@@ -125,7 +130,8 @@ Strategic Partnership Co-Curricular Activity (Ethnic Dance)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Performing Arts – Concert Band</p>
+<p><strong>Performing Arts – Concert Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Be emplaced in our Symphonic Band CCA and participate in the following
@@ -149,7 +155,8 @@ Board of the Royal Schools of Music (ABRSM)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sports – Table Tennis</p>
+<p><strong>Sports – Table Tennis</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
