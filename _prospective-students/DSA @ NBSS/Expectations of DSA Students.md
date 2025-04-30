@@ -13,16 +13,16 @@ variant: tiptap
 positive conduct and behaviour, students admitted to the school via the
 DSA-Sec Exercise are expected to:</p>
 <p>·&nbsp;Commit to their CCA for the entire duration of their secondary
-school life;</p>
-<p>·&nbsp;Participate actively in talent development programmes planned for
-them;</p>
-<p>·&nbsp;Support the school in the planning, organisation and implementation
-of school-wide programmes related to their talent area;</p>
-<p>·&nbsp;Act as ambassadors for the school during school events; and</p>
-<p>·&nbsp;Represent the school in competitions and/or&nbsp;projects related
-to their talent area.</p>
-<p>&nbsp;For Art, DSA students are also encouraged to offer Art at upper
-secondary level so that they may continue to pursue it as an educational
-and career pathway in the future.</p>
+school life
+<br>·&nbsp;Participate actively in talent development programmes planned for
+them
+<br>·&nbsp;Support the school in the planning, organisation and implementation
+of school-wide programmes related to their talent area
+<br>·&nbsp;Act as ambassadors for the school during school events; and
+<br>·&nbsp;Represent the school in competitions and/or&nbsp;projects related
+to their talent area.
+<br>For Art, DSA students are also encouraged to offer Art at upper secondary
+level so that they may continue to pursue it as an educational and career
+pathway in the future.</p>
 <p><strong>&nbsp;</strong>
 </p>
