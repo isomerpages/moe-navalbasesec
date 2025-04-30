@@ -45,8 +45,8 @@ shared with the school. You do not need to submit this information.&nbsp;</p>
 <p><strong><u>Interview &amp; Aptitude Test / Audition</u></strong>
 </p>
 <p>An appointment will be arranged for the applicant to attend an interview
-and take an aptitude test or audition at the school between <strong>July and August 2025</strong>.</p>
-<p>Applicants are to bring along the actual or certified true copies of the
+and take an aptitude test or audition at the school between <strong>July and August 2025</strong>.
+<br>Applicants are to bring along the actual or certified true copies of the
 supporting documents (including portfolio of artworks) to the interview.</p>
 <p><strong><u>Outcome</u></strong>
 </p>
