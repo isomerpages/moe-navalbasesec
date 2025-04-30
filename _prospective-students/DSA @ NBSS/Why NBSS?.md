@@ -134,25 +134,17 @@ talent development programmes:</p>
 others</p>
 <p>·&nbsp;Performance portfolio development, anchored on greater performative
 independence</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solo-oriented or highlight
-roles to stretch talent</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival
-Arts Presentations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performances within
-and outside of school</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band exchanges with
-other secondary schools</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marching programmes
-for the school and community parade events &nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentoring programmes
-for primary school students</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master classes by renowned
-composer, Mr Keiichi Kurokawa</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training to become concert
-master or student conductor</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preparation for Grade
-2-3 (Theory) accreditation from the Associated Board of the Royal Schools
-of Music (ABRSM)</p>
+<p>· Solo-oriented or highlight roles to stretch talent</p>
+<p>·&nbsp;Singapore Youth Festival Arts Presentations</p>
+<p>·&nbsp;Performances within and outside of school</p>
+<p>·&nbsp;Band exchanges with other secondary schools</p>
+<p>·&nbsp;Marching programmes for the school and community parade events
+&nbsp;</p>
+<p>· Mentoring programmes for primary school students</p>
+<p>·&nbsp;Master classes by renowned composer, Mr Keiichi Kurokawa</p>
+<p>·&nbsp;Training to become concert master or student conductor</p>
+<p>·&nbsp;Preparation for Grade 2-3 (Theory) accreditation from the Associated
+Board of the Royal Schools of Music (ABRSM)</p>
 </td>
 </tr>
 <tr>
@@ -161,16 +153,13 @@ of Music (ABRSM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leadership, including
-mentoring and upskilling of self and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individualised coaching</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National School Games</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; External school competitions
-sponsored by the school</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programmes organised
-by Singapore Table Tennis Association</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planning and organisation
-of intra-school programmes</p>
+<p>·&nbsp;CCA leadership, including mentoring and upskilling of self and
+others</p>
+<p>·&nbsp;Individualised coaching</p>
+<p>·&nbsp;National School Games</p>
+<p>·&nbsp;External school competitions sponsored by the school</p>
+<p>·&nbsp;Programmes organised by Singapore Table Tennis Association</p>
+<p>·&nbsp;Planning and organisation of intra-school programmes</p>
 </td>
 </tr>
 </tbody>
