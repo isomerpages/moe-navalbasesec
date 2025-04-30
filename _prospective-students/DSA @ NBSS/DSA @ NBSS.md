@@ -36,8 +36,21 @@ and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>For more information about Direct School Admission, visit the Ministry
 of Education website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
+<p><strong>Naval Base Secondary School offers DSA in the following areas:</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Visual Art</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Student Leadership</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Performing Arts – Choir</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Performing Arts – Dance (Indian and Modern Dance)</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Performing Arts – Concert Band</strong>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sports – Table Tennis</strong>
+</p>
+<p>Primary 6 students with a keen interest and talent in the above areas
+may apply to be admitted to the school through the DSA-Sec Exercise.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/Picture2.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
