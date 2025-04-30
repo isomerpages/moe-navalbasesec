@@ -71,8 +71,7 @@ in the following talent development programmes:</p>
 <p>·&nbsp;Cadet leadership / Specialist course</p>
 <p>·&nbsp;Opportunities to plan and lead the combined uniformed group programme
 such as combined UG camp and citizenship programme</p>
-<p>·&nbsp;Participate in local and/or overseas camps</p>
-<p>&nbsp;</p>
+<p>·&nbsp;Participate in local and/or overseas camps&nbsp;</p>
 <p>Be prioritised for school-level student leadership appointments and participate
 in the following:</p>
 <p>·&nbsp;Customised student leadership programmes within and outside of
