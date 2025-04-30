@@ -26,8 +26,131 @@ VIA projects, etc. relevant to applicant’s talent area
 <br>•Interview performance
 <br>•Aptitude test / audition performance</p>
 <p>•For Art, portfolio of artworks</p>
-<p></p>
-<p></p>
+<p>The detailed requirements and criteria for the respective areas of talent
+are given below:
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visual Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an interview and an aptitude test at
+Naval Base Secondary School.</p>
+<p>During the aptitude test, applicants will create an artwork that best
+showcases their talents and abilities using their preferred medium</p>
+<p><strong>Applicants are required to submit a link to their online art portfolio via this Google Form: <a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/nbssartdsa</a>.</strong>
+</p>
+<p>The portfolio can be created using platforms such as <strong>Google Drive, Google Docs/Slides, or Canva</strong>.
+It should include <strong>no more than 5 pieces of work</strong> in any art
+form, comprising artworks or visual journals completed either during personal
+time or in school</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated based on their portfolio and their performance
+during the interview, including how confidently and clearly, they are able
+to share and communicate their ideas.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Leadership</p>
+<p>(Uniformed Group)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend a group interview which includes a collaborative
+task.</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated on their individual performance during the
+interview, their participation in the group task to assess leadership dispositions,
+as well as evidence of leadership capabilities through their supporting
+documents</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an interview and audition. During the
+audition, applicants will be asked to:</p>
+<p>· Sing a chosen song in any vocal genre (e.g. choral, pop, etc.). The
+duration of the performance should be no more than 2 minutes.</p>
+<p>·&nbsp;Solfege singing – singing along to melodies played on the piano.</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated on their performance during the interview
+as well as their:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vocal range</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Articulation</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pitching</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an interview and audition. During the
+audition, applicants will be asked to:</p>
+<p>·&nbsp;Perform a solo dance routine in any dance genre (e.g. contemporary,
+hip hop, classical, etc.). The duration of the performance should be no
+longer than 2 minutes.</p>
+<p>·&nbsp;Follow a choreographer through a short dance piece.</p>
+<p>&nbsp;</p>
+<p>Applicants are required to be in appropriate dance attire and footwear
+during the audition. Long bottoms, e.g. tights or track pants, are recommended.</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated on their performance during the interview
+as well as their:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Movement</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Balance and form</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confidence and poise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Performing Arts – Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an interview and audition. During the
+audition, applicants are required to bring their own band instrument (except
+percussion instruments, which will be provided by NBSS) and will be asked
+to:</p>
+<p>·&nbsp;Play at least 1 major scale on their instrument.</p>
+<p>·&nbsp;Perform a piece of their choice. The duration of the performance
+should be between 2 and 3 minutes.</p>
+<p>·&nbsp;Sight-read a given piece.</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated on their performance during the interview
+as well as their:</p>
+<p>·&nbsp;Proficiency in the chosen instrument</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports – Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an interview and aptitude test. During
+the aptitude test, applicants are required to bring their own table-tennis
+paddle and will be asked to:</p>
+<p>·&nbsp;Participate in one or more games of table-tennis.</p>
+<p>·&nbsp;Perform other physical exercises related to table-tennis.</p>
+<p>&nbsp;</p>
+<p>Applicants will be evaluated on their performance during the interview
+as well as:</p>
+<p>·&nbsp;General proficiency in table-tennis</p>
+<p>·&nbsp;Fitness and agility</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
