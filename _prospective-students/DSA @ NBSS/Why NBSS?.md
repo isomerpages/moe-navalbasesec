@@ -32,9 +32,9 @@ initiatives.</p>
 <p>&nbsp;Visual Art</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;Be emplaced on the Art Talent Development Programme (ATDP) wing
-of our Art Club, and go through an Enhanced Art curriculum that stretches
-their talents and grooms them for excellence in art</p>
+<p>· Be emplaced on the Art Talent Development Programme (ATDP) wing of our
+Art Club, and go through an Enhanced Art curriculum that stretches their
+talents and grooms them for excellence in art</p>
 <p>· Have abundant opportunities to create, curate and exhibit their artworks
 in the school and the community</p>
 <p>·&nbsp;Participate in local and/or overseas art competitions and projects
