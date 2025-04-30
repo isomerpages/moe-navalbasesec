@@ -59,8 +59,7 @@ students with a comprehensive art education have been affirmed through:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Student Leadership</strong>
-</p>
-<p><strong>(Uniformed Group)</strong>
+<br><strong>(Uniformed Group)</strong>
 </p>
 <p>&nbsp;</p>
 </td>
