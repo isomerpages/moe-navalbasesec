@@ -84,25 +84,18 @@ the school</p>
 <td rowspan="1" colspan="1">
 <p>Be emplaced in our Choir CCA and participate in the following talent development
 programmes:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leadership, including
-mentoring and upskilling of self and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance portfolio
-development, anchored on greater musical independence</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solo-oriented or highlight
-roles to stretch talent</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival
-Arts Presentations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performances within
-and outside of school</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choral exchanges with
-other secondary schools</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master classes and vocal
-workshops</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training to become student
-conductor</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preparation for Grade
-2-3 (Theory) and Grade 5 (Voice) accreditation from the Associated Board
-of the Royal Schools of Music (ABRSM)</p>
+<p>·&nbsp;CCA leadership, including mentoring and upskilling of self and
+others</p>
+<p>·&nbsp;Performance portfolio development, anchored on greater musical
+independence</p>
+<p>·&nbsp;Solo-oriented or highlight roles to stretch talent</p>
+<p>·&nbsp;Singapore Youth Festival Arts Presentations</p>
+<p>·&nbsp;Performances within and outside of school</p>
+<p>·&nbsp;Choral exchanges with other secondary schools</p>
+<p>·&nbsp;Master classes and vocal workshops</p>
+<p>·&nbsp;Training to become student conductor</p>
+<p>·&nbsp;Preparation for Grade 2-3 (Theory) and Grade 5 (Voice) accreditation
+from the Associated Board of the Royal Schools of Music (ABRSM)</p>
 <p>&nbsp;</p>
 <p>Upon graduation, outstanding vocalists will be given opportunities to
 be a part of the Singapore Symphony Youth Choir.</p>
@@ -116,19 +109,15 @@ be a part of the Singapore Symphony Youth Choir.</p>
 <p>Be emplaced in our Dance CCA and participate in the following talent development
 programmes within two broad categories of dance, namely Indian Dance and
 International Dance (Hip-hop):</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leadership, including
-mentoring and upskilling of self and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance portfolio
-development, anchored on greater performative independence</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solo-oriented or highlight
-roles to stretch talent</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival
-Arts Presentations</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performances within
-and outside of school</p>
+<p>·&nbsp;CCA leadership, including mentoring and upskilling of self and
+others</p>
+<p>·&nbsp;Performance portfolio development, anchored on greater performative
+independence</p>
+<p>·&nbsp;Solo-oriented or highlight roles to stretch talent</p>
+<p>·&nbsp;Singapore Youth Festival Arts Presentations</p>
+<p>·&nbsp;Performances within and outside of school</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master classes and workshops</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Training to become student
-choreographer</p>
+<p>·&nbsp;Training to become student choreographer</p>
 <p>&nbsp;</p>
 <p>Outstanding dancers will be positioned for emplacement in MOE SP CCA-
 Strategic Partnership Co-Curricular Activity (Ethnic Dance)</p>
@@ -141,10 +130,10 @@ Strategic Partnership Co-Curricular Activity (Ethnic Dance)</p>
 <td rowspan="1" colspan="1">
 <p>Be emplaced in our Symphonic Band CCA and participate in the following
 talent development programmes:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA leadership, including
-mentoring and upskilling of self and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performance portfolio
-development, anchored on greater performative independence</p>
+<p>·&nbsp;CCA leadership, including mentoring and upskilling of self and
+others</p>
+<p>·&nbsp;Performance portfolio development, anchored on greater performative
+independence</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solo-oriented or highlight
 roles to stretch talent</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth Festival
