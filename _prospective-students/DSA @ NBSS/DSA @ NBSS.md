@@ -23,6 +23,19 @@ Students</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 DSA/Picture1.jpg">
 </div>
+<p>The Direct School Admission (DSA) Exercise is an admission exercise to
+allow participating secondary schools to select some Primary 6 students
+for admission to Secondary One based on their achievements and talents
+before the Primary School Leaving Examination (PSLE) results are released.
+It seeks to promote holistic education and provide students with an opportunity
+to demonstrate a more diverse range of achievements and talents in seeking
+admission to a secondary school.</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>For more information about Direct School Admission, visit the Ministry
+of Education website at <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
 <p></p>
 <p></p>
 <p></p>
