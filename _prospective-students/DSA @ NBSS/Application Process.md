@@ -38,7 +38,8 @@ during personal time or in school</p>
 school information such as Primary 5 and 6 results, CCA and VIA involvement,
 school-based achievements and awards, and NAPFA results, will be automatically
 shared with the school. You do not need to submit this information.&nbsp;</p>
-<p>The application period is from <strong>7 May to 3 June 2025.</strong>&nbsp;&nbsp;</p>
+<p>The application period is from <strong>7 May 2025, 11am to 3 June 2025, 3 pm.</strong>
+</p>
 <p><strong><u>Interview &amp; Aptitude Test / Audition</u></strong>
 <br>An appointment will be arranged for the applicant to attend an interview
 and take an aptitude test or audition at the school between <strong>July and August 2025</strong>.
