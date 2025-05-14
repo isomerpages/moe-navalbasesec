@@ -11,12 +11,12 @@ our RECIPE (Respect, Resilience, Care, Integrity, Passion, Excellence)
 values, integrating both moral and performance values holistically (Lickona,
 2005). They then serve as role models, influencing others in various fields
 through their thoughts and actions.</p>
-<p>&nbsp;Learners for Tomorrow are future-ready learners who possess the
-knowledge, skills and competencies to adapt and thrive in an uncertain
-and rapidly changing environment of the 21st Century. They are lifelong
-learners who continuously learn and adapt to stay relevant. They possess
-student agency and take proactive steps to positively strengthen the learning
-of themselves and others.</p>
+<p>Learners for Tomorrow are future-ready learners who possess the knowledge,
+skills and competencies to adapt and thrive in an uncertain and rapidly
+changing environment of the 21st Century. They are lifelong learners who
+continuously learn and adapt to stay relevant. They possess student agency
+and take proactive steps to positively strengthen the learning of themselves
+and others.</p>
 <p>&nbsp;Our vision thus articulates our goal to foster all rounded individuals
 – strong in both character and learning so that they are not only morally
 upright individuals, but also forward-looking learners well-equipped to
