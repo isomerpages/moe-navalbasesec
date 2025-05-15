@@ -55,3 +55,20 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p><strong><u>Navalites Learning Explorations (NLE) Week- 19 to 28 May Timetable</u></strong>
+</p>
+<p><a href="/files/2025 T1 TT/2025_NLE__MY__S1_Timetable_.pdf" rel="noopener nofollow" target="_blank">NLE__MY__S1_Timetable</a>
+<br><a href="/files/2025 T1 TT/2025_NLE__MY__S2_Timetable.pdf" rel="noopener nofollow" target="_blank">NLE__MY__S2_Timetable</a>
+<br><a href="/files/2025 T1 TT/2025_NLE__MY__S3_Timetable.pdf" rel="noopener nofollow" target="_blank">NLE__MY__S3_Timetable</a>
+<br><a href="/files/2025 T1 TT/2025_NLE__MY__S4_5_Timetable.pdf" rel="noopener nofollow" target="_blank">NLE__MY__S4_5_Timetable</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
