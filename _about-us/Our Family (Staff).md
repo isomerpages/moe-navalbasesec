@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rosabel Mah</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Mathematics</p>
@@ -258,7 +258,7 @@ variant: tiptap
 <p>Ms Shirley Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, ICT</p>
+<p>Subject Head, Mathematics</p>
 </td>
 </tr>
 <tr>
