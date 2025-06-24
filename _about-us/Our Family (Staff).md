@@ -418,7 +418,7 @@ variant: tiptap
 <p>Mr Yusman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Wei Han (Sem 1)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
