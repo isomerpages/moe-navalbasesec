@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong><u>2025</u></strong></h4>
+<p><strong>Term 3 </strong>
+</p>
+<p><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_1.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 1</a>
+</p>
+<p></p>
 <p></p>
 <p><strong>Term 2</strong>
 </p>
