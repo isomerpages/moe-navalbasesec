@@ -28,7 +28,3 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p></p>
-<p>
-<br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 4 - Sec 5</a>
-</p>
