@@ -10,6 +10,7 @@ variant: tiptap
 <p><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_1.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 1</a>
 <br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_2.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 2</a>
 <br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_3.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 3</a>
+<br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 4 and 5</a>
 <br>
 </p>
 <p></p>
@@ -26,5 +27,5 @@ variant: tiptap
 <br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_1___Sec_2.pdf" rel="noopener nofollow" target="_blank">Term Letter - Sec 2</a>
 <br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_1___Sec_3.pdf" rel="noopener nofollow" target="_blank">Term Letter - Sec 3</a>
 <br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_1___Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Term Letter - Sec 4/5</a>
-<br>
+<br><a href="/files/2025 term letter/NBSS_Termly_Letter_2025_Term_3___Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Termly Letter 2025 Term 3 Sec 4 - Sec 5</a>
 </p>
