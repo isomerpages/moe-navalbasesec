@@ -49,7 +49,8 @@ variant: tiptap
 <p>Sec 4E / 5NA students, and Sec 4NA/NT students offering O-Level subjects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/O_Level_Prelim_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">O Level Prelim 2025 TT</a>
+</p>
 </td>
 </tr>
 </tbody>
