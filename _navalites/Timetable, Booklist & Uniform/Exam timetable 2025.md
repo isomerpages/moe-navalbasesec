@@ -35,7 +35,8 @@ variant: tiptap
 <p>Sec 4NA/NT students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/N_Level_Prelim_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">N Level Prelim 2025 TT</a>
+</p>
 </td>
 </tr>
 <tr>
