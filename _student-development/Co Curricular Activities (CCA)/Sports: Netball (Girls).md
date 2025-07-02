@@ -48,7 +48,9 @@ high standards in all their endeavours.</p>
 </p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Ms Chang Zhen Yu</p>
-<p>Ms Oh Wei Shi</p>
+<p>Ms Oh Wei Shi (IC)</p>
 <p>Mdm Ramlah</p>
+<p>Ms Naomi Chua
+<br>
+</p>
 <p></p>
