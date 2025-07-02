@@ -32,7 +32,7 @@ each option.</p>
 <br>Allocation of the above will be based on students’ academic performance
 and aptitude, subjected to the availability of school resources.</p>
 <p>For G3 students, a good pass in the respective lower secondary subjects
-is required to read Pure Geography, Pure Sciences and Additional Mathematics.</p>
+is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p>
 <p><strong><u>2026 Secondary 3 G3 Combinations</u></strong> 
 <br><strong>Secondary 3 G3 Combination</strong>  <a href="/files/Sub combi 2024/Doc1a.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br><strong>2025 Subject Choice Briefing Booklet</strong>  <strong>(G3)</strong> 
