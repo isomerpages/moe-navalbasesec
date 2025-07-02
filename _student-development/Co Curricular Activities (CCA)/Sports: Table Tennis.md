@@ -63,7 +63,7 @@ Competition, Friendly Games with Other Schools</p>
 <h4>Teachers and Coaches</h4>
 <p><u>Teachers</u>
 </p>
-<p>Mr Ong Wei Han</p>
+<p>Ms Chang Zhen Yu (IC)</p>
 <p>Ms Chen Xingli</p>
 <p>Mr Pua Min Xin</p>
 <p>Ms Tay Min Hui</p>
