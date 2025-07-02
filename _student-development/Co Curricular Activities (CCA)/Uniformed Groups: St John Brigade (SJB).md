@@ -59,4 +59,8 @@ especially when preparing for competitions and navigating challenges.&nbsp; <str
 (Sec 3)</p>
 </blockquote>
 <p></p>
+<p>Teacher</p>
+<p>Mr See Kok Han (IC)</p>
+<p>Mdm Shanthi</p>
+<p></p>
 <p></p>
