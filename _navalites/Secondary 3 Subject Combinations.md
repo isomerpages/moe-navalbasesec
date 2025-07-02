@@ -32,25 +32,18 @@ each option.</p>
 <br>Allocation of the above will be based on students’ academic performance
 and aptitude, subjected to the availability of school resources.</p>
 <p>For G3 students, a good pass in the respective lower secondary subjects
-is required to read Pure Geography, Pure Sciences and Additional Mathematics.</p>
-<p></p>
-<p><strong><u>For Reference (2024 Sec 2 Students)</u></strong>
-<br><u>[Subject Combination for 2025 Sec 2 students will be updated by Term 3]</u>
-</p>
-<p><strong><u>Secondary 3 Express</u></strong> 
-<br><strong>Secondary 3 Express Combination</strong>  <a href="/files/Sub combi 2024/Doc1a.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2024 Subject Choice Briefing Booklet</strong>  <strong>(Express)</strong> 
+is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p>
+<p><strong><u>2026 Secondary 3 G3 Combinations</u></strong> 
+<br><strong>Secondary 3 G3 Combination</strong>  <a href="/files/Sub combi 2024/Doc1a.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2025 Subject Choice Briefing Booklet</strong>  <strong>(G3)</strong> 
 <a href="/files/2024_Subject_Combi_Elective_Booklet__EX___2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br>
-<br><strong><u>Secondary 3 Normal Academic</u></strong> 
-<br><strong>Secondary 3 Normal Academic Combination</strong>  <a href="/files/Sub combi 2024/sec_na_combi.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2024 Subject Combi Elective Booklet (Normal Academic)</strong> 
-<a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong><u>2026 Secondary 3 G2 Combinations</u></strong>
+<br><strong>Secondary 3 G2 Combination</strong>  <a href="/files/Sub combi 2024/sec_na_combi.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2025 Subject Combi Elective Booklet (G2)</strong>  <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br>
-</p>
-<p><strong><u>Secondary 3 Normal Technical</u></strong> 
-<br><strong>Secondary 3 Normal Technical Combination</strong>  <a href="/files/Pages_from_2024_Subject_Combi_Elective_Booklet__NT__1a.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
-<br><strong>2024 Subject Combi Elective Booklet (Normal Technical)</strong> 
-<a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong><u>Secondary 3 G1 Combinations</u></strong>
+<br><strong>Secondary 3 G1 Combination</strong>  <a href="/files/Pages_from_2024_Subject_Combi_Elective_Booklet__NT__1a.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<br><strong>2025 Subject Combi Elective Booklet (G1)</strong>  <a href="/files/Sub combi 2024/2024_Subject_Combi_Elective_Booklet__NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 <br>
 </p>
