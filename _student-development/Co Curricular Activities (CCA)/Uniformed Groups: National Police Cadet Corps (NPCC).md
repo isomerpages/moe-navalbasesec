@@ -46,6 +46,5 @@ camps, VIA or collaborations. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <p>Mr Teo Ann Peng Simon (OC)
 <br>Ms Cheng Vivien (DyOC)
 <br>Ms See Toh Wai Yin
-<br>Mr Gan Zi En
 <br>Mdm Rosnita</p>
 <p></p>
