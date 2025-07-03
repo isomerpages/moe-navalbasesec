@@ -72,10 +72,11 @@ my EXCO members. These moments not only brought us closer as a team, but
 also reminded me of the joy and purpose that football brings." – Daniel,
 Sec 4-8</p>
 </blockquote>
-<h4>Teachers </h4>
-<p>Ms Kellie Kok (IC)</p>
+<h4>Teachers</h4>
+<p>Mr Yusman B Ithnin (IC)</p>
+<p>Ms Kellie Kok</p>
 <p>Mr Chandrasekaran</p>
 <p>Mr Emil Lua</p>
 <p>Mr Herwanto</p>
-<p>Mr Yusman</p>
+<p></p>
 <p></p>

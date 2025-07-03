@@ -145,6 +145,7 @@ development. " – Strefen Phua, Sec 4-6</p>
 <br>Mrs Susheela Vijayarhagavan
 <br>Ms Ong Seow Wei
 <br>Mr Lim Kian Huat Thomas
+<br>Ms Sherry Peng SY
 <br>
 <br><strong><u>Instructors</u></strong>
 <br>Senior Band Director: Mr Chiang Yick Keet, Adrian
