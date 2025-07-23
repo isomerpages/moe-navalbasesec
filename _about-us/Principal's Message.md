@@ -10,11 +10,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits___P.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Naval Base Secondary School has a proud heritage spanning 68 years. From
 our humble beginnings in 1957 as a school for Naval Base employees, we
 have grown into a vibrant learning community.</p>
