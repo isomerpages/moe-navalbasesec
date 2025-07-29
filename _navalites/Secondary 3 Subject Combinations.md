@@ -40,7 +40,7 @@ is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p
 <br>
 <br><strong><u>2026 Secondary 3 G2 Combinations</u></strong>
 <br><strong>Secondary 3 G2 Combination</strong>  <a href="/files/Sub combi 2025/G2_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2025 Subject Combi Elective Booklet (G2)</strong>  <a href="/files/Sub combi 2025/Subject_Combi_Booklet_G2_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2025 Subject Combi Elective Booklet (G2)</strong> 
 <br>
 <br><strong><u>Secondary 3 G1 Combinations</u></strong>
 <br><strong>Secondary 3 G1 Combination</strong>  <a href="/files/Sub combi 2025/G1_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
