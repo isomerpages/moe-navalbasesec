@@ -35,15 +35,14 @@ and aptitude, subjected to the availability of school resources.</p>
 is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p>
 <p><strong><u>2026 Secondary 3 G3 Combinations</u></strong> 
 <br><strong>Secondary 3 G3 Combination</strong>  <a href="/files/Sub combi 2025/G3_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2025 Subject Choice Briefing Booklet</strong>  <strong>(G3)</strong> 
-<a href="/files/Sub combi 2025/Subject_Combi_Booklet_G3_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2026 Subject Combination Elective Booklet</strong>  <strong>(G3)</strong> 
+<a href="/files/2025 sub combi/Subject_Combi_Booklet_G3_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
 <br><strong><u>2026 Secondary 3 G2 Combinations</u></strong>
 <br><strong>Secondary 3 G2 Combination</strong>  <a href="/files/Sub combi 2025/G2_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2025 Subject Combi Elective Booklet (G2)</strong>  <a href="/files/Sub combi 2025/Subject_Combi_Booklet_G2_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2026 Subject Combination Elective Booklet (G2)</strong>  <a href="/files/2025 sub combi/Subject_Combi_Booklet_G2_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
-<br><strong><u>Secondary 3 G1 Combinations</u></strong>
+<br><strong><u>2026 Secondary 3 G1 Combinations</u></strong>
 <br><strong>Secondary 3 G1 Combination</strong>  <a href="/files/Sub combi 2025/G1_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2025 Subject Combi Elective Booklet (G1)</strong>  <a href="/files/Sub combi 2025/Subject_Combi_Booklet_G1_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br>
+<br><strong>2026 Subject Combination Elective Booklet (G1)</strong>  <a href="/files/2025 sub combi/Subject_Combi_Booklet_G1_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
