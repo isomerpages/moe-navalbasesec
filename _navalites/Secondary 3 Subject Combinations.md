@@ -36,7 +36,6 @@ is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p
 <p><strong><u>2026 Secondary 3 G3 Combinations</u></strong> 
 <br><strong>Secondary 3 G3 Combination</strong>  <a href="/files/Sub combi 2025/G3_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br><strong>2025 Subject Choice Briefing Booklet</strong>  <strong>(G3)</strong> 
-<a href="/files/Sub combi 2025/Subject_Combi_Booklet_G3_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
 <br><strong><u>2026 Secondary 3 G2 Combinations</u></strong>
 <br><strong>Secondary 3 G2 Combination</strong>  <a href="/files/Sub combi 2025/G2_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
