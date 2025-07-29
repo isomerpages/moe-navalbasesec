@@ -44,6 +44,6 @@ is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p
 <br>
 <br><strong><u>Secondary 3 G1 Combinations</u></strong>
 <br><strong>Secondary 3 G1 Combination</strong>  <a href="/files/Sub combi 2025/G1_Combination_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2025 Subject Combi Elective Booklet (G1)</strong>  <a href="/files/Sub combi 2025/Subject_Combi_Booklet_G1_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2026 Subject Combination Elective Booklet (G1)</strong>  <a href="/files/2025 sub combi/Subject_Combi_Booklet_G1_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
 </p>
