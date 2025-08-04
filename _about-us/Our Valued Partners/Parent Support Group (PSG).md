@@ -28,9 +28,6 @@ and activities to develop our Navalites holistically. By working hand in
 hand with the school, our PSG is involved in the school lives of our Navalites,
 thus helping them to reach their potential.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture1.jpg">
-</div>
 <p></p>
 <p></p>
 <p>Here are the highlights of the PSG’s involvement and contributions in:</p>
