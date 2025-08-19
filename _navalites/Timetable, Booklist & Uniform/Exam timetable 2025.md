@@ -56,3 +56,68 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Examination:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students involved:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Timetable:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 T3 TT/Sec_1_EOY_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 T3 TT/Sec_2_EOY_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025 T3 TT/Sec_3_EOY_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
