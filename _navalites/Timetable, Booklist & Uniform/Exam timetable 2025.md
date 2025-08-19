@@ -85,7 +85,7 @@ variant: tiptap
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 T3 TT/Sec_1_EOY_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY </a>
+<p><a href="/files/2025 T3 TT/Sec_1_EOY_2025_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY</a>
 </p>
 </td>
 </tr>
