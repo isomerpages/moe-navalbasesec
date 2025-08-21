@@ -1,5 +1,5 @@
 collections:
-  parents:
+  parents-other:
     output: true
     order:
       - Announcements.md
