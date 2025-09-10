@@ -24,46 +24,51 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hot beverages/ Hot snacks (Halal)|</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Examples of snacks –sandwiches (eg, chicken, egg, tuna with lettuce and
+tomato), egg and toast set, wraps, waffles and pastries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>30 September 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nasi Padang and Malay Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nasi Padang + special items such as Lontong, Mee Soto, Mee Rebus, Mee
+Siam on selected days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 September 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Western Food</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 September 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p><strong>Application Procedure</strong>
+</p>
 <p></p>
-<p>| Hot beverages/ Hot snacks (Halal)| 30 September 2025 |Examples of snacks
-–sandwiches (eg, chicken, egg, tuna with lettuce and tomato), egg and toast
-set, wraps, waffles and pastries |</p>
-<p>| Halal Western Food | 30 September 2025 | NIL |</p>
-<p>| Nasi Padang and Malay Noodles | 30 September 2025 |Nasi Padang + special
-items such as Lontong, Mee Soto, Mee Rebus, Mee Siam on selected days |</p>
-<p>|</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
