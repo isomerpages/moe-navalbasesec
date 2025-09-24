@@ -20,10 +20,9 @@ for the future.</p>
 <p><strong>A responsible Navalite</strong> …</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong> </strong>attends school regularly and is expected to maintain
-a 100% attendance. Navalites are not allowed to leave Singapore during
-term time, unless supported with a valid reason that is endorsed by the
-school.</p>
+<p>attends school regularly and is expected to maintain a 100% attendance.
+Navalites are not allowed to leave Singapore during term time, unless supported
+with a valid reason that is endorsed by the school.</p>
 </li>
 <li>
 <p>comes punctually to school and assemble at the Hall or any other designated
@@ -56,28 +55,38 @@ to school leaders’ approval.</p>
 <li>
 <p>seeks permission from the Form Teacher if he/she needs to leave the school
 premises during school hours and fill up the “Permission to Leave School”
-form. Parents/ Guardians must be notified to accompany the Navalite home.
-<br><strong>ix.</strong> is punctual for all lessons and school activities.
-Navalites who do not have a valid reason for being late will face disciplinary
-actions.
-<br><strong>x.</strong> only buys and consumes food and drinks in the canteen
-and not in any other school areas, during recess time and after school
-hours while still on the school premises.
-<br><strong>xi.</strong> only brings to school items which are essential for
-learning. Large sum of money or costly items such as jewellery, handheld
-game sets, expensive mobile phones or other expensive valuables are to
-be left at home. The school shall not be responsible for the loss or damage
-of such items.
-<br><strong>xii.</strong> always switches off and keeps out of sight his/her
-mobile phones during curriculum hours (7:20 a.m. to 3:00 p.m) on all days
-(except Friday, 12:30 p.m.) so as to maintain a conducive environment that
-nurtures meaningful interactions and social skill-building. The use or
-display of mobile phones is strictly prohibited during these hours including
-recess, lunch breaks and self-study periods.
-<br><strong>xiii.</strong> exercises personal responsibility and always observes
-prevailing safe management measures.
-<br><strong>xiv.</strong> acts as good ambassador of the school who demonstrates
-a strong sense of civic-mindedness at public areas.</p>
+form. Parents/ Guardians must be notified to accompany the Navalite home.</p>
+</li>
+<li>
+<p>is punctual for all lessons and school activities. Navalites who do not
+have a valid reason for being late will face disciplinary actions.</p>
+</li>
+<li>
+<p>only buys and consumes food and drinks in the canteen and not in any other
+school areas, during recess time and after school hours while still on
+the school premises.</p>
+</li>
+<li>
+<p>only brings to school items which are essential for learning. Large sum
+of money or costly items such as jewellery, handheld game sets, expensive
+mobile phones or other expensive valuables are to be left at home. The
+school shall not be responsible for the loss or damage of such items.</p>
+</li>
+<li>
+<p>always switches off and keeps out of sight his/her mobile phones during
+curriculum hours (7:20 a.m. to 3:00 p.m) on all days (except Friday, 12:30
+p.m.) so as to maintain a conducive environment that nurtures meaningful
+interactions and social skill-building. The use or display of mobile phones
+is strictly prohibited during these hours including recess, lunch breaks
+and self-study periods.</p>
+</li>
+<li>
+<p>exercises personal responsibility and always observes prevailing safe
+management measures.</p>
+</li>
+<li>
+<p>acts as good ambassador of the school who demonstrates a strong sense
+of civic-mindedness at public areas.</p>
 </li>
 </ol>
 <p></p>
@@ -86,7 +95,6 @@ a strong sense of civic-mindedness at public areas.</p>
 We believe in nurturing a school environment where every member feels safe,
 respected and valued. No one should be bullied, and no one should engage
 in bullying behaviour.</p>
-<p>&nbsp;</p>
 <p><strong>What is BULLYING?</strong>
 </p>
 <p>Bullying is defined as deliberate and repeated behaviour which is intended
