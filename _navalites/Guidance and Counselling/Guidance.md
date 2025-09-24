@@ -5,34 +5,58 @@ variant: tiptap
 description: ""
 third_nav_title: Guidance and Counselling
 ---
-<p><strong>A responsible Navalite</strong> …
-<br><strong>i. </strong>attends school regularly and is expected to maintain
+<p>At Naval Base Secondary School (NBSS), people matter most. Every Navalite’s
+growth, friendships, and the way everyone treats one another are at the
+heart of who we are. Our school takes pride in being a caring and supportive
+place where all belong.
+<br>
+<br>At NBSS, the aim is to build a culture of Care and Excellence together.
+This means looking out for one another, striving for our best, and holding
+ourselves to the right standards. Students are guided to make responsible
+choices and manage themselves well — qualities that will not only make
+a difference in school life, but also shape strong and confident individuals
+for the future.</p>
+<p></p>
+<p><strong>A responsible Navalite</strong> …</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong> </strong>attends school regularly and is expected to maintain
 a 100% attendance. Navalites are not allowed to leave Singapore during
 term time, unless supported with a valid reason that is endorsed by the
-school.
-<br><strong>ii. </strong>comes punctually to school and assemble at the Hall
-or any other designated area by 7.20 a.m. on all school days. Navalites
-who are not settled down at the Hall or designated area by 7.30 a.m. are
-considered late for school.
-<br><strong>iii.</strong> sings the school song with gusto during school assemblies.
-<br><strong>iv.</strong> obtains a permission slip from the Admin Centre if
-he/she arrives late to school and hands this to the Subject Teacher in
-the class before he/she is allowed to resume lessons.
-<br><strong>v. </strong>calls the Form Teacher or leaves a message with Admin
-Centre (62571996) before 7.00 a.m. if he/she is unwell and cannot come
-to school.
-<br><strong>vi.</strong> produces a Medical Certificate (M.C.) for the form
-teacher on the immediate school day after the day of absence, failing which
-he/she would be deemed to have played truant. Navalites who are absent
-from school without official reasons will be subjected to disciplinary
-actions.
-<br><strong>vii. </strong>submits an official letter of excuse to explain
-his/her absence due to other reasons. Such letters are restricted to ten
-per academic year, subjected to school leaders’ approval.
-<br><strong>viii.</strong> seeks permission from the Form Teacher if he/she
-needs to leave the school premises during school hours and fill up the
-“Permission to Leave School” form. Parents/ Guardians must be notified
-to accompany the Navalite home.
+school.</p>
+</li>
+<li>
+<p>comes punctually to school and assemble at the Hall or any other designated
+area by 7.20 a.m. on all school days. Navalites who are not settled down
+at the Hall or designated area by 7.30 a.m. are considered late for school.</p>
+</li>
+<li>
+<p>sings the school song with gusto during school assemblies.</p>
+</li>
+<li>
+<p>obtains a permission slip from the Admin Centre if he/she arrives late
+to school and hands this to the Subject Teacher in the class before he/she
+is allowed to resume lessons.</p>
+</li>
+<li>
+<p>calls the Form Teacher or leaves a message with Admin Centre (62571996)
+before 7.00 a.m. if he/she is unwell and cannot come to school.</p>
+</li>
+<li>
+<p>produces a Medical Certificate (M.C.) for the form teacher on the immediate
+school day after the day of absence, failing which he/she would be deemed
+to have played truant. Navalites who are absent from school without official
+reasons will be subjected to disciplinary actions.</p>
+</li>
+<li>
+<p>submits an official letter of excuse to explain his/her absence due to
+other reasons. Such letters are restricted to ten per academic year, subjected
+to school leaders’ approval.</p>
+</li>
+<li>
+<p>seeks permission from the Form Teacher if he/she needs to leave the school
+premises during school hours and fill up the “Permission to Leave School”
+form. Parents/ Guardians must be notified to accompany the Navalite home.
 <br><strong>ix.</strong> is punctual for all lessons and school activities.
 Navalites who do not have a valid reason for being late will face disciplinary
 actions.
@@ -54,6 +78,8 @@ recess, lunch breaks and self-study periods.
 prevailing safe management measures.
 <br><strong>xiv.</strong> acts as good ambassador of the school who demonstrates
 a strong sense of civic-mindedness at public areas.</p>
+</li>
+</ol>
 <p></p>
 <p><strong>Anti-bullying Policy</strong>&nbsp;</p>
 <p>Naval Base Secondary adopts a zero-tolerance stance towards bullying.
