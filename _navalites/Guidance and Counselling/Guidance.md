@@ -6,31 +6,36 @@ description: ""
 third_nav_title: Guidance and Counselling
 ---
 <p><strong>A responsible Navalite</strong> …
-<br>i. attends school regularly and is expected to maintain a 100% attendance.
-Navalites are not allowed to leave Singapore during term time, unless supported
-with a valid reason that is endorsed by the school.
-<br>ii. comes punctually to school and assemble at the Hall or any other designated
-area by 7.20 a.m. on all school days. Navalites who are not settled down
-at the Hall or designated area by 7.30 a.m. are considered late for school.
-<br>iii. sings the school song with gusto during school assemblies.
-<br>iv. obtains a permission slip from the Admin Centre if he/she arrives
-late to school and hands this to the Subject Teacher in the class before
-he/she is allowed to resume lessons.
-<br>v. calls the Form Teacher or leaves a message with Admin Centre (62571996)
-before 7.00 a.m. if he/she is unwell and cannot come to school.
-<br>vi. produces a Medical Certificate (M.C.) for the form teacher on the
-immediate school day after the day of absence, failing which he/she would
-be deemed to have played truant. Navalites who are absent from school without
-official reasons will be subjected to disciplinary actions.
-<br>vii. submits an official letter of excuse to explain his/her absence due
-to other reasons. Such letters are restricted to ten per academic year,
-subjected to school leaders’ approval.
-<br>viii. seeks permission from the Form Teacher if he/she needs to leave
-the school premises during school hours and fill up the “Permission to
-Leave School” form. Parents/ Guardians must be notified to accompany the
-Navalite home.
-<br>ix. is punctual for all lessons and school activities. Navalites who do
-not have a valid reason for being late will face disciplinary actions.
+<br><strong>i. </strong> attends school regularly and is expected to maintain
+a 100% attendance. Navalites are not allowed to leave Singapore during
+term time, unless supported with a valid reason that is endorsed by the
+school.
+<br><strong>ii. </strong> comes punctually to school and assemble at the Hall
+or any other designated area by 7.20 a.m. on all school days. Navalites
+who are not settled down at the Hall or designated area by 7.30 a.m. are
+considered late for school.
+<br><strong>iii.</strong> sings the school song with gusto during school assemblies.
+<br><strong>iv.</strong> obtains a permission slip from the Admin Centre if
+he/she arrives late to school and hands this to the Subject Teacher in
+the class before he/she is allowed to resume lessons.
+<br><strong>v. </strong> calls the Form Teacher or leaves a message with Admin
+Centre (62571996) before 7.00 a.m. if he/she is unwell and cannot come
+to school.
+<br><strong>vi.</strong> produces a Medical Certificate (M.C.) for the form
+teacher on the immediate school day after the day of absence, failing which
+he/she would be deemed to have played truant. Navalites who are absent
+from school without official reasons will be subjected to disciplinary
+actions.
+<br><strong>vii. </strong> submits an official letter of excuse to explain
+his/her absence due to other reasons. Such letters are restricted to ten
+per academic year, subjected to school leaders’ approval.
+<br><strong>viii.</strong> seeks permission from the Form Teacher if he/she
+needs to leave the school premises during school hours and fill up the
+“Permission to Leave School” form. Parents/ Guardians must be notified
+to accompany the Navalite home.
+<br><strong>ix.</strong> is punctual for all lessons and school activities.
+Navalites who do not have a valid reason for being late will face disciplinary
+actions.
 <br>x. only buys and consumes food and drinks in the canteen and not in any
 other school areas, during recess time and after school hours while still
 on the school premises.
