@@ -49,7 +49,19 @@ safe management measures.
 <br>xiv. acts as good ambassador of the school who demonstrates a strong sense
 of civic-mindedness at public areas.</p>
 <p></p>
-<p></p>
+<p><strong>Anti-bullying Policy</strong>&nbsp;</p>
+<p>Naval Base Secondary adopts a zero-tolerance stance towards bullying.
+We believe in nurturing a school environment where every member feels safe,
+respected and valued. No one should be bullied, and no one should engage
+in bullying behaviour.</p>
+<p>&nbsp;</p>
+<p><strong>What is BULLYING?</strong>
+</p>
+<p>Bullying is defined as deliberate and repeated behaviour which is intended
+to hurt someone either physically, emotionally or psychologically.&nbsp;</p>
+<p>When incidents of bullying occur, they should be brought to the attention
+of the authorities immediately through <u>any</u> school staff.&nbsp; All
+reports will be taken seriously and treated confidentially.</p>
 <p></p>
 <p></p>
 <p></p>
