@@ -90,7 +90,7 @@ of civic-mindedness at public areas.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Anti-bullying Policy</strong>&nbsp;
+<p><strong>NBSS adopts a zero-tolerance stance towards bullying</strong>&nbsp;
 <br>Naval Base Secondary adopts a zero-tolerance stance towards bullying.
 We believe in nurturing a school environment where every member feels safe,
 respected and valued. No one should be bullied, and no one should engage
