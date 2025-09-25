@@ -5,69 +5,102 @@ variant: tiptap
 description: ""
 third_nav_title: Guidance and Counselling
 ---
-<p><strong>A responsible Navalite</strong> …
-<br><strong>i. </strong>attends school regularly and is expected to maintain
-a 100% attendance. Navalites are not allowed to leave Singapore during
-term time, unless supported with a valid reason that is endorsed by the
-school.
-<br><strong>ii. </strong>comes punctually to school and assemble at the Hall
-or any other designated area by 7.20 a.m. on all school days. Navalites
-who are not settled down at the Hall or designated area by 7.30 a.m. are
-considered late for school.
-<br><strong>iii.</strong> sings the school song with gusto during school assemblies.
-<br><strong>iv.</strong> obtains a permission slip from the Admin Centre if
-he/she arrives late to school and hands this to the Subject Teacher in
-the class before he/she is allowed to resume lessons.
-<br><strong>v. </strong>calls the Form Teacher or leaves a message with Admin
-Centre (62571996) before 7.00 a.m. if he/she is unwell and cannot come
-to school.
-<br><strong>vi.</strong> produces a Medical Certificate (M.C.) for the form
-teacher on the immediate school day after the day of absence, failing which
-he/she would be deemed to have played truant. Navalites who are absent
-from school without official reasons will be subjected to disciplinary
-actions.
-<br><strong>vii. </strong>submits an official letter of excuse to explain
-his/her absence due to other reasons. Such letters are restricted to ten
-per academic year, subjected to school leaders’ approval.
-<br><strong>viii.</strong> seeks permission from the Form Teacher if he/she
-needs to leave the school premises during school hours and fill up the
-“Permission to Leave School” form. Parents/ Guardians must be notified
-to accompany the Navalite home.
-<br><strong>ix.</strong> is punctual for all lessons and school activities.
-Navalites who do not have a valid reason for being late will face disciplinary
-actions.
-<br><strong>x.</strong> only buys and consumes food and drinks in the canteen
-and not in any other school areas, during recess time and after school
-hours while still on the school premises.
-<br><strong>xi.</strong> only brings to school items which are essential for
-learning. Large sum of money or costly items such as jewellery, handheld
-game sets, expensive mobile phones or other expensive valuables are to
-be left at home. The school shall not be responsible for the loss or damage
-of such items.
-<br><strong>xii.</strong> always switches off and keeps out of sight his/her
-mobile phones during curriculum hours (7:20 a.m. to 3:00 p.m) on all days
-(except Friday, 12:30 p.m.) so as to maintain a conducive environment that
-nurtures meaningful interactions and social skill-building. The use or
-display of mobile phones is strictly prohibited during these hours including
-recess, lunch breaks and self-study periods.
-<br><strong>xiii.</strong> exercises personal responsibility and always observes
-prevailing safe management measures.
-<br><strong>xiv.</strong> acts as good ambassador of the school who demonstrates
-a strong sense of civic-mindedness at public areas.</p>
+<p>At Naval Base Secondary School (NBSS), people matter most. Every Navalite’s
+growth, friendships, and the way everyone treats one another are at the
+heart of who we are. Our school takes pride in being a caring and supportive
+place where all belong.
+<br>
+<br>At NBSS, the aim is to build a culture of Care and Excellence together.
+This means looking out for one another, striving for our best, and holding
+ourselves to the right standards. Students are guided to make responsible
+choices and manage themselves well — qualities that will not only make
+a difference in school life, but also shape strong and confident individuals
+for the future.</p>
 <p></p>
-<p><strong>Anti-bullying Policy</strong>&nbsp;</p>
-<p>Naval Base Secondary adopts a zero-tolerance stance towards bullying.
+<p><strong>A responsible Navalite</strong> …</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>attends school regularly and is expected to maintain a 100% attendance.
+Navalites are not allowed to leave Singapore during term time, unless supported
+with a valid reason that is endorsed by the school.</p>
+</li>
+<li>
+<p>comes punctually to school and assemble at the Hall or any other designated
+area by 7.20 a.m. on all school days. Navalites who are not settled down
+at the Hall or designated area by 7.30 a.m. are considered late for school.</p>
+</li>
+<li>
+<p>sings the school song with gusto during school assemblies.</p>
+</li>
+<li>
+<p>obtains a permission slip from the Admin Centre if he/she arrives late
+to school and hands this to the Subject Teacher in the class before he/she
+is allowed to resume lessons.</p>
+</li>
+<li>
+<p>calls the Form Teacher or leaves a message with Admin Centre (62571996)
+before 7.00 a.m. if he/she is unwell and cannot come to school.</p>
+</li>
+<li>
+<p>produces a Medical Certificate (M.C.) for the form teacher on the immediate
+school day after the day of absence, failing which he/she would be deemed
+to have played truant. Navalites who are absent from school without official
+reasons will be subjected to disciplinary actions.</p>
+</li>
+<li>
+<p>submits an official letter of excuse to explain his/her absence due to
+other reasons. Such letters are restricted to ten per academic year, subjected
+to school leaders’ approval.</p>
+</li>
+<li>
+<p>seeks permission from the Form Teacher if he/she needs to leave the school
+premises during school hours and fill up the “Permission to Leave School”
+form. Parents/ Guardians must be notified to accompany the Navalite home.</p>
+</li>
+<li>
+<p>is punctual for all lessons and school activities. Navalites who do not
+have a valid reason for being late will face disciplinary actions.</p>
+</li>
+<li>
+<p>only buys and consumes food and drinks in the canteen and not in any other
+school areas, during recess time and after school hours while still on
+the school premises.</p>
+</li>
+<li>
+<p>only brings to school items which are essential for learning. Large sum
+of money or costly items such as jewellery, handheld game sets, expensive
+mobile phones or other expensive valuables are to be left at home. The
+school shall not be responsible for the loss or damage of such items.</p>
+</li>
+<li>
+<p>always switches off and keeps out of sight his/her mobile phones during
+curriculum hours (7:20 a.m. to 3:00 p.m) on all days (except Friday, 12:30
+p.m.) so as to maintain a conducive environment that nurtures meaningful
+interactions and social skill-building. The use or display of mobile phones
+is strictly prohibited during these hours including recess, lunch breaks
+and self-study periods.</p>
+</li>
+<li>
+<p>exercises personal responsibility and always observes prevailing safe
+management measures.</p>
+</li>
+<li>
+<p>acts as good ambassador of the school who demonstrates a strong sense
+of civic-mindedness at public areas.</p>
+</li>
+</ol>
+<p></p>
+<p><strong><u>Anti-Bullying Policy</u></strong> 
+<br>Naval Base Secondary adopts a zero-tolerance stance towards bullying.
 We believe in nurturing a school environment where every member feels safe,
 respected and valued. No one should be bullied, and no one should engage
-in bullying behaviour.</p>
-<p>&nbsp;</p>
-<p><strong>What is BULLYING?</strong>
-</p>
-<p>Bullying is defined as deliberate and repeated behaviour which is intended
-to hurt someone either physically, emotionally or psychologically.&nbsp;</p>
-<p>When incidents of bullying occur, they should be brought to the attention
-of the authorities immediately through <u>any</u> school staff.&nbsp; All
-reports will be taken seriously and treated confidentially.</p>
+in bullying behaviour.
+<br><strong><u>What is Bullying?</u></strong>
+<br>Bullying is defined as deliberate and repeated behaviour which is intended
+to hurt someone either physically, emotionally or psychologically.&nbsp;When
+incidents of bullying occur, they should be brought to the attention of
+the authorities immediately through <u>any</u> school staff.&nbsp; All reports
+will be taken seriously and treated confidentially.</p>
 <p></p>
 <p></p>
 <p></p>
