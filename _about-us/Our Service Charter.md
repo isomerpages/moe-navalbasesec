@@ -82,7 +82,19 @@ any delays that may occur due to exceptional circumstances.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Communication Hours</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Parents are advised to contact our teachers during office hours (7:30
+am – 6:00 pm). Other than in emergencies, staff are not required to respond
+outside office hours or during school holidays.</p>
+</li>
+<li>
+<p>Please note that staff are not obliged to share their personal mobile
+numbers, and your understanding is appreciated</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
