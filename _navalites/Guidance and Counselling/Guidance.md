@@ -95,6 +95,7 @@ of civic-mindedness at public areas.</p>
 We believe in nurturing a school environment where every member feels safe,
 respected and valued. No one should be bullied, and no one should engage
 in bullying behaviour.
+<br>
 <br><strong><u>What is Bullying?</u></strong>
 <br>Bullying is defined as deliberate and repeated behaviour which is intended
 to hurt someone either physically, emotionally or psychologically.&nbsp;When
