@@ -30,9 +30,58 @@ any delays that may occur due to exceptional circumstances.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<p></p>
+<h4>Modes of Communication</h4>
+<p><strong>Official Modes of Communication</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Phone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62571996</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Email</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.navalbasesec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.navalbasesec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mailing Address</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>901 Yishun Ring Road, Singapore 768689</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Handbook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issued annually to each student</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
