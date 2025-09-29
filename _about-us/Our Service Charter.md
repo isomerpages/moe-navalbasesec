@@ -60,7 +60,7 @@ any delays that may occur due to exceptional circumstances.</p>
 <p>School Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.navalbasesec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.navalbasesec.moe.edu.sg/</a>
+<p><a href="mailto:nbss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nbss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
