@@ -17,10 +17,10 @@ description: ""
 <p>The school commits to the following response timeframes:
 <br>a. 3 working days: Acknowledge all feedback and reply to straightforward
 enquiries.
-<br>b. 7 working days: For cases needing investigation, including gathering
+<br>b. 7 working days: For cases requiring follow-up, including gathering
 statements and reviewing evidence.
-<br>c. 21 working days: For complex cases involving detailed investigations,
-multiple parties, or external agencies.
+<br>c. 21 working days: For complex cases involving detailed reviews, multiple
+parties, or external agencies.
 <br>
 </p>
 </li>
