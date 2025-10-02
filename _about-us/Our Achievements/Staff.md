@@ -6,6 +6,18 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
+<p><strong>2025: MOE Innergy Award<br>Gold Award – Work Processes</strong>
+<br>
+<br><strong>Title of Innovation:</strong> A structured and tiered approach
+to develop and enact an assessment culture in Naval Base Secondary School
+<br>
+<br><strong>Synopsis:</strong> Naval Base Secondary School developed an innovative
+three-tier assessment framework where Teacher Leaders conduct action research,
+Key Personnel lead evidence-based discussions, and teachers engage in structured
+analysis of student work. This systematic approach has enhanced teacher
+capabilities, increased student ownership of learning, and improved academic
+outcomes across subjects.</p>
+<p></p>
 <p><strong>2024: Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
