@@ -271,7 +271,8 @@ across subjects.</p>
 <br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
 <p><strong>2024: MOE Innergy Award </strong>
-<br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
+<br><strong>Commendation Award&nbsp;- Teaching &amp; Learning</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
