@@ -6,6 +6,49 @@ description: ""
 third_nav_title: Our Achievements
 ---
 <h4>Staff Achievements</h4>
+<p><strong>2025: MOE Innergy Award<br>Gold Award – Work Processes</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>s/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title of Innovation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Synopsis</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A structured and tiered approach to develop and enact an assessment culture
+in Naval Base Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Naval Base Secondary School developed an innovative three-tier assessment
+framework where Teacher Leaders conduct action research, Key Personnel
+lead evidence-based discussions, and teachers engage in structured analysis
+of student work. This systematic approach has enhanced teacher capabilities,
+increased student ownership of learning, and improved academic outcomes
+across subjects.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2024: Associate of Academy of Singapore Teachers Award Recipients </strong>
 <br><strong>A)</strong>  <strong>Facilitator of Networked Learning Communities</strong>
 </p>
@@ -228,7 +271,8 @@ third_nav_title: Our Achievements
 <br>The Commendation Medal - Tay Chee Joo Edna</p>
 <p></p>
 <p><strong>2024: MOE Innergy Award </strong>
-<br>Commendation Award&nbsp;- Teaching &amp; Learning</p>
+<br><strong>Commendation Award&nbsp;- Teaching &amp; Learning</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
