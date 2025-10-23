@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Physical Education
 variant: markdown
 ---
-![](/images/11__Physical_Education_Department__1_.jpg)
+![](/images/Copy_of_Physical_Education.jpg)
 <p>The NBSS PE Department believes that our curriculum should not only promote students' physical, but also mental and social well-being. Furthermore, each student should be empowered to achieve success, regardless of physical attributes.&nbsp;</p>
 
 Sports and physical activities create both planned and spontaneous teachable moments through their emotional and physical demands. The disciplined preparation phase - from training to maintaining proper nutrition - coupled with the unpredictable nature of actual performance, naturally develops character and essential life skills in our students.
