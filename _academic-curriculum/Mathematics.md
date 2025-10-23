@@ -9,6 +9,9 @@ variant: tiptap
 </div>
 <p><strong>DEPARTMENT VISION</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Math.jpg">
+</div>
 <p>The Mathematics department aims to provide a nurturing and diversified
 experience for students pursuing mathematics that focuses on mathematical
 problem solving. Mathematics problem solving is central to mathematics
@@ -17,9 +20,6 @@ concepts and skills in a wide range of situations, including non-routine,
 open-ended and real-world situations. The development of mathematical problem
 solving ability is dependent on five inter-related components, namely Concepts,
 Skills, Processes, Attitudes and Metacognition.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Mathematics_Department__1_.jpg">
-</div>
 <p><strong>CURRICULUM OVERVIEW</strong>
 </p>
 <p>The Mathematics curriculum focuses on three strands namely Numbers and
