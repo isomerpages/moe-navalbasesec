@@ -10,9 +10,6 @@ variant: tiptap
 </div>
 <h3>School Steering Committee</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__School_Steering_Committee_2__1_.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -202,7 +199,7 @@ variant: tiptap
 <p>Ms Charissa Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, English Language &amp; Literature</p>
+<p>Level Head, English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
