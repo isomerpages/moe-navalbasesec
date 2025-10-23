@@ -6,7 +6,7 @@ variant: markdown
 ---
 <p><strong>VISION: NURTURING ACTIVE LEARNERS AND PROFICIENT MTL USERS</strong></p>
 
-![](/images/022__1_.jpg)
+![](/images/Copy_of_Mother_Tongue.jpg)
 The Mother Tongue department aims to develop students' proficiency in using Mother Tongue languages (MTL) as a means of communication, while fostering an appreciation for their respective cultures and a deeper appreciation of their unique identities.
 
 **Our programmes and activities include:**
