@@ -25,11 +25,14 @@ correct books accordingly.</p>
 </li>
 </ul>
 <p><strong>Booklists</strong>-</p>
+<p><a href="/files/2026 booklist/Sec_1_Final_081025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<br><a href="/files/2026 booklist/Sec_2_Final_081025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<br><a href="/files/2026 booklist/Sec_3_Final_081025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<br><a href="/files/2026 booklist/Sec_4_Final_081025.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
+<br><a href="/files/2026 booklist/Sec_5_Final_081025.pdf" rel="noopener nofollow" target="_blank">Sec 5</a>
+</p>
 <p>
 <br>
 <br>
-<br>
-<br>
 </p>
-<p></p>
 <p></p>
