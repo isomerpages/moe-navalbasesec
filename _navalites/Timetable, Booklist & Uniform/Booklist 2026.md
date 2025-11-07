@@ -21,7 +21,7 @@ correct books accordingly.</p>
 (choose a date/time appointment in the online portal)</p>
 </li>
 <li>
-<p>The website will be open from 04 November 2026</p>
+<p>The website will be open from 04 November 2026.</p>
 </li>
 </ul>
 <p><strong>Booklists</strong>-</p>
