@@ -36,8 +36,8 @@ Details available there include the following:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Eligibility for More Demanding Level (MDL), Higher Mother Tongue, Music
-&amp; Art Elective Programme</p>
+<p>Eligibility for More Demanding Level (MDL), Higher Mother Tongue, Art
+&amp; Music Elective Programme</p>
 </li>
 <li>
 <p>MOE Financial Assistance Scheme (FAS) can be applied <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">here</a>
