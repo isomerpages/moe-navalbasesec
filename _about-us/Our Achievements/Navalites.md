@@ -43,6 +43,9 @@ as it undergoes a five-year redevelopment. The Navalites are: Bediones
 Rochelle Chloe Belisario, Indraneel Shivram, Li Bingyu, Ng Tricia Eyonna
 and Shukira Arisha Binte Shukor</p>
 <h4>Co-Curricular Achievements</h4>
+<p><strong>National Robotics Competition 2025</strong> – (3rd Place in Smorphi
+Pilot Challenge) Tay Ying Ying Amber, Tan En Hwee Olivia, Low Lee Wah Elina,
+Hou Yuchen</p>
 <p><strong>March 2025:</strong> Ho Jia Xin Belinda was awarded the prestigious
 SPF-NPCC Badge</p>
 <p><strong>2025 Singapore Youth Festival Arts Presentation</strong>
