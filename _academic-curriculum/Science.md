@@ -296,18 +296,200 @@ paths.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 sci/3.jpg">
 </div>
 <p></p>
+<p>
+<br><strong>2025 Notable Accomplishments</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Merit</strong>
+</p>
+<p>Ong Ziyang Xavier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Honourable Mention</strong>
+</p>
+<p>Ng Guo Rong Jeffrey</p>
+<p>&nbsp;</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p>Ng Jia Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Honourable Mention</strong>
+</p>
+<p>Ong Ziyang Xavier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45<sup>th</sup> C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze Award</strong>
+</p>
+<p>Cheong Ceok Yip Dylan</p>
+<p>Ng Hong Zhi</p>
+<p>Ng Jia Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+</p>
+<p>Fiona Alicia Wee Hui Wen</p>
+<p>Yussoff Haqiki Bin Juraimi</p>
+<p>Lee Kai Xuan</p>
+<p>&nbsp;</p>
+<p><strong>Bronze Award</strong>
+</p>
+<p>Kenzo Poh Zeng Sia</p>
+<p>Aqif Aril Amsyar Bin Azizul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25<sup>th</sup> International Elementz Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<p>Kelly Sua Kai li</p>
+<p>Evelyn Clarista Miranda</p>
+<p>Paige Koh Jia Yi</p>
+<p>Rehaan Dev Perakash</p>
+<p>Wee Si En Janelle</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2024 Notable Accomplishments</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Crystal Growing Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Merit</strong>
+</p>
+<p>Loke Yu Ru Bernice</p>
+<p>Lorraine Tan Yishi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25<sup>th</sup> International Elementz Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Silver Award</strong>
+</p>
+<p>Oo LaDawn</p>
+<p>Tan Yujun</p>
+<p>Samantha Bella Vu Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Kah Kee Young Inventors’ Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Encouragement Award</strong>
+</p>
+<p>Oo LaDawn</p>
+<p>Tan Yujun</p>
+<p>Samantha Bella Vu Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IgnITE Skills Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gold Award</strong>
+</p>
+<p>Marsha Adhwaa Aliani Binte Abdullah</p>
+<p>Gan Ting Eng</p>
+<p>Goh Kor Qi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br><strong>2023 Notable Accomplishments</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SISTEMIC Voyager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Young Innovative Engineer Gold Award</strong>
+</p>
+<p>Liu Jia Wen</p>
+<p><strong>Young Innovative Engineer Bronze Award</strong>
+</p>
+<p>Lim Qian Xue</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Illustratum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Certificate of Merit</strong>
+</p>
+<p>Chloe Lim Rui Jia</p>
+<p>Ning Jing Qi</p>
+<p>Chen Jing Yang</p>
+<p>Liu Jia Wen</p>
+<p>Tisha Gupta</p>
+<p>Carie Oh Jing Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45<sup>th</sup> C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award</p>
+<p>Low Pin Jie Phlan</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p><strong><u>Notable Accomplishments</u></strong>
-<br><strong>NUS Crystal Growing Challenge 2024 - Merit Award</strong>
-<br>Awardees: Loke Yu Ru Bernice and Lorraine Tan Yishi</p>
-<p><strong>25th International Elementz Fair (2024) - Silver Award</strong>
-<br>Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p><strong>Tan Kah Kee Young Inventors’ Award 2024 - Encouragement Award</strong>
-<br>Awardees: Oo LaDawn, Tan Yujun and Samantha Bella Vu Jing Wen</p>
-<p><strong>IgnITE Skills Challenge 2024 - Gold Award </strong>
-<br>Awardees: Marsha Adhwaa Aliani Binte Abdullah, Gan Ting Eng and Goh Kor
-Qi</p>
-<p><strong>Illustratum 2023 - Merit Award</strong>
-<br>Awardees: Chloe Lim Rui Jia, Ning Jing Qi, Chen Jing Yang, Liu Jia Wen,
-Tisha Gupta and Carie Oh Jing Xuan</p>
+<p></p>
 <p></p>
