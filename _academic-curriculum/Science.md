@@ -484,7 +484,8 @@ paths.</p>
 <p>45<sup>th</sup> C.B. Paul Science Quiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award</p>
+<p><strong>Silver Award</strong>
+</p>
 <p>Low Pin Jie Phlan</p>
 </td>
 </tr>
