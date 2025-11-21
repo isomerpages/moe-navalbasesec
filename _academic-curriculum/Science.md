@@ -393,8 +393,7 @@ paths.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">NUS Crystal Growing Challenge</a>
-</p>
+<p>NUS Crystal Growing Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Merit</strong>
