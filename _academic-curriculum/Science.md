@@ -383,7 +383,7 @@ paths.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 Notable Accomplishments</strong>
+<p><strong><u>2024 Notable Accomplishments</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -440,8 +440,7 @@ paths.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>2023 Notable Accomplishments</strong>
+<p>&nbsp;<strong><u>2023 Notable Accomplishments</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
