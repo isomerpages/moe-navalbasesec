@@ -31,6 +31,9 @@ VIA projects (media related), Learning journeys to local media companies</p>
 <p><strong>Camps &amp; Bonding Activities:</strong> Termly team bonding activities
 conducted by Exco members</p>
 <h4>Achievements</h4>
+<p><strong>National Robotics Competition 2025</strong> – (3rd Place in Smorphi
+Pilot Challenge) Tay Ying Ying Amber, Tan En Hwee Olivia, Low Lee Wah Elina,
+Hou Yuchen</p>
 <p><strong>National Youth Tech Championship 2024 </strong>– (Semi-Finalists)
 Chester Yeo, Tock See Teng, Soo Jun Hao Ryan, Foo Chuan Tian, Ong Zi En</p>
 <p><strong>SYF Celebrations Photo Challenge 2023</strong> – (Selected as Official
