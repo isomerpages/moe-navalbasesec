@@ -383,7 +383,7 @@ paths.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>2024 Notable Accomplishments</u></strong>
+<p><strong>2024 Notable Accomplishments</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -393,7 +393,8 @@ paths.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUS Crystal Growing Challenge</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">NUS Crystal Growing Challenge</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Merit</strong>
@@ -440,7 +441,9 @@ paths.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong><u>2023 Notable Accomplishments</u></strong>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2023 Notable Accomplishments</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -488,6 +491,4 @@ paths.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
