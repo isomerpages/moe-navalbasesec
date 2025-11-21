@@ -322,8 +322,7 @@ paths.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Honourable Mention</strong>
 </p>
-<p>Ng Guo Rong Jeffrey</p>
-<p>&nbsp;</p>
+<p>Ng Guo Rong Jeffrey&nbsp;</p>
 <p><strong>Bronze Award</strong>
 </p>
 <p>Ng Jia Yi</p>
