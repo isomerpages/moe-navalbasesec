@@ -1,6 +1,6 @@
 ---
 title: 2026 Secondary 1 Registration
-permalink: /for-prospective-students/2026-secondary-1-registration/
+permalink: /for-prospective-students/2026-secondary-1-registration/2026-secondary-1-registration/
 description: ""
 third_nav_title: 2026 Secondary 1 Registration
 variant: tiptap
