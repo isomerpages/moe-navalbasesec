@@ -17,7 +17,7 @@ more information.</p>
 <p><strong><u>Appeal for Transfer (Non-Medical)</u></strong>
 </p>
 <p>Students who wish to appeal for a transfer to Naval Base Secondary School
-can submit their appeal by <strong>5pm of 29 December 2025</strong> using
+can submit their appeal by <strong>26 December 2025, 12pm</strong> using
 this online form <a href="https://go.gov.sg/nbssappeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssappeal</a>.
 Students who are posted to their schools under the DSA programme will not
 be allowed to transfer to another school.</p>
