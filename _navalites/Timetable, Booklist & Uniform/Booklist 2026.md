@@ -8,9 +8,9 @@ variant: tiptap
 <h1>Book Sales for 2026</h1>
 <p><strong>Books &amp; Stationery Purchase:</strong>
 </p>
-<p><strong>All</strong> books/stationery orders through the school bookshop
-vendor have to be made online at <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
-</p>
+<p>Parents are strongly encouraged to purchase through school bookshop or
+pre-order via our website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com </a> to
+ensure correct edition of books.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are offered SBB subjects: Please take care in selecting the
