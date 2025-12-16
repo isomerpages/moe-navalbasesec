@@ -39,7 +39,7 @@ variant: tiptap
 <p>Mr Lim Seow Kuan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal&nbsp;</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mr Muhammad Shahari B Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (Admin)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Crescendra Chong</p>
+<p>Ms Ong Xiu Ling (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department,&nbsp;English Language &amp; Literature</p>
@@ -95,7 +95,23 @@ variant: tiptap
 <p>Mr Loh Jiunn Shyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department,&nbsp;Guidance</p>
+<p>Head of Department,&nbsp;Guidance 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mun Shiun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department,&nbsp;Guidance 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Mei Yan Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Humanities</p>
 </td>
 </tr>
 <tr>
@@ -103,20 +119,12 @@ variant: tiptap
 <p>Mr Kenneth Sung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Humanities&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Chen Xiaoyun</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Head of Department, ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mr Eric Koh Zhen Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department, Mathematics</p>
@@ -144,6 +152,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department,&nbsp;Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maybelline Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Aesthetics, Craft &amp; Technology</p>
 </td>
 </tr>
 <tr>
@@ -188,18 +204,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maybelline Tay</p>
+<p>Ms Janessa Chang Cheng Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Aesthetics, Craft &amp; Technology</p>
+<p>Subject Head, ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charissa Ong</p>
+<p>Mr Daniel Troy Ingham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head, English Language &amp; Literature</p>
+<p>Subject Head, English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -224,14 +240,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head, Lower Sec Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Marinah Hasnan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -753,14 +761,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sharine Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Executive&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Leonie Low</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive&nbsp;</p>
