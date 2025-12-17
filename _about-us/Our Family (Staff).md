@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Shahari B Abu Bakar</p>
+<p>Mr Marc Wo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Xiu Ling (Covering)</p>
+<p>Ms Charissa Ong Xiu Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department,&nbsp;English Language &amp; Literature</p>
