@@ -30,7 +30,7 @@ when school officially begins.
 </li>
 <li>
 <p>To complete the registration, please go to our e-Registration Portal at
-<a href="https://enroll.edmension.com" rel="noopener noreferrer nofollow" target="_blank">https://enroll.edmension.com</a>from <strong>19 Dec 2025, 4pm</strong> onwards.
+<a href="https://enroll.diveanalytics.com/login" rel="noopener noreferrer nofollow" target="_blank">https://enroll.diveanalytics.com/login</a>from <strong>19 Dec 2025, 4pm</strong> onwards.
 Details available there include the following:</p>
 </li>
 </ol>
