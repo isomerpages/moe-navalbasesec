@@ -320,10 +320,10 @@ variant: tiptap
 <p>1 Anchor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yusman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tay Min Hui</p>
 </td>
 </tr>
 <tr>
@@ -331,10 +331,10 @@ variant: tiptap
 <p>1 Beacon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Addison Wong Hong Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Poovili Panisilvam</p>
 </td>
 </tr>
 <tr>
@@ -342,10 +342,10 @@ variant: tiptap
 <p>1 Compass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nurashikeen Bte Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Kok Meng</p>
 </td>
 </tr>
 <tr>
@@ -353,10 +353,10 @@ variant: tiptap
 <p>1 Danforth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Amanina Md Zain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Quek Poh Noi</p>
 </td>
 </tr>
 <tr>
@@ -364,10 +364,10 @@ variant: tiptap
 <p>1 Expedition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fan Yiming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Velukutty Ravindranath</p>
 </td>
 </tr>
 <tr>
@@ -375,10 +375,10 @@ variant: tiptap
 <p>1 Flagship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Herwanto Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zhang Jingda</p>
 </td>
 </tr>
 <tr>
@@ -386,21 +386,10 @@ variant: tiptap
 <p>1 Garrison</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chen Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Harbour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Nurul Ridha Farhanah</p>
 </td>
 </tr>
 <tr>
@@ -420,10 +409,10 @@ variant: tiptap
 <p>2 Anchor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vivien Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Afnie</p>
 </td>
 </tr>
 <tr>
@@ -431,10 +420,10 @@ variant: tiptap
 <p>2 Beacon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shirley Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pua Min Xin</p>
 </td>
 </tr>
 <tr>
@@ -442,10 +431,10 @@ variant: tiptap
 <p>2 Compass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chandrasekaran s/o Sockalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chang Ya-Wen</p>
 </td>
 </tr>
 <tr>
@@ -453,10 +442,10 @@ variant: tiptap
 <p>2 Danforth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Huang Peishi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jasmine Chua Jie Min</p>
 </td>
 </tr>
 <tr>
@@ -464,10 +453,10 @@ variant: tiptap
 <p>2 Expedition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>See Kok Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nur Aishah Binte Ja’afar</p>
 </td>
 </tr>
 <tr>
@@ -475,10 +464,10 @@ variant: tiptap
 <p>2 Flagship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Oh Wei Shi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shanthi Thamizhvnan</p>
 </td>
 </tr>
 <tr>
@@ -486,10 +475,21 @@ variant: tiptap
 <p>2 Garrison</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wong Yang Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Simon Teo Ann Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Harbour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joanne Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Naomi Chua</p>
 </td>
 </tr>
 <tr>
@@ -509,10 +509,10 @@ variant: tiptap
 <p>3 Anchor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shahirah Abdol Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yip Jing Ying</p>
 </td>
 </tr>
 <tr>
@@ -520,10 +520,10 @@ variant: tiptap
 <p>3 Beacon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Beryl Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chang Zhen Yu</p>
 </td>
 </tr>
 <tr>
@@ -531,10 +531,10 @@ variant: tiptap
 <p>3 Compass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Siti Anis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Seetoh Wai Yin</p>
 </td>
 </tr>
 <tr>
@@ -542,10 +542,10 @@ variant: tiptap
 <p>3 Danforth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Shawn Neo Zhe Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rosnita Juri</p>
 </td>
 </tr>
 <tr>
@@ -553,10 +553,10 @@ variant: tiptap
 <p>3 Expedition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Celine Chan Siying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Li Yifei</p>
 </td>
 </tr>
 <tr>
@@ -564,10 +564,10 @@ variant: tiptap
 <p>3 Flagship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Alfiyan Ahmad Buhari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Margaret Lim</p>
 </td>
 </tr>
 <tr>
@@ -575,10 +575,10 @@ variant: tiptap
 <p>3 Garrison</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Norlita Marsuki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gan Zi En</p>
 </td>
 </tr>
 <tr>
@@ -595,98 +595,87 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-1</p>
+<p>4 Anchor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sharinah Bte Mohamed Agbar Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Daniel Troy Ingham</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-3</p>
+<p>4 Beacon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Arthur Cheong Fook Oon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Nithya D/O Sukumaran</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-5</p>
+<p>4 Compass</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kasthuri Silria Sullivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Sherry Peng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-7</p>
+<p>4 Danforth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rashidah Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Emil Lua</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5-1</p>
+<p>4 Expedition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ong Seow Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leslie Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Flagship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janessa Chang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomas Lim Kian Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Garrison</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Irene Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramlah Bte Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Anchor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaspreet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
