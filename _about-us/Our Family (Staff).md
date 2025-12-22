@@ -77,6 +77,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Maybelline Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Aesthetics, Craft &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Loo Wen Bin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,10 +165,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maybelline Tay</p>
+<p>Mrs Rathna Raghesh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Aesthetics, Craft &amp; Technology</p>
+<p>Lead Teacher,&nbsp;English Language</p>
 </td>
 </tr>
 <tr>
@@ -169,14 +177,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher, PE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Rathna Raghesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher,&nbsp;English Language</p>
 </td>
 </tr>
 <tr>
@@ -197,54 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alvin Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Janessa Chang Cheng Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Troy Ingham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rashidah Binte Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head,&nbsp;Nutrition &amp; Food Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurashikeen Maidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Alfiyan Buhari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head, Lower Sec Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Amanina Md Zain &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,10 +213,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Fan Yiming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurashikeen Maidin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Janessa Chang Cheng Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Shirley Tan&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rashidah Binte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head,&nbsp;Nutrition &amp; Food Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Alfiyan Buhari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head, Lower Sec Science</p>
 </td>
 </tr>
 <tr>
@@ -277,10 +269,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fan Yiming</p>
+<p>Mr Alvin Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Chinese Language</p>
+<p>Subject Head, Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Troy Ingham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Covering), English Language &amp; Literature</p>
 </td>
 </tr>
 </tbody>
