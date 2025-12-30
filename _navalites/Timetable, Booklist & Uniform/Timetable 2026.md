@@ -36,20 +36,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/SEC_1_TT.pdf" rel="noopener nofollow" target="_blank">SEC 1 TT</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/SEC_2__TT.pdf" rel="noopener nofollow" target="_blank">SEC 2 TT</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/SEC_3_TT.pdf" rel="noopener nofollow" target="_blank">SEC 3 TT</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/SEC_4_5_TT.pdf" rel="noopener nofollow" target="_blank">SEC 4/5 TT</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
