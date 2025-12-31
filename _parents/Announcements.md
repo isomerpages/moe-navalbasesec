@@ -11,9 +11,9 @@ variant: tiptap
 <p>Our school community is very active on social media with frequent updates
 at <a href="https://www.facebook.com/navalbasesec" rel="noopener noreferrer nofollow" target="_blank">our Facebook page</a> and
 <a href="https://www.instagram.com/navalbasesec/" rel="noopener noreferrer nofollow" target="_blank">Instagram page</a>. Head over to see our Navalite community in action!</p>
-<h4><u>2024 Yearbook</u></h4>
-<p>We are pleased to share that a digital copy of our 2024 Yearbook is now
-available for <a href="https://drive.google.com/file/d/1APydRvz9v-560crCEcR_gkzlBOcXCiDt/view?usp=drive_link" rel="noopener nofollow" target="_blank">download!</a>
+<h4><u>2025 Yearbook</u></h4>
+<p>We are pleased to share that a digital copy of our 2025 Yearbook is now
+available for <a href="https://drive.google.com/file/d/17rfsgIusBk7iTdyLU8XMoZ9r-WGHQ6NJ/view" rel="noopener nofollow" target="_blank">download!</a>
 </p>
 <h2>Other Useful Resources</h2>
 <p>Please access the following links for other resources:</p>
