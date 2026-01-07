@@ -98,13 +98,13 @@ to society.&nbsp;</p>
 Singapore Polytechnic</p>
 </blockquote>
 <p></p>
-<h4>Teachers and Instructors</h4>
-<p>Mrs Osman (I/C)</p>
-<p>Mdm Norlita (2nd I/C)</p>
-<p>Ms Aishah (Digital Creators)</p>
-<p>Mdm Siti (Digital Creators)</p>
-<p>Ms Margaret Lim (Sculptural Studio)</p>
-<p>Ms Wendy Chiau (Sculptural Studio)</p>
+<h4>Teachers</h4>
+<p>Mrs Anis Osman (I/C)
+<br>Ms Norlita
+<br>Ms Siti Hajar
+<br>Ms Nur Aishah
+<br>Ms Margaret Lim</p>
+<p></p>
 <p>
 <br>
 </p>
