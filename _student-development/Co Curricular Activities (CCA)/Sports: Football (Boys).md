@@ -73,10 +73,11 @@ also reminded me of the joy and purpose that football brings." – Daniel,
 Sec 4-8</p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Mr Yusman B Ithnin (IC)</p>
-<p>Ms Kellie Kok</p>
+<p>Ms Kellie Kok (I/C)</p>
+<p>Mr Yusman Ithnin (2I/C)</p>
 <p>Mr Chandrasekaran</p>
 <p>Mr Emil Lua</p>
 <p>Mr Herwanto</p>
+<p></p>
 <p></p>
 <p></p>
