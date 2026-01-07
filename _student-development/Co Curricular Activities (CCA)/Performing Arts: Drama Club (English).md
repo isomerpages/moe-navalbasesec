@@ -39,7 +39,7 @@ Poh Yu Xin Lyne, 4-7</p>
 <p><em>Representing Naval Base Secondary School in the National Day Parade (NDP) 2024 was a memorable experience which has brought many positive outcomes for Drama Club! It was indeed a once in lifetime opportunity as we had to work alongside other schools and organisations for the nation’s grandest celebration!</em> –
 Samantha Bella Vu Jing Wen, 3 Expedition</p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p>Ms Sharinah Binte Mohamed Agbar Ali</p>
+<h4>Teachers </h4>
+<p>Ms Sharinah Binte Mohamed Agbar Ali (IC)</p>
 <p>Mdm Nithya Sukumaran</p>
 <p></p>
