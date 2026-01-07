@@ -44,8 +44,8 @@ pursue excellence in everything I do within choir.” -Chloe Tan Yi Jing
 this keeps me going when I study or do my schoolwork.” – Venus Chen (3
 Garrison, 2025)</p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p>Ms Grace Yang Hui Wong [I/C]</p>
+<h4>Teachers</h4>
+<p>Ms Grace Yang Hui Wong (I/C)</p>
 <p>Ms Chang Yawen</p>
-<p>Ms Lim Huimin [Conductor]</p>
+<p></p>
 <p></p>
