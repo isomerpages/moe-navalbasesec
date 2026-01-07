@@ -51,9 +51,9 @@ Flower Garland Making Workshop.</p>
 <p><strong><em>"I like Girl Guides because I get to try different activities. From service learning to outdoor cooking, there is always something new to learn.” – Adele, Sec 4</em></strong>
 </p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p>Ms Poovili (I/C)</p>
-<p>Ms Jaspreet</p>
-<p>Ms Joanne</p>
-<p>Ms Shidah</p>
+<h4>Teachers</h4>
+<p>Ms Poovili (I/C)
+<br>Ms Jaspreet
+<br>Ms Joanne</p>
+<p></p>
 <p></p>
