@@ -103,10 +103,10 @@ connection with each other and can work together and cheer one another
 up when needed” – Davien, Secondary 3</p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Mr Daniel Troy (I/C)</p>
-<p>Ms Celine Chan (2 I/C)</p>
-<p>Ms Nur Afnie</p>
-<p>Mr Zhang Jingda</p>
+<p>Mr Daniel Troy (I/C)
+<br>Ms Celine Chan (2 I/C)
+<br>Ms Nur Afnie
+<br>Mr Zhang Jingda</p>
 <p></p>
 <p></p>
 <p></p>
