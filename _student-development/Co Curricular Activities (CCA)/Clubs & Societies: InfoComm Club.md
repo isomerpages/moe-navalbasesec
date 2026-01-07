@@ -55,9 +55,11 @@ CCA. Most importantly, I’ve made unforgettable memories that will stay
 with me forever!” – Benedict Tay Kai Xun, Sec 4</p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Ms Janessa Chang (IC)</p>
-<p>Mr Velukitty Ravindranath</p>
-<p>Ms Yip Jing Ying</p>
-<p>Mr Leslie Tan</p>
-<p>Mr Gan Zi En</p>
+<p>Ms Janessa Chang (IC)
+<br>Mr Velukitty Ravindranath
+<br>Ms Yip Jing Ying
+<br>Mr Leslie Tan
+<br>Mr Gan Zi En
+<br>Ms Quek Poh Noi</p>
+<p></p>
 <p></p>
