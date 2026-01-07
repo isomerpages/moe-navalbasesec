@@ -42,7 +42,7 @@ camps, VIA or collaborations. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <h4>Achievements</h4>
 <p>Unit Overall Proficiency Award 2024 – Distinction
 <br>SPF-NPCC Award</p>
-<h4>Teachers and Coaches</h4>
+<h4>Teachers</h4>
 <p>Mr Teo Ann Peng Simon (OC)
 <br>Ms Cheng Vivien (DyOC)
 <br>Ms See Toh Wai Yin
