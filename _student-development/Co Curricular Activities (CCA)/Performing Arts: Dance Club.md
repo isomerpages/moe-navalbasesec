@@ -45,10 +45,10 @@ understanding, growing not just as performers but as well-rounded individuals.</
 </p>
 </blockquote>
 <h4><strong>Teachers</strong></h4>
-<p>Mr Tharmendra (IC)</p>
-<p>Mr Addison Wong (2IC)</p>
-<p>Ms Farhanah</p>
-<p>Ms Kasthuri</p>
+<p>Mr Tharmendra (IC)
+<br>Mr Addison Wong (2 IC)
+<br>Ms Farhanah
+<br>Ms Kasthuri</p>
 <p></p>
 <p></p>
 <p></p>
