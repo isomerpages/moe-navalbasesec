@@ -62,8 +62,8 @@ and communication skills while growing into confident and capable leaders.</p>
 <p><em>-SSG (NCC) Venugopal Pranav Charan on his experience in preparing the Freestyle Drill Team for the competition</em>
 </p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p>Mr Alvin Tay (Commanding Officer)
+<h4>Teachers </h4>
+<p>Mr Alvin Tay (I/C)
 <br>Mr Arthur Cheong (2 I/C)
 <br>Ms Jasmine Chua (Teacher Officer)
 <br>Ms Shahirah (Teacher Officer)</p>
