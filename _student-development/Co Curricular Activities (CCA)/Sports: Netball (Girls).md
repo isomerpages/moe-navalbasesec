@@ -48,9 +48,10 @@ high standards in all their endeavours.</p>
 </p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Ms Oh Wei Shi (IC)</p>
-<p>Mdm Ramlah</p>
-<p>Ms Naomi Chua
+<p>Ms Oh Wei Shi (IC)
+<br>Mdm Ramlah
+<br>Ms Naomi Chua
+<br>Mdm Sherry Peng
 <br>
 </p>
 <p></p>
