@@ -60,15 +60,9 @@ Competition, Friendly Games with Other Schools</p>
 <p><strong><em>"Being a part of this Table Tennis CCA has really brought out the best in me. I have been given various responsibilities such as leading my juniors in competitions. " – Titus, Sec 3</em></strong>
 </p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p><u>Teachers</u>
-</p>
-<p>Ms Chang Zhen Yu (IC)</p>
-<p>Ms Chen Xingli</p>
-<p>Mr Pua Min Xin</p>
-<p>Ms Tay Min Hui</p>
-<p><u>Coaches</u>
-</p>
-<p>Mr Stephen Tan Peng Meng</p>
-<p>Ms Sandy Chew Seow Lan</p>
+<h4>Teachers</h4>
+<p>Ms Chang Zhen Yu (IC)
+<br>Mr Pua Min Xin
+<br>Ms Tay Min Hui</p>
+<p></p>
 <p></p>

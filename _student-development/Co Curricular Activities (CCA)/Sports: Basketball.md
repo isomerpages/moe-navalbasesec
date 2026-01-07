@@ -102,13 +102,14 @@ friends with one another, and it feels more like a family than just a team.”
 connection with each other and can work together and cheer one another
 up when needed” – Davien, Secondary 3</p>
 </blockquote>
-<h4>Teachers and Coaches</h4>
-<p>Mr Daniel Troy (I/C)</p>
-<p>Ms Celine Chan (2 I/C)</p>
-<p>Ms Nur Afnie</p>
-<p>Mr Zhang Jingda</p>
-<p>Head coach: Mr Hor Wei Jie <strong>(Scholar Basketball Academy)</strong>
-</p>
-<p>Assistant coach: Mr Muhammad Nur Alfilail <strong>(Scholar Basketball Academy)</strong>
-</p>
+<h4>Teachers</h4>
+<p>Mr Daniel Troy (I/C)
+<br>Ms Celine Chan (2 I/C)
+<br>Ms Nur Afnie
+<br>Mr Zhang Jingda</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

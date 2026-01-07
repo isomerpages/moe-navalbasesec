@@ -44,14 +44,11 @@ understanding, growing not just as performers but as well-rounded individuals.</
 <p><strong><em>"Leading the NBSS Dance CCA has been a challenging yet incredibly fulfilling experience. Managing a team of over 60 dancers taught me that leadership goes beyond giving instructions. It's about listening, supporting others, and setting a positive and fun example. Through practices and performances across genres like Hip Hop, Indian Dance, and more, I’ve grown not just in dance, but in confidence, patience, and communication. I learnt how to manage different personalities, handle pressure, and keep the team motivated. This journey has deepened my appreciation for cultural diversity and the value of teamwork. Furthermore, dance is an experience that I would never regret doing despite the hardships and difficulties showing a sense of resilience and determination. Being a student leader has helped me become more resilient, responsible, and open-minded—skills I know I’ll carry with me beyond NBSS. " - Joash Lim, Sec 4</em></strong>
 </p>
 </blockquote>
-<h4><strong>Teachers in Charge</strong></h4>
-<p>Mr Tharmendra</p>
-<p>Mr Addison Wong</p>
-<p>Miss Farhanah</p>
-<p>Ms Kasthuri</p>
+<h4><strong>Teachers</strong></h4>
+<p>Mr Tharmendra (IC)
+<br>Mr Addison Wong (2 IC)
+<br>Ms Farhanah
+<br>Ms Kasthuri</p>
 <p></p>
-<p><strong>Coaches</strong>
-</p>
-<p>Mr Faliq</p>
-<p>Mrs Jega</p>
+<p></p>
 <p></p>

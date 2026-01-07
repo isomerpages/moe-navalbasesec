@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Portraits___P.jpg">
 </div>
-<p>Naval Base Secondary School has a proud heritage spanning 68 years. From
+<p>Naval Base Secondary School has a proud heritage spanning 69 years. From
 our humble beginnings in 1957 as a school for Naval Base employees, we
 have grown into a vibrant learning community.</p>
 <p>Our school motto, <em>Enitamur In Altiora</em>—"<em>Be Our Best</em>"—guides
@@ -32,7 +32,7 @@ As a school leader with a background in staff development, I deeply believe
 that educators should never "run on empty." That is why we invest in their
 growth, ensuring they continually refine their craft and remain exemplary
 learners for their students.</p>
-<p>As we step into 2025, new possibilities and experiences await. I am committed
+<p>As we step into 2026, new possibilities and experiences await. I am committed
 to journeying alongside every member of the Naval Base family, guiding
 our students to realize their full potential. Together, through resilient
 learning and steadfast solidarity, we will become the best versions of

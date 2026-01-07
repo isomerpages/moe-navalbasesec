@@ -140,15 +140,13 @@ of patience.” Maegan Kam, Sec 4-7</p>
 I cherish the camaraderie as we support each other's growth and musical
 development. " – Strefen Phua, Sec 4-6</p>
 </blockquote>
-<h4>Teachers and Instructors</h4>
-<p><strong><u>Teachers </u></strong>
-<br>Mrs Susheela Vijayarhagavan
-<br>Ms Ong Seow Wei
-<br>Mr Lim Kian Huat Thomas
-<br>Ms Sherry Peng SY
+<h4>Teachers </h4>
+<p>Ms Ong Seow Wei (I/C)
+<br>Mr Thomas Lim
+<br>Mr Bernie Chia</p>
+<p>
 <br>
-<br><strong><u>Instructors</u></strong>
-<br>Senior Band Director: Mr Chiang Yick Keet, Adrian
-<br>Main Band Director: Mr Phua Peh Ming Samuel
-<br>Percussion Tutor: Mr Tan Pei Jie, Michael</p>
+<br>
+<br>
+</p>
 <p></p>
