@@ -45,7 +45,7 @@ this keeps me going when I study or do my schoolwork.” – Venus Chen (3
 Garrison, 2025)</p>
 </blockquote>
 <h4>Teachers</h4>
-<p>Ms Grace Yang Hui Wong (I/C)</p>
-<p>Ms Chang Yawen</p>
+<p>Ms Grace Yang Hui Wong (I/C)
+<br>Ms Chang Yawen</p>
 <p></p>
 <p></p>
