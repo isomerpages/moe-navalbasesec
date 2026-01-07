@@ -60,7 +60,7 @@ especially when preparing for competitions and navigating challenges.&nbsp; <str
 </blockquote>
 <p></p>
 <h4>Teachers</h4>
-<p>Mr See Kok Han (IC)</p>
-<p>Mdm Shanthi</p>
+<p>Mr See Kok Han (IC)
+<br>Mdm Shanthi</p>
 <p></p>
 <p></p>
