@@ -73,12 +73,12 @@ mobile phones or other expensive valuables are to be left at home. The
 school shall not be responsible for the loss or damage of such items.</p>
 </li>
 <li>
-<p>always switches off and keeps out of sight his/her mobile phones during
-curriculum hours (7:20 a.m. to 3:00 p.m) on all days (except Friday, 12:30
-p.m.) so as to maintain a conducive environment that nurtures meaningful
-interactions and social skill-building. The use or display of mobile phones
-is strictly prohibited during these hours including recess, lunch breaks
-and self-study periods.</p>
+<p>understands that the use of mobile phones, smartwatches and smart glasses
+are prohibited in school. Any such devices brought to school must remain
+switched off and kept completely out of sight throughout the entire school
+day - including recess, co-curricular activities, supplementary/enrichment/remedial
+lessons, etc. This is in line with Ministry of Education's enhanced measures
+to foster healthier digital habits and strengthen student well-being.</p>
 </li>
 <li>
 <p>exercises personal responsibility and always observes prevailing safe
