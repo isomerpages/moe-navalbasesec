@@ -1,0 +1,45 @@
+logo: /images/logohome.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Academic
+    collection: academic-curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Prospective Students
+    url: /the-naval-base-experience/
+    sublinks:
+      - title: The Navalite Experience
+        url: /the-naval-base-experience/
+      - title: DSA @ NBSS
+        url: /nbss-curriculum/dsa-at-nbss/
+      - title: Social Media
+        url: /for-prospective-students/socialmedia/
+      - title: 2026 Secondary 1 Registration
+        url: /for-prospective-students/2026-secondary-1-registration/2026-secondary-1-registration/
+  - title: Navalites
+    url: /for-navalites/home-based-learning
+    sublinks:
+      - title: Home-Based Learning
+        url: /for-navalites/home-based-learning
+      - title: Counselling and Guidance
+        url: /for-navalites/guidance-and-counselling/counselling
+      - title: Sec 3 Subject Combinations
+        url: /for-navalites/sec3subjcomb
+      - title: Poly EAE
+        url: /for-navalites/poly-eae
+      - title: ITE EAE
+        url: /for-navalites/iteeae
+      - title: Timetable, Booklist & Uniform
+        url: /for-navalites/timetable-booklist-n-uniform/
+      - title: Financial Assistance
+        url: /for-navalites/financial-assistance/moe-financial-assistance-scheme
+  - title: Parents
+    url: /nbss/announcements/
+    sublinks:
+      - title: Announcements
+        url: /nbss/announcements/
+      - title: Termly letters
+        url: /parents-at-nbss/termly-letters
+      - title: Personal Learning Devices
+        url: /parents/permalink/

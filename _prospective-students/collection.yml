@@ -1,0 +1,17 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - The Naval Base Experience.md
+      - DSA @ NBSS/.keep
+      - DSA @ NBSS/DSA @ NBSS.md
+      - DSA @ NBSS/Why NBSS?.md
+      - DSA @ NBSS/Selection Criteria.md
+      - DSA @ NBSS/Application Process.md
+      - DSA @ NBSS/Expectations of DSA Students.md
+      - Social Media.md
+      - 2026 Secondary 1 Registration/.keep
+      - 2026 Secondary 1 Registration/Enquiries on Appeal and School Transfer.md
+      - 2026 Secondary 1 Registration/School Smart Cards for Concessionary
+        Travel.md
+      - 2026 Secondary 1 Registration/2026 Secondary 1 Registration.md

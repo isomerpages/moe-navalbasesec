@@ -1,0 +1,27 @@
+collections:
+  academic-curriculum:
+    output: true
+    order:
+      - Overview.md
+      - Full Subject Based Banding.md
+      - Talent Development @ NBSS.md
+      - English Language & Literature.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Physical Education/.keep
+      - Physical Education/Physical Education.md
+      - Physical Education/Information on PE.md
+      - Design & Technology.md
+      - Nutrition and Food Science (NFS).md
+      - Computer Applications & Computing G1.md
+      - Music/.keep
+      - Music/Music.md
+      - Music/General Music Programme (GMP).md
+      - Music/Ordinary Level Music.md
+      - Music/O Level Music Eligibility and Selection Criteria.md
+      - Music/O Level Music Application Process and Key Dates.md
+      - Music/Music Recording & Production Programme (MRPP).md
+      - Music/Music Related Courses in Post Secondary Education.md
+      - Art Curriculum.md
