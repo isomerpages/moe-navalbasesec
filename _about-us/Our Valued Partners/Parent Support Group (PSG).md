@@ -43,15 +43,21 @@ thus helping them to reach their potential.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
 </p>
-<p>Please click [<a href="https://docs.google.com/forms/d/1SvNPJSL065DigaoOnHjgJC3BIX6DFZoCccteTtRXybQ/edit" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
-to join our parent support group!</p>
-<p><strong><u>2025 PSG Calendar of Events</u></strong>
+<p><a href="https://drive.google.com/drive/folders/1Nc6IubNmPnLY6JvYME-CE9ZR1AhNLMDM?usp=drive_link" rel="noopener nofollow" target="_blank">2026</a>
+</p>
+<p>Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCAkFmRg4uPZdy8xncc5kUaNXl-20Z0YGtgNuZbxbgXHdbsA/viewform" rel="noopener nofollow" target="_blank">Here</a> to
+join our parent support group!</p>
+<p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
+<p>Semester 1</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Calendar_of_Events__21_Jan_School_Webpage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sem 1" src="/images/2026 PSG/sem_1.jpg">
 </div>
-<p></p>
+<p>Semester 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sem 2" src="/images/2026 PSG/sem_2.jpg">
+</div>
 <p><strong>The MOE PSG Portal</strong>
 </p>
 <p>Here are some resources for parents:&nbsp;</p>
@@ -71,7 +77,7 @@ to join our parent support group!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/psg-online-guide" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 learn how to set up a PSG, sustain their involvement, and plan for succession.</p>
 </td>
 </tr>
@@ -92,49 +98,16 @@ learn how to set up a PSG, sustain their involvement, and plan for succession.</
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/psg-resources-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access resources for PSGs to refer to throughout the year.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;<strong>&nbsp;Experiences shared by PSGs on Schoolbag</strong>
+<p>&nbsp;<strong>&nbsp;</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 PSG/partnering_teachers___doing_it_the_right_way.jpg">
-</div>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/let-us-chat!-admiralty-sec-s-parent-support-group-gets-everyone-talking" rel="noopener noreferrer nofollow" target="_blank">Let Us Chat! Admiralty Sec’s Parent Support Group gets everyone talking</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/from-parent-support-group-members-to-pals-for-life" rel="noopener noreferrer nofollow" target="_blank">From Parent Support Group members at Anchor Green Primary School to pals for life</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/parent-coaches-count-at-chongfu-school" rel="noopener noreferrer nofollow" target="_blank">Parent-coaches count at Chongfu School</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/parent-support-group-that-supports-students-through-loss" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group at Greendale Primary School supports students through loss</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/creating-a-website-for-your-parent-support-group-5-things-you-need-to-know" rel="noopener noreferrer nofollow" target="_blank">Creating a website for your parent support group? 5 things you need to know by Maris Stella High School (Primary)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.schoolbag.edu.sg/story/our-awareness-can-do" rel="noopener noreferrer nofollow" target="_blank">'Our awareness can do so much for our children.' - Bringing this knowledge to School of the Art’s Parent Support Group</a>
-</p>
-</li>
-</ul>
 <p></p>
 <p></p>
 <p></p>
