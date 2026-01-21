@@ -43,8 +43,7 @@ thus helping them to reach their potential.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
 </p>
-<p>Please click [<a href="https://docs.google.com/forms/d/1SvNPJSL065DigaoOnHjgJC3BIX6DFZoCccteTtRXybQ/edit" rel="noopener noreferrer nofollow" target="_blank">Here</a>]
-to join our parent support group!</p>
+<p>Please click [] to join our parent support group!</p>
 <p><strong><u>2025 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
