@@ -102,7 +102,8 @@ learn how to set up a PSG, sustain their involvement, and plan for succession.</
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click to access resources for PSGs to refer to throughout the year.</p>
+<p>Click <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener nofollow" target="_blank">here</a> to
+access resources for PSGs to refer to throughout the year.</p>
 </td>
 </tr>
 </tbody>
