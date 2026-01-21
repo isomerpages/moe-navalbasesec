@@ -67,7 +67,6 @@ join our parent support group!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/Picture1.jpg">
 </div>
@@ -89,7 +88,6 @@ learn how to set up a PSG, sustain their involvement, and plan for succession.</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG1" src="/images/2026 PSG/Picture2.jpg">
 </div>
