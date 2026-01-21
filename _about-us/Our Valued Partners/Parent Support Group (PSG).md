@@ -43,14 +43,24 @@ thus helping them to reach their potential.</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
 </p>
+<p><a href="https://drive.google.com/drive/folders/1Nc6IubNmPnLY6JvYME-CE9ZR1AhNLMDM?usp=drive_link" rel="noopener nofollow" target="_blank">2026</a>
+</p>
 <p>Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCAkFmRg4uPZdy8xncc5kUaNXl-20Z0YGtgNuZbxbgXHdbsA/viewform" rel="noopener nofollow" target="_blank">Here</a> to
 join our parent support group!</p>
-<p><strong><u>2025 PSG Calendar of Events</u></strong>
+<p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
+<p>Semester 1</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_Calendar_of_Events__21_Jan_School_Webpage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sem 1" src="/images/2026 PSG/sem_1.jpg">
 </div>
+<p>Semester 2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sem 2" src="/images/2026 PSG/sem_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
 </p>
