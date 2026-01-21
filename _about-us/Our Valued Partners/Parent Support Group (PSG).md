@@ -50,14 +50,10 @@ join our parent support group!</p>
 <p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
-<p>Semester 1</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sem 1" src="/images/2026 PSG/sem_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="sem" src="/images/2026 PSG/PSG2026_c.jpg">
 </div>
-<p>Semester 2</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sem 2" src="/images/2026 PSG/sem_2.jpg">
-</div>
+<p></p>
 <p><strong>The MOE PSG Portal</strong>
 </p>
 <p>Here are some resources for parents:&nbsp;</p>
@@ -73,7 +69,7 @@ join our parent support group!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/Picture1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,8 +89,9 @@ learn how to set up a PSG, sustain their involvement, and plan for succession.</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 PSG/Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PSG1" src="/images/2026 PSG/Picture2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
