@@ -81,8 +81,8 @@ join our parent support group!</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click to learn how to set up a PSG, sustain their involvement, and plan
-for succession.</p>
+<p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
+learn how to set up a PSG, sustain their involvement, and plan for succession.</p>
 </td>
 </tr>
 </tbody>
@@ -102,8 +102,7 @@ for succession.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click <a href="https://go.gov.sg/psg-resources-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access resources for PSGs to refer to throughout the year.</p>
+<p>Click to access resources for PSGs to refer to throughout the year.</p>
 </td>
 </tr>
 </tbody>
