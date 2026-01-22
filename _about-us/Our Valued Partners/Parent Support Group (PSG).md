@@ -71,7 +71,7 @@ with the aim to raise a happy, confident and kind generation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
