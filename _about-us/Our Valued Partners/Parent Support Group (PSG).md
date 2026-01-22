@@ -56,9 +56,8 @@ join our parent support group!</p>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
 <br>Here are some resources for parents:&nbsp;</p>
-<p><strong>&nbsp;Quick Links</strong>
-</p>
-<p>The refreshed guidelines for School-Home Partnership launched in 2024
+<p><strong>Quick Links</strong>
+<br>The refreshed guidelines for School-Home Partnership launched in 2024
 is a common frame for parents and educators to align their needs and expectations
 for each other and to work towards a positive culture of partnerships,
 with the aim to raise a happy, confident and kind generation.</p>
