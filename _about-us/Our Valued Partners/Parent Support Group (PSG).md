@@ -75,7 +75,6 @@ with the aim to raise a happy, confident and kind generation.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access more information.</p>
 </td>
