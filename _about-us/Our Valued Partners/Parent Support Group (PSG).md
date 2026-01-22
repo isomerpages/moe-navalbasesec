@@ -72,12 +72,10 @@ join our parent support group!</p>
 is a common frame for parents and educators to align their needs and expectations
 for each other and to work towards a positive culture of partnerships,
 with the aim to raise a happy, confident and kind generation.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
 </div>
