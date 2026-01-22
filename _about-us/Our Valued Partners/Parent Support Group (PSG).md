@@ -59,6 +59,7 @@ join our parent support group!</p>
 <p>Here are some resources for parents:&nbsp;</p>
 <p><strong>&nbsp;Quick Links</strong>
 </p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,16 +67,22 @@ join our parent support group!</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/Picture1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>The refreshed guidelines for School-Home Partnership launched in 2024
 is a common frame for parents and educators to align their needs and expectations
 for each other and to work towards a positive culture of partnerships,
 with the aim to raise a happy, confident and kind generation.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access more information.</p>
 </td>
