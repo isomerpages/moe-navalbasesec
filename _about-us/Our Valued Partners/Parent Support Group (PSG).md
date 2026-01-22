@@ -62,6 +62,9 @@ with the aim to raise a happy, confident and kind generation.
 <br>Click&nbsp; <a href="https://psg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://psg.moe.edu.sg/</a> to
 access to more information.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/PSGd.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
