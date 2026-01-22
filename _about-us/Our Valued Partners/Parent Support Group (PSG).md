@@ -55,10 +55,13 @@ join our parent support group!</p>
 </div>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
-</p>
-<p>Here are some resources for parents:&nbsp;</p>
+<br>Here are some resources for parents:&nbsp;</p>
 <p><strong>&nbsp;Quick Links</strong>
 </p>
+<p>The refreshed guidelines for School-Home Partnership launched in 2024
+is a common frame for parents and educators to align their needs and expectations
+for each other and to work towards a positive culture of partnerships,
+with the aim to raise a happy, confident and kind generation.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -68,21 +71,19 @@ join our parent support group!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/Picture1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The refreshed guidelines for School-Home Partnership launched in 2024
-is a common frame for parents and educators to align their needs and expectations
-for each other and to work towards a positive culture of partnerships,
-with the aim to raise a happy, confident and kind generation.</p>
 <p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access more information.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>&nbsp;Resources for PSGs</strong>
+<p>&nbsp;<strong>&nbsp;</strong>
+</p>
+<p><strong>Resources for PSGs</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
