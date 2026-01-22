@@ -79,10 +79,11 @@ with the aim to raise a happy, confident and kind generation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="psg2" src="/images/2026 PSG/Picture1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Click <a href="https://psg.moe.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to
 access more information.</p>
 </td>
