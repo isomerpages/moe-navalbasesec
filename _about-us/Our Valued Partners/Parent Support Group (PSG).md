@@ -101,6 +101,7 @@ join our parent support group!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 PSG/2026_PSG_Calendar_of_Events_260126_JPG.jpg">
 </div>
+<p></p>
 <p><strong>The MOE PSG Portal</strong>
 <br>The refreshed guidelines for School-Home Partnership launched in 2024
 is a common frame for parents and educators to align their needs and expectations
@@ -109,6 +110,9 @@ with the aim to raise a happy, confident and kind generation.
 <br>Click&nbsp; <a href="https://psg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://psg.moe.edu.sg/</a> to
 access to more information.</p>
 <p></p>
+<p><strong>PSG Resources</strong>
+<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/PSGd.jpg">
 </div>
