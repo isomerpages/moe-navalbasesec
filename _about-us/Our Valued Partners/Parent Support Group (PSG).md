@@ -28,30 +28,75 @@ and activities to develop our Navalites holistically. By working hand in
 hand with the school, our PSG is involved in the school lives of our Navalites,
 thus helping them to reach their potential.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_from_2023_to_2025.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Org_Chart_2__2025_to_2026_.jpg">
 </div>
 <p></p>
 <p>Here are the highlights of the PSG’s involvement and contributions in:</p>
-<p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
-</p>
-<p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
-</p>
-<p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
-</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1Nc6IubNmPnLY6JvYME-CE9ZR1AhNLMDM?usp=drive_link" rel="noopener nofollow" target="_blank">2026</a>
 </p>
+</th>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCAkFmRg4uPZdy8xncc5kUaNXl-20Z0YGtgNuZbxbgXHdbsA/viewform" rel="noopener nofollow" target="_blank">Here</a> to
 join our parent support group!</p>
 <p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sem" src="/images/2026 PSG/PSG2026_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 PSG/2026_PSG_Calendar_of_Events_260126_JPG.jpg">
 </div>
 <p></p>
 <p><strong>The MOE PSG Portal</strong>
@@ -62,28 +107,11 @@ with the aim to raise a happy, confident and kind generation.
 <br>Click&nbsp; <a href="https://psg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://psg.moe.edu.sg/</a> to
 access to more information.</p>
 <p></p>
+<p><strong>PSG Resources</strong>
+<br><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/PSGd.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;<strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p>&nbsp;<strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>&nbsp;</p>
