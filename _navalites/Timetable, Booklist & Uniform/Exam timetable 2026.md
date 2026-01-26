@@ -98,6 +98,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -144,6 +145,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
