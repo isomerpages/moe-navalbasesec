@@ -91,13 +91,10 @@ thus helping them to reach their potential.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCAkFmRg4uPZdy8xncc5kUaNXl-20Z0YGtgNuZbxbgXHdbsA/viewform" rel="noopener nofollow" target="_blank">Here</a> to
 join our parent support group!</p>
 <p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 PSG/2026_PSG_Calendar_of_Events_260126_JPG.jpg">
 </div>
@@ -116,25 +113,5 @@ access to more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PSG" src="/images/2026 PSG/PSGd.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;<strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p>&nbsp;<strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>&nbsp;</p>
