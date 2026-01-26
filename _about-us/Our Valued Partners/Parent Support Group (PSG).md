@@ -34,23 +34,73 @@ thus helping them to reach their potential.</p>
 </div>
 <p></p>
 <p>Here are the highlights of the PSG’s involvement and contributions in:</p>
-<p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
-</p>
-<p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
-</p>
-<p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
-</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><a href="https://drive.google.com/drive/folders/1Nc6IubNmPnLY6JvYME-CE9ZR1AhNLMDM?usp=drive_link" rel="noopener nofollow" target="_blank">2026</a>
 </p>
+</th>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/12pcYVPE3ZxU4uxYoV0yZYsbdWB5_s45X?usp=sharing" rel="noopener nofollow" target="_blank">2025</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1XYYVa1uN4i_PDagUG2fjPJkQd2SoTjRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1hRkivWA_V1FHsPuT1yDPVWiQI_x7nbG9?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Please click <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCAkFmRg4uPZdy8xncc5kUaNXl-20Z0YGtgNuZbxbgXHdbsA/viewform" rel="noopener nofollow" target="_blank">Here</a> to
 join our parent support group!</p>
 <p><strong><u>2026 PSG Calendar of Events</u></strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sem" src="/images/2026 PSG/PSG2026_c.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 PSG/2026_PSG_Calendar_of_Events_260126_JPG.jpg">
+</div>
 <p><strong>The MOE PSG Portal</strong>
 <br>The refreshed guidelines for School-Home Partnership launched in 2024
 is a common frame for parents and educators to align their needs and expectations
