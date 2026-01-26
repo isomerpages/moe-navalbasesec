@@ -43,41 +43,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Examination:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students involved:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timetable:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1 WA</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,41 +55,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Examination:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students involved:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timetable:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1 WA</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,41 +65,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Examination:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Students involved:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Timetable:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1 FA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4</p>
