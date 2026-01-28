@@ -67,21 +67,34 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p>At Naval Base Secondary School, the following lessons from The Sexuality
 Education Programme and eTeens Programme (for Secondary 3 only) will be
-taught in 2025. Click this: <a href="/files/SE Edu/SEd_lessons_2025.pdf" rel="noopener nofollow" target="_blank">SEd_lessons_2025</a>
+taught in 2025. Click this:</p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:
+<br>8. eTeens is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. eTeens is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the eTeens programme is that students are empowered to make wise, informed
+and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.
+<br>9. Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.
+<br><strong>At Naval Base Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p><strong>INFORMATION FOR PARENTS</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<p>8- Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>9- Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also found <a href="https://form.gov.sg/67908afbaaafa93a925b50c3" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 19/02/2025.</p>
-<p>10- Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also found <a href="https://form.gov.sg/67908e52a3dde37902840951" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed
-form is to be submitted by 19/02/2025.</p>
-<p>11- Parents can contact the school at nbss@moe.edu.sg or 6257 1996 for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="/files/SE Edu/SEd_lessons_2025.pdf" rel="noopener nofollow" target="_blank">SEd_lessons_2025</a>
+</p>
