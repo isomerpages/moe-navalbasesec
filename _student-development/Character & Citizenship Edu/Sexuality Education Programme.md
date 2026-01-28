@@ -84,17 +84,32 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.
-<br><strong>At Naval Base Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+<br><strong>At Naval Base Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eteen" src="/images/eteens_2026.jpg">
+</div>
+<p><strong>Information for Parents</strong>
+</p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.
+<br>11.&nbsp;Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://form.gov.sg/69784f086cfb7224d456bfaf" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69784f086cfb7224d456bfaf</a> The
+completed form is to be submitted by 20/02/2026.
+<br>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://form.gov.sg/6978505b9f57b042a443cc11" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6978505b9f57b042a443cc11</a>
+<br>The completed form is to be submitted by 20/02/26.
+<br>13. Parents can contact the school at <a href="mailto:nbss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nbss@moe.edu.sg</a> or <a href="tel:+6562571996" rel="noopener noreferrer nofollow" target="_blank">6257 1996</a> &nbsp;for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
+<p>
+<br>
+<br>
 </p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="/files/SE Edu/SEd_lessons_2025.pdf" rel="noopener nofollow" target="_blank">SEd_lessons_2025</a>
-</p>
