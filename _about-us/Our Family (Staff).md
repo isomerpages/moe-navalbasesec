@@ -673,10 +673,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Anchor</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jaspreet Kaur</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
