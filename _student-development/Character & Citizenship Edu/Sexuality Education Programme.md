@@ -69,7 +69,8 @@ issues related to sexuality, which are of prime concern at this age.</p>
 Education Programme and eTeens Programme (for Secondary 3 only) will be
 taught in 2026. Click this: <a href="/files/NBSS_SEd_lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
 </p>
-<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>: (For Sec 3 students
+ONLY)
 <br>8. eTeens is a programme that was developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
 students with accurate information on STIs, HIV and protection from a health
