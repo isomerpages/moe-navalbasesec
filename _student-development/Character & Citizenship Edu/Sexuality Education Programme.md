@@ -94,6 +94,8 @@ Abstinence and upholding family values are the key messages.
 </div>
 <p><strong>Information for Parents</strong>
 </p>
+<p>A copy of the principal’s letter to parents can be obtained <a href="/files/Principal_s_letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.
