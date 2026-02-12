@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS.md
       - Announcements.md
       - Termly letters.md
       - Personal Learning Devices (PLD).md
