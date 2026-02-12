@@ -14,7 +14,7 @@ The proximate or triggering causes of injuries must be reasonably attributed
 to an accident.</p>
 </li>
 </ol>
-<p>GPA Product Fact Sheet:&nbsp;<a href="https://www.navalbasepri.moe.edu.sg/files/For%20Parents/GPA%20Insurance/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank"><u>Product Fact Sheet(Year 2026)</u></a>
+<p>GPA Product Fact Sheet:&nbsp;<a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank"><u>Product Fact Sheet(Year 2026)</u></a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
