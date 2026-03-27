@@ -769,6 +769,12 @@ with differentiated learning approaches for various student groups.</p>
 <br><strong>2023: Inspiring Teacher of English Award (Leadership)</strong>
 </p>
 <p>Mrs Crescendra Chong-Tan (HOD, English Language and Literature)</p>
+<p><strong>2023: National Day Commendation Medal</strong>
+</p>
+<p>Ms Lisa Boon (HOD, Science)</p>
+<p><strong>2023: National Day Long Service Award</strong>
+</p>
+<p>Mr Tharmendra Jeyaraman (Assistant Year Head)</p>
 <p><strong>2022: National Day Commendation Medal</strong>
 </p>
 <p>Mr Lim Seow Kuan (Vice-Principal)</p>
