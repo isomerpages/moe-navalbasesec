@@ -16,9 +16,5 @@ can be filed in person or through email. Please contact the school for
 more information.</p>
 <p><strong><u>Appeal for Transfer (Non-Medical)</u></strong>
 </p>
-<p>Students who wish to appeal for a transfer to Naval Base Secondary School
-can submit their appeal by <strong>26 December 2025, 12pm</strong> using
-this online form <a href="https://go.gov.sg/nbssappeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nbssappeal</a>.
-Students who are posted to their schools under the DSA programme will not
-be allowed to transfer to another school.</p>
+<p>Students who wish to appeal for a transfer should write to <strong>nbss@moe.edu.sg</strong>.</p>
 <p></p>
