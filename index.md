@@ -14,5 +14,5 @@ sections:
         - title: Social Media
           description: View Our Latest Happenings!
           url: /nbss/socmed
-      background: /images/2024 banner/NBSS_OH_FB_BANNER_2026a.jpg
+      background: /images/Banner/WEBSITE_BANNER_2026_jpg.jpg
 ---
