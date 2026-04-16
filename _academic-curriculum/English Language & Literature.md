@@ -5,15 +5,12 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3iBf-w8EJ71-LYzFezOzAiIDgUSUm9LinPf3sBAVPSDgWAJVGyB9vebs65wnKpQjrguWdlrqLJpDb/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3iBf-w8EJ71-LYzFezOzAiIDgUSUm9LinPf3sBAVPSDgWAJVGyB9vebs65wnKpQjrguWdlrqLJpDb/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p></p>
 <p><strong>Department Objectives</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_English___Lit__1_.jpg">
-</div>
 <p>At NBSS, the English Department cultivates confident communicators and
 critical thinkers through an engaging and authentic curriculum. Each year,
 Navalites participate in real-world tasks such as producing food vlogs,
