@@ -10,7 +10,6 @@ variant: tiptap
 <p></p>
 <p><strong>Department Objectives</strong>
 </p>
-<p></p>
 <p>At NBSS, the English Department cultivates confident communicators and
 critical thinkers through an engaging and authentic curriculum. Each year,
 Navalites participate in real-world tasks such as producing food vlogs,
