@@ -6,14 +6,10 @@ variant: tiptap
 ---
 <p><strong>Department Vision</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Science.jpg">
-</div>
-<p>
-<br><strong><br></strong>Guided by the principle that every child can learn
-and excel, and its vision - Inquiring Mind and Innovative Spirit - the
-Science Department is dedicated to shaping every child into an adaptive,
-collaborative, and excellence-driven learner.</p>
+<p>Guided by the principle that every child can learn and excel, and its
+vision - Inquiring Mind and Innovative Spirit - the Science Department
+is dedicated to shaping every child into an adaptive, collaborative, and
+excellence-driven learner.</p>
 <p>We recognize that each student is unique, with different strengths, challenges,
 and learning styles, and we aim to cultivate adaptability by encouraging
 students to approach problems with flexibility and resilience.</p>

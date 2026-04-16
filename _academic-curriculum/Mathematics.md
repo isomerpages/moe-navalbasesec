@@ -5,13 +5,10 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT42Iw7JYfPwy2YA5AAb5tfZKdOz9acTfgceio3n3FAYULDXYP2-CivUGn8JdQNgg/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>DEPARTMENT VISION</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Math.jpg">
-</div>
 <p>The Mathematics department aims to provide a nurturing and diversified
 experience for students pursuing mathematics that focuses on mathematical
 problem solving. Mathematics problem solving is central to mathematics
