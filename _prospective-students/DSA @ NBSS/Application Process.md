@@ -41,12 +41,12 @@ shared with the school. You do not need to submit this information.&nbsp;</p>
 </p>
 <p><strong><u>Interview &amp; Aptitude Test / Audition</u></strong>
 <br>An appointment will be arranged for the applicant to attend an interview
-and take an aptitude test or audition at the school between <strong>July and August 2025</strong>.
+and take an aptitude test or audition at the school between <strong>July and August 2026</strong>.
 <br>Applicants are to bring along the actual or certified true copies of the
 supporting documents (including portfolio of artworks) to the interview.</p>
 <p><strong><u>Outcome</u></strong>
 <br>A letter or email notifying the outcome of the application will be sent
-to the applicant&nbsp;by<strong> Friday, 29 August 2025</strong>. The letter
+to the applicant&nbsp;by<strong> Friday, 28 August 2026</strong>. The letter
 or email will indicate whether the applicant has been given a Confirmed
 Offer, put on the Waiting List or not accepted.
 <br>
