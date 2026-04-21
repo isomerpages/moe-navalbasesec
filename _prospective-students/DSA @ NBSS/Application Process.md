@@ -28,9 +28,8 @@ the same school under two different talent areas).
 <br>&nbsp;
 <br><strong><u>Information to provide</u></strong>
 <br>a)&nbsp;Valid email address and local mobile number.
-<br>Supporting documents (for Art applicants only): <strong>Applicants are required to submit a link to their online art portfolio via this Google Form: </strong>
-<a href="https://tinyurl.com/nbssartdsa" rel="noopener nofollow" target="_blank">Here</a>
-<br>The portfolio can be created using platforms such as Google Drive, Google
+<br>Applicants will receive an email to submit their digital portfolio.</p>
+<p>The portfolio can be created using platforms such as Google Drive, Google
 Docs/Slides, or Canva. It should include no more than 5 pieces of work
 in any art form, comprising artworks or visual journals completed either
 during personal time or in school</p>
