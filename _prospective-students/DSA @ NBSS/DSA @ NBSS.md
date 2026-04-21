@@ -5,8 +5,8 @@ description: ""
 third_nav_title: DSA @ NBSS
 variant: tiptap
 ---
-<p><strong>2025 DIRECT SCHOOL ADMISSION – SECONDARY SCHOOLS (DSA-SEC)</strong>
-<br><strong>FOR ADMISSION TO SECONDARY 1 IN 2026</strong>
+<p><strong>2026 DIRECT SCHOOL ADMISSION – SECONDARY SCHOOLS (DSA-SEC)</strong>
+<br><strong>FOR ADMISSION TO SECONDARY 1 IN 2027</strong>
 <br>
 <br><strong>Direct School Admission (DSA) @ NBSS</strong>
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why NBSS?
