@@ -93,7 +93,7 @@ variant: tiptap
 <p>Ms Charissa Ong Xiu Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department,&nbsp;English Language &amp; Literature</p>
+<p>Head of Department (Covering),&nbsp;English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -158,14 +158,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department,&nbsp;Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Rathna Raghesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher,&nbsp;English Language</p>
 </td>
 </tr>
 <tr>
@@ -280,6 +272,14 @@ variant: tiptap
 <p>Subject Head (Covering), English Language &amp; Literature</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Covering), CCA</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Form Teachers 2026</h3>
@@ -298,7 +298,7 @@ variant: tiptap
 <p>FT1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FT2</p>
+<p>FT2 / FT3</p>
 </td>
 </tr>
 <tr>
@@ -388,6 +388,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nurul Ridha Farhanah</p>
+<p>Mr Foo Sek Yee</p>
 </td>
 </tr>
 <tr>
@@ -433,6 +434,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Ya-Wen</p>
+<p>Ms Chang Zhen Yu</p>
 </td>
 </tr>
 <tr>
@@ -521,7 +523,8 @@ variant: tiptap
 <p>Mrs Beryl Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Zhen Yu</p>
+<p>Ms Koh Hong Eng</p>
+<p>Ms Hemani</p>
 </td>
 </tr>
 <tr>
@@ -544,6 +547,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rosnita Juri</p>
+<p>Mr Ang Wei Ming</p>
 </td>
 </tr>
 <tr>
@@ -554,7 +558,7 @@ variant: tiptap
 <p>Ms Celine Chan Siying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Yifei</p>
+<p>Ms Li Minyi</p>
 </td>
 </tr>
 <tr>
@@ -666,6 +670,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ramlah Bte Ahmad</p>
+<p>Ms Jaspreet Kaur</p>
 </td>
 </tr>
 <tr>
@@ -723,14 +728,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Frank Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Miaow Guan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -755,7 +752,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gina Seo</p>
+<p>Mdm Janet Phua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
