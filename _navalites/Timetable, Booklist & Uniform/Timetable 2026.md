@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/Term 3/T3_Sec_1.pdf" rel="noopener nofollow" target="_blank">SEC 1 TT</a>
+<p><a href="/files/2026TT/Term 3/Class_TT__T3__Sec_1_V2.pdf" rel="noopener nofollow" target="_blank">SEC 1 TT</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026TT/Term 3/T3_Sec_3.pdf" rel="noopener nofollow" target="_blank">SEC 3 TT</a>
+<p><a href="/files/2026TT/Term 3/Class_TT__T3__Sec_3_V2.pdf" rel="noopener nofollow" target="_blank">SEC 3 TT</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
