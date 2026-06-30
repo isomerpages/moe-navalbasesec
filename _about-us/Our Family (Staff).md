@@ -98,18 +98,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Jiunn Shyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department,&nbsp;Guidance 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mun Shiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department,&nbsp;Guidance 2</p>
+<p>Head of Department,&nbsp;Guidance</p>
 </td>
 </tr>
 <tr>
