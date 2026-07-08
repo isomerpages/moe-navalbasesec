@@ -715,7 +715,15 @@ variant: tiptap
 <p>Mr Balasundram</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager&nbsp;</p>
+<p>Operations Manager&nbsp;1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Syimir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager&nbsp;2</p>
 </td>
 </tr>
 <tr>
