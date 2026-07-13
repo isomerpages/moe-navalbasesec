@@ -28,13 +28,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 1 WA</p>
+<p>Prelim Exam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1</p>
+<p>Sec 4A4T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T1 Exam TT/T1_WA_For_Sec_1.pdf" rel="noopener nofollow" target="_blank">T1 WA For Sec 1</a>
+<p><a href="/files/2026 Exam TT/T3 Exam TT/4A4T_Prelim_2026_v8.pdf" rel="noopener nofollow" target="_blank">4A4T Prelim Timetable</a>
 </p>
 </td>
 </tr>
@@ -43,34 +43,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2</p>
+<p>Sec 4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T1 Exam TT/T1_WA_For_Sec_2.pdf" rel="noopener nofollow" target="_blank">T1 WA For Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T1 Exam TT/T1_WA_For_Sec_3.pdf" rel="noopener nofollow" target="_blank">T1 WA For Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T1 Exam TT/T1_FA_For_Sec_4.pdf" rel="noopener nofollow" target="_blank">T1 FA For Sec 4</a>
+<p><a href="/files/2026 Exam TT/T3 Exam TT/4E_Prelim_2026_V7.pdf" rel="noopener nofollow" target="_blank">4E Prelim Timetable</a>
 </p>
 </td>
 </tr>
