@@ -34,7 +34,7 @@ variant: tiptap
 <p>Sec 4A4T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T3 Exam TT/4A4T_Prelim_2026_v8.pdf" rel="noopener nofollow" target="_blank">4A4T Prelim Timetable</a>
+<p><a href="/files/4A4T_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">4A4T Prelim Timetable</a>
 </p>
 </td>
 </tr>
