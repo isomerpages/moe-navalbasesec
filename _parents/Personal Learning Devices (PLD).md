@@ -30,7 +30,7 @@ additional information on the NDLP</p>
 </p>
 <p><strong><u>Jamf DMA parent option guide</u></strong>
 </p>
-<p><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default option</a>
+<p><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
 <br><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
 <br><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Option B</a>
 </p>
