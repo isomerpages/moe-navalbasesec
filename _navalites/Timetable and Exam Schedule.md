@@ -45,7 +45,7 @@ description: ""
 <p>Sec 4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T3 Exam TT/4E_Prelim_2026_V7.pdf" rel="noopener nofollow" target="_blank">4E Prelim Timetable</a>
+<p><a href="/files/2026 Exam TT/T3 Exam TT/1B_Timetable__4E_Prelim_2026_V9.pdf" rel="noopener nofollow" target="_blank">4E Prelim Timetable</a>
 </p>
 </td>
 </tr>
