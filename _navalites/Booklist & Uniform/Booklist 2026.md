@@ -2,7 +2,7 @@
 title: Booklist 2026
 permalink: /for-navalites/timetable-booklist-n-uniform/
 description: ""
-third_nav_title: Timetable, Booklist & Uniform
+third_nav_title: Booklist & Uniform
 variant: tiptap
 ---
 <h1>Book Sales for 2026</h1>

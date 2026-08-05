@@ -2,7 +2,7 @@
 title: WA & Exam Timetable 2026
 permalink: /for-navalites/timetable-booklist-n-uniform/exam-timetable/
 description: ""
-third_nav_title: Timetable, Booklist & Uniform
+third_nav_title: Booklist & Uniform
 variant: tiptap
 ---
 <table style="minWidth: 75px">
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Sec 4A4T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T3 Exam TT/4A4T_Prelim_2026_v8.pdf" rel="noopener nofollow" target="_blank">4A4T Prelim Timetable</a>
+<p><a href="/files/4A4T_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">4A4T Prelim Timetable</a>
 </p>
 </td>
 </tr>

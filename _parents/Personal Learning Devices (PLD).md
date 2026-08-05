@@ -12,10 +12,10 @@ These PLDs create an immersive learning environment, enabling students
 to cultivate the dispositions, knowledge, and skills necessary to excel
 in the digital landscape.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/atVkNBXMVnY?si=Z7VH-X4L15fP08_Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/atVkNBXMVnY?si=Z7VH-X4L15fP08_Y"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6oIAtbruVf4?si=Mt1m8CPqcl0ZGEM8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6oIAtbruVf4?si=Mt1m8CPqcl0ZGEM8"></iframe>
 </div>
 <p><strong>References &amp; Enquiries</strong>
 </p>
@@ -30,9 +30,9 @@ additional information on the NDLP</p>
 </p>
 <p><strong><u>Jamf DMA parent option guide</u></strong>
 </p>
-<p><a href="/files/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default option</a>
-<br><a href="/files/iPadOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
-<br><a href="/files/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Option B</a>
+<p><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
+<br><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
+<br><a href="/files/2026 PDLP/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Option B</a>
 </p>
 <h5><strong>Device information (2026 Secondary 1)</strong></h5>
 <p><strong>iPad Spec (4 years apple care warranty and 4 years Insurance warranty)</strong>

@@ -2,7 +2,7 @@
 title: School Uniform
 permalink: /for-navalities/timetable-booklist-n-uniform/school-uniform/
 description: ""
-third_nav_title: Timetable, Booklist & Uniform
+third_nav_title: Booklist & Uniform
 variant: tiptap
 ---
 <h1>Uniform Purchase</h1>
