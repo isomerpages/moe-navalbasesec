@@ -1,8 +1,8 @@
 ---
 title: Timetable 2026
-permalink: /for-navalites/timetable-booklist-n-uniform/timetable/
+permalink: /for-navalites/timetable-and-exam-schedule/timetable/
 description: ""
-third_nav_title: Booklist & Uniform
+third_nav_title: Timetable and Exam Schedule
 variant: tiptap
 ---
 <p></p>
