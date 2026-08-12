@@ -21,7 +21,7 @@ in the digital landscape.</p>
 </p>
 <p>Parents/Guardians can refer to the following materials listed below for
 additional information on the NDLP</p>
-<p><a href="/files/2025 pdlp/NDLP_Parents_Engagement_Slides_2025.pdf" rel="noopener nofollow" target="_blank">NDLP Parents Engagement Slides 2025</a>
+<p><a href="/files/2026 PDLP/Sec_1_Parents_Meet_and_Greet__ICT_Slides__2026_8_Jan__For_Website_.pdf" rel="noopener nofollow" target="_blank">NDLP Parents Engagement Slides 2026</a>
 <br><a href="/files/2025 pdlp/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">IP2 - Parent Handbook (I) 2026</a>
 <br><a href="/files/2025 pdlp/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">IP3 - Parent Handbook (II) 2026</a>
 </p>
