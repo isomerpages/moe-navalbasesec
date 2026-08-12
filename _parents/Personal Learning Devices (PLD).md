@@ -74,7 +74,7 @@ additional information on the NDLP</p>
 <p>Power Surges</p>
 </li>
 <li>
-<p>Accidental e.g water spillage, drop, screen crack etc</p>
+<p>Accidental e.g water spillage, drop, screen crack</p>
 </li>
 <li>
 <p>Theft due to forcible entry</p>
