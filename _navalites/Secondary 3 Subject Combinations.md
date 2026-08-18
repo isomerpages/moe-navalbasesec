@@ -28,22 +28,22 @@ each option.</p>
 </div>
 <p></p>
 <p>*Schedule is subject to changes.</p>
-<p><strong><u>2026 Secondary 3 Subject Combinations</u></strong>
+<p><strong><u>2027 Secondary 3 Subject Combinations</u></strong>
 <br>
 <br>Allocation of the above will be based on students’ academic performance
 and aptitude, subjected to the availability of school resources.</p>
 <p>For G3 students, a good pass in the respective lower secondary subjects
 is required to read Additional Mathematics, Pure Geography and Pure Sciences.</p>
-<p><strong><u>2026 Secondary 3 G3 Combinations</u></strong> 
+<p><strong><u>2027 Secondary 3 G3 Combinations</u></strong> 
 <br><strong>Secondary 3 G3 Combination</strong>  <a href="/files/2026 Sub Combi/G3/G3.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2026 Subject Combination Elective Booklet</strong>  <strong>(G3) </strong>
+<br><strong>2027 Subject Combination Elective Booklet</strong>  <strong>(G3) </strong>
 <a href="/files/2026 Sub Combi/G3/Subject_Combi_Booklet_G3_2026.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
-<br><strong><u>2026 Secondary 3 G2 Combinations</u></strong>
+<br><strong><u>2027 Secondary 3 G2 Combinations</u></strong>
 <br><strong>Secondary 3 G2 Combination</strong>  <a href="/files/2026 Sub Combi/G2/G2.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2026 Subject Combination Elective Booklet (G2)</strong>  <a href="/files/2026 Sub Combi/G2/Subject_Combi_Booklet_G2_2026.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2027 Subject Combination Elective Booklet (G2)</strong>  <a href="/files/2026 Sub Combi/G2/Subject_Combi_Booklet_G2_2026.pdf" rel="noopener nofollow" target="_blank">Download</a>
 <br>
-<br><strong><u>2026 Secondary 3 G1 Combinations</u></strong>
+<br><strong><u>2027 Secondary 3 G1 Combinations</u></strong>
 <br><strong>Secondary 3 G1 Combination</strong>  <a href="/files/2026 Sub Combi/G1/G1.pdf" rel="noopener nofollow" target="_blank">Download</a>
-<br><strong>2026 Subject Combination Elective Booklet (G1) </strong><a href="/files/2026 Sub Combi/G1/Subject_Combi_Booklet_G1_2026.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<br><strong>2027 Subject Combination Elective Booklet (G1) </strong><a href="/files/2026 Sub Combi/G1/Subject_Combi_Booklet_G1_2026.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
