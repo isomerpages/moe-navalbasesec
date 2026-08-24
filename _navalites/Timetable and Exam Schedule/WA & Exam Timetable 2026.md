@@ -46,7 +46,7 @@ third_nav_title: Timetable and Exam Schedule
 <p>Sec 4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 Exam TT/T3 Exam TT/1B_Timetable__4E_Prelim_2026_V9_13_August_2026.pdf" rel="noopener nofollow" target="_blank">4E Prelim Timetable</a>
+<p><a href="/files/2026 Exam TT/T3 Exam TT/1B_Timetable__4E_Prelim_2026_24_August_2026.pdf" rel="noopener nofollow" target="_blank">4E Prelim Timetable</a>
 </p>
 </td>
 </tr>
